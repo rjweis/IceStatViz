@@ -1,0 +1,38 @@
+# main database
+http://px.hagstofa.is/pxen/pxweb/en/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+# economy
+jobs_hours_sector_2008_2020
+    Number of employed persons, jobs and hours worked by economic activity and quarters 2008-2020
+    http://px.hagstofa.is/pxen/pxweb/en/Efnahagur/Efnahagur__vinnumagnogframleidni__vinnumagn/THJ11001.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+# population
+kef_passengers_citizenship_2002_2020
+    Passengers through Keflavik airport by citizenship and month 2002-2020  
+    http://px.hagstofa.is/pxen/pxweb/en/Atvinnuvegir/Atvinnuvegir__ferdathjonusta__farthegar/SAM02001.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+migration_sex_countries_1986_2010
+    External migration by sex, countries and citizenship 1986-2019
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__buferlaflutningar__buferlaflmillilanda/MAN01404.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+family_type_municipalities_1998_2020
+    Nuclear families by municipalities and type of family 1998-2020
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__fjolsk__Fjolskyldan/MAN07108.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+population_sex_age_marital_status_1998_2020
+    Population 16 years and older by sex, age and marital status 1998-2020
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__fjolsk__Fjolskyldan/MAN07209.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+res_permits_citizenship_sex_2009_2018
+    New residence permits by type, citizenship and sex 2009-2018
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__3_bakgrunnur__Vernd_dvalarleyfi/MAN45003.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+n_foreign_citizens_1950_2019
+    Foreign citizens 1950-2019
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__3_bakgrunnur__Rikisfang/MAN04001.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+dx_citizenship_age_1991_2018
+    Foreign citizens gaining Icelandic citizenship by former citizenship, sex and age 1991-2018
+    http://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__3_bakgrunnur__Rikisfbr/MAN04119.px/?rxid=33e46a98-66af-45ca-ae92-12c867b7cd54
+
+# TODO: Society
