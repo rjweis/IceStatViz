@@ -1,0 +1,491 @@
+"Quarter","Duration","Number","%"
+"2003Q1","Unemployed",6100,100.0
+"2003Q1","Already found work",300,5.2
+"2003Q1","Less than one month",1500,24.2
+"2003Q1","1-2 months",1500,23.9
+"2003Q1","3-5 months",1600,25.5
+"2003Q1","6 to 11 months",800,12.4
+"2003Q1","12 months or more",500,8.7
+"2003Q2","Unemployed",6800,100.0
+"2003Q2","Already found work",1000,15.0
+"2003Q2","Less than one month",2400,35.4
+"2003Q2","1-2 months",1100,16.7
+"2003Q2","3-5 months",1400,20.4
+"2003Q2","6 to 11 months",400,6.6
+"2003Q2","12 months or more",400,6.0
+"2003Q3","Unemployed",4400,100.0
+"2003Q3","Already found work",600,14.1
+"2003Q3","Less than one month",1100,25.9
+"2003Q3","1-2 months",800,19.0
+"2003Q3","3-5 months",600,14.7
+"2003Q3","6 to 11 months",800,17.4
+"2003Q3","12 months or more",400,8.9
+"2003Q4","Unemployed",4500,100.0
+"2003Q4","Already found work",200,4.4
+"2003Q4","Less than one month",1500,32.6
+"2003Q4","1-2 months",1300,29.0
+"2003Q4","3-5 months",700,14.4
+"2003Q4","6 to 11 months",600,12.5
+"2003Q4","12 months or more",300,7.0
+"2004Q1","Unemployed",4800,100.0
+"2004Q1","Already found work",200,3.9
+"2004Q1","Less than one month",1500,31.0
+"2004Q1","1-2 months",1700,35.1
+"2004Q1","3-5 months",600,12.9
+"2004Q1","6 to 11 months",300,6.3
+"2004Q1","12 months or more",500,10.8
+"2004Q2","Unemployed",6600,100.0
+"2004Q2","Already found work",1400,21.0
+"2004Q2","Less than one month",2100,31.0
+"2004Q2","1-2 months",1100,16.8
+"2004Q2","3-5 months",700,10.5
+"2004Q2","6 to 11 months",700,10.3
+"2004Q2","12 months or more",700,10.4
+"2004Q3","Unemployed",4100,100.0
+"2004Q3","Already found work",500,13.2
+"2004Q3","Less than one month",1700,41.5
+"2004Q3","1-2 months",1000,23.6
+"2004Q3","3-5 months",300,7.7
+"2004Q3","6 to 11 months",300,7.6
+"2004Q3","12 months or more",300,6.4
+"2004Q4","Unemployed",3900,100.0
+"2004Q4","Already found work",300,8.4
+"2004Q4","Less than one month",1200,29.9
+"2004Q4","1-2 months",900,21.9
+"2004Q4","3-5 months",700,16.8
+"2004Q4","6 to 11 months",300,8.5
+"2004Q4","12 months or more",600,14.5
+"2005Q1","Unemployed",4800,100.0
+"2005Q1","Already found work",300,7.1
+"2005Q1","Less than one month",1400,28.6
+"2005Q1","1-2 months",1300,27.1
+"2005Q1","3-5 months",600,12.8
+"2005Q1","6 to 11 months",700,13.7
+"2005Q1","12 months or more",500,10.6
+"2005Q2","Unemployed",5000,100.0
+"2005Q2","Already found work",1500,29.0
+"2005Q2","Less than one month",1400,28.5
+"2005Q2","1-2 months",900,17.0
+"2005Q2","3-5 months",500,9.1
+"2005Q2","6 to 11 months",200,4.4
+"2005Q2","12 months or more",600,12.1
+"2005Q3","Unemployed",2900,100.0
+"2005Q3","Already found work",500,15.3
+"2005Q3","Less than one month",1200,40.5
+"2005Q3","1-2 months",400,12.6
+"2005Q3","3-5 months",300,9.4
+"2005Q3","6 to 11 months",200,7.2
+"2005Q3","12 months or more",400,15.0
+"2005Q4","Unemployed",4400,100.0
+"2005Q4","Already found work",700,16.2
+"2005Q4","Less than one month",2100,46.3
+"2005Q4","1-2 months",800,18.7
+"2005Q4","3-5 months",300,7.8
+"2005Q4","6 to 11 months",100,2.4
+"2005Q4","12 months or more",400,8.7
+"2006Q1","Unemployed",4000,100.0
+"2006Q1","Already found work",500,12.8
+"2006Q1","Less than one month",2000,50.5
+"2006Q1","1-2 months",600,16.1
+"2006Q1","3-5 months",400,9.2
+"2006Q1","6 to 11 months",200,5.3
+"2006Q1","12 months or more",200,6.1
+"2006Q2","Unemployed",7200,100.0
+"2006Q2","Already found work",2000,28.5
+"2006Q2","Less than one month",2800,38.6
+"2006Q2","1-2 months",1200,16.7
+"2006Q2","3-5 months",400,5.9
+"2006Q2","6 to 11 months",300,4.6
+"2006Q2","12 months or more",400,5.7
+"2006Q3","Unemployed",4500,100.0
+"2006Q3","Already found work",1400,30.8
+"2006Q3","Less than one month",1900,41.2
+"2006Q3","1-2 months",300,7.0
+"2006Q3","3-5 months",300,7.0
+"2006Q3","6 to 11 months",300,5.7
+"2006Q3","12 months or more",400,8.3
+"2006Q4","Unemployed",4300,100.0
+"2006Q4","Already found work",900,19.8
+"2006Q4","Less than one month",1900,44.7
+"2006Q4","1-2 months",700,15.0
+"2006Q4","3-5 months",200,5.6
+"2006Q4","6 to 11 months",100,3.0
+"2006Q4","12 months or more",500,12.0
+"2007Q1","Unemployed",3500,100.0
+"2007Q1","Already found work",500,15.4
+"2007Q1","Less than one month",1400,40.3
+"2007Q1","1-2 months",700,20.9
+"2007Q1","3-5 months",200,5.3
+"2007Q1","6 to 11 months",100,1.7
+"2007Q1","12 months or more",600,16.4
+"2007Q2","Unemployed",5800,100.0
+"2007Q2","Already found work",1900,33.1
+"2007Q2","Less than one month",1900,32.3
+"2007Q2","1-2 months",900,15.4
+"2007Q2","3-5 months",500,9.3
+"2007Q2","6 to 11 months",100,2.3
+"2007Q2","12 months or more",400,7.6
+"2007Q3","Unemployed",3800,100.0
+"2007Q3","Already found work",1000,25.3
+"2007Q3","Less than one month",1600,43.6
+"2007Q3","1-2 months",700,19.5
+"2007Q3","3-5 months",200,5.2
+"2007Q3","6 to 11 months",100,3.1
+"2007Q3","12 months or more",100,3.3
+"2007Q4","Unemployed",3500,100.0
+"2007Q4","Already found work",500,13.5
+"2007Q4","Less than one month",1800,52.0
+"2007Q4","1-2 months",600,16.3
+"2007Q4","3-5 months",300,9.6
+"2007Q4","6 to 11 months",100,1.6
+"2007Q4","12 months or more",200,6.9
+"2008Q1","Unemployed",4200,100.0
+"2008Q1","Already found work",700,17.5
+"2008Q1","Less than one month",1700,40.0
+"2008Q1","1-2 months",1000,24.1
+"2008Q1","3-5 months",300,8.4
+"2008Q1","6 to 11 months",300,6.5
+"2008Q1","12 months or more",100,3.5
+"2008Q2","Unemployed",5700,100.0
+"2008Q2","Already found work",1700,29.6
+"2008Q2","Less than one month",2100,36.9
+"2008Q2","1-2 months",1300,22.8
+"2008Q2","3-5 months",300,4.9
+"2008Q2","6 to 11 months",100,2.3
+"2008Q2","12 months or more",200,3.5
+"2008Q3","Unemployed",4800,100.0
+"2008Q3","Already found work",1000,20.3
+"2008Q3","Less than one month",1600,33.5
+"2008Q3","1-2 months",1600,32.9
+"2008Q3","3-5 months",400,7.6
+"2008Q3","6 to 11 months",100,1.4
+"2008Q3","12 months or more",200,4.2
+"2008Q4","Unemployed",7400,100.0
+"2008Q4","Already found work",400,5.9
+"2008Q4","Less than one month",2500,34.1
+"2008Q4","1-2 months",3100,41.5
+"2008Q4","3-5 months",1000,14.0
+"2008Q4","6 to 11 months",100,1.9
+"2008Q4","12 months or more",200,2.5
+"2009Q1","Unemployed",12700,100.0
+"2009Q1","Already found work",400,3.5
+"2009Q1","Less than one month",2400,19.2
+"2009Q1","1-2 months",5700,44.6
+"2009Q1","3-5 months",3100,24.1
+"2009Q1","6 to 11 months",500,3.9
+"2009Q1","12 months or more",600,4.8
+"2009Q2","Unemployed",16700,100.0
+"2009Q2","Already found work",1500,9.3
+"2009Q2","Less than one month",3300,19.9
+"2009Q2","1-2 months",4200,25.1
+"2009Q2","3-5 months",4700,28.3
+"2009Q2","6 to 11 months",2500,14.9
+"2009Q2","12 months or more",400,2.5
+"2009Q3","Unemployed",10900,100.0
+"2009Q3","Already found work",800,7.4
+"2009Q3","Less than one month",1500,14.0
+"2009Q3","1-2 months",1800,16.9
+"2009Q3","3-5 months",2800,25.2
+"2009Q3","6 to 11 months",3200,29.3
+"2009Q3","12 months or more",800,7.1
+"2009Q4","Unemployed",12000,100.0
+"2009Q4","Already found work",300,2.2
+"2009Q4","Less than one month",2300,19.1
+"2009Q4","1-2 months",3100,26.1
+"2009Q4","3-5 months",2100,17.9
+"2009Q4","6 to 11 months",2500,20.6
+"2009Q4","12 months or more",1700,14.0
+"2010Q1","Unemployed",13500,100.0
+"2010Q1","Already found work",400,2.9
+"2010Q1","Less than one month",1600,12.1
+"2010Q1","1-2 months",3700,27.3
+"2010Q1","3-5 months",2400,17.9
+"2010Q1","6 to 11 months",2900,21.7
+"2010Q1","12 months or more",2500,18.1
+"2010Q2","Unemployed",16200,100.0
+"2010Q2","Already found work",2800,17.4
+"2010Q2","Less than one month",2600,16.2
+"2010Q2","1-2 months",2900,18.2
+"2010Q2","3-5 months",2300,14.1
+"2010Q2","6 to 11 months",2800,17.2
+"2010Q2","12 months or more",2700,16.9
+"2010Q3","Unemployed",11700,100.0
+"2010Q3","Already found work",600,4.7
+"2010Q3","Less than one month",1900,16.4
+"2010Q3","1-2 months",2000,16.8
+"2010Q3","3-5 months",1900,16.5
+"2010Q3","6 to 11 months",2600,22.6
+"2010Q3","12 months or more",2700,23.1
+"2010Q4","Unemployed",13200,100.0
+"2010Q4","Already found work",800,5.8
+"2010Q4","Less than one month",1800,13.8
+"2010Q4","1-2 months",2800,21.1
+"2010Q4","3-5 months",2500,18.8
+"2010Q4","6 to 11 months",2200,16.4
+"2010Q4","12 months or more",3200,24.2
+"2011Q1","Unemployed",13700,100.0
+"2011Q1","Already found work",200,1.6
+"2011Q1","Less than one month",2500,18.2
+"2011Q1","1-2 months",2400,17.7
+"2011Q1","3-5 months",2300,16.7
+"2011Q1","6 to 11 months",2500,18.0
+"2011Q1","12 months or more",3800,27.8
+"2011Q2","Unemployed",15800,100.0
+"2011Q2","Already found work",3200,20.5
+"2011Q2","Less than one month",2100,13.4
+"2011Q2","1-2 months",2800,18.0
+"2011Q2","3-5 months",2400,15.2
+"2011Q2","6 to 11 months",1300,8.5
+"2011Q2","12 months or more",3800,24.4
+"2011Q3","Unemployed",10600,100.0
+"2011Q3","Already found work",400,3.9
+"2011Q3","Less than one month",1900,18.3
+"2011Q3","1-2 months",1600,15.1
+"2011Q3","3-5 months",2200,20.8
+"2011Q3","6 to 11 months",1400,13.6
+"2011Q3","12 months or more",3000,28.3
+"2011Q4","Unemployed",10600,100.0
+"2011Q4","Already found work",300,3.0
+"2011Q4","Less than one month",2000,19.1
+"2011Q4","1-2 months",2900,27.4
+"2011Q4","3-5 months",1800,17.2
+"2011Q4","6 to 11 months",900,8.4
+"2011Q4","12 months or more",2600,25.0
+"2012Q1","Unemployed",12600,100.0
+"2012Q1","Already found work",700,5.3
+"2012Q1","Less than one month",3000,23.4
+"2012Q1","1-2 months",2100,17.0
+"2012Q1","3-5 months",2700,21.0
+"2012Q1","6 to 11 months",1400,11.5
+"2012Q1","12 months or more",2800,21.8
+"2012Q2","Unemployed",13300,100.0
+"2012Q2","Already found work",2100,15.8
+"2012Q2","Less than one month",2200,16.4
+"2012Q2","1-2 months",2600,19.8
+"2012Q2","3-5 months",2400,18.2
+"2012Q2","6 to 11 months",1100,8.6
+"2012Q2","12 months or more",2800,21.2
+"2012Q3","Unemployed",9100,100.0
+"2012Q3","Already found work",600,6.1
+"2012Q3","Less than one month",1700,19.1
+"2012Q3","1-2 months",1200,13.2
+"2012Q3","3-5 months",1300,14.6
+"2012Q3","6 to 11 months",1000,11.5
+"2012Q3","12 months or more",3200,35.6
+"2012Q4","Unemployed",8400,100.0
+"2012Q4","Already found work",400,4.2
+"2012Q4","Less than one month",1400,16.8
+"2012Q4","1-2 months",2000,23.3
+"2012Q4","3-5 months",800,9.1
+"2012Q4","6 to 11 months",1500,17.3
+"2012Q4","12 months or more",2500,29.3
+"2013Q1","Unemployed",10300,100.0
+"2013Q1","Already found work",100,0.6
+"2013Q1","Less than one month",1700,16.9
+"2013Q1","1-2 months",2800,27.3
+"2013Q1","3-5 months",2100,20.3
+"2013Q1","6 to 11 months",1000,9.8
+"2013Q1","12 months or more",2600,25.0
+"2013Q2","Unemployed",12800,100.0
+"2013Q2","Already found work",1900,15.2
+"2013Q2","Less than one month",2700,21.3
+"2013Q2","1-2 months",2700,21.1
+"2013Q2","3-5 months",2100,16.7
+"2013Q2","6 to 11 months",1300,10.5
+"2013Q2","12 months or more",2000,15.3
+"2013Q3","Unemployed",8200,100.0
+"2013Q3","Already found work",500,6.1
+"2013Q3","Less than one month",1800,22.2
+"2013Q3","1-2 months",1900,23.2
+"2013Q3","3-5 months",900,10.5
+"2013Q3","6 to 11 months",1300,16.2
+"2013Q3","12 months or more",1800,21.8
+"2013Q4","Unemployed",8300,100.0
+"2013Q4","Already found work",200,2.5
+"2013Q4","Less than one month",1700,20.0
+"2013Q4","1-2 months",2400,28.3
+"2013Q4","3-5 months",1400,16.4
+"2013Q4","6 to 11 months",800,9.8
+"2013Q4","12 months or more",1900,22.9
+"2014Q1","Unemployed",10400,100.0
+"2014Q1","Already found work",500,4.3
+"2014Q1","Less than one month",2900,28.1
+"2014Q1","1-2 months",2400,22.8
+"2014Q1","3-5 months",1700,16.1
+"2014Q1","6 to 11 months",1400,13.5
+"2014Q1","12 months or more",1600,15.2
+"2014Q2","Unemployed",11200,100.0
+"2014Q2","Already found work",1800,16.3
+"2014Q2","Less than one month",2300,20.3
+"2014Q2","1-2 months",2100,18.6
+"2014Q2","3-5 months",1800,16.0
+"2014Q2","6 to 11 months",1500,13.6
+"2014Q2","12 months or more",1700,15.1
+"2014Q3","Unemployed",7600,100.0
+"2014Q3","Already found work",300,4.1
+"2014Q3","Less than one month",2500,33.4
+"2014Q3","1-2 months",1500,20.4
+"2014Q3","3-5 months",900,12.3
+"2014Q3","6 to 11 months",1400,18.8
+"2014Q3","12 months or more",800,11.0
+"2014Q4","Unemployed",7700,100.0
+"2014Q4","Already found work",400,4.8
+"2014Q4","Less than one month",2100,27.6
+"2014Q4","1-2 months",2000,26.0
+"2014Q4","3-5 months",1200,15.8
+"2014Q4","6 to 11 months",1000,13.3
+"2014Q4","12 months or more",1000,12.5
+"2015Q1","Unemployed",8000,100.0
+"2015Q1","Already found work",500,6.8
+"2015Q1","Less than one month",2300,28.7
+"2015Q1","1-2 months",2000,24.9
+"2015Q1","3-5 months",900,11.0
+"2015Q1","6 to 11 months",800,10.2
+"2015Q1","12 months or more",1500,18.4
+"2015Q2","Unemployed",9900,100.0
+"2015Q2","Already found work",1900,19.5
+"2015Q2","Less than one month",2600,26.1
+"2015Q2","1-2 months",2300,23.0
+"2015Q2","3-5 months",1200,12.0
+"2015Q2","6 to 11 months",1000,10.5
+"2015Q2","12 months or more",900,8.9
+"2015Q3","Unemployed",6700,100.0
+"2015Q3","Already found work",500,7.0
+"2015Q3","Less than one month",1900,27.9
+"2015Q3","1-2 months",1000,15.5
+"2015Q3","3-5 months",1100,15.6
+"2015Q3","6 to 11 months",900,13.2
+"2015Q3","12 months or more",1400,20.8
+"2015Q4","Unemployed",5900,100.0
+"2015Q4","Already found work",200,2.6
+"2015Q4","Less than one month",1700,29.2
+"2015Q4","1-2 months",1400,23.1
+"2015Q4","3-5 months",1300,21.5
+"2015Q4","6 to 11 months",500,8.0
+"2015Q4","12 months or more",900,15.5
+"2016Q1","Unemployed",6100,100.0
+"2016Q1","Already found work",100,1.5
+"2016Q1","Less than one month",2700,43.6
+"2016Q1","1-2 months",1600,25.6
+"2016Q1","3-5 months",1100,17.9
+"2016Q1","6 to 11 months",300,5.1
+"2016Q1","12 months or more",400,6.2
+"2016Q2","Unemployed",7200,100.0
+"2016Q2","Already found work",2000,27.1
+"2016Q2","Less than one month",1300,18.3
+"2016Q2","1-2 months",1800,24.3
+"2016Q2","3-5 months",900,12.3
+"2016Q2","6 to 11 months",500,7.1
+"2016Q2","12 months or more",800,11.0
+"2016Q3","Unemployed",5200,100.0
+"2016Q3","Already found work",400,7.2
+"2016Q3","Less than one month",1500,29.2
+"2016Q3","1-2 months",1600,29.8
+"2016Q3","3-5 months",700,13.4
+"2016Q3","6 to 11 months",400,8.5
+"2016Q3","12 months or more",600,11.9
+"2016Q4","Unemployed",5000,100.0
+"2016Q4","Already found work",400,8.5
+"2016Q4","Less than one month",1900,38.7
+"2016Q4","1-2 months",1500,29.7
+"2016Q4","3-5 months",400,9.0
+"2016Q4","6 to 11 months",400,7.1
+"2016Q4","12 months or more",300,7.0
+"2017Q1","Unemployed",5600,100.0
+"2017Q1","Already found work",100,1.3
+"2017Q1","Less than one month",2400,42.1
+"2017Q1","1-2 months",1600,27.7
+"2017Q1","3-5 months",600,9.8
+"2017Q1","6 to 11 months",400,7.9
+"2017Q1","12 months or more",600,11.2
+"2017Q2","Unemployed",7000,100.0
+"2017Q2","Already found work",1700,23.8
+"2017Q2","Less than one month",2900,41.2
+"2017Q2","1-2 months",1300,18.8
+"2017Q2","3-5 months",400,5.6
+"2017Q2","6 to 11 months",400,5.2
+"2017Q2","12 months or more",400,5.5
+"2017Q3","Unemployed",4300,100.0
+"2017Q3","Already found work",300,6.4
+"2017Q3","Less than one month",1600,37.8
+"2017Q3","1-2 months",1000,24.5
+"2017Q3","3-5 months",400,10.3
+"2017Q3","6 to 11 months",500,10.7
+"2017Q3","12 months or more",400,10.3
+"2017Q4","Unemployed",5200,100.0
+"2017Q4","Already found work",200,3.8
+"2017Q4","Less than one month",1800,34.8
+"2017Q4","1-2 months",1500,28.8
+"2017Q4","3-5 months",800,15.5
+"2017Q4","6 to 11 months",300,6.2
+"2017Q4","12 months or more",600,10.9
+"2018Q1","Unemployed",5700,100.0
+"2018Q1","Already found work",400,6.6
+"2018Q1","Less than one month",1600,28.0
+"2018Q1","1-2 months",1800,31.6
+"2018Q1","3-5 months",1000,16.9
+"2018Q1","6 to 11 months",400,7.8
+"2018Q1","12 months or more",500,9.1
+"2018Q2","Unemployed",7300,100.0
+"2018Q2","Already found work",1600,21.3
+"2018Q2","Less than one month",2100,29.3
+"2018Q2","1-2 months",1600,22.3
+"2018Q2","3-5 months",500,7.4
+"2018Q2","6 to 11 months",600,8.0
+"2018Q2","12 months or more",900,11.7
+"2018Q3","Unemployed",4500,100.0
+"2018Q3","Already found work",500,11.1
+"2018Q3","Less than one month",1200,27.7
+"2018Q3","1-2 months",700,16.2
+"2018Q3","3-5 months",700,16.3
+"2018Q3","6 to 11 months",600,12.7
+"2018Q3","12 months or more",700,16.0
+"2018Q4","Unemployed",4900,100.0
+"2018Q4","Already found work",300,6.2
+"2018Q4","Less than one month",1900,38.9
+"2018Q4","1-2 months",1500,30.4
+"2018Q4","3-5 months",300,5.5
+"2018Q4","6 to 11 months",300,6.4
+"2018Q4","12 months or more",600,12.6
+"2019Q1","Unemployed",6200,100.0
+"2019Q1","Already found work",200,3.3
+"2019Q1","Less than one month",2700,44.1
+"2019Q1","1-2 months",2000,32.2
+"2019Q1","3-5 months",600,9.1
+"2019Q1","6 to 11 months",400,6.0
+"2019Q1","12 months or more",300,5.5
+"2019Q2","Unemployed",9400,100.0
+"2019Q2","Already found work",1800,19.4
+"2019Q2","Less than one month",2200,23.8
+"2019Q2","1-2 months",2600,28.2
+"2019Q2","3-5 months",1700,18.0
+"2019Q2","6 to 11 months",600,6.1
+"2019Q2","12 months or more",400,4.5
+"2019Q3","Unemployed",7200,100.0
+"2019Q3","Already found work",700,9.0
+"2019Q3","Less than one month",1800,25.3
+"2019Q3","1-2 months",1700,23.0
+"2019Q3","3-5 months",1200,16.5
+"2019Q3","6 to 11 months",1400,18.7
+"2019Q3","12 months or more",500,7.5
+"2019Q4","Unemployed",6800,100.0
+"2019Q4","Already found work",500,7.6
+"2019Q4","Less than one month",1500,22.4
+"2019Q4","1-2 months",2100,30.3
+"2019Q4","3-5 months",1200,17.9
+"2019Q4","6 to 11 months",800,11.3
+"2019Q4","12 months or more",700,10.5
+"2020Q1","Unemployed",7500,100.0
+"2020Q1","Already found work",500,7.2
+"2020Q1","Less than one month",1700,22.5
+"2020Q1","1-2 months",1700,23.1
+"2020Q1","3-5 months",1100,14.3
+"2020Q1","6 to 11 months",700,9.3
+"2020Q1","12 months or more",1800,23.6
+"2020Q2","Unemployed",14300,100.0
+"2020Q2","Already found work",1100,7.8
+"2020Q2","Less than one month",4000,27.8
+"2020Q2","1-2 months",4700,33.0
+"2020Q2","3-5 months",2000,13.9
+"2020Q2","6 to 11 months",1500,10.8
+"2020Q2","12 months or more",1000,6.6

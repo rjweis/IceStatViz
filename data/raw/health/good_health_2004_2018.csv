@@ -1,0 +1,271 @@
+"Year","Sex","Income quintiles","Proportion of individuals (%)","Proportion lower bounds (%)","Proportion upper bounds (%)"
+"2004","Total","Total",78.7,77.1,80.2
+"2004","Total","Bottom quintile 1-20%",68.6,64.7,72.4
+"2004","Total","Second quintile 21-40%",74.4,70.6,78.1
+"2004","Total","Third quintile 41-60%",80.3,76.8,83.6
+"2004","Total","Fourth quintile 61-80%",83.1,79.8,86.0
+"2004","Total","Top quintile 81-100%",85.8,82.8,88.5
+"2004","Females","Total",75.1,72.8,77.4
+"2004","Females","Bottom quintile 1-20%",65.2,59.8,70.4
+"2004","Females","Second quintile 21-40%",71.0,65.4,76.2
+"2004","Females","Third quintile 41-60%",78.6,73.3,83.3
+"2004","Females","Fourth quintile 61-80%",80.2,74.9,84.9
+"2004","Females","Top quintile 81-100%",83.1,78.2,87.3
+"2004","Males","Total",82.1,80.1,84.1
+"2004","Males","Bottom quintile 1-20%",73.0,67.2,78.3
+"2004","Males","Second quintile 21-40%",78.5,73.1,83.3
+"2004","Males","Third quintile 41-60%",82.1,77.2,86.5
+"2004","Males","Fourth quintile 61-80%",85.4,81.2,89.0
+"2004","Males","Top quintile 81-100%",88.1,84.2,91.3
+"2005","Total","Total",79.6,78.1,81.0
+"2005","Total","Bottom quintile 1-20%",71.4,67.7,75.0
+"2005","Total","Second quintile 21-40%",72.9,69.1,76.5
+"2005","Total","Third quintile 41-60%",81.6,78.2,84.7
+"2005","Total","Fourth quintile 61-80%",82.7,79.5,85.7
+"2005","Total","Top quintile 81-100%",88.2,85.5,90.7
+"2005","Females","Total",76.7,74.5,78.9
+"2005","Females","Bottom quintile 1-20%",68.1,62.7,73.2
+"2005","Females","Second quintile 21-40%",67.2,61.8,72.4
+"2005","Females","Third quintile 41-60%",80.8,75.7,85.2
+"2005","Females","Fourth quintile 61-80%",83.6,78.9,87.7
+"2005","Females","Top quintile 81-100%",86.2,81.6,90.1
+"2005","Males","Total",82.4,80.4,84.2
+"2005","Males","Bottom quintile 1-20%",75.2,70.0,79.9
+"2005","Males","Second quintile 21-40%",80.1,74.9,84.6
+"2005","Males","Third quintile 41-60%",82.4,77.6,86.5
+"2005","Males","Fourth quintile 61-80%",82.0,77.4,86.0
+"2005","Males","Top quintile 81-100%",89.8,86.2,92.8
+"2006","Total","Total",81.0,79.5,82.4
+"2006","Total","Bottom quintile 1-20%",72.4,68.6,76.0
+"2006","Total","Second quintile 21-40%",76.4,72.7,79.9
+"2006","Total","Third quintile 41-60%",81.1,77.6,84.2
+"2006","Total","Fourth quintile 61-80%",85.0,81.9,87.7
+"2006","Total","Top quintile 81-100%",88.7,86.0,91.1
+"2006","Females","Total",79.6,77.4,81.7
+"2006","Females","Bottom quintile 1-20%",70.2,64.8,75.2
+"2006","Females","Second quintile 21-40%",74.9,69.6,79.7
+"2006","Females","Third quintile 41-60%",82.0,77.1,86.2
+"2006","Females","Fourth quintile 61-80%",83.6,78.7,87.9
+"2006","Females","Top quintile 81-100%",88.8,84.6,92.2
+"2006","Males","Total",82.3,80.3,84.2
+"2006","Males","Bottom quintile 1-20%",75.1,69.6,80.1
+"2006","Males","Second quintile 21-40%",78.3,73.0,83.0
+"2006","Males","Third quintile 41-60%",80.1,75.0,84.6
+"2006","Males","Fourth quintile 61-80%",86.0,82.0,89.5
+"2006","Males","Top quintile 81-100%",88.6,84.9,91.7
+"2007","Total","Total",79.2,77.7,80.7
+"2007","Total","Bottom quintile 1-20%",69.2,65.2,72.9
+"2007","Total","Second quintile 21-40%",73.1,69.3,76.7
+"2007","Total","Third quintile 41-60%",81.2,77.8,84.3
+"2007","Total","Fourth quintile 61-80%",86.7,83.7,89.3
+"2007","Total","Top quintile 81-100%",85.0,82.0,87.7
+"2007","Females","Total",75.8,73.6,78.0
+"2007","Females","Bottom quintile 1-20%",66.4,60.9,71.6
+"2007","Females","Second quintile 21-40%",72.7,67.4,77.7
+"2007","Females","Third quintile 41-60%",75.4,69.9,80.3
+"2007","Females","Fourth quintile 61-80%",82.7,77.9,86.9
+"2007","Females","Top quintile 81-100%",83.1,78.2,87.3
+"2007","Males","Total",82.6,80.6,84.4
+"2007","Males","Bottom quintile 1-20%",72.5,66.8,77.7
+"2007","Males","Second quintile 21-40%",73.5,68.0,78.7
+"2007","Males","Third quintile 41-60%",86.6,82.4,90.2
+"2007","Males","Fourth quintile 61-80%",90.2,86.5,93.2
+"2007","Males","Top quintile 81-100%",86.6,82.7,90.0
+"2008","Total","Total",80.6,79.1,82.0
+"2008","Total","Bottom quintile 1-20%",72.0,68.2,75.6
+"2008","Total","Second quintile 21-40%",73.3,69.5,76.9
+"2008","Total","Third quintile 41-60%",84.3,81.1,87.1
+"2008","Total","Fourth quintile 61-80%",84.8,81.8,87.6
+"2008","Total","Top quintile 81-100%",87.5,84.7,90.0
+"2008","Females","Total",78.8,76.6,80.8
+"2008","Females","Bottom quintile 1-20%",71.3,66.1,76.2
+"2008","Females","Second quintile 21-40%",72.4,67.0,77.3
+"2008","Females","Third quintile 41-60%",83.9,79.2,87.9
+"2008","Females","Fourth quintile 61-80%",83.0,78.4,87.0
+"2008","Females","Top quintile 81-100%",84.3,79.6,88.3
+"2008","Males","Total",82.4,80.3,84.3
+"2008","Males","Bottom quintile 1-20%",72.9,67.2,78.1
+"2008","Males","Second quintile 21-40%",74.4,68.8,79.4
+"2008","Males","Third quintile 41-60%",84.6,80.2,88.4
+"2008","Males","Fourth quintile 61-80%",86.7,82.4,90.3
+"2008","Males","Top quintile 81-100%",90.0,86.4,92.9
+"2009","Total","Total",80.3,78.8,81.7
+"2009","Total","Bottom quintile 1-20%",76.0,72.4,79.4
+"2009","Total","Second quintile 21-40%",75.2,71.5,78.6
+"2009","Total","Third quintile 41-60%",79.0,75.5,82.3
+"2009","Total","Fourth quintile 61-80%",86.1,83.2,88.7
+"2009","Total","Top quintile 81-100%",84.3,81.4,87.0
+"2009","Females","Total",78.7,76.5,80.8
+"2009","Females","Bottom quintile 1-20%",72.1,66.8,77.0
+"2009","Females","Second quintile 21-40%",75.9,71.0,80.4
+"2009","Females","Third quintile 41-60%",78.0,72.6,82.8
+"2009","Females","Fourth quintile 61-80%",85.8,81.5,89.5
+"2009","Females","Top quintile 81-100%",82.4,77.6,86.6
+"2009","Males","Total",81.9,79.8,83.8
+"2009","Males","Bottom quintile 1-20%",80.5,75.4,85.0
+"2009","Males","Second quintile 21-40%",74.3,68.7,79.5
+"2009","Males","Third quintile 41-60%",79.9,75.0,84.2
+"2009","Males","Fourth quintile 61-80%",86.4,82.3,90.0
+"2009","Males","Top quintile 81-100%",85.8,81.9,89.2
+"2010","Total","Total",77.8,76.3,79.3
+"2010","Total","Bottom quintile 1-20%",73.9,70.2,77.4
+"2010","Total","Second quintile 21-40%",72.0,68.3,75.6
+"2010","Total","Third quintile 41-60%",80.2,76.9,83.3
+"2010","Total","Fourth quintile 61-80%",81.0,77.8,83.9
+"2010","Total","Top quintile 81-100%",81.3,78.2,84.1
+"2010","Females","Total",76.2,74.1,78.3
+"2010","Females","Bottom quintile 1-20%",74.4,69.5,78.8
+"2010","Females","Second quintile 21-40%",70.0,64.8,74.9
+"2010","Females","Third quintile 41-60%",78.3,73.5,82.7
+"2010","Females","Fourth quintile 61-80%",80.2,75.5,84.5
+"2010","Females","Top quintile 81-100%",78.8,74.1,83.1
+"2010","Males","Total",79.4,77.3,81.4
+"2010","Males","Bottom quintile 1-20%",73.3,67.3,78.8
+"2010","Males","Second quintile 21-40%",74.4,68.8,79.5
+"2010","Males","Third quintile 41-60%",82.1,77.4,86.3
+"2010","Males","Fourth quintile 61-80%",81.7,77.2,85.7
+"2010","Males","Top quintile 81-100%",83.2,79.0,86.9
+"2011","Total","Total",77.7,76.2,79.2
+"2011","Total","Bottom quintile 1-20%",73.6,69.9,77.2
+"2011","Total","Second quintile 21-40%",70.2,66.3,73.9
+"2011","Total","Third quintile 41-60%",76.5,73.0,79.8
+"2011","Total","Fourth quintile 61-80%",82.4,79.2,85.3
+"2011","Total","Top quintile 81-100%",84.6,81.7,87.2
+"2011","Females","Total",76.1,73.9,78.2
+"2011","Females","Bottom quintile 1-20%",70.2,64.9,75.1
+"2011","Females","Second quintile 21-40%",69.6,64.3,74.5
+"2011","Females","Third quintile 41-60%",77.3,72.2,81.8
+"2011","Females","Fourth quintile 61-80%",80.3,75.7,84.5
+"2011","Females","Top quintile 81-100%",83.5,79.1,87.3
+"2011","Males","Total",79.4,77.3,81.4
+"2011","Males","Bottom quintile 1-20%",77.7,72.2,82.6
+"2011","Males","Second quintile 21-40%",71.0,65.1,76.4
+"2011","Males","Third quintile 41-60%",75.8,70.7,80.4
+"2011","Males","Fourth quintile 61-80%",84.5,80.0,88.3
+"2011","Males","Top quintile 81-100%",85.5,81.5,88.9
+"2012","Total","Total",76.9,75.3,78.3
+"2012","Total","Bottom quintile 1-20%",73.0,69.2,76.6
+"2012","Total","Second quintile 21-40%",69.2,65.3,72.9
+"2012","Total","Third quintile 41-60%",74.0,70.4,77.4
+"2012","Total","Fourth quintile 61-80%",81.3,78.1,84.1
+"2012","Total","Top quintile 81-100%",85.2,82.4,87.8
+"2012","Females","Total",74.8,72.6,76.9
+"2012","Females","Bottom quintile 1-20%",71.3,66.0,76.3
+"2012","Females","Second quintile 21-40%",68.2,63.0,73.2
+"2012","Females","Third quintile 41-60%",70.3,65.0,75.2
+"2012","Females","Fourth quintile 61-80%",79.5,74.9,83.7
+"2012","Females","Top quintile 81-100%",85.0,80.8,88.7
+"2012","Males","Total",78.9,76.8,80.9
+"2012","Males","Bottom quintile 1-20%",74.9,69.3,80.0
+"2012","Males","Second quintile 21-40%",70.4,64.5,75.9
+"2012","Males","Third quintile 41-60%",77.7,72.8,82.1
+"2012","Males","Fourth quintile 61-80%",82.9,78.6,86.8
+"2012","Males","Top quintile 81-100%",85.4,81.5,88.8
+"2013","Total","Total",76.8,75.2,78.3
+"2013","Total","Bottom quintile 1-20%",73.0,69.2,76.6
+"2013","Total","Second quintile 21-40%",68.1,64.2,71.9
+"2013","Total","Third quintile 41-60%",78.1,74.6,81.3
+"2013","Total","Fourth quintile 61-80%",80.8,77.6,83.8
+"2013","Total","Top quintile 81-100%",82.5,79.6,85.3
+"2013","Females","Total",74.1,71.9,76.2
+"2013","Females","Bottom quintile 1-20%",70.8,65.6,75.6
+"2013","Females","Second quintile 21-40%",64.1,58.7,69.4
+"2013","Females","Third quintile 41-60%",76.7,71.8,81.1
+"2013","Females","Fourth quintile 61-80%",79.0,74.3,83.3
+"2013","Females","Top quintile 81-100%",80.0,75.3,84.2
+"2013","Males","Total",79.5,77.3,81.5
+"2013","Males","Bottom quintile 1-20%",75.8,70.0,81.0
+"2013","Males","Second quintile 21-40%",72.4,66.8,77.6
+"2013","Males","Third quintile 41-60%",79.6,74.6,84.1
+"2013","Males","Fourth quintile 61-80%",82.6,78.1,86.6
+"2013","Males","Top quintile 81-100%",84.5,80.6,88.0
+"2014","Total","Total",76.1,74.5,77.6
+"2014","Total","Bottom quintile 1-20%",68.8,64.8,72.6
+"2014","Total","Second quintile 21-40%",71.1,67.3,74.7
+"2014","Total","Third quintile 41-60%",77.0,73.5,80.3
+"2014","Total","Fourth quintile 61-80%",80.0,76.7,83.1
+"2014","Total","Top quintile 81-100%",82.1,79.1,84.9
+"2014","Females","Total",72.9,70.6,75.1
+"2014","Females","Bottom quintile 1-20%",68.6,63.2,73.8
+"2014","Females","Second quintile 21-40%",67.7,62.3,72.8
+"2014","Females","Third quintile 41-60%",76.4,71.6,80.8
+"2014","Females","Fourth quintile 61-80%",74.5,69.1,79.3
+"2014","Females","Top quintile 81-100%",77.4,72.3,81.9
+"2014","Males","Total",79.3,77.2,81.3
+"2014","Males","Bottom quintile 1-20%",69.0,63.1,74.6
+"2014","Males","Second quintile 21-40%",75.0,69.5,80.0
+"2014","Males","Third quintile 41-60%",77.7,72.5,82.5
+"2014","Males","Fourth quintile 61-80%",84.7,80.6,88.3
+"2014","Males","Top quintile 81-100%",86.0,82.2,89.3
+"2015","Total","Total",76.3,74.8,77.9
+"2015","Total","Bottom quintile 1-20%",67.8,63.7,71.7
+"2015","Total","Second quintile 21-40%",72.6,68.7,76.2
+"2015","Total","Third quintile 41-60%",76.1,72.5,79.5
+"2015","Total","Fourth quintile 61-80%",81.4,78.3,84.3
+"2015","Total","Top quintile 81-100%",82.6,79.6,85.4
+"2015","Females","Total",72.6,70.3,74.8
+"2015","Females","Bottom quintile 1-20%",65.1,59.5,70.4
+"2015","Females","Second quintile 21-40%",68.9,63.4,74.0
+"2015","Females","Third quintile 41-60%",72.2,66.9,77.1
+"2015","Females","Fourth quintile 61-80%",77.0,72.1,81.4
+"2015","Females","Top quintile 81-100%",80.3,75.6,84.5
+"2015","Males","Total",80.1,77.9,82.1
+"2015","Males","Bottom quintile 1-20%",71.0,64.9,76.6
+"2015","Males","Second quintile 21-40%",76.6,71.1,81.5
+"2015","Males","Third quintile 41-60%",80.3,75.2,84.7
+"2015","Males","Fourth quintile 61-80%",85.6,81.4,89.2
+"2015","Males","Top quintile 81-100%",84.6,80.5,88.1
+"2016","Total","Total",76.1,74.5,77.6
+"2016","Total","Bottom quintile 1-20%",69.9,65.9,73.7
+"2016","Total","Second quintile 21-40%",68.8,64.8,72.6
+"2016","Total","Third quintile 41-60%",77.3,73.8,80.7
+"2016","Total","Fourth quintile 61-80%",78.6,75.1,81.8
+"2016","Total","Top quintile 81-100%",84.4,81.4,87.0
+"2016","Females","Total",73.2,70.8,75.4
+"2016","Females","Bottom quintile 1-20%",66.8,61.3,72.0
+"2016","Females","Second quintile 21-40%",64.9,59.2,70.2
+"2016","Females","Third quintile 41-60%",74.4,69.0,79.3
+"2016","Females","Fourth quintile 61-80%",77.8,72.6,82.5
+"2016","Females","Top quintile 81-100%",82.0,77.5,85.9
+"2016","Males","Total",79.0,76.8,81.1
+"2016","Males","Bottom quintile 1-20%",73.9,67.8,79.4
+"2016","Males","Second quintile 21-40%",73.0,67.3,78.2
+"2016","Males","Third quintile 41-60%",80.1,75.2,84.5
+"2016","Males","Fourth quintile 61-80%",79.2,74.3,83.6
+"2016","Males","Top quintile 81-100%",86.7,82.6,90.1
+"2017","Total","Total",77.1,75.5,78.6
+"2017","Total","Bottom quintile 1-20%",66.3,62.4,70.1
+"2017","Total","Second quintile 21-40%",74.7,71.0,78.2
+"2017","Total","Third quintile 41-60%",78.7,75.2,82.0
+"2017","Total","Fourth quintile 61-80%",81.6,78.3,84.7
+"2017","Total","Top quintile 81-100%",83.4,80.4,86.2
+"2017","Females","Total",74.7,72.4,76.9
+"2017","Females","Bottom quintile 1-20%",62.2,56.7,67.4
+"2017","Females","Second quintile 21-40%",69.5,63.9,74.7
+"2017","Females","Third quintile 41-60%",80.2,75.1,84.7
+"2017","Females","Fourth quintile 61-80%",80.3,75.4,84.6
+"2017","Females","Top quintile 81-100%",83.4,78.8,87.4
+"2017","Males","Total",79.4,77.2,81.4
+"2017","Males","Bottom quintile 1-20%",71.5,65.6,77.0
+"2017","Males","Second quintile 21-40%",80.1,75.1,84.5
+"2017","Males","Third quintile 41-60%",77.5,72.6,82.1
+"2017","Males","Fourth quintile 61-80%",83.0,78.3,87.1
+"2017","Males","Top quintile 81-100%",83.5,79.2,87.3
+"2018","Total","Total",76.7,75.1,78.2
+"2018","Total","Bottom quintile 1-20%",66.2,62.2,70.1
+"2018","Total","Second quintile 21-40%",70.2,66.4,73.8
+"2018","Total","Third quintile 41-60%",78.7,75.2,81.9
+"2018","Total","Fourth quintile 61-80%",81.7,78.4,84.7
+"2018","Total","Top quintile 81-100%",85.9,83.1,88.5
+"2018","Females","Total",72.6,70.3,74.9
+"2018","Females","Bottom quintile 1-20%",61.9,56.3,67.3
+"2018","Females","Second quintile 21-40%",65.0,59.5,70.1
+"2018","Females","Third quintile 41-60%",75.3,69.9,80.1
+"2018","Females","Fourth quintile 61-80%",79.6,74.6,84.0
+"2018","Females","Top quintile 81-100%",82.8,78.2,86.8
+"2018","Males","Total",80.6,78.5,82.6
+"2018","Males","Bottom quintile 1-20%",71.2,65.4,76.6
+"2018","Males","Second quintile 21-40%",75.5,70.2,80.3
+"2018","Males","Third quintile 41-60%",81.8,77.0,86.0
+"2018","Males","Fourth quintile 61-80%",83.6,79.1,87.6
+"2018","Males","Top quintile 81-100%",88.5,84.8,91.6
