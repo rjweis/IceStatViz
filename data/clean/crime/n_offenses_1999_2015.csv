@@ -1,0 +1,664 @@
+Year,Offence,Region,Number of offences
+1999,Total,Total,86548
+2000,Total,Total,91452
+2001,Total,Total,83127
+2002,Total,Total,91542
+2003,Total,Total,81428
+2004,Total,Total,78648
+2005,Total,Total,62683
+2006,Total,Total,71631
+2007,Total,Total,78216
+2008,Total,Total,75246
+2009,Total,Total,74768
+2010,Total,Total,73525
+2011,Total,Total,57021
+2012,Total,Total,61837
+2013,Total,Total,53255
+2014,Total,Total,66039
+2015,Total,Total,70379
+1999,Offences against public authorities,Total,160
+2000,Offences against public authorities,Total,133
+2001,Offences against public authorities,Total,125
+2002,Offences against public authorities,Total,118
+2003,Offences against public authorities,Total,241
+2004,Offences against public authorities,Total,108
+2005,Offences against public authorities,Total,105
+2006,Offences against public authorities,Total,152
+2007,Offences against public authorities,Total,259
+2008,Offences against public authorities,Total,250
+2009,Offences against public authorities,Total,224
+2010,Offences against public authorities,Total,301
+2011,Offences against public authorities,Total,295
+2012,Offences against public authorities,Total,358
+2013,Offences against public authorities,Total,321
+2014,Offences against public authorities,Total,400
+2015,Offences against public authorities,Total,361
+1999,Forgery,Total,388
+2000,Forgery,Total,445
+2001,Forgery,Total,392
+2002,Forgery,Total,513
+2003,Forgery,Total,340
+2004,Forgery,Total,309
+2005,Forgery,Total,333
+2006,Forgery,Total,255
+2007,Forgery,Total,333
+2008,Forgery,Total,278
+2009,Forgery,Total,290
+2010,Forgery,Total,268
+2011,Forgery,Total,292
+2012,Forgery,Total,265
+2013,Forgery,Total,212
+2014,Forgery,Total,278
+2015,Forgery,Total,227
+1999,Sexual offences,Total,230
+2000,Sexual offences,Total,228
+2001,Sexual offences,Total,281
+2002,Sexual offences,Total,324
+2003,Sexual offences,Total,359
+2004,Sexual offences,Total,277
+2005,Sexual offences,Total,288
+2006,Sexual offences,Total,281
+2007,Sexual offences,Total,349
+2008,Sexual offences,Total,368
+2009,Sexual offences,Total,318
+2010,Sexual offences,Total,323
+2011,Sexual offences,Total,365
+2012,Sexual offences,Total,367
+2013,Sexual offences,Total,731
+2014,Sexual offences,Total,419
+2015,Sexual offences,Total,442
+1999,Assault / Violence against the person,Total,1392
+2000,Assault / Violence against the person,Total,1506
+2001,Assault / Violence against the person,Total,1455
+2002,Assault / Violence against the person,Total,1330
+2003,Assault / Violence against the person,Total,1304
+2004,Assault / Violence against the person,Total,1199
+2005,Assault / Violence against the person,Total,1299
+2006,Assault / Violence against the person,Total,1265
+2007,Assault / Violence against the person,Total,1413
+2008,Assault / Violence against the person,Total,1316
+2009,Assault / Violence against the person,Total,1155
+2010,Assault / Violence against the person,Total,1175
+2011,Assault / Violence against the person,Total,1078
+2012,Assault / Violence against the person,Total,1142
+2013,Assault / Violence against the person,Total,1188
+2014,Assault / Violence against the person,Total,1237
+2015,Assault / Violence against the person,Total,1587
+1999,Offences against personal liberty,Total,710
+2000,Offences against personal liberty,Total,757
+2001,Offences against personal liberty,Total,757
+2002,Offences against personal liberty,Total,758
+2003,Offences against personal liberty,Total,874
+2004,Offences against personal liberty,Total,734
+2005,Offences against personal liberty,Total,774
+2006,Offences against personal liberty,Total,726
+2007,Offences against personal liberty,Total,575
+2008,Offences against personal liberty,Total,556
+2009,Offences against personal liberty,Total,515
+2010,Offences against personal liberty,Total,620
+2011,Offences against personal liberty,Total,507
+2012,Offences against personal liberty,Total,596
+2013,Offences against personal liberty,Total,565
+2014,Offences against personal liberty,Total,601
+2015,Offences against personal liberty,Total,740
+1999,Offences of acquisition,Total,10012
+2000,Offences of acquisition,Total,10466
+2001,Offences of acquisition,Total,10496
+2002,Offences of acquisition,Total,11330
+2003,Offences of acquisition,Total,10041
+2004,Offences of acquisition,Total,9716
+2005,Offences of acquisition,Total,6082
+2006,Offences of acquisition,Total,6596
+2007,Offences of acquisition,Total,6177
+2008,Offences of acquisition,Total,8029
+2009,Offences of acquisition,Total,9561
+2010,Offences of acquisition,Total,8608
+2011,Offences of acquisition,Total,7059
+2012,Offences of acquisition,Total,6439
+2013,Offences of acquisition,Total,6014
+2014,Offences of acquisition,Total,5524
+2015,Offences of acquisition,Total,6082
+1999,Offences against property,Total,4241
+2000,Offences against property,Total,4180
+2001,Offences against property,Total,4462
+2002,Offences against property,Total,4141
+2003,Offences against property,Total,3883
+2004,Offences against property,Total,3536
+2005,Offences against property,Total,2643
+2006,Offences against property,Total,3472
+2007,Offences against property,Total,3240
+2008,Offences against property,Total,3032
+2009,Offences against property,Total,3076
+2010,Offences against property,Total,3000
+2011,Offences against property,Total,2428
+2012,Offences against property,Total,2062
+2013,Offences against property,Total,1817
+2014,Offences against property,Total,1867
+2015,Offences against property,Total,1767
+1999,Unlawful use of motor vehicles,Total,456
+2000,Unlawful use of motor vehicles,Total,427
+2001,Unlawful use of motor vehicles,Total,388
+2002,Unlawful use of motor vehicles,Total,566
+2003,Unlawful use of motor vehicles,Total,412
+2004,Unlawful use of motor vehicles,Total,438
+2005,Unlawful use of motor vehicles,Total,348
+2006,Unlawful use of motor vehicles,Total,478
+2007,Unlawful use of motor vehicles,Total,436
+2008,Unlawful use of motor vehicles,Total,408
+2009,Unlawful use of motor vehicles,Total,489
+2010,Unlawful use of motor vehicles,Total,420
+2011,Unlawful use of motor vehicles,Total,407
+2012,Unlawful use of motor vehicles,Total,302
+2013,Unlawful use of motor vehicles,Total,221
+2014,Unlawful use of motor vehicles,Total,348
+2015,Unlawful use of motor vehicles,Total,413
+1999,Drug crimes,Total,962
+2000,Drug crimes,Total,780
+2001,Drug crimes,Total,910
+2002,Drug crimes,Total,994
+2003,Drug crimes,Total,1385
+2004,Drug crimes,Total,1671
+2005,Drug crimes,Total,1816
+2006,Drug crimes,Total,2098
+2007,Drug crimes,Total,1847
+2008,Drug crimes,Total,1590
+2009,Drug crimes,Total,1377
+2010,Drug crimes,Total,1624
+2011,Drug crimes,Total,1885
+2012,Drug crimes,Total,2049
+2013,Drug crimes,Total,2183
+2014,Drug crimes,Total,2375
+2015,Drug crimes,Total,1911
+1999,Alcoholic beverages Act,Total,2297
+2000,Alcoholic beverages Act,Total,2665
+2001,Alcoholic beverages Act,Total,2230
+2002,Alcoholic beverages Act,Total,1984
+2003,Alcoholic beverages Act,Total,2009
+2004,Alcoholic beverages Act,Total,1456
+2005,Alcoholic beverages Act,Total,1762
+2006,Alcoholic beverages Act,Total,1607
+2007,Alcoholic beverages Act,Total,1309
+2008,Alcoholic beverages Act,Total,885
+2009,Alcoholic beverages Act,Total,603
+2010,Alcoholic beverages Act,Total,780
+2011,Alcoholic beverages Act,Total,665
+2012,Alcoholic beverages Act,Total,644
+2013,Alcoholic beverages Act,Total,710
+2014,Alcoholic beverages Act,Total,688
+2015,Alcoholic beverages Act,Total,672
+1999,Traffic offences,Total,62735
+2000,Traffic offences,Total,66813
+2001,Traffic offences,Total,58968
+2002,Traffic offences,Total,66045
+2003,Traffic offences,Total,56817
+2004,Traffic offences,Total,55751
+2005,Traffic offences,Total,43488
+2006,Traffic offences,Total,52514
+2007,Traffic offences,Total,59769
+2008,Traffic offences,Total,56401
+2009,Traffic offences,Total,55337
+2010,Traffic offences,Total,54637
+2011,Traffic offences,Total,40343
+2012,Traffic offences,Total,45525
+2013,Traffic offences,Total,37320
+2014,Traffic offences,Total,50173
+2015,Traffic offences,Total,54091
+1999,Other offences,Total,2965
+2000,Other offences,Total,3052
+2001,Other offences,Total,2663
+2002,Other offences,Total,3439
+2003,Other offences,Total,3763
+2004,Other offences,Total,3453
+2005,Other offences,Total,3745
+2006,Other offences,Total,2187
+2007,Other offences,Total,2509
+2008,Other offences,Total,2133
+2009,Other offences,Total,1872
+2010,Other offences,Total,1856
+2011,Other offences,Total,1763
+2012,Other offences,Total,2088
+2013,Other offences,Total,1973
+2014,Other offences,Total,2129
+2015,Other offences,Total,2086
+1999,Total,Capital region,52170
+2000,Total,Capital region,56218
+2001,Total,Capital region,50027
+2002,Total,Capital region,55607
+2003,Total,Capital region,46021
+2004,Total,Capital region,44911
+2005,Total,Capital region,34787
+2006,Total,Capital region,39198
+2007,Total,Capital region,39079
+2008,Total,Capital region,39734
+2009,Total,Capital region,38070
+2010,Total,Capital region,40449
+2011,Total,Capital region,33855
+2012,Total,Capital region,36413
+2013,Total,Capital region,30960
+2014,Total,Capital region,37878
+2015,Total,Capital region,40939
+1999,Offences against public authorities,Capital region,112
+2000,Offences against public authorities,Capital region,76
+2001,Offences against public authorities,Capital region,91
+2002,Offences against public authorities,Capital region,72
+2003,Offences against public authorities,Capital region,144
+2004,Offences against public authorities,Capital region,76
+2005,Offences against public authorities,Capital region,58
+2006,Offences against public authorities,Capital region,81
+2007,Offences against public authorities,Capital region,132
+2008,Offences against public authorities,Capital region,115
+2009,Offences against public authorities,Capital region,125
+2010,Offences against public authorities,Capital region,192
+2011,Offences against public authorities,Capital region,178
+2012,Offences against public authorities,Capital region,240
+2013,Offences against public authorities,Capital region,223
+2014,Offences against public authorities,Capital region,278
+2015,Offences against public authorities,Capital region,266
+1999,Forgery,Capital region,315
+2000,Forgery,Capital region,344
+2001,Forgery,Capital region,283
+2002,Forgery,Capital region,380
+2003,Forgery,Capital region,255
+2004,Forgery,Capital region,207
+2005,Forgery,Capital region,238
+2006,Forgery,Capital region,188
+2007,Forgery,Capital region,220
+2008,Forgery,Capital region,170
+2009,Forgery,Capital region,146
+2010,Forgery,Capital region,168
+2011,Forgery,Capital region,158
+2012,Forgery,Capital region,146
+2013,Forgery,Capital region,125
+2014,Forgery,Capital region,171
+2015,Forgery,Capital region,143
+1999,Sexual offences,Capital region,152
+2000,Sexual offences,Capital region,161
+2001,Sexual offences,Capital region,183
+2002,Sexual offences,Capital region,191
+2003,Sexual offences,Capital region,239
+2004,Sexual offences,Capital region,162
+2005,Sexual offences,Capital region,182
+2006,Sexual offences,Capital region,161
+2007,Sexual offences,Capital region,197
+2008,Sexual offences,Capital region,185
+2009,Sexual offences,Capital region,179
+2010,Sexual offences,Capital region,200
+2011,Sexual offences,Capital region,220
+2012,Sexual offences,Capital region,236
+2013,Sexual offences,Capital region,416
+2014,Sexual offences,Capital region,238
+2015,Sexual offences,Capital region,276
+1999,Assault / Violence against the person,Capital region,963
+2000,Assault / Violence against the person,Capital region,1053
+2001,Assault / Violence against the person,Capital region,987
+2002,Assault / Violence against the person,Capital region,876
+2003,Assault / Violence against the person,Capital region,869
+2004,Assault / Violence against the person,Capital region,756
+2005,Assault / Violence against the person,Capital region,817
+2006,Assault / Violence against the person,Capital region,833
+2007,Assault / Violence against the person,Capital region,925
+2008,Assault / Violence against the person,Capital region,780
+2009,Assault / Violence against the person,Capital region,683
+2010,Assault / Violence against the person,Capital region,778
+2011,Assault / Violence against the person,Capital region,647
+2012,Assault / Violence against the person,Capital region,735
+2013,Assault / Violence against the person,Capital region,766
+2014,Assault / Violence against the person,Capital region,879
+2015,Assault / Violence against the person,Capital region,1185
+1999,Offences against personal liberty,Capital region,511
+2000,Offences against personal liberty,Capital region,513
+2001,Offences against personal liberty,Capital region,542
+2002,Offences against personal liberty,Capital region,536
+2003,Offences against personal liberty,Capital region,610
+2004,Offences against personal liberty,Capital region,505
+2005,Offences against personal liberty,Capital region,499
+2006,Offences against personal liberty,Capital region,465
+2007,Offences against personal liberty,Capital region,370
+2008,Offences against personal liberty,Capital region,330
+2009,Offences against personal liberty,Capital region,301
+2010,Offences against personal liberty,Capital region,392
+2011,Offences against personal liberty,Capital region,314
+2012,Offences against personal liberty,Capital region,368
+2013,Offences against personal liberty,Capital region,351
+2014,Offences against personal liberty,Capital region,394
+2015,Offences against personal liberty,Capital region,547
+1999,Offences of acquisition,Capital region,8173
+2000,Offences of acquisition,Capital region,8482
+2001,Offences of acquisition,Capital region,8571
+2002,Offences of acquisition,Capital region,9290
+2003,Offences of acquisition,Capital region,7985
+2004,Offences of acquisition,Capital region,7921
+2005,Offences of acquisition,Capital region,4857
+2006,Offences of acquisition,Capital region,5156
+2007,Offences of acquisition,Capital region,4882
+2008,Offences of acquisition,Capital region,6513
+2009,Offences of acquisition,Capital region,7701
+2010,Offences of acquisition,Capital region,6780
+2011,Offences of acquisition,Capital region,5430
+2012,Offences of acquisition,Capital region,4989
+2013,Offences of acquisition,Capital region,4751
+2014,Offences of acquisition,Capital region,4501
+2015,Offences of acquisition,Capital region,5127
+1999,Offences against property,Capital region,2900
+2000,Offences against property,Capital region,2892
+2001,Offences against property,Capital region,3262
+2002,Offences against property,Capital region,2948
+2003,Offences against property,Capital region,2708
+2004,Offences against property,Capital region,2545
+2005,Offences against property,Capital region,1687
+2006,Offences against property,Capital region,2302
+2007,Offences against property,Capital region,2132
+2008,Offences against property,Capital region,1998
+2009,Offences against property,Capital region,1994
+2010,Offences against property,Capital region,1933
+2011,Offences against property,Capital region,1536
+2012,Offences against property,Capital region,1300
+2013,Offences against property,Capital region,1199
+2014,Offences against property,Capital region,1267
+2015,Offences against property,Capital region,1314
+1999,Unlawful use of motor vehicles,Capital region,346
+2000,Unlawful use of motor vehicles,Capital region,316
+2001,Unlawful use of motor vehicles,Capital region,305
+2002,Unlawful use of motor vehicles,Capital region,468
+2003,Unlawful use of motor vehicles,Capital region,320
+2004,Unlawful use of motor vehicles,Capital region,352
+2005,Unlawful use of motor vehicles,Capital region,259
+2006,Unlawful use of motor vehicles,Capital region,366
+2007,Unlawful use of motor vehicles,Capital region,347
+2008,Unlawful use of motor vehicles,Capital region,307
+2009,Unlawful use of motor vehicles,Capital region,402
+2010,Unlawful use of motor vehicles,Capital region,360
+2011,Unlawful use of motor vehicles,Capital region,328
+2012,Unlawful use of motor vehicles,Capital region,238
+2013,Unlawful use of motor vehicles,Capital region,182
+2014,Unlawful use of motor vehicles,Capital region,297
+2015,Unlawful use of motor vehicles,Capital region,366
+1999,Drug crimes,Capital region,648
+2000,Drug crimes,Capital region,479
+2001,Drug crimes,Capital region,617
+2002,Drug crimes,Capital region,677
+2003,Drug crimes,Capital region,905
+2004,Drug crimes,Capital region,1077
+2005,Drug crimes,Capital region,1149
+2006,Drug crimes,Capital region,1399
+2007,Drug crimes,Capital region,1286
+2008,Drug crimes,Capital region,905
+2009,Drug crimes,Capital region,831
+2010,Drug crimes,Capital region,1031
+2011,Drug crimes,Capital region,1179
+2012,Drug crimes,Capital region,1321
+2013,Drug crimes,Capital region,1514
+2014,Drug crimes,Capital region,1737
+2015,Drug crimes,Capital region,1333
+1999,Alcoholic beverages Act,Capital region,1576
+2000,Alcoholic beverages Act,Capital region,2002
+2001,Alcoholic beverages Act,Capital region,1719
+2002,Alcoholic beverages Act,Capital region,1442
+2003,Alcoholic beverages Act,Capital region,1482
+2004,Alcoholic beverages Act,Capital region,1059
+2005,Alcoholic beverages Act,Capital region,1280
+2006,Alcoholic beverages Act,Capital region,1026
+2007,Alcoholic beverages Act,Capital region,779
+2008,Alcoholic beverages Act,Capital region,430
+2009,Alcoholic beverages Act,Capital region,280
+2010,Alcoholic beverages Act,Capital region,396
+2011,Alcoholic beverages Act,Capital region,308
+2012,Alcoholic beverages Act,Capital region,327
+2013,Alcoholic beverages Act,Capital region,381
+2014,Alcoholic beverages Act,Capital region,432
+2015,Alcoholic beverages Act,Capital region,497
+1999,Traffic offences,Capital region,35110
+2000,Traffic offences,Capital region,38594
+2001,Traffic offences,Capital region,32073
+2002,Traffic offences,Capital region,37129
+2003,Traffic offences,Capital region,28909
+2004,Traffic offences,Capital region,28637
+2005,Traffic offences,Capital region,22827
+2006,Traffic offences,Capital region,26290
+2007,Traffic offences,Capital region,26435
+2008,Traffic offences,Capital region,27141
+2009,Traffic offences,Capital region,24616
+2010,Traffic offences,Capital region,27307
+2011,Traffic offences,Capital region,22694
+2012,Traffic offences,Capital region,25162
+2013,Traffic offences,Capital region,19886
+2014,Traffic offences,Capital region,26292
+2015,Traffic offences,Capital region,28665
+1999,Other offences,Capital region,1364
+2000,Other offences,Capital region,1306
+2001,Other offences,Capital region,1394
+2002,Other offences,Capital region,1598
+2003,Other offences,Capital region,1595
+2004,Other offences,Capital region,1614
+2005,Other offences,Capital region,934
+2006,Other offences,Capital region,931
+2007,Other offences,Capital region,1374
+2008,Other offences,Capital region,843
+2009,Other offences,Capital region,836
+2010,Other offences,Capital region,954
+2011,Other offences,Capital region,898
+2012,Other offences,Capital region,1351
+2013,Other offences,Capital region,1166
+2014,Other offences,Capital region,1392
+2015,Other offences,Capital region,1220
+1999,Total,Outside Capital region,34378
+2000,Total,Outside Capital region,35234
+2001,Total,Outside Capital region,33000
+2002,Total,Outside Capital region,35736
+2003,Total,Outside Capital region,35242
+2004,Total,Outside Capital region,33599
+2005,Total,Outside Capital region,27758
+2006,Total,Outside Capital region,32351
+2007,Total,Outside Capital region,38949
+2008,Total,Outside Capital region,35222
+2009,Total,Outside Capital region,36698
+2010,Total,Outside Capital region,33076
+2011,Total,Outside Capital region,22829
+2012,Total,Outside Capital region,25219
+2013,Total,Outside Capital region,22019
+2014,Total,Outside Capital region,27933
+2015,Total,Outside Capital region,29114
+1999,Offences against public authorities,Outside Capital region,48
+2000,Offences against public authorities,Outside Capital region,57
+2001,Offences against public authorities,Outside Capital region,34
+2002,Offences against public authorities,Outside Capital region,46
+2003,Offences against public authorities,Outside Capital region,96
+2004,Offences against public authorities,Outside Capital region,32
+2005,Offences against public authorities,Outside Capital region,47
+2006,Offences against public authorities,Outside Capital region,71
+2007,Offences against public authorities,Outside Capital region,127
+2008,Offences against public authorities,Outside Capital region,135
+2009,Offences against public authorities,Outside Capital region,99
+2010,Offences against public authorities,Outside Capital region,109
+2011,Offences against public authorities,Outside Capital region,117
+2012,Offences against public authorities,Outside Capital region,118
+2013,Offences against public authorities,Outside Capital region,98
+2014,Offences against public authorities,Outside Capital region,122
+2015,Offences against public authorities,Outside Capital region,94
+1999,Forgery,Outside Capital region,73
+2000,Forgery,Outside Capital region,101
+2001,Forgery,Outside Capital region,109
+2002,Forgery,Outside Capital region,133
+2003,Forgery,Outside Capital region,80
+2004,Forgery,Outside Capital region,98
+2005,Forgery,Outside Capital region,91
+2006,Forgery,Outside Capital region,66
+2007,Forgery,Outside Capital region,106
+2008,Forgery,Outside Capital region,105
+2009,Forgery,Outside Capital region,144
+2010,Forgery,Outside Capital region,100
+2011,Forgery,Outside Capital region,129
+2012,Forgery,Outside Capital region,112
+2013,Forgery,Outside Capital region,83
+2014,Forgery,Outside Capital region,100
+2015,Forgery,Outside Capital region,81
+1999,Sexual offences,Outside Capital region,78
+2000,Sexual offences,Outside Capital region,67
+2001,Sexual offences,Outside Capital region,98
+2002,Sexual offences,Outside Capital region,133
+2003,Sexual offences,Outside Capital region,119
+2004,Sexual offences,Outside Capital region,115
+2005,Sexual offences,Outside Capital region,106
+2006,Sexual offences,Outside Capital region,120
+2007,Sexual offences,Outside Capital region,151
+2008,Sexual offences,Outside Capital region,183
+2009,Sexual offences,Outside Capital region,139
+2010,Sexual offences,Outside Capital region,123
+2011,Sexual offences,Outside Capital region,143
+2012,Sexual offences,Outside Capital region,129
+2013,Sexual offences,Outside Capital region,312
+2014,Sexual offences,Outside Capital region,179
+2015,Sexual offences,Outside Capital region,166
+1999,Assault / Violence against the person,Outside Capital region,429
+2000,Assault / Violence against the person,Outside Capital region,453
+2001,Assault / Violence against the person,Outside Capital region,468
+2002,Assault / Violence against the person,Outside Capital region,454
+2003,Assault / Violence against the person,Outside Capital region,435
+2004,Assault / Violence against the person,Outside Capital region,440
+2005,Assault / Violence against the person,Outside Capital region,481
+2006,Assault / Violence against the person,Outside Capital region,432
+2007,Assault / Violence against the person,Outside Capital region,481
+2008,Assault / Violence against the person,Outside Capital region,528
+2009,Assault / Violence against the person,Outside Capital region,472
+2010,Assault / Violence against the person,Outside Capital region,397
+2011,Assault / Violence against the person,Outside Capital region,431
+2012,Assault / Violence against the person,Outside Capital region,404
+2013,Assault / Violence against the person,Outside Capital region,413
+2014,Assault / Violence against the person,Outside Capital region,356
+2015,Assault / Violence against the person,Outside Capital region,397
+1999,Offences against personal liberty,Outside Capital region,199
+2000,Offences against personal liberty,Outside Capital region,244
+2001,Offences against personal liberty,Outside Capital region,215
+2002,Offences against personal liberty,Outside Capital region,222
+2003,Offences against personal liberty,Outside Capital region,261
+2004,Offences against personal liberty,Outside Capital region,228
+2005,Offences against personal liberty,Outside Capital region,275
+2006,Offences against personal liberty,Outside Capital region,261
+2007,Offences against personal liberty,Outside Capital region,204
+2008,Offences against personal liberty,Outside Capital region,224
+2009,Offences against personal liberty,Outside Capital region,214
+2010,Offences against personal liberty,Outside Capital region,228
+2011,Offences against personal liberty,Outside Capital region,192
+2012,Offences against personal liberty,Outside Capital region,223
+2013,Offences against personal liberty,Outside Capital region,211
+2014,Offences against personal liberty,Outside Capital region,206
+2015,Offences against personal liberty,Outside Capital region,190
+1999,Offences of acquisition,Outside Capital region,1839
+2000,Offences of acquisition,Outside Capital region,1984
+2001,Offences of acquisition,Outside Capital region,1925
+2002,Offences of acquisition,Outside Capital region,2040
+2003,Offences of acquisition,Outside Capital region,2022
+2004,Offences of acquisition,Outside Capital region,1778
+2005,Offences of acquisition,Outside Capital region,1200
+2006,Offences of acquisition,Outside Capital region,1419
+2007,Offences of acquisition,Outside Capital region,1278
+2008,Offences of acquisition,Outside Capital region,1491
+2009,Offences of acquisition,Outside Capital region,1860
+2010,Offences of acquisition,Outside Capital region,1828
+2011,Offences of acquisition,Outside Capital region,1523
+2012,Offences of acquisition,Outside Capital region,1366
+2013,Offences of acquisition,Outside Capital region,1197
+2014,Offences of acquisition,Outside Capital region,961
+2015,Offences of acquisition,Outside Capital region,877
+1999,Offences against property,Outside Capital region,1341
+2000,Offences against property,Outside Capital region,1288
+2001,Offences against property,Outside Capital region,1200
+2002,Offences against property,Outside Capital region,1193
+2003,Offences against property,Outside Capital region,1175
+2004,Offences against property,Outside Capital region,991
+2005,Offences against property,Outside Capital region,955
+2006,Offences against property,Outside Capital region,1169
+2007,Offences against property,Outside Capital region,1108
+2008,Offences against property,Outside Capital region,1034
+2009,Offences against property,Outside Capital region,1082
+2010,Offences against property,Outside Capital region,1067
+2011,Offences against property,Outside Capital region,891
+2012,Offences against property,Outside Capital region,762
+2013,Offences against property,Outside Capital region,618
+2014,Offences against property,Outside Capital region,599
+2015,Offences against property,Outside Capital region,450
+1999,Unlawful use of motor vehicles,Outside Capital region,110
+2000,Unlawful use of motor vehicles,Outside Capital region,111
+2001,Unlawful use of motor vehicles,Outside Capital region,83
+2002,Unlawful use of motor vehicles,Outside Capital region,98
+2003,Unlawful use of motor vehicles,Outside Capital region,92
+2004,Unlawful use of motor vehicles,Outside Capital region,86
+2005,Unlawful use of motor vehicles,Outside Capital region,89
+2006,Unlawful use of motor vehicles,Outside Capital region,111
+2007,Unlawful use of motor vehicles,Outside Capital region,89
+2008,Unlawful use of motor vehicles,Outside Capital region,101
+2009,Unlawful use of motor vehicles,Outside Capital region,87
+2010,Unlawful use of motor vehicles,Outside Capital region,60
+2011,Unlawful use of motor vehicles,Outside Capital region,79
+2012,Unlawful use of motor vehicles,Outside Capital region,64
+2013,Unlawful use of motor vehicles,Outside Capital region,39
+2014,Unlawful use of motor vehicles,Outside Capital region,51
+2015,Unlawful use of motor vehicles,Outside Capital region,47
+1999,Drug crimes,Outside Capital region,314
+2000,Drug crimes,Outside Capital region,301
+2001,Drug crimes,Outside Capital region,293
+2002,Drug crimes,Outside Capital region,317
+2003,Drug crimes,Outside Capital region,480
+2004,Drug crimes,Outside Capital region,592
+2005,Drug crimes,Outside Capital region,666
+2006,Drug crimes,Outside Capital region,699
+2007,Drug crimes,Outside Capital region,560
+2008,Drug crimes,Outside Capital region,683
+2009,Drug crimes,Outside Capital region,546
+2010,Drug crimes,Outside Capital region,593
+2011,Drug crimes,Outside Capital region,706
+2012,Drug crimes,Outside Capital region,728
+2013,Drug crimes,Outside Capital region,669
+2014,Drug crimes,Outside Capital region,638
+2015,Drug crimes,Outside Capital region,577
+1999,Alcoholic beverages Act,Outside Capital region,721
+2000,Alcoholic beverages Act,Outside Capital region,663
+2001,Alcoholic beverages Act,Outside Capital region,511
+2002,Alcoholic beverages Act,Outside Capital region,542
+2003,Alcoholic beverages Act,Outside Capital region,527
+2004,Alcoholic beverages Act,Outside Capital region,397
+2005,Alcoholic beverages Act,Outside Capital region,482
+2006,Alcoholic beverages Act,Outside Capital region,580
+2007,Alcoholic beverages Act,Outside Capital region,529
+2008,Alcoholic beverages Act,Outside Capital region,455
+2009,Alcoholic beverages Act,Outside Capital region,323
+2010,Alcoholic beverages Act,Outside Capital region,384
+2011,Alcoholic beverages Act,Outside Capital region,357
+2012,Alcoholic beverages Act,Outside Capital region,317
+2013,Alcoholic beverages Act,Outside Capital region,329
+2014,Alcoholic beverages Act,Outside Capital region,256
+2015,Alcoholic beverages Act,Outside Capital region,174
+1999,Traffic offences,Outside Capital region,27625
+2000,Traffic offences,Outside Capital region,28219
+2001,Traffic offences,Outside Capital region,26895
+2002,Traffic offences,Outside Capital region,28916
+2003,Traffic offences,Outside Capital region,27906
+2004,Traffic offences,Outside Capital region,27104
+2005,Traffic offences,Outside Capital region,20651
+2006,Traffic offences,Outside Capital region,26222
+2007,Traffic offences,Outside Capital region,33328
+2008,Traffic offences,Outside Capital region,29260
+2009,Traffic offences,Outside Capital region,30721
+2010,Traffic offences,Outside Capital region,27330
+2011,Traffic offences,Outside Capital region,17647
+2012,Traffic offences,Outside Capital region,20362
+2013,Traffic offences,Outside Capital region,17433
+2014,Traffic offences,Outside Capital region,23879
+2015,Traffic offences,Outside Capital region,25423
+1999,Other offences,Outside Capital region,1601
+2000,Other offences,Outside Capital region,1746
+2001,Other offences,Outside Capital region,1169
+2002,Other offences,Outside Capital region,1642
+2003,Other offences,Outside Capital region,2049
+2004,Other offences,Outside Capital region,1738
+2005,Other offences,Outside Capital region,2715
+2006,Other offences,Outside Capital region,1201
+2007,Other offences,Outside Capital region,988
+2008,Other offences,Outside Capital region,1000
+2009,Other offences,Outside Capital region,1036
+2010,Other offences,Outside Capital region,902
+2011,Other offences,Outside Capital region,645
+2012,Other offences,Outside Capital region,634
+2013,Other offences,Outside Capital region,617
+2014,Other offences,Outside Capital region,586
+2015,Other offences,Outside Capital region,638

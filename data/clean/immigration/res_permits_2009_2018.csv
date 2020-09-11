@@ -1,0 +1,1201 @@
+Year,Citizenship,Sex,Type,n_res_permits
+2009,Total,Total,Total,753.0
+2009,Total,Total,Family union,365.0
+2009,Total,Total,Education,197.0
+2009,Total,Total,Work,127.0
+2009,Total,Total,Other reasons,64.0
+2009,Europe,Total,Total,109.0
+2009,Europe,Total,Family union,76.0
+2009,Europe,Total,Education,8.0
+2009,Europe,Total,Work,8.0
+2009,Europe,Total,Other reasons,17.0
+2009,America,Total,Total,242.0
+2009,America,Total,Family union,82.0
+2009,America,Total,Education,96.0
+2009,America,Total,Work,35.0
+2009,America,Total,Other reasons,29.0
+2009,Asia,Total,Total,288.0
+2009,Asia,Total,Family union,151.0
+2009,Asia,Total,Education,56.0
+2009,Asia,Total,Work,74.0
+2009,Asia,Total,Other reasons,7.0
+2009,Africa,Total,Total,75.0
+2009,Africa,Total,Family union,36.0
+2009,Africa,Total,Education,29.0
+2009,Africa,Total,Work,8.0
+2009,Africa,Total,Other reasons,2.0
+2009,Oceania,Total,Total,13.0
+2009,Oceania,Total,Family union,3.0
+2009,Oceania,Total,Education,7.0
+2009,Oceania,Total,Work,2.0
+2009,Oceania,Total,Other reasons,1.0
+2009,Stateless,Total,Total,21.0
+2009,Stateless,Total,Family union,12.0
+2009,Stateless,Total,Education,1.0
+2009,Stateless,Total,Work,
+2009,Stateless,Total,Other reasons,8.0
+2009,Not specified,Total,Total,5.0
+2009,Not specified,Total,Family union,5.0
+2009,Not specified,Total,Education,
+2009,Not specified,Total,Work,
+2009,Not specified,Total,Other reasons,
+2009,Total,Males,Total,345.0
+2009,Total,Males,Family union,127.0
+2009,Total,Males,Education,101.0
+2009,Total,Males,Work,90.0
+2009,Total,Males,Other reasons,27.0
+2009,Europe,Males,Total,39.0
+2009,Europe,Males,Family union,24.0
+2009,Europe,Males,Education,4.0
+2009,Europe,Males,Work,5.0
+2009,Europe,Males,Other reasons,6.0
+2009,America,Males,Total,112.0
+2009,America,Males,Family union,23.0
+2009,America,Males,Education,50.0
+2009,America,Males,Work,24.0
+2009,America,Males,Other reasons,15.0
+2009,Asia,Males,Total,139.0
+2009,Asia,Males,Family union,53.0
+2009,Asia,Males,Education,25.0
+2009,Asia,Males,Work,58.0
+2009,Asia,Males,Other reasons,3.0
+2009,Africa,Males,Total,40.0
+2009,Africa,Males,Family union,19.0
+2009,Africa,Males,Education,18.0
+2009,Africa,Males,Work,3.0
+2009,Africa,Males,Other reasons,
+2009,Oceania,Males,Total,7.0
+2009,Oceania,Males,Family union,3.0
+2009,Oceania,Males,Education,3.0
+2009,Oceania,Males,Work,
+2009,Oceania,Males,Other reasons,1.0
+2009,Stateless,Males,Total,7.0
+2009,Stateless,Males,Family union,4.0
+2009,Stateless,Males,Education,1.0
+2009,Stateless,Males,Work,
+2009,Stateless,Males,Other reasons,2.0
+2009,Not specified,Males,Total,1.0
+2009,Not specified,Males,Family union,1.0
+2009,Not specified,Males,Education,
+2009,Not specified,Males,Work,
+2009,Not specified,Males,Other reasons,
+2009,Total,Females,Total,408.0
+2009,Total,Females,Family union,238.0
+2009,Total,Females,Education,96.0
+2009,Total,Females,Work,37.0
+2009,Total,Females,Other reasons,37.0
+2009,Europe,Females,Total,70.0
+2009,Europe,Females,Family union,52.0
+2009,Europe,Females,Education,4.0
+2009,Europe,Females,Work,3.0
+2009,Europe,Females,Other reasons,11.0
+2009,America,Females,Total,130.0
+2009,America,Females,Family union,59.0
+2009,America,Females,Education,46.0
+2009,America,Females,Work,11.0
+2009,America,Females,Other reasons,14.0
+2009,Asia,Females,Total,149.0
+2009,Asia,Females,Family union,98.0
+2009,Asia,Females,Education,31.0
+2009,Asia,Females,Work,16.0
+2009,Asia,Females,Other reasons,4.0
+2009,Africa,Females,Total,35.0
+2009,Africa,Females,Family union,17.0
+2009,Africa,Females,Education,11.0
+2009,Africa,Females,Work,5.0
+2009,Africa,Females,Other reasons,2.0
+2009,Oceania,Females,Total,6.0
+2009,Oceania,Females,Family union,
+2009,Oceania,Females,Education,4.0
+2009,Oceania,Females,Work,2.0
+2009,Oceania,Females,Other reasons,
+2009,Stateless,Females,Total,14.0
+2009,Stateless,Females,Family union,8.0
+2009,Stateless,Females,Education,
+2009,Stateless,Females,Work,
+2009,Stateless,Females,Other reasons,6.0
+2009,Not specified,Females,Total,4.0
+2009,Not specified,Females,Family union,4.0
+2009,Not specified,Females,Education,
+2009,Not specified,Females,Work,
+2009,Not specified,Females,Other reasons,
+2010,Total,Total,Total,1006.0
+2010,Total,Total,Family union,407.0
+2010,Total,Total,Education,266.0
+2010,Total,Total,Work,228.0
+2010,Total,Total,Other reasons,105.0
+2010,Europe,Total,Total,120.0
+2010,Europe,Total,Family union,65.0
+2010,Europe,Total,Education,17.0
+2010,Europe,Total,Work,30.0
+2010,Europe,Total,Other reasons,8.0
+2010,America,Total,Total,281.0
+2010,America,Total,Family union,86.0
+2010,America,Total,Education,101.0
+2010,America,Total,Work,50.0
+2010,America,Total,Other reasons,44.0
+2010,Asia,Total,Total,463.0
+2010,Asia,Total,Family union,198.0
+2010,Asia,Total,Education,109.0
+2010,Asia,Total,Work,131.0
+2010,Asia,Total,Other reasons,25.0
+2010,Africa,Total,Total,102.0
+2010,Africa,Total,Family union,39.0
+2010,Africa,Total,Education,36.0
+2010,Africa,Total,Work,12.0
+2010,Africa,Total,Other reasons,15.0
+2010,Oceania,Total,Total,19.0
+2010,Oceania,Total,Family union,11.0
+2010,Oceania,Total,Education,3.0
+2010,Oceania,Total,Work,4.0
+2010,Oceania,Total,Other reasons,1.0
+2010,Stateless,Total,Total,17.0
+2010,Stateless,Total,Family union,5.0
+2010,Stateless,Total,Education,
+2010,Stateless,Total,Work,
+2010,Stateless,Total,Other reasons,12.0
+2010,Not specified,Total,Total,4.0
+2010,Not specified,Total,Family union,3.0
+2010,Not specified,Total,Education,
+2010,Not specified,Total,Work,1.0
+2010,Not specified,Total,Other reasons,
+2010,Total,Males,Total,553.0
+2010,Total,Males,Family union,172.0
+2010,Total,Males,Education,146.0
+2010,Total,Males,Work,188.0
+2010,Total,Males,Other reasons,47.0
+2010,Europe,Males,Total,65.0
+2010,Europe,Males,Family union,29.0
+2010,Europe,Males,Education,5.0
+2010,Europe,Males,Work,27.0
+2010,Europe,Males,Other reasons,4.0
+2010,America,Males,Total,147.0
+2010,America,Males,Family union,41.0
+2010,America,Males,Education,54.0
+2010,America,Males,Work,36.0
+2010,America,Males,Other reasons,16.0
+2010,Asia,Males,Total,260.0
+2010,Asia,Males,Family union,77.0
+2010,Asia,Males,Education,57.0
+2010,Asia,Males,Work,116.0
+2010,Asia,Males,Other reasons,10.0
+2010,Africa,Males,Total,55.0
+2010,Africa,Males,Family union,17.0
+2010,Africa,Males,Education,28.0
+2010,Africa,Males,Work,5.0
+2010,Africa,Males,Other reasons,5.0
+2010,Oceania,Males,Total,12.0
+2010,Oceania,Males,Family union,6.0
+2010,Oceania,Males,Education,2.0
+2010,Oceania,Males,Work,3.0
+2010,Oceania,Males,Other reasons,1.0
+2010,Stateless,Males,Total,13.0
+2010,Stateless,Males,Family union,2.0
+2010,Stateless,Males,Education,
+2010,Stateless,Males,Work,
+2010,Stateless,Males,Other reasons,11.0
+2010,Not specified,Males,Total,1.0
+2010,Not specified,Males,Family union,
+2010,Not specified,Males,Education,
+2010,Not specified,Males,Work,1.0
+2010,Not specified,Males,Other reasons,
+2010,Total,Females,Total,453.0
+2010,Total,Females,Family union,235.0
+2010,Total,Females,Education,120.0
+2010,Total,Females,Work,40.0
+2010,Total,Females,Other reasons,58.0
+2010,Europe,Females,Total,55.0
+2010,Europe,Females,Family union,36.0
+2010,Europe,Females,Education,12.0
+2010,Europe,Females,Work,3.0
+2010,Europe,Females,Other reasons,4.0
+2010,America,Females,Total,134.0
+2010,America,Females,Family union,45.0
+2010,America,Females,Education,47.0
+2010,America,Females,Work,14.0
+2010,America,Females,Other reasons,28.0
+2010,Asia,Females,Total,203.0
+2010,Asia,Females,Family union,121.0
+2010,Asia,Females,Education,52.0
+2010,Asia,Females,Work,15.0
+2010,Asia,Females,Other reasons,15.0
+2010,Africa,Females,Total,47.0
+2010,Africa,Females,Family union,22.0
+2010,Africa,Females,Education,8.0
+2010,Africa,Females,Work,7.0
+2010,Africa,Females,Other reasons,10.0
+2010,Oceania,Females,Total,7.0
+2010,Oceania,Females,Family union,5.0
+2010,Oceania,Females,Education,1.0
+2010,Oceania,Females,Work,1.0
+2010,Oceania,Females,Other reasons,
+2010,Stateless,Females,Total,4.0
+2010,Stateless,Females,Family union,3.0
+2010,Stateless,Females,Education,
+2010,Stateless,Females,Work,
+2010,Stateless,Females,Other reasons,1.0
+2010,Not specified,Females,Total,3.0
+2010,Not specified,Females,Family union,3.0
+2010,Not specified,Females,Education,
+2010,Not specified,Females,Work,
+2010,Not specified,Females,Other reasons,
+2011,Total,Total,Total,868.0
+2011,Total,Total,Family union,374.0
+2011,Total,Total,Education,235.0
+2011,Total,Total,Work,183.0
+2011,Total,Total,Other reasons,76.0
+2011,Europe,Total,Total,107.0
+2011,Europe,Total,Family union,49.0
+2011,Europe,Total,Education,19.0
+2011,Europe,Total,Work,25.0
+2011,Europe,Total,Other reasons,14.0
+2011,America,Total,Total,238.0
+2011,America,Total,Family union,77.0
+2011,America,Total,Education,89.0
+2011,America,Total,Work,57.0
+2011,America,Total,Other reasons,15.0
+2011,Asia,Total,Total,348.0
+2011,Asia,Total,Family union,191.0
+2011,Asia,Total,Education,70.0
+2011,Asia,Total,Work,67.0
+2011,Asia,Total,Other reasons,20.0
+2011,Africa,Total,Total,129.0
+2011,Africa,Total,Family union,47.0
+2011,Africa,Total,Education,48.0
+2011,Africa,Total,Work,20.0
+2011,Africa,Total,Other reasons,14.0
+2011,Oceania,Total,Total,25.0
+2011,Oceania,Total,Family union,5.0
+2011,Oceania,Total,Education,8.0
+2011,Oceania,Total,Work,12.0
+2011,Oceania,Total,Other reasons,
+2011,Stateless,Total,Total,17.0
+2011,Stateless,Total,Family union,2.0
+2011,Stateless,Total,Education,1.0
+2011,Stateless,Total,Work,2.0
+2011,Stateless,Total,Other reasons,12.0
+2011,Not specified,Total,Total,4.0
+2011,Not specified,Total,Family union,3.0
+2011,Not specified,Total,Education,
+2011,Not specified,Total,Work,
+2011,Not specified,Total,Other reasons,1.0
+2011,Total,Males,Total,439.0
+2011,Total,Males,Family union,150.0
+2011,Total,Males,Education,118.0
+2011,Total,Males,Work,128.0
+2011,Total,Males,Other reasons,43.0
+2011,Europe,Males,Total,38.0
+2011,Europe,Males,Family union,15.0
+2011,Europe,Males,Education,4.0
+2011,Europe,Males,Work,14.0
+2011,Europe,Males,Other reasons,5.0
+2011,America,Males,Total,114.0
+2011,America,Males,Family union,31.0
+2011,America,Males,Education,42.0
+2011,America,Males,Work,32.0
+2011,America,Males,Other reasons,9.0
+2011,Asia,Males,Total,178.0
+2011,Asia,Males,Family union,79.0
+2011,Asia,Males,Education,35.0
+2011,Asia,Males,Work,53.0
+2011,Asia,Males,Other reasons,11.0
+2011,Africa,Males,Total,76.0
+2011,Africa,Males,Family union,21.0
+2011,Africa,Males,Education,32.0
+2011,Africa,Males,Work,15.0
+2011,Africa,Males,Other reasons,8.0
+2011,Oceania,Males,Total,19.0
+2011,Oceania,Males,Family union,3.0
+2011,Oceania,Males,Education,4.0
+2011,Oceania,Males,Work,12.0
+2011,Oceania,Males,Other reasons,
+2011,Stateless,Males,Total,13.0
+2011,Stateless,Males,Family union,
+2011,Stateless,Males,Education,1.0
+2011,Stateless,Males,Work,2.0
+2011,Stateless,Males,Other reasons,10.0
+2011,Not specified,Males,Total,1.0
+2011,Not specified,Males,Family union,1.0
+2011,Not specified,Males,Education,
+2011,Not specified,Males,Work,
+2011,Not specified,Males,Other reasons,
+2011,Total,Females,Total,429.0
+2011,Total,Females,Family union,224.0
+2011,Total,Females,Education,117.0
+2011,Total,Females,Work,55.0
+2011,Total,Females,Other reasons,33.0
+2011,Europe,Females,Total,69.0
+2011,Europe,Females,Family union,34.0
+2011,Europe,Females,Education,15.0
+2011,Europe,Females,Work,11.0
+2011,Europe,Females,Other reasons,9.0
+2011,America,Females,Total,124.0
+2011,America,Females,Family union,46.0
+2011,America,Females,Education,47.0
+2011,America,Females,Work,25.0
+2011,America,Females,Other reasons,6.0
+2011,Asia,Females,Total,170.0
+2011,Asia,Females,Family union,112.0
+2011,Asia,Females,Education,35.0
+2011,Asia,Females,Work,14.0
+2011,Asia,Females,Other reasons,9.0
+2011,Africa,Females,Total,53.0
+2011,Africa,Females,Family union,26.0
+2011,Africa,Females,Education,16.0
+2011,Africa,Females,Work,5.0
+2011,Africa,Females,Other reasons,6.0
+2011,Oceania,Females,Total,6.0
+2011,Oceania,Females,Family union,2.0
+2011,Oceania,Females,Education,4.0
+2011,Oceania,Females,Work,
+2011,Oceania,Females,Other reasons,
+2011,Stateless,Females,Total,4.0
+2011,Stateless,Females,Family union,2.0
+2011,Stateless,Females,Education,
+2011,Stateless,Females,Work,
+2011,Stateless,Females,Other reasons,2.0
+2011,Not specified,Females,Total,3.0
+2011,Not specified,Females,Family union,2.0
+2011,Not specified,Females,Education,
+2011,Not specified,Females,Work,
+2011,Not specified,Females,Other reasons,1.0
+2012,Total,Total,Total,978.0
+2012,Total,Total,Family union,411.0
+2012,Total,Total,Education,287.0
+2012,Total,Total,Work,188.0
+2012,Total,Total,Other reasons,92.0
+2012,Europe,Total,Total,112.0
+2012,Europe,Total,Family union,71.0
+2012,Europe,Total,Education,15.0
+2012,Europe,Total,Work,24.0
+2012,Europe,Total,Other reasons,2.0
+2012,America,Total,Total,351.0
+2012,America,Total,Family union,109.0
+2012,America,Total,Education,120.0
+2012,America,Total,Work,94.0
+2012,America,Total,Other reasons,28.0
+2012,Asia,Total,Total,339.0
+2012,Asia,Total,Family union,165.0
+2012,Asia,Total,Education,89.0
+2012,Asia,Total,Work,47.0
+2012,Asia,Total,Other reasons,38.0
+2012,Africa,Total,Total,130.0
+2012,Africa,Total,Family union,52.0
+2012,Africa,Total,Education,56.0
+2012,Africa,Total,Work,13.0
+2012,Africa,Total,Other reasons,9.0
+2012,Oceania,Total,Total,24.0
+2012,Oceania,Total,Family union,8.0
+2012,Oceania,Total,Education,7.0
+2012,Oceania,Total,Work,9.0
+2012,Oceania,Total,Other reasons,
+2012,Stateless,Total,Total,20.0
+2012,Stateless,Total,Family union,4.0
+2012,Stateless,Total,Education,
+2012,Stateless,Total,Work,1.0
+2012,Stateless,Total,Other reasons,15.0
+2012,Not specified,Total,Total,2.0
+2012,Not specified,Total,Family union,2.0
+2012,Not specified,Total,Education,
+2012,Not specified,Total,Work,
+2012,Not specified,Total,Other reasons,
+2012,Total,Males,Total,465.0
+2012,Total,Males,Family union,154.0
+2012,Total,Males,Education,154.0
+2012,Total,Males,Work,117.0
+2012,Total,Males,Other reasons,40.0
+2012,Europe,Males,Total,43.0
+2012,Europe,Males,Family union,26.0
+2012,Europe,Males,Education,5.0
+2012,Europe,Males,Work,12.0
+2012,Europe,Males,Other reasons,
+2012,America,Males,Total,183.0
+2012,America,Males,Family union,47.0
+2012,America,Males,Education,60.0
+2012,America,Males,Work,62.0
+2012,America,Males,Other reasons,14.0
+2012,Asia,Males,Total,140.0
+2012,Asia,Males,Family union,49.0
+2012,Asia,Males,Education,47.0
+2012,Asia,Males,Work,28.0
+2012,Asia,Males,Other reasons,16.0
+2012,Africa,Males,Total,72.0
+2012,Africa,Males,Family union,26.0
+2012,Africa,Males,Education,37.0
+2012,Africa,Males,Work,7.0
+2012,Africa,Males,Other reasons,2.0
+2012,Oceania,Males,Total,16.0
+2012,Oceania,Males,Family union,4.0
+2012,Oceania,Males,Education,5.0
+2012,Oceania,Males,Work,7.0
+2012,Oceania,Males,Other reasons,
+2012,Stateless,Males,Total,10.0
+2012,Stateless,Males,Family union,1.0
+2012,Stateless,Males,Education,
+2012,Stateless,Males,Work,1.0
+2012,Stateless,Males,Other reasons,8.0
+2012,Not specified,Males,Total,1.0
+2012,Not specified,Males,Family union,1.0
+2012,Not specified,Males,Education,
+2012,Not specified,Males,Work,
+2012,Not specified,Males,Other reasons,
+2012,Total,Females,Total,513.0
+2012,Total,Females,Family union,257.0
+2012,Total,Females,Education,133.0
+2012,Total,Females,Work,71.0
+2012,Total,Females,Other reasons,52.0
+2012,Europe,Females,Total,69.0
+2012,Europe,Females,Family union,45.0
+2012,Europe,Females,Education,10.0
+2012,Europe,Females,Work,12.0
+2012,Europe,Females,Other reasons,2.0
+2012,America,Females,Total,168.0
+2012,America,Females,Family union,62.0
+2012,America,Females,Education,60.0
+2012,America,Females,Work,32.0
+2012,America,Females,Other reasons,14.0
+2012,Asia,Females,Total,199.0
+2012,Asia,Females,Family union,116.0
+2012,Asia,Females,Education,42.0
+2012,Asia,Females,Work,19.0
+2012,Asia,Females,Other reasons,22.0
+2012,Africa,Females,Total,58.0
+2012,Africa,Females,Family union,26.0
+2012,Africa,Females,Education,19.0
+2012,Africa,Females,Work,6.0
+2012,Africa,Females,Other reasons,7.0
+2012,Oceania,Females,Total,8.0
+2012,Oceania,Females,Family union,4.0
+2012,Oceania,Females,Education,2.0
+2012,Oceania,Females,Work,2.0
+2012,Oceania,Females,Other reasons,
+2012,Stateless,Females,Total,10.0
+2012,Stateless,Females,Family union,3.0
+2012,Stateless,Females,Education,
+2012,Stateless,Females,Work,
+2012,Stateless,Females,Other reasons,7.0
+2012,Not specified,Females,Total,1.0
+2012,Not specified,Females,Family union,1.0
+2012,Not specified,Females,Education,
+2012,Not specified,Females,Work,
+2012,Not specified,Females,Other reasons,
+2013,Total,Total,Total,1015.0
+2013,Total,Total,Family union,452.0
+2013,Total,Total,Education,294.0
+2013,Total,Total,Work,183.0
+2013,Total,Total,Other reasons,86.0
+2013,Europe,Total,Total,135.0
+2013,Europe,Total,Family union,71.0
+2013,Europe,Total,Education,21.0
+2013,Europe,Total,Work,32.0
+2013,Europe,Total,Other reasons,11.0
+2013,America,Total,Total,338.0
+2013,America,Total,Family union,101.0
+2013,America,Total,Education,120.0
+2013,America,Total,Work,96.0
+2013,America,Total,Other reasons,21.0
+2013,Asia,Total,Total,366.0
+2013,Asia,Total,Family union,209.0
+2013,Asia,Total,Education,86.0
+2013,Asia,Total,Work,42.0
+2013,Asia,Total,Other reasons,29.0
+2013,Africa,Total,Total,140.0
+2013,Africa,Total,Family union,54.0
+2013,Africa,Total,Education,61.0
+2013,Africa,Total,Work,8.0
+2013,Africa,Total,Other reasons,17.0
+2013,Oceania,Total,Total,22.0
+2013,Oceania,Total,Family union,11.0
+2013,Oceania,Total,Education,6.0
+2013,Oceania,Total,Work,5.0
+2013,Oceania,Total,Other reasons,
+2013,Stateless,Total,Total,9.0
+2013,Stateless,Total,Family union,1.0
+2013,Stateless,Total,Education,
+2013,Stateless,Total,Work,
+2013,Stateless,Total,Other reasons,8.0
+2013,Not specified,Total,Total,5.0
+2013,Not specified,Total,Family union,5.0
+2013,Not specified,Total,Education,
+2013,Not specified,Total,Work,
+2013,Not specified,Total,Other reasons,
+2013,Total,Males,Total,508.0
+2013,Total,Males,Family union,188.0
+2013,Total,Males,Education,152.0
+2013,Total,Males,Work,118.0
+2013,Total,Males,Other reasons,50.0
+2013,Europe,Males,Total,68.0
+2013,Europe,Males,Family union,30.0
+2013,Europe,Males,Education,8.0
+2013,Europe,Males,Work,26.0
+2013,Europe,Males,Other reasons,4.0
+2013,America,Males,Total,181.0
+2013,America,Males,Family union,48.0
+2013,America,Males,Education,62.0
+2013,America,Males,Work,57.0
+2013,America,Males,Other reasons,14.0
+2013,Asia,Males,Total,149.0
+2013,Asia,Males,Family union,68.0
+2013,Asia,Males,Education,39.0
+2013,Asia,Males,Work,26.0
+2013,Asia,Males,Other reasons,16.0
+2013,Africa,Males,Total,85.0
+2013,Africa,Males,Family union,31.0
+2013,Africa,Males,Education,39.0
+2013,Africa,Males,Work,6.0
+2013,Africa,Males,Other reasons,9.0
+2013,Oceania,Males,Total,13.0
+2013,Oceania,Males,Family union,6.0
+2013,Oceania,Males,Education,4.0
+2013,Oceania,Males,Work,3.0
+2013,Oceania,Males,Other reasons,
+2013,Stateless,Males,Total,8.0
+2013,Stateless,Males,Family union,1.0
+2013,Stateless,Males,Education,
+2013,Stateless,Males,Work,
+2013,Stateless,Males,Other reasons,7.0
+2013,Not specified,Males,Total,4.0
+2013,Not specified,Males,Family union,4.0
+2013,Not specified,Males,Education,
+2013,Not specified,Males,Work,
+2013,Not specified,Males,Other reasons,
+2013,Total,Females,Total,507.0
+2013,Total,Females,Family union,264.0
+2013,Total,Females,Education,142.0
+2013,Total,Females,Work,65.0
+2013,Total,Females,Other reasons,36.0
+2013,Europe,Females,Total,67.0
+2013,Europe,Females,Family union,41.0
+2013,Europe,Females,Education,13.0
+2013,Europe,Females,Work,6.0
+2013,Europe,Females,Other reasons,7.0
+2013,America,Females,Total,157.0
+2013,America,Females,Family union,53.0
+2013,America,Females,Education,58.0
+2013,America,Females,Work,39.0
+2013,America,Females,Other reasons,7.0
+2013,Asia,Females,Total,217.0
+2013,Asia,Females,Family union,141.0
+2013,Asia,Females,Education,47.0
+2013,Asia,Females,Work,16.0
+2013,Asia,Females,Other reasons,13.0
+2013,Africa,Females,Total,55.0
+2013,Africa,Females,Family union,23.0
+2013,Africa,Females,Education,22.0
+2013,Africa,Females,Work,2.0
+2013,Africa,Females,Other reasons,8.0
+2013,Oceania,Females,Total,9.0
+2013,Oceania,Females,Family union,5.0
+2013,Oceania,Females,Education,2.0
+2013,Oceania,Females,Work,2.0
+2013,Oceania,Females,Other reasons,
+2013,Stateless,Females,Total,1.0
+2013,Stateless,Females,Family union,
+2013,Stateless,Females,Education,
+2013,Stateless,Females,Work,
+2013,Stateless,Females,Other reasons,1.0
+2013,Not specified,Females,Total,1.0
+2013,Not specified,Females,Family union,1.0
+2013,Not specified,Females,Education,
+2013,Not specified,Females,Work,
+2013,Not specified,Females,Other reasons,
+2014,Total,Total,Total,1031.0
+2014,Total,Total,Family union,357.0
+2014,Total,Total,Education,372.0
+2014,Total,Total,Work,171.0
+2014,Total,Total,Other reasons,131.0
+2014,Europe,Total,Total,126.0
+2014,Europe,Total,Family union,58.0
+2014,Europe,Total,Education,25.0
+2014,Europe,Total,Work,24.0
+2014,Europe,Total,Other reasons,19.0
+2014,America,Total,Total,337.0
+2014,America,Total,Family union,88.0
+2014,America,Total,Education,148.0
+2014,America,Total,Work,80.0
+2014,America,Total,Other reasons,21.0
+2014,Asia,Total,Total,365.0
+2014,Asia,Total,Family union,152.0
+2014,Asia,Total,Education,125.0
+2014,Asia,Total,Work,49.0
+2014,Asia,Total,Other reasons,39.0
+2014,Africa,Total,Total,151.0
+2014,Africa,Total,Family union,42.0
+2014,Africa,Total,Education,63.0
+2014,Africa,Total,Work,12.0
+2014,Africa,Total,Other reasons,34.0
+2014,Oceania,Total,Total,28.0
+2014,Oceania,Total,Family union,10.0
+2014,Oceania,Total,Education,11.0
+2014,Oceania,Total,Work,5.0
+2014,Oceania,Total,Other reasons,2.0
+2014,Stateless,Total,Total,23.0
+2014,Stateless,Total,Family union,7.0
+2014,Stateless,Total,Education,
+2014,Stateless,Total,Work,1.0
+2014,Stateless,Total,Other reasons,15.0
+2014,Not specified,Total,Total,1.0
+2014,Not specified,Total,Family union,
+2014,Not specified,Total,Education,
+2014,Not specified,Total,Work,
+2014,Not specified,Total,Other reasons,1.0
+2014,Total,Males,Total,491.0
+2014,Total,Males,Family union,136.0
+2014,Total,Males,Education,181.0
+2014,Total,Males,Work,95.0
+2014,Total,Males,Other reasons,79.0
+2014,Europe,Males,Total,60.0
+2014,Europe,Males,Family union,16.0
+2014,Europe,Males,Education,9.0
+2014,Europe,Males,Work,20.0
+2014,Europe,Males,Other reasons,15.0
+2014,America,Males,Total,149.0
+2014,America,Males,Family union,37.0
+2014,America,Males,Education,63.0
+2014,America,Males,Work,39.0
+2014,America,Males,Other reasons,10.0
+2014,Asia,Males,Total,158.0
+2014,Asia,Males,Family union,52.0
+2014,Asia,Males,Education,58.0
+2014,Asia,Males,Work,27.0
+2014,Asia,Males,Other reasons,21.0
+2014,Africa,Males,Total,97.0
+2014,Africa,Males,Family union,24.0
+2014,Africa,Males,Education,45.0
+2014,Africa,Males,Work,6.0
+2014,Africa,Males,Other reasons,22.0
+2014,Oceania,Males,Total,15.0
+2014,Oceania,Males,Family union,4.0
+2014,Oceania,Males,Education,6.0
+2014,Oceania,Males,Work,3.0
+2014,Oceania,Males,Other reasons,2.0
+2014,Stateless,Males,Total,11.0
+2014,Stateless,Males,Family union,3.0
+2014,Stateless,Males,Education,
+2014,Stateless,Males,Work,
+2014,Stateless,Males,Other reasons,8.0
+2014,Not specified,Males,Total,1.0
+2014,Not specified,Males,Family union,
+2014,Not specified,Males,Education,
+2014,Not specified,Males,Work,
+2014,Not specified,Males,Other reasons,1.0
+2014,Total,Females,Total,540.0
+2014,Total,Females,Family union,221.0
+2014,Total,Females,Education,191.0
+2014,Total,Females,Work,76.0
+2014,Total,Females,Other reasons,52.0
+2014,Europe,Females,Total,66.0
+2014,Europe,Females,Family union,42.0
+2014,Europe,Females,Education,16.0
+2014,Europe,Females,Work,4.0
+2014,Europe,Females,Other reasons,4.0
+2014,America,Females,Total,188.0
+2014,America,Females,Family union,51.0
+2014,America,Females,Education,85.0
+2014,America,Females,Work,41.0
+2014,America,Females,Other reasons,11.0
+2014,Asia,Females,Total,207.0
+2014,Asia,Females,Family union,100.0
+2014,Asia,Females,Education,67.0
+2014,Asia,Females,Work,22.0
+2014,Asia,Females,Other reasons,18.0
+2014,Africa,Females,Total,54.0
+2014,Africa,Females,Family union,18.0
+2014,Africa,Females,Education,18.0
+2014,Africa,Females,Work,6.0
+2014,Africa,Females,Other reasons,12.0
+2014,Oceania,Females,Total,13.0
+2014,Oceania,Females,Family union,6.0
+2014,Oceania,Females,Education,5.0
+2014,Oceania,Females,Work,2.0
+2014,Oceania,Females,Other reasons,
+2014,Stateless,Females,Total,12.0
+2014,Stateless,Females,Family union,4.0
+2014,Stateless,Females,Education,
+2014,Stateless,Females,Work,1.0
+2014,Stateless,Females,Other reasons,7.0
+2014,Not specified,Females,Total,
+2014,Not specified,Females,Family union,
+2014,Not specified,Females,Education,
+2014,Not specified,Females,Work,
+2014,Not specified,Females,Other reasons,
+2015,Total,Total,Total,1213.0
+2015,Total,Total,Family union,413.0
+2015,Total,Total,Education,385.0
+2015,Total,Total,Work,227.0
+2015,Total,Total,Other reasons,188.0
+2015,Europe,Total,Total,134.0
+2015,Europe,Total,Family union,67.0
+2015,Europe,Total,Education,32.0
+2015,Europe,Total,Work,26.0
+2015,Europe,Total,Other reasons,9.0
+2015,America,Total,Total,406.0
+2015,America,Total,Family union,101.0
+2015,America,Total,Education,160.0
+2015,America,Total,Work,114.0
+2015,America,Total,Other reasons,31.0
+2015,Asia,Total,Total,488.0
+2015,Asia,Total,Family union,197.0
+2015,Asia,Total,Education,120.0
+2015,Asia,Total,Work,59.0
+2015,Asia,Total,Other reasons,112.0
+2015,Africa,Total,Total,149.0
+2015,Africa,Total,Family union,44.0
+2015,Africa,Total,Education,57.0
+2015,Africa,Total,Work,18.0
+2015,Africa,Total,Other reasons,30.0
+2015,Oceania,Total,Total,29.0
+2015,Oceania,Total,Family union,3.0
+2015,Oceania,Total,Education,16.0
+2015,Oceania,Total,Work,10.0
+2015,Oceania,Total,Other reasons,
+2015,Stateless,Total,Total,7.0
+2015,Stateless,Total,Family union,1.0
+2015,Stateless,Total,Education,
+2015,Stateless,Total,Work,
+2015,Stateless,Total,Other reasons,6.0
+2015,Not specified,Total,Total,
+2015,Not specified,Total,Family union,
+2015,Not specified,Total,Education,
+2015,Not specified,Total,Work,
+2015,Not specified,Total,Other reasons,
+2015,Total,Males,Total,581.0
+2015,Total,Males,Family union,165.0
+2015,Total,Males,Education,175.0
+2015,Total,Males,Work,120.0
+2015,Total,Males,Other reasons,121.0
+2015,Europe,Males,Total,63.0
+2015,Europe,Males,Family union,26.0
+2015,Europe,Males,Education,16.0
+2015,Europe,Males,Work,18.0
+2015,Europe,Males,Other reasons,3.0
+2015,America,Males,Total,193.0
+2015,America,Males,Family union,45.0
+2015,America,Males,Education,70.0
+2015,America,Males,Work,62.0
+2015,America,Males,Other reasons,16.0
+2015,Asia,Males,Total,217.0
+2015,Asia,Males,Family union,68.0
+2015,Asia,Males,Education,47.0
+2015,Asia,Males,Work,26.0
+2015,Asia,Males,Other reasons,76.0
+2015,Africa,Males,Total,87.0
+2015,Africa,Males,Family union,24.0
+2015,Africa,Males,Education,36.0
+2015,Africa,Males,Work,6.0
+2015,Africa,Males,Other reasons,21.0
+2015,Oceania,Males,Total,16.0
+2015,Oceania,Males,Family union,2.0
+2015,Oceania,Males,Education,6.0
+2015,Oceania,Males,Work,8.0
+2015,Oceania,Males,Other reasons,
+2015,Stateless,Males,Total,5.0
+2015,Stateless,Males,Family union,
+2015,Stateless,Males,Education,
+2015,Stateless,Males,Work,
+2015,Stateless,Males,Other reasons,5.0
+2015,Not specified,Males,Total,
+2015,Not specified,Males,Family union,
+2015,Not specified,Males,Education,
+2015,Not specified,Males,Work,
+2015,Not specified,Males,Other reasons,
+2015,Total,Females,Total,632.0
+2015,Total,Females,Family union,248.0
+2015,Total,Females,Education,210.0
+2015,Total,Females,Work,107.0
+2015,Total,Females,Other reasons,67.0
+2015,Europe,Females,Total,71.0
+2015,Europe,Females,Family union,41.0
+2015,Europe,Females,Education,16.0
+2015,Europe,Females,Work,8.0
+2015,Europe,Females,Other reasons,6.0
+2015,America,Females,Total,213.0
+2015,America,Females,Family union,56.0
+2015,America,Females,Education,90.0
+2015,America,Females,Work,52.0
+2015,America,Females,Other reasons,15.0
+2015,Asia,Females,Total,271.0
+2015,Asia,Females,Family union,129.0
+2015,Asia,Females,Education,73.0
+2015,Asia,Females,Work,33.0
+2015,Asia,Females,Other reasons,36.0
+2015,Africa,Females,Total,62.0
+2015,Africa,Females,Family union,20.0
+2015,Africa,Females,Education,21.0
+2015,Africa,Females,Work,12.0
+2015,Africa,Females,Other reasons,9.0
+2015,Oceania,Females,Total,13.0
+2015,Oceania,Females,Family union,1.0
+2015,Oceania,Females,Education,10.0
+2015,Oceania,Females,Work,2.0
+2015,Oceania,Females,Other reasons,
+2015,Stateless,Females,Total,2.0
+2015,Stateless,Females,Family union,1.0
+2015,Stateless,Females,Education,
+2015,Stateless,Females,Work,
+2015,Stateless,Females,Other reasons,1.0
+2015,Not specified,Females,Total,
+2015,Not specified,Females,Family union,
+2015,Not specified,Females,Education,
+2015,Not specified,Females,Work,
+2015,Not specified,Females,Other reasons,
+2016,Total,Total,Total,1460.0
+2016,Total,Total,Family union,498.0
+2016,Total,Total,Education,423.0
+2016,Total,Total,Work,311.0
+2016,Total,Total,Other reasons,228.0
+2016,Europe,Total,Total,203.0
+2016,Europe,Total,Family union,105.0
+2016,Europe,Total,Education,34.0
+2016,Europe,Total,Work,44.0
+2016,Europe,Total,Other reasons,20.0
+2016,America,Total,Total,484.0
+2016,America,Total,Family union,129.0
+2016,America,Total,Education,180.0
+2016,America,Total,Work,143.0
+2016,America,Total,Other reasons,32.0
+2016,Asia,Total,Total,578.0
+2016,Asia,Total,Family union,204.0
+2016,Asia,Total,Education,133.0
+2016,Asia,Total,Work,94.0
+2016,Asia,Total,Other reasons,147.0
+2016,Africa,Total,Total,169.0
+2016,Africa,Total,Family union,57.0
+2016,Africa,Total,Education,62.0
+2016,Africa,Total,Work,23.0
+2016,Africa,Total,Other reasons,27.0
+2016,Oceania,Total,Total,24.0
+2016,Oceania,Total,Family union,3.0
+2016,Oceania,Total,Education,14.0
+2016,Oceania,Total,Work,7.0
+2016,Oceania,Total,Other reasons,
+2016,Stateless,Total,Total,2.0
+2016,Stateless,Total,Family union,
+2016,Stateless,Total,Education,
+2016,Stateless,Total,Work,
+2016,Stateless,Total,Other reasons,2.0
+2016,Not specified,Total,Total,
+2016,Not specified,Total,Family union,
+2016,Not specified,Total,Education,
+2016,Not specified,Total,Work,
+2016,Not specified,Total,Other reasons,
+2016,Total,Males,Total,681.0
+2016,Total,Males,Family union,184.0
+2016,Total,Males,Education,193.0
+2016,Total,Males,Work,176.0
+2016,Total,Males,Other reasons,128.0
+2016,Europe,Males,Total,96.0
+2016,Europe,Males,Family union,39.0
+2016,Europe,Males,Education,10.0
+2016,Europe,Males,Work,38.0
+2016,Europe,Males,Other reasons,9.0
+2016,America,Males,Total,227.0
+2016,America,Males,Family union,44.0
+2016,America,Males,Education,88.0
+2016,America,Males,Work,79.0
+2016,America,Males,Other reasons,16.0
+2016,Asia,Males,Total,250.0
+2016,Asia,Males,Family union,70.0
+2016,Asia,Males,Education,55.0
+2016,Asia,Males,Work,42.0
+2016,Asia,Males,Other reasons,83.0
+2016,Africa,Males,Total,96.0
+2016,Africa,Males,Family union,30.0
+2016,Africa,Males,Education,32.0
+2016,Africa,Males,Work,16.0
+2016,Africa,Males,Other reasons,18.0
+2016,Oceania,Males,Total,10.0
+2016,Oceania,Males,Family union,1.0
+2016,Oceania,Males,Education,8.0
+2016,Oceania,Males,Work,1.0
+2016,Oceania,Males,Other reasons,
+2016,Stateless,Males,Total,2.0
+2016,Stateless,Males,Family union,
+2016,Stateless,Males,Education,
+2016,Stateless,Males,Work,
+2016,Stateless,Males,Other reasons,2.0
+2016,Not specified,Males,Total,
+2016,Not specified,Males,Family union,
+2016,Not specified,Males,Education,
+2016,Not specified,Males,Work,
+2016,Not specified,Males,Other reasons,
+2016,Total,Females,Total,779.0
+2016,Total,Females,Family union,314.0
+2016,Total,Females,Education,230.0
+2016,Total,Females,Work,135.0
+2016,Total,Females,Other reasons,100.0
+2016,Europe,Females,Total,107.0
+2016,Europe,Females,Family union,66.0
+2016,Europe,Females,Education,24.0
+2016,Europe,Females,Work,6.0
+2016,Europe,Females,Other reasons,11.0
+2016,America,Females,Total,257.0
+2016,America,Females,Family union,85.0
+2016,America,Females,Education,92.0
+2016,America,Females,Work,64.0
+2016,America,Females,Other reasons,16.0
+2016,Asia,Females,Total,328.0
+2016,Asia,Females,Family union,134.0
+2016,Asia,Females,Education,78.0
+2016,Asia,Females,Work,52.0
+2016,Asia,Females,Other reasons,64.0
+2016,Africa,Females,Total,73.0
+2016,Africa,Females,Family union,27.0
+2016,Africa,Females,Education,30.0
+2016,Africa,Females,Work,7.0
+2016,Africa,Females,Other reasons,9.0
+2016,Oceania,Females,Total,14.0
+2016,Oceania,Females,Family union,2.0
+2016,Oceania,Females,Education,6.0
+2016,Oceania,Females,Work,6.0
+2016,Oceania,Females,Other reasons,
+2016,Stateless,Females,Total,
+2016,Stateless,Females,Family union,
+2016,Stateless,Females,Education,
+2016,Stateless,Females,Work,
+2016,Stateless,Females,Other reasons,
+2016,Not specified,Females,Total,
+2016,Not specified,Females,Family union,
+2016,Not specified,Females,Education,
+2016,Not specified,Females,Work,
+2016,Not specified,Females,Other reasons,
+2017,Total,Total,Total,1697.0
+2017,Total,Total,Family union,528.0
+2017,Total,Total,Education,479.0
+2017,Total,Total,Work,422.0
+2017,Total,Total,Other reasons,268.0
+2017,Europe,Total,Total,259.0
+2017,Europe,Total,Family union,99.0
+2017,Europe,Total,Education,22.0
+2017,Europe,Total,Work,112.0
+2017,Europe,Total,Other reasons,26.0
+2017,America,Total,Total,492.0
+2017,America,Total,Family union,140.0
+2017,America,Total,Education,205.0
+2017,America,Total,Work,130.0
+2017,America,Total,Other reasons,17.0
+2017,Asia,Total,Total,720.0
+2017,Asia,Total,Family union,228.0
+2017,Asia,Total,Education,169.0
+2017,Asia,Total,Work,149.0
+2017,Asia,Total,Other reasons,174.0
+2017,Africa,Total,Total,189.0
+2017,Africa,Total,Family union,48.0
+2017,Africa,Total,Education,72.0
+2017,Africa,Total,Work,19.0
+2017,Africa,Total,Other reasons,50.0
+2017,Oceania,Total,Total,32.0
+2017,Oceania,Total,Family union,9.0
+2017,Oceania,Total,Education,11.0
+2017,Oceania,Total,Work,12.0
+2017,Oceania,Total,Other reasons,
+2017,Stateless,Total,Total,5.0
+2017,Stateless,Total,Family union,4.0
+2017,Stateless,Total,Education,
+2017,Stateless,Total,Work,
+2017,Stateless,Total,Other reasons,1.0
+2017,Not specified,Total,Total,
+2017,Not specified,Total,Family union,
+2017,Not specified,Total,Education,
+2017,Not specified,Total,Work,
+2017,Not specified,Total,Other reasons,
+2017,Total,Males,Total,828.0
+2017,Total,Males,Family union,204.0
+2017,Total,Males,Education,222.0
+2017,Total,Males,Work,243.0
+2017,Total,Males,Other reasons,159.0
+2017,Europe,Males,Total,162.0
+2017,Europe,Males,Family union,39.0
+2017,Europe,Males,Education,9.0
+2017,Europe,Males,Work,99.0
+2017,Europe,Males,Other reasons,15.0
+2017,America,Males,Total,209.0
+2017,America,Males,Family union,56.0
+2017,America,Males,Education,85.0
+2017,America,Males,Work,60.0
+2017,America,Males,Other reasons,8.0
+2017,Asia,Males,Total,325.0
+2017,Asia,Males,Family union,75.0
+2017,Asia,Males,Education,73.0
+2017,Asia,Males,Work,72.0
+2017,Asia,Males,Other reasons,105.0
+2017,Africa,Males,Total,114.0
+2017,Africa,Males,Family union,27.0
+2017,Africa,Males,Education,49.0
+2017,Africa,Males,Work,7.0
+2017,Africa,Males,Other reasons,31.0
+2017,Oceania,Males,Total,17.0
+2017,Oceania,Males,Family union,6.0
+2017,Oceania,Males,Education,6.0
+2017,Oceania,Males,Work,5.0
+2017,Oceania,Males,Other reasons,
+2017,Stateless,Males,Total,1.0
+2017,Stateless,Males,Family union,1.0
+2017,Stateless,Males,Education,
+2017,Stateless,Males,Work,
+2017,Stateless,Males,Other reasons,
+2017,Not specified,Males,Total,
+2017,Not specified,Males,Family union,
+2017,Not specified,Males,Education,
+2017,Not specified,Males,Work,
+2017,Not specified,Males,Other reasons,
+2017,Total,Females,Total,869.0
+2017,Total,Females,Family union,324.0
+2017,Total,Females,Education,257.0
+2017,Total,Females,Work,179.0
+2017,Total,Females,Other reasons,109.0
+2017,Europe,Females,Total,97.0
+2017,Europe,Females,Family union,60.0
+2017,Europe,Females,Education,13.0
+2017,Europe,Females,Work,13.0
+2017,Europe,Females,Other reasons,11.0
+2017,America,Females,Total,283.0
+2017,America,Females,Family union,84.0
+2017,America,Females,Education,120.0
+2017,America,Females,Work,70.0
+2017,America,Females,Other reasons,9.0
+2017,Asia,Females,Total,395.0
+2017,Asia,Females,Family union,153.0
+2017,Asia,Females,Education,96.0
+2017,Asia,Females,Work,77.0
+2017,Asia,Females,Other reasons,69.0
+2017,Africa,Females,Total,75.0
+2017,Africa,Females,Family union,21.0
+2017,Africa,Females,Education,23.0
+2017,Africa,Females,Work,12.0
+2017,Africa,Females,Other reasons,19.0
+2017,Oceania,Females,Total,15.0
+2017,Oceania,Females,Family union,3.0
+2017,Oceania,Females,Education,5.0
+2017,Oceania,Females,Work,7.0
+2017,Oceania,Females,Other reasons,
+2017,Stateless,Females,Total,4.0
+2017,Stateless,Females,Family union,3.0
+2017,Stateless,Females,Education,
+2017,Stateless,Females,Work,
+2017,Stateless,Females,Other reasons,1.0
+2017,Not specified,Females,Total,
+2017,Not specified,Females,Family union,
+2017,Not specified,Females,Education,
+2017,Not specified,Females,Work,
+2017,Not specified,Females,Other reasons,
+2018,Total,Total,Total,1932.0
+2018,Total,Total,Family union,604.0
+2018,Total,Total,Education,525.0
+2018,Total,Total,Work,463.0
+2018,Total,Total,Other reasons,340.0
+2018,Europe,Total,Total,256.0
+2018,Europe,Total,Family union,120.0
+2018,Europe,Total,Education,24.0
+2018,Europe,Total,Work,80.0
+2018,Europe,Total,Other reasons,32.0
+2018,America,Total,Total,515.0
+2018,America,Total,Family union,138.0
+2018,America,Total,Education,192.0
+2018,America,Total,Work,163.0
+2018,America,Total,Other reasons,22.0
+2018,Asia,Total,Total,911.0
+2018,Asia,Total,Family union,270.0
+2018,Asia,Total,Education,237.0
+2018,Asia,Total,Work,192.0
+2018,Asia,Total,Other reasons,212.0
+2018,Africa,Total,Total,211.0
+2018,Africa,Total,Family union,61.0
+2018,Africa,Total,Education,63.0
+2018,Africa,Total,Work,17.0
+2018,Africa,Total,Other reasons,70.0
+2018,Oceania,Total,Total,31.0
+2018,Oceania,Total,Family union,11.0
+2018,Oceania,Total,Education,9.0
+2018,Oceania,Total,Work,11.0
+2018,Oceania,Total,Other reasons,
+2018,Stateless,Total,Total,5.0
+2018,Stateless,Total,Family union,2.0
+2018,Stateless,Total,Education,
+2018,Stateless,Total,Work,
+2018,Stateless,Total,Other reasons,3.0
+2018,Not specified,Total,Total,3.0
+2018,Not specified,Total,Family union,2.0
+2018,Not specified,Total,Education,
+2018,Not specified,Total,Work,
+2018,Not specified,Total,Other reasons,1.0
+2018,Total,Males,Total,939.0
+2018,Total,Males,Family union,248.0
+2018,Total,Males,Education,220.0
+2018,Total,Males,Work,275.0
+2018,Total,Males,Other reasons,196.0
+2018,Europe,Males,Total,141.0
+2018,Europe,Males,Family union,54.0
+2018,Europe,Males,Education,9.0
+2018,Europe,Males,Work,63.0
+2018,Europe,Males,Other reasons,15.0
+2018,America,Males,Total,250.0
+2018,America,Males,Family union,54.0
+2018,America,Males,Education,84.0
+2018,America,Males,Work,100.0
+2018,America,Males,Other reasons,12.0
+2018,Asia,Males,Total,405.0
+2018,Asia,Males,Family union,93.0
+2018,Asia,Males,Education,90.0
+2018,Asia,Males,Work,97.0
+2018,Asia,Males,Other reasons,125.0
+2018,Africa,Males,Total,119.0
+2018,Africa,Males,Family union,35.0
+2018,Africa,Males,Education,34.0
+2018,Africa,Males,Work,8.0
+2018,Africa,Males,Other reasons,42.0
+2018,Oceania,Males,Total,18.0
+2018,Oceania,Males,Family union,8.0
+2018,Oceania,Males,Education,3.0
+2018,Oceania,Males,Work,7.0
+2018,Oceania,Males,Other reasons,
+2018,Stateless,Males,Total,3.0
+2018,Stateless,Males,Family union,2.0
+2018,Stateless,Males,Education,
+2018,Stateless,Males,Work,
+2018,Stateless,Males,Other reasons,1.0
+2018,Not specified,Males,Total,3.0
+2018,Not specified,Males,Family union,2.0
+2018,Not specified,Males,Education,
+2018,Not specified,Males,Work,
+2018,Not specified,Males,Other reasons,1.0
+2018,Total,Females,Total,993.0
+2018,Total,Females,Family union,356.0
+2018,Total,Females,Education,305.0
+2018,Total,Females,Work,188.0
+2018,Total,Females,Other reasons,144.0
+2018,Europe,Females,Total,115.0
+2018,Europe,Females,Family union,66.0
+2018,Europe,Females,Education,15.0
+2018,Europe,Females,Work,17.0
+2018,Europe,Females,Other reasons,17.0
+2018,America,Females,Total,265.0
+2018,America,Females,Family union,84.0
+2018,America,Females,Education,108.0
+2018,America,Females,Work,63.0
+2018,America,Females,Other reasons,10.0
+2018,Asia,Females,Total,506.0
+2018,Asia,Females,Family union,177.0
+2018,Asia,Females,Education,147.0
+2018,Asia,Females,Work,95.0
+2018,Asia,Females,Other reasons,87.0
+2018,Africa,Females,Total,92.0
+2018,Africa,Females,Family union,26.0
+2018,Africa,Females,Education,29.0
+2018,Africa,Females,Work,9.0
+2018,Africa,Females,Other reasons,28.0
+2018,Oceania,Females,Total,13.0
+2018,Oceania,Females,Family union,3.0
+2018,Oceania,Females,Education,6.0
+2018,Oceania,Females,Work,4.0
+2018,Oceania,Females,Other reasons,
+2018,Stateless,Females,Total,2.0
+2018,Stateless,Females,Family union,
+2018,Stateless,Females,Education,
+2018,Stateless,Females,Work,
+2018,Stateless,Females,Other reasons,2.0
+2018,Not specified,Females,Total,
+2018,Not specified,Females,Family union,
+2018,Not specified,Females,Education,
+2018,Not specified,Females,Work,
+2018,Not specified,Females,Other reasons,

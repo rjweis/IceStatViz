@@ -1,0 +1,267 @@
+Year,n_prisoners,male_female,crime
+1995,9,Male,Murder
+1996,6,Male,Murder
+1997,7,Male,Murder
+1998,10,Male,Murder
+1999,10,Male,Murder
+2000,13,Male,Murder
+2001,15,Male,Murder
+2002,11,Male,Murder
+2003,13,Male,Murder
+2004,11,Male,Murder
+2005,13,Male,Murder
+2006,18,Male,Murder
+2007,20,Male,Murder
+2008,23,Male,Murder
+2009,22,Male,Murder
+2010,21,Male,Murder
+2011,21,Male,Murder
+2012,24,Male,Murder
+2013,22,Male,Murder
+1995,0,Female,Murder
+1996,0,Female,Murder
+1997,0,Female,Murder
+1998,0,Female,Murder
+1999,0,Female,Murder
+2000,0,Female,Murder
+2001,1,Female,Murder
+2002,2,Female,Murder
+2003,2,Female,Murder
+2004,2,Female,Murder
+2005,2,Female,Murder
+2006,2,Female,Murder
+2007,2,Female,Murder
+2008,1,Female,Murder
+2009,1,Female,Murder
+2010,1,Female,Murder
+2011,1,Female,Murder
+2012,2,Female,Murder
+2013,3,Female,Murder
+1995,145,Male,Crimes of acquisition/forgery
+1996,186,Male,Crimes of acquisition/forgery
+1997,126,Male,Crimes of acquisition/forgery
+1998,91,Male,Crimes of acquisition/forgery
+1999,91,Male,Crimes of acquisition/forgery
+2000,75,Male,Crimes of acquisition/forgery
+2001,77,Male,Crimes of acquisition/forgery
+2002,58,Male,Crimes of acquisition/forgery
+2003,79,Male,Crimes of acquisition/forgery
+2004,100,Male,Crimes of acquisition/forgery
+2005,74,Male,Crimes of acquisition/forgery
+2006,71,Male,Crimes of acquisition/forgery
+2007,61,Male,Crimes of acquisition/forgery
+2008,50,Male,Crimes of acquisition/forgery
+2009,43,Male,Crimes of acquisition/forgery
+2010,76,Male,Crimes of acquisition/forgery
+2011,83,Male,Crimes of acquisition/forgery
+2012,90,Male,Crimes of acquisition/forgery
+2013,78,Male,Crimes of acquisition/forgery
+1995,12,Female,Crimes of acquisition/forgery
+1996,14,Female,Crimes of acquisition/forgery
+1997,10,Female,Crimes of acquisition/forgery
+1998,11,Female,Crimes of acquisition/forgery
+1999,4,Female,Crimes of acquisition/forgery
+2000,1,Female,Crimes of acquisition/forgery
+2001,6,Female,Crimes of acquisition/forgery
+2002,6,Female,Crimes of acquisition/forgery
+2003,7,Female,Crimes of acquisition/forgery
+2004,8,Female,Crimes of acquisition/forgery
+2005,9,Female,Crimes of acquisition/forgery
+2006,7,Female,Crimes of acquisition/forgery
+2007,5,Female,Crimes of acquisition/forgery
+2008,8,Female,Crimes of acquisition/forgery
+2009,15,Female,Crimes of acquisition/forgery
+2010,7,Female,Crimes of acquisition/forgery
+2011,9,Female,Crimes of acquisition/forgery
+2012,13,Female,Crimes of acquisition/forgery
+2013,4,Female,Crimes of acquisition/forgery
+1995,79,Male,Motor vehicle theft and traffic offences
+1996,66,Male,Motor vehicle theft and traffic offences
+1997,36,Male,Motor vehicle theft and traffic offences
+1998,34,Male,Motor vehicle theft and traffic offences
+1999,31,Male,Motor vehicle theft and traffic offences
+2000,41,Male,Motor vehicle theft and traffic offences
+2001,36,Male,Motor vehicle theft and traffic offences
+2002,53,Male,Motor vehicle theft and traffic offences
+2003,51,Male,Motor vehicle theft and traffic offences
+2004,33,Male,Motor vehicle theft and traffic offences
+2005,33,Male,Motor vehicle theft and traffic offences
+2006,48,Male,Motor vehicle theft and traffic offences
+2007,29,Male,Motor vehicle theft and traffic offences
+2008,26,Male,Motor vehicle theft and traffic offences
+2009,28,Male,Motor vehicle theft and traffic offences
+2010,8,Male,Motor vehicle theft and traffic offences
+2011,18,Male,Motor vehicle theft and traffic offences
+2012,27,Male,Motor vehicle theft and traffic offences
+2013,25,Male,Motor vehicle theft and traffic offences
+1995,2,Female,Motor vehicle theft and traffic offences
+1996,3,Female,Motor vehicle theft and traffic offences
+1997,2,Female,Motor vehicle theft and traffic offences
+1998,3,Female,Motor vehicle theft and traffic offences
+1999,1,Female,Motor vehicle theft and traffic offences
+2000,2,Female,Motor vehicle theft and traffic offences
+2001,3,Female,Motor vehicle theft and traffic offences
+2002,2,Female,Motor vehicle theft and traffic offences
+2003,2,Female,Motor vehicle theft and traffic offences
+2004,6,Female,Motor vehicle theft and traffic offences
+2005,1,Female,Motor vehicle theft and traffic offences
+2006,4,Female,Motor vehicle theft and traffic offences
+2007,3,Female,Motor vehicle theft and traffic offences
+2008,4,Female,Motor vehicle theft and traffic offences
+2009,3,Female,Motor vehicle theft and traffic offences
+2010,3,Female,Motor vehicle theft and traffic offences
+2011,3,Female,Motor vehicle theft and traffic offences
+2012,4,Female,Motor vehicle theft and traffic offences
+2013,2,Female,Motor vehicle theft and traffic offences
+1995,48,Male,Drug crimes
+1996,52,Male,Drug crimes
+1997,54,Male,Drug crimes
+1998,51,Male,Drug crimes
+1999,53,Male,Drug crimes
+2000,51,Male,Drug crimes
+2001,70,Male,Drug crimes
+2002,73,Male,Drug crimes
+2003,86,Male,Drug crimes
+2004,71,Male,Drug crimes
+2005,89,Male,Drug crimes
+2006,108,Male,Drug crimes
+2007,84,Male,Drug crimes
+2008,79,Male,Drug crimes
+2009,92,Male,Drug crimes
+2010,109,Male,Drug crimes
+2011,101,Male,Drug crimes
+2012,100,Male,Drug crimes
+2013,105,Male,Drug crimes
+1995,3,Female,Drug crimes
+1996,2,Female,Drug crimes
+1997,3,Female,Drug crimes
+1998,3,Female,Drug crimes
+1999,4,Female,Drug crimes
+2000,4,Female,Drug crimes
+2001,5,Female,Drug crimes
+2002,6,Female,Drug crimes
+2003,5,Female,Drug crimes
+2004,5,Female,Drug crimes
+2005,7,Female,Drug crimes
+2006,4,Female,Drug crimes
+2007,7,Female,Drug crimes
+2008,10,Female,Drug crimes
+2009,6,Female,Drug crimes
+2010,4,Female,Drug crimes
+2011,8,Female,Drug crimes
+2012,9,Female,Drug crimes
+2013,9,Female,Drug crimes
+1995,25,Male,Sexual crimes
+1996,34,Male,Sexual crimes
+1997,26,Male,Sexual crimes
+1998,28,Male,Sexual crimes
+1999,21,Male,Sexual crimes
+2000,10,Male,Sexual crimes
+2001,14,Male,Sexual crimes
+2002,14,Male,Sexual crimes
+2003,30,Male,Sexual crimes
+2004,36,Male,Sexual crimes
+2005,27,Male,Sexual crimes
+2006,28,Male,Sexual crimes
+2007,42,Male,Sexual crimes
+2008,40,Male,Sexual crimes
+2009,33,Male,Sexual crimes
+2010,40,Male,Sexual crimes
+2011,44,Male,Sexual crimes
+2012,47,Male,Sexual crimes
+2013,52,Male,Sexual crimes
+1995,0,Female,Sexual crimes
+1996,0,Female,Sexual crimes
+1997,0,Female,Sexual crimes
+1998,0,Female,Sexual crimes
+1999,0,Female,Sexual crimes
+2000,0,Female,Sexual crimes
+2001,0,Female,Sexual crimes
+2002,0,Female,Sexual crimes
+2003,0,Female,Sexual crimes
+2004,0,Female,Sexual crimes
+2005,0,Female,Sexual crimes
+2006,0,Female,Sexual crimes
+2007,0,Female,Sexual crimes
+2008,0,Female,Sexual crimes
+2009,0,Female,Sexual crimes
+2010,0,Female,Sexual crimes
+2011,0,Female,Sexual crimes
+2012,0,Female,Sexual crimes
+2013,0,Female,Sexual crimes
+1995,22,Male,Crimes of violence
+1996,27,Male,Crimes of violence
+1997,32,Male,Crimes of violence
+1998,27,Male,Crimes of violence
+1999,19,Male,Crimes of violence
+2000,14,Male,Crimes of violence
+2001,21,Male,Crimes of violence
+2002,12,Male,Crimes of violence
+2003,31,Male,Crimes of violence
+2004,29,Male,Crimes of violence
+2005,26,Male,Crimes of violence
+2006,27,Male,Crimes of violence
+2007,23,Male,Crimes of violence
+2008,50,Male,Crimes of violence
+2009,51,Male,Crimes of violence
+2010,36,Male,Crimes of violence
+2011,50,Male,Crimes of violence
+2012,48,Male,Crimes of violence
+2013,52,Male,Crimes of violence
+1995,2,Female,Crimes of violence
+1996,0,Female,Crimes of violence
+1997,1,Female,Crimes of violence
+1998,0,Female,Crimes of violence
+1999,1,Female,Crimes of violence
+2000,1,Female,Crimes of violence
+2001,1,Female,Crimes of violence
+2002,2,Female,Crimes of violence
+2003,1,Female,Crimes of violence
+2004,2,Female,Crimes of violence
+2005,1,Female,Crimes of violence
+2006,2,Female,Crimes of violence
+2007,0,Female,Crimes of violence
+2008,2,Female,Crimes of violence
+2009,3,Female,Crimes of violence
+2010,0,Female,Crimes of violence
+2011,1,Female,Crimes of violence
+2012,2,Female,Crimes of violence
+2013,3,Female,Crimes of violence
+1995,20,Male,Other
+1996,27,Male,Other
+1997,14,Male,Other
+1998,10,Male,Other
+1999,5,Male,Other
+2000,7,Male,Other
+2001,4,Male,Other
+2002,9,Male,Other
+2003,17,Male,Other
+2004,12,Male,Other
+2005,21,Male,Other
+2006,12,Male,Other
+2007,11,Male,Other
+2008,18,Male,Other
+2009,32,Male,Other
+2010,19,Male,Other
+2011,24,Male,Other
+2012,23,Male,Other
+2013,16,Male,Other
+1995,1,Female,Other
+1996,0,Female,Other
+1997,0,Female,Other
+1998,0,Female,Other
+1999,0,Female,Other
+2000,0,Female,Other
+2001,1,Female,Other
+2002,1,Female,Other
+2003,0,Female,Other
+2004,0,Female,Other
+2005,3,Female,Other
+2006,0,Female,Other
+2007,1,Female,Other
+2008,2,Female,Other
+2009,2,Female,Other
+2010,2,Female,Other
+2011,3,Female,Other
+2012,0,Female,Other
+2013,2,Female,Other

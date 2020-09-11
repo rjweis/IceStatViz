@@ -1,0 +1,7137 @@
+Year,Month,Citizenship,n_passengers
+2002,Jan,Passenger total,
+2002,Jan,Iceland,
+2002,Jan,Foreigners,
+2002,Jan,Austria,
+2002,Jan,Australia / New Zealand,
+2002,Jan,U.S.A.,
+2002,Jan,Belgium,
+2002,Jan,U.K.,
+2002,Jan,Denmark,
+2002,Jan,Estonia / Latvia / Lithuania,
+2002,Jan,Finland,
+2002,Jan,France,
+2002,Jan,Netherlands,
+2002,Jan,Hong Kong,
+2002,Jan,India,
+2002,Jan,Ireland,
+2002,Jan,Israel,
+2002,Jan,Italy,
+2002,Jan,Japan,
+2002,Jan,Canada,
+2002,Jan,China,
+2002,Jan,Norway,
+2002,Jan,Poland,
+2002,Jan,Russia,
+2002,Jan,Singapore,
+2002,Jan,Spain,
+2002,Jan,South Korea,
+2002,Jan,Switzerland,
+2002,Jan,Sweden,
+2002,Jan,Taiwan,
+2002,Jan,Germany,
+2002,Jan,Other countries,
+2002,Feb,Passenger total,
+2002,Feb,Iceland,
+2002,Feb,Foreigners,
+2002,Feb,Austria,
+2002,Feb,Australia / New Zealand,
+2002,Feb,U.S.A.,
+2002,Feb,Belgium,
+2002,Feb,U.K.,
+2002,Feb,Denmark,
+2002,Feb,Estonia / Latvia / Lithuania,
+2002,Feb,Finland,
+2002,Feb,France,
+2002,Feb,Netherlands,
+2002,Feb,Hong Kong,
+2002,Feb,India,
+2002,Feb,Ireland,
+2002,Feb,Israel,
+2002,Feb,Italy,
+2002,Feb,Japan,
+2002,Feb,Canada,
+2002,Feb,China,
+2002,Feb,Norway,
+2002,Feb,Poland,
+2002,Feb,Russia,
+2002,Feb,Singapore,
+2002,Feb,Spain,
+2002,Feb,South Korea,
+2002,Feb,Switzerland,
+2002,Feb,Sweden,
+2002,Feb,Taiwan,
+2002,Feb,Germany,
+2002,Feb,Other countries,
+2002,Mar,Passenger total,33616
+2002,Mar,Iceland,16966
+2002,Mar,Foreigners,16650
+2002,Mar,Austria,
+2002,Mar,Australia / New Zealand,
+2002,Mar,U.S.A.,4238
+2002,Mar,Belgium,
+2002,Mar,U.K.,3401
+2002,Mar,Denmark,1329
+2002,Mar,Estonia / Latvia / Lithuania,
+2002,Mar,Finland,414
+2002,Mar,France,660
+2002,Mar,Netherlands,611
+2002,Mar,Hong Kong,
+2002,Mar,India,
+2002,Mar,Ireland,
+2002,Mar,Israel,
+2002,Mar,Italy,102
+2002,Mar,Japan,282
+2002,Mar,Canada,181
+2002,Mar,China,
+2002,Mar,Norway,1459
+2002,Mar,Poland,
+2002,Mar,Russia,
+2002,Mar,Singapore,
+2002,Mar,Spain,77
+2002,Mar,South Korea,
+2002,Mar,Switzerland,170
+2002,Mar,Sweden,1241
+2002,Mar,Taiwan,
+2002,Mar,Germany,1264
+2002,Mar,Other countries,1221
+2002,Apr,Passenger total,35695
+2002,Apr,Iceland,16655
+2002,Apr,Foreigners,19040
+2002,Apr,Austria,
+2002,Apr,Australia / New Zealand,
+2002,Apr,U.S.A.,3286
+2002,Apr,Belgium,
+2002,Apr,U.K.,5156
+2002,Apr,Denmark,1159
+2002,Apr,Estonia / Latvia / Lithuania,
+2002,Apr,Finland,643
+2002,Apr,France,687
+2002,Apr,Netherlands,680
+2002,Apr,Hong Kong,
+2002,Apr,India,
+2002,Apr,Ireland,
+2002,Apr,Israel,
+2002,Apr,Italy,96
+2002,Apr,Japan,178
+2002,Apr,Canada,111
+2002,Apr,China,
+2002,Apr,Norway,1771
+2002,Apr,Poland,
+2002,Apr,Russia,
+2002,Apr,Singapore,
+2002,Apr,Spain,145
+2002,Apr,South Korea,
+2002,Apr,Switzerland,103
+2002,Apr,Sweden,2404
+2002,Apr,Taiwan,
+2002,Apr,Germany,947
+2002,Apr,Other countries,1674
+2002,May,Passenger total,38770
+2002,May,Iceland,19969
+2002,May,Foreigners,18801
+2002,May,Austria,
+2002,May,Australia / New Zealand,
+2002,May,U.S.A.,3782
+2002,May,Belgium,
+2002,May,U.K.,2590
+2002,May,Denmark,1480
+2002,May,Estonia / Latvia / Lithuania,
+2002,May,Finland,523
+2002,May,France,871
+2002,May,Netherlands,856
+2002,May,Hong Kong,
+2002,May,India,
+2002,May,Ireland,
+2002,May,Israel,
+2002,May,Italy,238
+2002,May,Japan,145
+2002,May,Canada,161
+2002,May,China,
+2002,May,Norway,2078
+2002,May,Poland,
+2002,May,Russia,
+2002,May,Singapore,
+2002,May,Spain,152
+2002,May,South Korea,
+2002,May,Switzerland,143
+2002,May,Sweden,2330
+2002,May,Taiwan,
+2002,May,Germany,1535
+2002,May,Other countries,1917
+2002,Jun,Passenger total,60249
+2002,Jun,Iceland,28034
+2002,Jun,Foreigners,32215
+2002,Jun,Austria,
+2002,Jun,Australia / New Zealand,
+2002,Jun,U.S.A.,5635
+2002,Jun,Belgium,
+2002,Jun,U.K.,3600
+2002,Jun,Denmark,2249
+2002,Jun,Estonia / Latvia / Lithuania,
+2002,Jun,Finland,842
+2002,Jun,France,2184
+2002,Jun,Netherlands,1020
+2002,Jun,Hong Kong,
+2002,Jun,India,
+2002,Jun,Ireland,
+2002,Jun,Israel,
+2002,Jun,Italy,709
+2002,Jun,Japan,312
+2002,Jun,Canada,455
+2002,Jun,China,
+2002,Jun,Norway,2849
+2002,Jun,Poland,
+2002,Jun,Russia,
+2002,Jun,Singapore,
+2002,Jun,Spain,364
+2002,Jun,South Korea,
+2002,Jun,Switzerland,708
+2002,Jun,Sweden,2645
+2002,Jun,Taiwan,
+2002,Jun,Germany,4113
+2002,Jun,Other countries,4530
+2002,Jul,Passenger total,72861
+2002,Jul,Iceland,26846
+2002,Jul,Foreigners,46015
+2002,Jul,Austria,
+2002,Jul,Australia / New Zealand,
+2002,Jul,U.S.A.,5808
+2002,Jul,Belgium,
+2002,Jul,U.K.,5636
+2002,Jul,Denmark,4033
+2002,Jul,Estonia / Latvia / Lithuania,
+2002,Jul,Finland,724
+2002,Jul,France,4800
+2002,Jul,Netherlands,1773
+2002,Jul,Hong Kong,
+2002,Jul,India,
+2002,Jul,Ireland,
+2002,Jul,Israel,
+2002,Jul,Italy,1725
+2002,Jul,Japan,504
+2002,Jul,Canada,265
+2002,Jul,China,
+2002,Jul,Norway,2438
+2002,Jul,Poland,
+2002,Jul,Russia,
+2002,Jul,Singapore,
+2002,Jul,Spain,810
+2002,Jul,South Korea,
+2002,Jul,Switzerland,1884
+2002,Jul,Sweden,2629
+2002,Jul,Taiwan,
+2002,Jul,Germany,7652
+2002,Jul,Other countries,5334
+2002,Aug,Passenger total,76494
+2002,Aug,Iceland,25957
+2002,Aug,Foreigners,50537
+2002,Aug,Austria,
+2002,Aug,Australia / New Zealand,
+2002,Aug,U.S.A.,5848
+2002,Aug,Belgium,
+2002,Aug,U.K.,5573
+2002,Aug,Denmark,2765
+2002,Aug,Estonia / Latvia / Lithuania,
+2002,Aug,Finland,882
+2002,Aug,France,5197
+2002,Aug,Netherlands,1871
+2002,Aug,Hong Kong,
+2002,Aug,India,
+2002,Aug,Ireland,
+2002,Aug,Israel,
+2002,Aug,Italy,3674
+2002,Aug,Japan,698
+2002,Aug,Canada,227
+2002,Aug,China,
+2002,Aug,Norway,2528
+2002,Aug,Poland,
+2002,Aug,Russia,
+2002,Aug,Singapore,
+2002,Aug,Spain,1524
+2002,Aug,South Korea,
+2002,Aug,Switzerland,1965
+2002,Aug,Sweden,3206
+2002,Aug,Taiwan,
+2002,Aug,Germany,9060
+2002,Aug,Other countries,5519
+2002,Sep,Passenger total,44754
+2002,Sep,Iceland,20201
+2002,Sep,Foreigners,24553
+2002,Sep,Austria,
+2002,Sep,Australia / New Zealand,
+2002,Sep,U.S.A.,4172
+2002,Sep,Belgium,
+2002,Sep,U.K.,3271
+2002,Sep,Denmark,2143
+2002,Sep,Estonia / Latvia / Lithuania,
+2002,Sep,Finland,676
+2002,Sep,France,1653
+2002,Sep,Netherlands,940
+2002,Sep,Hong Kong,
+2002,Sep,India,
+2002,Sep,Ireland,
+2002,Sep,Israel,
+2002,Sep,Italy,393
+2002,Sep,Japan,337
+2002,Sep,Canada,271
+2002,Sep,China,
+2002,Sep,Norway,2711
+2002,Sep,Poland,
+2002,Sep,Russia,
+2002,Sep,Singapore,
+2002,Sep,Spain,341
+2002,Sep,South Korea,
+2002,Sep,Switzerland,322
+2002,Sep,Sweden,2190
+2002,Sep,Taiwan,
+2002,Sep,Germany,2547
+2002,Sep,Other countries,2586
+2002,Oct,Passenger total,40284
+2002,Oct,Iceland,22513
+2002,Oct,Foreigners,17771
+2002,Oct,Austria,
+2002,Oct,Australia / New Zealand,
+2002,Oct,U.S.A.,3089
+2002,Oct,Belgium,
+2002,Oct,U.K.,5086
+2002,Oct,Denmark,1475
+2002,Oct,Estonia / Latvia / Lithuania,
+2002,Oct,Finland,465
+2002,Oct,France,408
+2002,Oct,Netherlands,563
+2002,Oct,Hong Kong,
+2002,Oct,India,
+2002,Oct,Ireland,
+2002,Oct,Israel,
+2002,Oct,Italy,109
+2002,Oct,Japan,162
+2002,Oct,Canada,157
+2002,Oct,China,
+2002,Oct,Norway,1624
+2002,Oct,Poland,
+2002,Oct,Russia,
+2002,Oct,Singapore,
+2002,Oct,Spain,69
+2002,Oct,South Korea,
+2002,Oct,Switzerland,89
+2002,Oct,Sweden,1820
+2002,Oct,Taiwan,
+2002,Oct,Germany,811
+2002,Oct,Other countries,1844
+2002,Nov,Passenger total,30775
+2002,Nov,Iceland,18369
+2002,Nov,Foreigners,12406
+2002,Nov,Austria,
+2002,Nov,Australia / New Zealand,
+2002,Nov,U.S.A.,2384
+2002,Nov,Belgium,
+2002,Nov,U.K.,2780
+2002,Nov,Denmark,1155
+2002,Nov,Estonia / Latvia / Lithuania,
+2002,Nov,Finland,296
+2002,Nov,France,530
+2002,Nov,Netherlands,385
+2002,Nov,Hong Kong,
+2002,Nov,India,
+2002,Nov,Ireland,
+2002,Nov,Israel,
+2002,Nov,Italy,129
+2002,Nov,Japan,93
+2002,Nov,Canada,118
+2002,Nov,China,
+2002,Nov,Norway,1349
+2002,Nov,Poland,
+2002,Nov,Russia,
+2002,Nov,Singapore,
+2002,Nov,Spain,56
+2002,Nov,South Korea,
+2002,Nov,Switzerland,56
+2002,Nov,Sweden,1410
+2002,Nov,Taiwan,
+2002,Nov,Germany,503
+2002,Nov,Other countries,1162
+2002,Dec,Passenger total,22427
+2002,Dec,Iceland,11835
+2002,Dec,Foreigners,10592
+2002,Dec,Austria,
+2002,Dec,Australia / New Zealand,
+2002,Dec,U.S.A.,1767
+2002,Dec,Belgium,
+2002,Dec,U.K.,1816
+2002,Dec,Denmark,855
+2002,Dec,Estonia / Latvia / Lithuania,
+2002,Dec,Finland,212
+2002,Dec,France,358
+2002,Dec,Netherlands,286
+2002,Dec,Hong Kong,
+2002,Dec,India,
+2002,Dec,Ireland,
+2002,Dec,Israel,
+2002,Dec,Italy,104
+2002,Dec,Japan,169
+2002,Dec,Canada,96
+2002,Dec,China,
+2002,Dec,Norway,1102
+2002,Dec,Poland,
+2002,Dec,Russia,
+2002,Dec,Singapore,
+2002,Dec,Spain,107
+2002,Dec,South Korea,
+2002,Dec,Switzerland,79
+2002,Dec,Sweden,1242
+2002,Dec,Taiwan,
+2002,Dec,Germany,654
+2002,Dec,Other countries,1745
+2003,Jan,Passenger total,30556
+2003,Jan,Iceland,17859
+2003,Jan,Foreigners,12697
+2003,Jan,Austria,
+2003,Jan,Australia / New Zealand,
+2003,Jan,U.S.A.,2451
+2003,Jan,Belgium,
+2003,Jan,U.K.,2927
+2003,Jan,Denmark,763
+2003,Jan,Estonia / Latvia / Lithuania,
+2003,Jan,Finland,194
+2003,Jan,France,412
+2003,Jan,Netherlands,294
+2003,Jan,Hong Kong,
+2003,Jan,India,
+2003,Jan,Ireland,
+2003,Jan,Israel,
+2003,Jan,Italy,222
+2003,Jan,Japan,385
+2003,Jan,Canada,125
+2003,Jan,China,
+2003,Jan,Norway,1075
+2003,Jan,Poland,
+2003,Jan,Russia,
+2003,Jan,Singapore,
+2003,Jan,Spain,125
+2003,Jan,South Korea,
+2003,Jan,Switzerland,104
+2003,Jan,Sweden,973
+2003,Jan,Taiwan,
+2003,Jan,Germany,784
+2003,Jan,Other countries,1863
+2003,Feb,Passenger total,26738
+2003,Feb,Iceland,13790
+2003,Feb,Foreigners,12948
+2003,Feb,Austria,
+2003,Feb,Australia / New Zealand,
+2003,Feb,U.S.A.,1990
+2003,Feb,Belgium,
+2003,Feb,U.K.,3605
+2003,Feb,Denmark,917
+2003,Feb,Estonia / Latvia / Lithuania,
+2003,Feb,Finland,290
+2003,Feb,France,631
+2003,Feb,Netherlands,458
+2003,Feb,Hong Kong,
+2003,Feb,India,
+2003,Feb,Ireland,
+2003,Feb,Israel,
+2003,Feb,Italy,108
+2003,Feb,Japan,238
+2003,Feb,Canada,93
+2003,Feb,China,
+2003,Feb,Norway,1616
+2003,Feb,Poland,
+2003,Feb,Russia,
+2003,Feb,Singapore,
+2003,Feb,Spain,65
+2003,Feb,South Korea,
+2003,Feb,Switzerland,71
+2003,Feb,Sweden,1217
+2003,Feb,Taiwan,
+2003,Feb,Germany,683
+2003,Feb,Other countries,966
+2003,Mar,Passenger total,38177
+2003,Mar,Iceland,19640
+2003,Mar,Foreigners,18537
+2003,Mar,Austria,
+2003,Mar,Australia / New Zealand,
+2003,Mar,U.S.A.,2969
+2003,Mar,Belgium,
+2003,Mar,U.K.,3812
+2003,Mar,Denmark,1532
+2003,Mar,Estonia / Latvia / Lithuania,
+2003,Mar,Finland,545
+2003,Mar,France,1072
+2003,Mar,Netherlands,1146
+2003,Mar,Hong Kong,
+2003,Mar,India,
+2003,Mar,Ireland,
+2003,Mar,Israel,
+2003,Mar,Italy,159
+2003,Mar,Japan,259
+2003,Mar,Canada,134
+2003,Mar,China,
+2003,Mar,Norway,2064
+2003,Mar,Poland,
+2003,Mar,Russia,
+2003,Mar,Singapore,
+2003,Mar,Spain,105
+2003,Mar,South Korea,
+2003,Mar,Switzerland,126
+2003,Mar,Sweden,2004
+2003,Mar,Taiwan,
+2003,Mar,Germany,1001
+2003,Mar,Other countries,1609
+2003,Apr,Passenger total,45955
+2003,Apr,Iceland,25490
+2003,Apr,Foreigners,20465
+2003,Apr,Austria,
+2003,Apr,Australia / New Zealand,
+2003,Apr,U.S.A.,2838
+2003,Apr,Belgium,
+2003,Apr,U.K.,5840
+2003,Apr,Denmark,1664
+2003,Apr,Estonia / Latvia / Lithuania,
+2003,Apr,Finland,702
+2003,Apr,France,880
+2003,Apr,Netherlands,480
+2003,Apr,Hong Kong,
+2003,Apr,India,
+2003,Apr,Ireland,
+2003,Apr,Israel,
+2003,Apr,Italy,196
+2003,Apr,Japan,146
+2003,Apr,Canada,185
+2003,Apr,China,
+2003,Apr,Norway,1982
+2003,Apr,Poland,
+2003,Apr,Russia,
+2003,Apr,Singapore,
+2003,Apr,Spain,120
+2003,Apr,South Korea,
+2003,Apr,Switzerland,91
+2003,Apr,Sweden,2227
+2003,Apr,Taiwan,
+2003,Apr,Germany,1009
+2003,Apr,Other countries,2105
+2003,May,Passenger total,44693
+2003,May,Iceland,24320
+2003,May,Foreigners,20373
+2003,May,Austria,
+2003,May,Australia / New Zealand,
+2003,May,U.S.A.,3623
+2003,May,Belgium,
+2003,May,U.K.,3960
+2003,May,Denmark,1549
+2003,May,Estonia / Latvia / Lithuania,
+2003,May,Finland,736
+2003,May,France,967
+2003,May,Netherlands,929
+2003,May,Hong Kong,
+2003,May,India,
+2003,May,Ireland,
+2003,May,Israel,
+2003,May,Italy,222
+2003,May,Japan,190
+2003,May,Canada,156
+2003,May,China,
+2003,May,Norway,2031
+2003,May,Poland,
+2003,May,Russia,
+2003,May,Singapore,
+2003,May,Spain,303
+2003,May,South Korea,
+2003,May,Switzerland,142
+2003,May,Sweden,2132
+2003,May,Taiwan,
+2003,May,Germany,1571
+2003,May,Other countries,1862
+2003,Jun,Passenger total,66846
+2003,Jun,Iceland,32333
+2003,Jun,Foreigners,34513
+2003,Jun,Austria,
+2003,Jun,Australia / New Zealand,
+2003,Jun,U.S.A.,5943
+2003,Jun,Belgium,
+2003,Jun,U.K.,4734
+2003,Jun,Denmark,2955
+2003,Jun,Estonia / Latvia / Lithuania,
+2003,Jun,Finland,644
+2003,Jun,France,2803
+2003,Jun,Netherlands,1083
+2003,Jun,Hong Kong,
+2003,Jun,India,
+2003,Jun,Ireland,
+2003,Jun,Israel,
+2003,Jun,Italy,748
+2003,Jun,Japan,262
+2003,Jun,Canada,339
+2003,Jun,China,
+2003,Jun,Norway,2501
+2003,Jun,Poland,
+2003,Jun,Russia,
+2003,Jun,Singapore,
+2003,Jun,Spain,615
+2003,Jun,South Korea,
+2003,Jun,Switzerland,650
+2003,Jun,Sweden,2380
+2003,Jun,Taiwan,
+2003,Jun,Germany,5142
+2003,Jun,Other countries,3714
+2003,Jul,Passenger total,87639
+2003,Jul,Iceland,35032
+2003,Jul,Foreigners,52607
+2003,Jul,Austria,
+2003,Jul,Australia / New Zealand,
+2003,Jul,U.S.A.,6232
+2003,Jul,Belgium,
+2003,Jul,U.K.,6826
+2003,Jul,Denmark,4918
+2003,Jul,Estonia / Latvia / Lithuania,
+2003,Jul,Finland,845
+2003,Jul,France,4870
+2003,Jul,Netherlands,1965
+2003,Jul,Hong Kong,
+2003,Jul,India,
+2003,Jul,Ireland,
+2003,Jul,Israel,
+2003,Jul,Italy,1939
+2003,Jul,Japan,526
+2003,Jul,Canada,281
+2003,Jul,China,
+2003,Jul,Norway,2573
+2003,Jul,Poland,
+2003,Jul,Russia,
+2003,Jul,Singapore,
+2003,Jul,Spain,1006
+2003,Jul,South Korea,
+2003,Jul,Switzerland,2095
+2003,Jul,Sweden,2739
+2003,Jul,Taiwan,
+2003,Jul,Germany,9576
+2003,Jul,Other countries,6216
+2003,Aug,Passenger total,88150
+2003,Aug,Iceland,29387
+2003,Aug,Foreigners,58763
+2003,Aug,Austria,
+2003,Aug,Australia / New Zealand,
+2003,Aug,U.S.A.,6454
+2003,Aug,Belgium,
+2003,Aug,U.K.,7270
+2003,Aug,Denmark,3156
+2003,Aug,Estonia / Latvia / Lithuania,
+2003,Aug,Finland,925
+2003,Aug,France,5908
+2003,Aug,Netherlands,2161
+2003,Aug,Hong Kong,
+2003,Aug,India,
+2003,Aug,Ireland,
+2003,Aug,Israel,
+2003,Aug,Italy,4255
+2003,Aug,Japan,723
+2003,Aug,Canada,496
+2003,Aug,China,
+2003,Aug,Norway,3015
+2003,Aug,Poland,
+2003,Aug,Russia,
+2003,Aug,Singapore,
+2003,Aug,Spain,1988
+2003,Aug,South Korea,
+2003,Aug,Switzerland,2275
+2003,Aug,Sweden,3560
+2003,Aug,Taiwan,
+2003,Aug,Germany,9959
+2003,Aug,Other countries,6618
+2003,Sep,Passenger total,54228
+2003,Sep,Iceland,25170
+2003,Sep,Foreigners,29058
+2003,Sep,Austria,
+2003,Sep,Australia / New Zealand,
+2003,Sep,U.S.A.,4554
+2003,Sep,Belgium,
+2003,Sep,U.K.,4179
+2003,Sep,Denmark,2561
+2003,Sep,Estonia / Latvia / Lithuania,
+2003,Sep,Finland,715
+2003,Sep,France,1487
+2003,Sep,Netherlands,844
+2003,Sep,Hong Kong,
+2003,Sep,India,
+2003,Sep,Ireland,
+2003,Sep,Israel,
+2003,Sep,Italy,546
+2003,Sep,Japan,388
+2003,Sep,Canada,310
+2003,Sep,China,
+2003,Sep,Norway,2331
+2003,Sep,Poland,
+2003,Sep,Russia,
+2003,Sep,Singapore,
+2003,Sep,Spain,481
+2003,Sep,South Korea,
+2003,Sep,Switzerland,324
+2003,Sep,Sweden,2665
+2003,Sep,Taiwan,
+2003,Sep,Germany,4544
+2003,Sep,Other countries,3129
+2003,Oct,Passenger total,51657
+2003,Oct,Iceland,29125
+2003,Oct,Foreigners,22532
+2003,Oct,Austria,
+2003,Oct,Australia / New Zealand,
+2003,Oct,U.S.A.,3528
+2003,Oct,Belgium,
+2003,Oct,U.K.,4143
+2003,Oct,Denmark,2031
+2003,Oct,Estonia / Latvia / Lithuania,
+2003,Oct,Finland,951
+2003,Oct,France,532
+2003,Oct,Netherlands,640
+2003,Oct,Hong Kong,
+2003,Oct,India,
+2003,Oct,Ireland,
+2003,Oct,Israel,
+2003,Oct,Italy,166
+2003,Oct,Japan,875
+2003,Oct,Canada,221
+2003,Oct,China,
+2003,Oct,Norway,2631
+2003,Oct,Poland,
+2003,Oct,Russia,
+2003,Oct,Singapore,
+2003,Oct,Spain,134
+2003,Oct,South Korea,
+2003,Oct,Switzerland,125
+2003,Oct,Sweden,2602
+2003,Oct,Taiwan,
+2003,Oct,Germany,1251
+2003,Oct,Other countries,2702
+2003,Nov,Passenger total,37281
+2003,Nov,Iceland,22145
+2003,Nov,Foreigners,15136
+2003,Nov,Austria,
+2003,Nov,Australia / New Zealand,
+2003,Nov,U.S.A.,2779
+2003,Nov,Belgium,
+2003,Nov,U.K.,3363
+2003,Nov,Denmark,1349
+2003,Nov,Estonia / Latvia / Lithuania,
+2003,Nov,Finland,270
+2003,Nov,France,288
+2003,Nov,Netherlands,391
+2003,Nov,Hong Kong,
+2003,Nov,India,
+2003,Nov,Ireland,
+2003,Nov,Israel,
+2003,Nov,Italy,166
+2003,Nov,Japan,213
+2003,Nov,Canada,101
+2003,Nov,China,
+2003,Nov,Norway,1703
+2003,Nov,Poland,
+2003,Nov,Russia,
+2003,Nov,Singapore,
+2003,Nov,Spain,68
+2003,Nov,South Korea,
+2003,Nov,Switzerland,50
+2003,Nov,Sweden,1812
+2003,Nov,Taiwan,
+2003,Nov,Germany,608
+2003,Nov,Other countries,1975
+2003,Dec,Passenger total,28449
+2003,Dec,Iceland,17310
+2003,Dec,Foreigners,11139
+2003,Dec,Austria,
+2003,Dec,Australia / New Zealand,
+2003,Dec,U.S.A.,1881
+2003,Dec,Belgium,
+2003,Dec,U.K.,2314
+2003,Dec,Denmark,931
+2003,Dec,Estonia / Latvia / Lithuania,
+2003,Dec,Finland,153
+2003,Dec,France,495
+2003,Dec,Netherlands,335
+2003,Dec,Hong Kong,
+2003,Dec,India,
+2003,Dec,Ireland,
+2003,Dec,Israel,
+2003,Dec,Italy,264
+2003,Dec,Japan,253
+2003,Dec,Canada,118
+2003,Dec,China,
+2003,Dec,Norway,895
+2003,Dec,Poland,
+2003,Dec,Russia,
+2003,Dec,Singapore,
+2003,Dec,Spain,116
+2003,Dec,South Korea,
+2003,Dec,Switzerland,68
+2003,Dec,Sweden,900
+2003,Dec,Taiwan,
+2003,Dec,Germany,679
+2003,Dec,Other countries,1737
+2004,Jan,Passenger total,34471
+2004,Jan,Iceland,21206
+2004,Jan,Foreigners,13265
+2004,Jan,Austria,
+2004,Jan,Australia / New Zealand,
+2004,Jan,U.S.A.,2479
+2004,Jan,Belgium,
+2004,Jan,U.K.,2553
+2004,Jan,Denmark,1114
+2004,Jan,Estonia / Latvia / Lithuania,
+2004,Jan,Finland,295
+2004,Jan,France,772
+2004,Jan,Netherlands,313
+2004,Jan,Hong Kong,
+2004,Jan,India,
+2004,Jan,Ireland,
+2004,Jan,Israel,
+2004,Jan,Italy,231
+2004,Jan,Japan,487
+2004,Jan,Canada,138
+2004,Jan,China,
+2004,Jan,Norway,1161
+2004,Jan,Poland,
+2004,Jan,Russia,
+2004,Jan,Singapore,
+2004,Jan,Spain,155
+2004,Jan,South Korea,
+2004,Jan,Switzerland,151
+2004,Jan,Sweden,1096
+2004,Jan,Taiwan,
+2004,Jan,Germany,873
+2004,Jan,Other countries,1447
+2004,Feb,Passenger total,35515
+2004,Feb,Iceland,20091
+2004,Feb,Foreigners,15424
+2004,Feb,Austria,
+2004,Feb,Australia / New Zealand,
+2004,Feb,U.S.A.,2269
+2004,Feb,Belgium,
+2004,Feb,U.K.,3793
+2004,Feb,Denmark,1483
+2004,Feb,Estonia / Latvia / Lithuania,
+2004,Feb,Finland,285
+2004,Feb,France,675
+2004,Feb,Netherlands,522
+2004,Feb,Hong Kong,
+2004,Feb,India,
+2004,Feb,Ireland,
+2004,Feb,Israel,
+2004,Feb,Italy,157
+2004,Feb,Japan,374
+2004,Feb,Canada,95
+2004,Feb,China,
+2004,Feb,Norway,2174
+2004,Feb,Poland,
+2004,Feb,Russia,
+2004,Feb,Singapore,
+2004,Feb,Spain,83
+2004,Feb,South Korea,
+2004,Feb,Switzerland,71
+2004,Feb,Sweden,1422
+2004,Feb,Taiwan,
+2004,Feb,Germany,715
+2004,Feb,Other countries,1306
+2004,Mar,Passenger total,40961
+2004,Mar,Iceland,22219
+2004,Mar,Foreigners,18742
+2004,Mar,Austria,
+2004,Mar,Australia / New Zealand,
+2004,Mar,U.S.A.,2796
+2004,Mar,Belgium,
+2004,Mar,U.K.,3551
+2004,Mar,Denmark,1909
+2004,Mar,Estonia / Latvia / Lithuania,
+2004,Mar,Finland,452
+2004,Mar,France,814
+2004,Mar,Netherlands,932
+2004,Mar,Hong Kong,
+2004,Mar,India,
+2004,Mar,Ireland,
+2004,Mar,Israel,
+2004,Mar,Italy,188
+2004,Mar,Japan,401
+2004,Mar,Canada,155
+2004,Mar,China,
+2004,Mar,Norway,2334
+2004,Mar,Poland,
+2004,Mar,Russia,
+2004,Mar,Singapore,
+2004,Mar,Spain,74
+2004,Mar,South Korea,
+2004,Mar,Switzerland,93
+2004,Mar,Sweden,1837
+2004,Mar,Taiwan,
+2004,Mar,Germany,1246
+2004,Mar,Other countries,1960
+2004,Apr,Passenger total,55639
+2004,Apr,Iceland,31191
+2004,Apr,Foreigners,24448
+2004,Apr,Austria,
+2004,Apr,Australia / New Zealand,
+2004,Apr,U.S.A.,2900
+2004,Apr,Belgium,
+2004,Apr,U.K.,7335
+2004,Apr,Denmark,2413
+2004,Apr,Estonia / Latvia / Lithuania,
+2004,Apr,Finland,512
+2004,Apr,France,956
+2004,Apr,Netherlands,569
+2004,Apr,Hong Kong,
+2004,Apr,India,
+2004,Apr,Ireland,
+2004,Apr,Israel,
+2004,Apr,Italy,312
+2004,Apr,Japan,270
+2004,Apr,Canada,130
+2004,Apr,China,
+2004,Apr,Norway,2339
+2004,Apr,Poland,
+2004,Apr,Russia,
+2004,Apr,Singapore,
+2004,Apr,Spain,186
+2004,Apr,South Korea,
+2004,Apr,Switzerland,119
+2004,Apr,Sweden,2727
+2004,Apr,Taiwan,
+2004,Apr,Germany,1239
+2004,Apr,Other countries,2441
+2004,May,Passenger total,57186
+2004,May,Iceland,31440
+2004,May,Foreigners,25746
+2004,May,Austria,
+2004,May,Australia / New Zealand,
+2004,May,U.S.A.,4127
+2004,May,Belgium,
+2004,May,U.K.,3950
+2004,May,Denmark,2993
+2004,May,Estonia / Latvia / Lithuania,
+2004,May,Finland,704
+2004,May,France,935
+2004,May,Netherlands,880
+2004,May,Hong Kong,
+2004,May,India,
+2004,May,Ireland,
+2004,May,Israel,
+2004,May,Italy,381
+2004,May,Japan,329
+2004,May,Canada,245
+2004,May,China,
+2004,May,Norway,2639
+2004,May,Poland,
+2004,May,Russia,
+2004,May,Singapore,
+2004,May,Spain,166
+2004,May,South Korea,
+2004,May,Switzerland,190
+2004,May,Sweden,2588
+2004,May,Taiwan,
+2004,May,Germany,2099
+2004,May,Other countries,3520
+2004,Jun,Passenger total,77858
+2004,Jun,Iceland,39694
+2004,Jun,Foreigners,38164
+2004,Jun,Austria,
+2004,Jun,Australia / New Zealand,
+2004,Jun,U.S.A.,6263
+2004,Jun,Belgium,
+2004,Jun,U.K.,5812
+2004,Jun,Denmark,3269
+2004,Jun,Estonia / Latvia / Lithuania,
+2004,Jun,Finland,1139
+2004,Jun,France,2138
+2004,Jun,Netherlands,1115
+2004,Jun,Hong Kong,
+2004,Jun,India,
+2004,Jun,Ireland,
+2004,Jun,Israel,
+2004,Jun,Italy,751
+2004,Jun,Japan,426
+2004,Jun,Canada,378
+2004,Jun,China,
+2004,Jun,Norway,2855
+2004,Jun,Poland,
+2004,Jun,Russia,
+2004,Jun,Singapore,
+2004,Jun,Spain,438
+2004,Jun,South Korea,
+2004,Jun,Switzerland,618
+2004,Jun,Sweden,2741
+2004,Jun,Taiwan,
+2004,Jun,Germany,4666
+2004,Jun,Other countries,5555
+2004,Jul,Passenger total,100669
+2004,Jul,Iceland,36394
+2004,Jul,Foreigners,64275
+2004,Jul,Austria,
+2004,Jul,Australia / New Zealand,
+2004,Jul,U.S.A.,7322
+2004,Jul,Belgium,
+2004,Jul,U.K.,7541
+2004,Jul,Denmark,6395
+2004,Jul,Estonia / Latvia / Lithuania,
+2004,Jul,Finland,1195
+2004,Jul,France,5492
+2004,Jul,Netherlands,2185
+2004,Jul,Hong Kong,
+2004,Jul,India,
+2004,Jul,Ireland,
+2004,Jul,Israel,
+2004,Jul,Italy,2292
+2004,Jul,Japan,1224
+2004,Jul,Canada,774
+2004,Jul,China,
+2004,Jul,Norway,2939
+2004,Jul,Poland,
+2004,Jul,Russia,
+2004,Jul,Singapore,
+2004,Jul,Spain,1287
+2004,Jul,South Korea,
+2004,Jul,Switzerland,3161
+2004,Jul,Sweden,3798
+2004,Jul,Taiwan,
+2004,Jul,Germany,10691
+2004,Jul,Other countries,7979
+2004,Aug,Passenger total,97809
+2004,Aug,Iceland,33275
+2004,Aug,Foreigners,64534
+2004,Aug,Austria,
+2004,Aug,Australia / New Zealand,
+2004,Aug,U.S.A.,7722
+2004,Aug,Belgium,
+2004,Aug,U.K.,8804
+2004,Aug,Denmark,4068
+2004,Aug,Estonia / Latvia / Lithuania,
+2004,Aug,Finland,918
+2004,Aug,France,6429
+2004,Aug,Netherlands,2235
+2004,Aug,Hong Kong,
+2004,Aug,India,
+2004,Aug,Ireland,
+2004,Aug,Israel,
+2004,Aug,Italy,4001
+2004,Aug,Japan,1405
+2004,Aug,Canada,515
+2004,Aug,China,
+2004,Aug,Norway,2658
+2004,Aug,Poland,
+2004,Aug,Russia,
+2004,Aug,Singapore,
+2004,Aug,Spain,2395
+2004,Aug,South Korea,
+2004,Aug,Switzerland,1965
+2004,Aug,Sweden,3091
+2004,Aug,Taiwan,
+2004,Aug,Germany,10861
+2004,Aug,Other countries,7467
+2004,Sep,Passenger total,60955
+2004,Sep,Iceland,30055
+2004,Sep,Foreigners,30900
+2004,Sep,Austria,
+2004,Sep,Australia / New Zealand,
+2004,Sep,U.S.A.,4530
+2004,Sep,Belgium,
+2004,Sep,U.K.,4469
+2004,Sep,Denmark,3612
+2004,Sep,Estonia / Latvia / Lithuania,
+2004,Sep,Finland,813
+2004,Sep,France,1403
+2004,Sep,Netherlands,1085
+2004,Sep,Hong Kong,
+2004,Sep,India,
+2004,Sep,Ireland,
+2004,Sep,Israel,
+2004,Sep,Italy,525
+2004,Sep,Japan,665
+2004,Sep,Canada,341
+2004,Sep,China,
+2004,Sep,Norway,2549
+2004,Sep,Poland,
+2004,Sep,Russia,
+2004,Sep,Singapore,
+2004,Sep,Spain,537
+2004,Sep,South Korea,
+2004,Sep,Switzerland,298
+2004,Sep,Sweden,2693
+2004,Sep,Taiwan,
+2004,Sep,Germany,3420
+2004,Sep,Other countries,3960
+2004,Oct,Passenger total,56694
+2004,Oct,Iceland,31356
+2004,Oct,Foreigners,25338
+2004,Oct,Austria,
+2004,Oct,Australia / New Zealand,
+2004,Oct,U.S.A.,3605
+2004,Oct,Belgium,
+2004,Oct,U.K.,6356
+2004,Oct,Denmark,2799
+2004,Oct,Estonia / Latvia / Lithuania,
+2004,Oct,Finland,550
+2004,Oct,France,749
+2004,Oct,Netherlands,530
+2004,Oct,Hong Kong,
+2004,Oct,India,
+2004,Oct,Ireland,
+2004,Oct,Israel,
+2004,Oct,Italy,209
+2004,Oct,Japan,237
+2004,Oct,Canada,183
+2004,Oct,China,
+2004,Oct,Norway,2981
+2004,Oct,Poland,
+2004,Oct,Russia,
+2004,Oct,Singapore,
+2004,Oct,Spain,141
+2004,Oct,South Korea,
+2004,Oct,Switzerland,148
+2004,Oct,Sweden,2636
+2004,Oct,Taiwan,
+2004,Oct,Germany,1132
+2004,Oct,Other countries,3082
+2004,Nov,Passenger total,45034
+2004,Nov,Iceland,29074
+2004,Nov,Foreigners,15960
+2004,Nov,Austria,
+2004,Nov,Australia / New Zealand,
+2004,Nov,U.S.A.,2525
+2004,Nov,Belgium,
+2004,Nov,U.K.,3507
+2004,Nov,Denmark,1582
+2004,Nov,Estonia / Latvia / Lithuania,
+2004,Nov,Finland,383
+2004,Nov,France,575
+2004,Nov,Netherlands,377
+2004,Nov,Hong Kong,
+2004,Nov,India,
+2004,Nov,Ireland,
+2004,Nov,Israel,
+2004,Nov,Italy,165
+2004,Nov,Japan,227
+2004,Nov,Canada,305
+2004,Nov,China,
+2004,Nov,Norway,1372
+2004,Nov,Poland,
+2004,Nov,Russia,
+2004,Nov,Singapore,
+2004,Nov,Spain,66
+2004,Nov,South Korea,
+2004,Nov,Switzerland,59
+2004,Nov,Sweden,1720
+2004,Nov,Taiwan,
+2004,Nov,Germany,890
+2004,Nov,Other countries,2207
+2004,Dec,Passenger total,31092
+2004,Dec,Iceland,19355
+2004,Dec,Foreigners,11737
+2004,Dec,Austria,
+2004,Dec,Australia / New Zealand,
+2004,Dec,U.S.A.,1828
+2004,Dec,Belgium,
+2004,Dec,U.K.,2185
+2004,Dec,Denmark,1208
+2004,Dec,Estonia / Latvia / Lithuania,
+2004,Dec,Finland,214
+2004,Dec,France,544
+2004,Dec,Netherlands,271
+2004,Dec,Hong Kong,
+2004,Dec,India,
+2004,Dec,Ireland,
+2004,Dec,Israel,
+2004,Dec,Italy,258
+2004,Dec,Japan,480
+2004,Dec,Canada,222
+2004,Dec,China,
+2004,Dec,Norway,745
+2004,Dec,Poland,
+2004,Dec,Russia,
+2004,Dec,Singapore,
+2004,Dec,Spain,85
+2004,Dec,South Korea,
+2004,Dec,Switzerland,91
+2004,Dec,Sweden,696
+2004,Dec,Taiwan,
+2004,Dec,Germany,707
+2004,Dec,Other countries,2203
+2005,Jan,Passenger total,37747
+2005,Jan,Iceland,23733
+2005,Jan,Foreigners,14014
+2005,Jan,Austria,
+2005,Jan,Australia / New Zealand,
+2005,Jan,U.S.A.,2445
+2005,Jan,Belgium,
+2005,Jan,U.K.,3112
+2005,Jan,Denmark,1255
+2005,Jan,Estonia / Latvia / Lithuania,
+2005,Jan,Finland,153
+2005,Jan,France,577
+2005,Jan,Netherlands,376
+2005,Jan,Hong Kong,
+2005,Jan,India,
+2005,Jan,Ireland,
+2005,Jan,Israel,
+2005,Jan,Italy,229
+2005,Jan,Japan,592
+2005,Jan,Canada,130
+2005,Jan,China,
+2005,Jan,Norway,1139
+2005,Jan,Poland,
+2005,Jan,Russia,
+2005,Jan,Singapore,
+2005,Jan,Spain,106
+2005,Jan,South Korea,
+2005,Jan,Switzerland,318
+2005,Jan,Sweden,1090
+2005,Jan,Taiwan,
+2005,Jan,Germany,986
+2005,Jan,Other countries,1506
+2005,Feb,Passenger total,37780
+2005,Feb,Iceland,22619
+2005,Feb,Foreigners,15161
+2005,Feb,Austria,
+2005,Feb,Australia / New Zealand,
+2005,Feb,U.S.A.,2246
+2005,Feb,Belgium,
+2005,Feb,U.K.,4292
+2005,Feb,Denmark,1379
+2005,Feb,Estonia / Latvia / Lithuania,
+2005,Feb,Finland,233
+2005,Feb,France,672
+2005,Feb,Netherlands,500
+2005,Feb,Hong Kong,
+2005,Feb,India,
+2005,Feb,Ireland,
+2005,Feb,Israel,
+2005,Feb,Italy,150
+2005,Feb,Japan,466
+2005,Feb,Canada,128
+2005,Feb,China,
+2005,Feb,Norway,1630
+2005,Feb,Poland,
+2005,Feb,Russia,
+2005,Feb,Singapore,
+2005,Feb,Spain,96
+2005,Feb,South Korea,
+2005,Feb,Switzerland,100
+2005,Feb,Sweden,928
+2005,Feb,Taiwan,
+2005,Feb,Germany,777
+2005,Feb,Other countries,1564
+2005,Mar,Passenger total,51840
+2005,Mar,Iceland,33017
+2005,Mar,Foreigners,18823
+2005,Mar,Austria,
+2005,Mar,Australia / New Zealand,
+2005,Mar,U.S.A.,3082
+2005,Mar,Belgium,
+2005,Mar,U.K.,4033
+2005,Mar,Denmark,2145
+2005,Mar,Estonia / Latvia / Lithuania,
+2005,Mar,Finland,326
+2005,Mar,France,807
+2005,Mar,Netherlands,674
+2005,Mar,Hong Kong,
+2005,Mar,India,
+2005,Mar,Ireland,
+2005,Mar,Israel,
+2005,Mar,Italy,218
+2005,Mar,Japan,456
+2005,Mar,Canada,166
+2005,Mar,China,
+2005,Mar,Norway,1561
+2005,Mar,Poland,
+2005,Mar,Russia,
+2005,Mar,Singapore,
+2005,Mar,Spain,188
+2005,Mar,South Korea,
+2005,Mar,Switzerland,76
+2005,Mar,Sweden,1478
+2005,Mar,Taiwan,
+2005,Mar,Germany,1268
+2005,Mar,Other countries,2345
+2005,Apr,Passenger total,48723
+2005,Apr,Iceland,27017
+2005,Apr,Foreigners,21706
+2005,Apr,Austria,
+2005,Apr,Australia / New Zealand,
+2005,Apr,U.S.A.,2945
+2005,Apr,Belgium,
+2005,Apr,U.K.,5745
+2005,Apr,Denmark,2401
+2005,Apr,Estonia / Latvia / Lithuania,
+2005,Apr,Finland,536
+2005,Apr,France,961
+2005,Apr,Netherlands,470
+2005,Apr,Hong Kong,
+2005,Apr,India,
+2005,Apr,Ireland,
+2005,Apr,Israel,
+2005,Apr,Italy,187
+2005,Apr,Japan,130
+2005,Apr,Canada,152
+2005,Apr,China,
+2005,Apr,Norway,2096
+2005,Apr,Poland,
+2005,Apr,Russia,
+2005,Apr,Singapore,
+2005,Apr,Spain,122
+2005,Apr,South Korea,
+2005,Apr,Switzerland,145
+2005,Apr,Sweden,2385
+2005,Apr,Taiwan,
+2005,Apr,Germany,1171
+2005,Apr,Other countries,2260
+2005,May,Passenger total,56270
+2005,May,Iceland,28835
+2005,May,Foreigners,27435
+2005,May,Austria,
+2005,May,Australia / New Zealand,
+2005,May,U.S.A.,4642
+2005,May,Belgium,
+2005,May,U.K.,4001
+2005,May,Denmark,3164
+2005,May,Estonia / Latvia / Lithuania,
+2005,May,Finland,811
+2005,May,France,1217
+2005,May,Netherlands,822
+2005,May,Hong Kong,
+2005,May,India,
+2005,May,Ireland,
+2005,May,Israel,
+2005,May,Italy,291
+2005,May,Japan,238
+2005,May,Canada,272
+2005,May,China,
+2005,May,Norway,2260
+2005,May,Poland,
+2005,May,Russia,
+2005,May,Singapore,
+2005,May,Spain,288
+2005,May,South Korea,
+2005,May,Switzerland,276
+2005,May,Sweden,2799
+2005,May,Taiwan,
+2005,May,Germany,2504
+2005,May,Other countries,3850
+2005,Jun,Passenger total,87127
+2005,Jun,Iceland,46171
+2005,Jun,Foreigners,40956
+2005,Jun,Austria,
+2005,Jun,Australia / New Zealand,
+2005,Jun,U.S.A.,8165
+2005,Jun,Belgium,
+2005,Jun,U.K.,5875
+2005,Jun,Denmark,3377
+2005,Jun,Estonia / Latvia / Lithuania,
+2005,Jun,Finland,1038
+2005,Jun,France,2358
+2005,Jun,Netherlands,1201
+2005,Jun,Hong Kong,
+2005,Jun,India,
+2005,Jun,Ireland,
+2005,Jun,Israel,
+2005,Jun,Italy,867
+2005,Jun,Japan,482
+2005,Jun,Canada,398
+2005,Jun,China,
+2005,Jun,Norway,2455
+2005,Jun,Poland,
+2005,Jun,Russia,
+2005,Jun,Singapore,
+2005,Jun,Spain,438
+2005,Jun,South Korea,
+2005,Jun,Switzerland,498
+2005,Jun,Sweden,2806
+2005,Jun,Taiwan,
+2005,Jun,Germany,4714
+2005,Jun,Other countries,6284
+2005,Jul,Passenger total,106708
+2005,Jul,Iceland,41516
+2005,Jul,Foreigners,65192
+2005,Jul,Austria,
+2005,Jul,Australia / New Zealand,
+2005,Jul,U.S.A.,8740
+2005,Jul,Belgium,
+2005,Jul,U.K.,8044
+2005,Jul,Denmark,7128
+2005,Jul,Estonia / Latvia / Lithuania,
+2005,Jul,Finland,1556
+2005,Jul,France,5272
+2005,Jul,Netherlands,2083
+2005,Jul,Hong Kong,
+2005,Jul,India,
+2005,Jul,Ireland,
+2005,Jul,Israel,
+2005,Jul,Italy,1915
+2005,Jul,Japan,621
+2005,Jul,Canada,516
+2005,Jul,China,
+2005,Jul,Norway,2986
+2005,Jul,Poland,
+2005,Jul,Russia,
+2005,Jul,Singapore,
+2005,Jul,Spain,1563
+2005,Jul,South Korea,
+2005,Jul,Switzerland,2561
+2005,Jul,Sweden,3586
+2005,Jul,Taiwan,
+2005,Jul,Germany,8623
+2005,Jul,Other countries,9998
+2005,Aug,Passenger total,105284
+2005,Aug,Iceland,39789
+2005,Aug,Foreigners,65495
+2005,Aug,Austria,
+2005,Aug,Australia / New Zealand,
+2005,Aug,U.S.A.,8108
+2005,Aug,Belgium,
+2005,Aug,U.K.,7985
+2005,Aug,Denmark,4905
+2005,Aug,Estonia / Latvia / Lithuania,
+2005,Aug,Finland,1256
+2005,Aug,France,5672
+2005,Aug,Netherlands,2374
+2005,Aug,Hong Kong,
+2005,Aug,India,
+2005,Aug,Ireland,
+2005,Aug,Israel,
+2005,Aug,Italy,3908
+2005,Aug,Japan,703
+2005,Aug,Canada,744
+2005,Aug,China,
+2005,Aug,Norway,3074
+2005,Aug,Poland,
+2005,Aug,Russia,
+2005,Aug,Singapore,
+2005,Aug,Spain,2601
+2005,Aug,South Korea,
+2005,Aug,Switzerland,1870
+2005,Aug,Sweden,3799
+2005,Aug,Taiwan,
+2005,Aug,Germany,9927
+2005,Aug,Other countries,8569
+2005,Sep,Passenger total,72143
+2005,Sep,Iceland,37524
+2005,Sep,Foreigners,34619
+2005,Sep,Austria,
+2005,Sep,Australia / New Zealand,
+2005,Sep,U.S.A.,5667
+2005,Sep,Belgium,
+2005,Sep,U.K.,4386
+2005,Sep,Denmark,3712
+2005,Sep,Estonia / Latvia / Lithuania,
+2005,Sep,Finland,848
+2005,Sep,France,1282
+2005,Sep,Netherlands,1159
+2005,Sep,Hong Kong,
+2005,Sep,India,
+2005,Sep,Ireland,
+2005,Sep,Israel,
+2005,Sep,Italy,621
+2005,Sep,Japan,732
+2005,Sep,Canada,368
+2005,Sep,China,
+2005,Sep,Norway,2826
+2005,Sep,Poland,
+2005,Sep,Russia,
+2005,Sep,Singapore,
+2005,Sep,Spain,556
+2005,Sep,South Korea,
+2005,Sep,Switzerland,406
+2005,Sep,Sweden,2502
+2005,Sep,Taiwan,
+2005,Sep,Germany,4347
+2005,Sep,Other countries,5207
+2005,Oct,Passenger total,60733
+2005,Oct,Iceland,33694
+2005,Oct,Foreigners,27039
+2005,Oct,Austria,
+2005,Oct,Australia / New Zealand,
+2005,Oct,U.S.A.,3792
+2005,Oct,Belgium,
+2005,Oct,U.K.,5662
+2005,Oct,Denmark,2767
+2005,Oct,Estonia / Latvia / Lithuania,
+2005,Oct,Finland,1203
+2005,Oct,France,663
+2005,Oct,Netherlands,785
+2005,Oct,Hong Kong,
+2005,Oct,India,
+2005,Oct,Ireland,
+2005,Oct,Israel,
+2005,Oct,Italy,227
+2005,Oct,Japan,912
+2005,Oct,Canada,195
+2005,Oct,China,
+2005,Oct,Norway,2312
+2005,Oct,Poland,
+2005,Oct,Russia,
+2005,Oct,Singapore,
+2005,Oct,Spain,248
+2005,Oct,South Korea,
+2005,Oct,Switzerland,191
+2005,Oct,Sweden,2531
+2005,Oct,Taiwan,
+2005,Oct,Germany,1206
+2005,Oct,Other countries,4345
+2005,Nov,Passenger total,48064
+2005,Nov,Iceland,32254
+2005,Nov,Foreigners,15810
+2005,Nov,Austria,
+2005,Nov,Australia / New Zealand,
+2005,Nov,U.S.A.,2636
+2005,Nov,Belgium,
+2005,Nov,U.K.,3055
+2005,Nov,Denmark,1492
+2005,Nov,Estonia / Latvia / Lithuania,
+2005,Nov,Finland,221
+2005,Nov,France,467
+2005,Nov,Netherlands,400
+2005,Nov,Hong Kong,
+2005,Nov,India,
+2005,Nov,Ireland,
+2005,Nov,Israel,
+2005,Nov,Italy,185
+2005,Nov,Japan,280
+2005,Nov,Canada,239
+2005,Nov,China,
+2005,Nov,Norway,1351
+2005,Nov,Poland,
+2005,Nov,Russia,
+2005,Nov,Singapore,
+2005,Nov,Spain,118
+2005,Nov,South Korea,
+2005,Nov,Switzerland,69
+2005,Nov,Sweden,1803
+2005,Nov,Taiwan,
+2005,Nov,Germany,894
+2005,Nov,Other countries,2600
+2005,Dec,Passenger total,40150
+2005,Dec,Iceland,25213
+2005,Dec,Foreigners,14937
+2005,Dec,Austria,
+2005,Dec,Australia / New Zealand,
+2005,Dec,U.S.A.,2163
+2005,Dec,Belgium,
+2005,Dec,U.K.,2370
+2005,Dec,Denmark,1227
+2005,Dec,Estonia / Latvia / Lithuania,
+2005,Dec,Finland,192
+2005,Dec,France,568
+2005,Dec,Netherlands,314
+2005,Dec,Hong Kong,
+2005,Dec,India,
+2005,Dec,Ireland,
+2005,Dec,Israel,
+2005,Dec,Italy,174
+2005,Dec,Japan,507
+2005,Dec,Canada,138
+2005,Dec,China,
+2005,Dec,Norway,851
+2005,Dec,Poland,
+2005,Dec,Russia,
+2005,Dec,Singapore,
+2005,Dec,Spain,112
+2005,Dec,South Korea,
+2005,Dec,Switzerland,90
+2005,Dec,Sweden,895
+2005,Dec,Taiwan,
+2005,Dec,Germany,970
+2005,Dec,Other countries,4366
+2006,Jan,Passenger total,42563
+2006,Jan,Iceland,27186
+2006,Jan,Foreigners,15377
+2006,Jan,Austria,
+2006,Jan,Australia / New Zealand,
+2006,Jan,U.S.A.,2891
+2006,Jan,Belgium,
+2006,Jan,U.K.,3437
+2006,Jan,Denmark,1374
+2006,Jan,Estonia / Latvia / Lithuania,
+2006,Jan,Finland,221
+2006,Jan,France,650
+2006,Jan,Netherlands,392
+2006,Jan,Hong Kong,
+2006,Jan,India,
+2006,Jan,Ireland,
+2006,Jan,Israel,
+2006,Jan,Italy,160
+2006,Jan,Japan,794
+2006,Jan,Canada,130
+2006,Jan,China,
+2006,Jan,Norway,967
+2006,Jan,Poland,
+2006,Jan,Russia,
+2006,Jan,Singapore,
+2006,Jan,Spain,188
+2006,Jan,South Korea,
+2006,Jan,Switzerland,118
+2006,Jan,Sweden,837
+2006,Jan,Taiwan,
+2006,Jan,Germany,1207
+2006,Jan,Other countries,2011
+2006,Feb,Passenger total,41197
+2006,Feb,Iceland,26298
+2006,Feb,Foreigners,14899
+2006,Feb,Austria,
+2006,Feb,Australia / New Zealand,
+2006,Feb,U.S.A.,2411
+2006,Feb,Belgium,
+2006,Feb,U.K.,3680
+2006,Feb,Denmark,1460
+2006,Feb,Estonia / Latvia / Lithuania,
+2006,Feb,Finland,250
+2006,Feb,France,786
+2006,Feb,Netherlands,544
+2006,Feb,Hong Kong,
+2006,Feb,India,
+2006,Feb,Ireland,
+2006,Feb,Israel,
+2006,Feb,Italy,141
+2006,Feb,Japan,449
+2006,Feb,Canada,128
+2006,Feb,China,
+2006,Feb,Norway,1426
+2006,Feb,Poland,
+2006,Feb,Russia,
+2006,Feb,Singapore,
+2006,Feb,Spain,95
+2006,Feb,South Korea,
+2006,Feb,Switzerland,82
+2006,Feb,Sweden,873
+2006,Feb,Taiwan,
+2006,Feb,Germany,796
+2006,Feb,Other countries,1778
+2006,Mar,Passenger total,47377
+2006,Mar,Iceland,29495
+2006,Mar,Foreigners,17882
+2006,Mar,Austria,
+2006,Mar,Australia / New Zealand,
+2006,Mar,U.S.A.,3379
+2006,Mar,Belgium,
+2006,Mar,U.K.,3471
+2006,Mar,Denmark,1981
+2006,Mar,Estonia / Latvia / Lithuania,
+2006,Mar,Finland,309
+2006,Mar,France,883
+2006,Mar,Netherlands,636
+2006,Mar,Hong Kong,
+2006,Mar,India,
+2006,Mar,Ireland,
+2006,Mar,Israel,
+2006,Mar,Italy,175
+2006,Mar,Japan,423
+2006,Mar,Canada,199
+2006,Mar,China,
+2006,Mar,Norway,1936
+2006,Mar,Poland,
+2006,Mar,Russia,
+2006,Mar,Singapore,
+2006,Mar,Spain,91
+2006,Mar,South Korea,
+2006,Mar,Switzerland,103
+2006,Mar,Sweden,1143
+2006,Mar,Taiwan,
+2006,Mar,Germany,1137
+2006,Mar,Other countries,2016
+2006,Apr,Passenger total,65520
+2006,Apr,Iceland,40212
+2006,Apr,Foreigners,25308
+2006,Apr,Austria,
+2006,Apr,Australia / New Zealand,
+2006,Apr,U.S.A.,3586
+2006,Apr,Belgium,
+2006,Apr,U.K.,6283
+2006,Apr,Denmark,2927
+2006,Apr,Estonia / Latvia / Lithuania,
+2006,Apr,Finland,535
+2006,Apr,France,992
+2006,Apr,Netherlands,608
+2006,Apr,Hong Kong,
+2006,Apr,India,
+2006,Apr,Ireland,
+2006,Apr,Israel,
+2006,Apr,Italy,248
+2006,Apr,Japan,291
+2006,Apr,Canada,214
+2006,Apr,China,
+2006,Apr,Norway,1929
+2006,Apr,Poland,
+2006,Apr,Russia,
+2006,Apr,Singapore,
+2006,Apr,Spain,201
+2006,Apr,South Korea,
+2006,Apr,Switzerland,165
+2006,Apr,Sweden,1884
+2006,Apr,Taiwan,
+2006,Apr,Germany,1410
+2006,Apr,Other countries,4035
+2006,May,Passenger total,66988
+2006,May,Iceland,35913
+2006,May,Foreigners,31075
+2006,May,Austria,
+2006,May,Australia / New Zealand,
+2006,May,U.S.A.,5238
+2006,May,Belgium,
+2006,May,U.K.,4948
+2006,May,Denmark,3397
+2006,May,Estonia / Latvia / Lithuania,
+2006,May,Finland,960
+2006,May,France,1152
+2006,May,Netherlands,863
+2006,May,Hong Kong,
+2006,May,India,
+2006,May,Ireland,
+2006,May,Israel,
+2006,May,Italy,459
+2006,May,Japan,249
+2006,May,Canada,323
+2006,May,China,
+2006,May,Norway,2973
+2006,May,Poland,
+2006,May,Russia,
+2006,May,Singapore,
+2006,May,Spain,231
+2006,May,South Korea,
+2006,May,Switzerland,212
+2006,May,Sweden,3128
+2006,May,Taiwan,
+2006,May,Germany,1941
+2006,May,Other countries,5001
+2006,Jun,Passenger total,95219
+2006,Jun,Iceland,50628
+2006,Jun,Foreigners,44591
+2006,Jun,Austria,
+2006,Jun,Australia / New Zealand,
+2006,Jun,U.S.A.,7578
+2006,Jun,Belgium,
+2006,Jun,U.K.,6613
+2006,Jun,Denmark,3309
+2006,Jun,Estonia / Latvia / Lithuania,
+2006,Jun,Finland,1132
+2006,Jun,France,2420
+2006,Jun,Netherlands,1211
+2006,Jun,Hong Kong,
+2006,Jun,India,
+2006,Jun,Ireland,
+2006,Jun,Israel,
+2006,Jun,Italy,916
+2006,Jun,Japan,507
+2006,Jun,Canada,442
+2006,Jun,China,
+2006,Jun,Norway,2880
+2006,Jun,Poland,
+2006,Jun,Russia,
+2006,Jun,Singapore,
+2006,Jun,Spain,557
+2006,Jun,South Korea,
+2006,Jun,Switzerland,731
+2006,Jun,Sweden,3093
+2006,Jun,Taiwan,
+2006,Jun,Germany,5030
+2006,Jun,Other countries,8172
+2006,Jul,Passenger total,109475
+2006,Jul,Iceland,42603
+2006,Jul,Foreigners,66872
+2006,Jul,Austria,
+2006,Jul,Australia / New Zealand,
+2006,Jul,U.S.A.,8673
+2006,Jul,Belgium,
+2006,Jul,U.K.,8047
+2006,Jul,Denmark,6993
+2006,Jul,Estonia / Latvia / Lithuania,
+2006,Jul,Finland,1423
+2006,Jul,France,5186
+2006,Jul,Netherlands,1996
+2006,Jul,Hong Kong,
+2006,Jul,India,
+2006,Jul,Ireland,
+2006,Jul,Israel,
+2006,Jul,Italy,1824
+2006,Jul,Japan,542
+2006,Jul,Canada,643
+2006,Jul,China,
+2006,Jul,Norway,3197
+2006,Jul,Poland,
+2006,Jul,Russia,
+2006,Jul,Singapore,
+2006,Jul,Spain,1824
+2006,Jul,South Korea,
+2006,Jul,Switzerland,1963
+2006,Jul,Sweden,3901
+2006,Jul,Taiwan,
+2006,Jul,Germany,8952
+2006,Jul,Other countries,11708
+2006,Aug,Passenger total,112176
+2006,Aug,Iceland,42589
+2006,Aug,Foreigners,69587
+2006,Aug,Austria,
+2006,Aug,Australia / New Zealand,
+2006,Aug,U.S.A.,8667
+2006,Aug,Belgium,
+2006,Aug,U.K.,8728
+2006,Aug,Denmark,5034
+2006,Aug,Estonia / Latvia / Lithuania,
+2006,Aug,Finland,1181
+2006,Aug,France,5907
+2006,Aug,Netherlands,2158
+2006,Aug,Hong Kong,
+2006,Aug,India,
+2006,Aug,Ireland,
+2006,Aug,Israel,
+2006,Aug,Italy,3558
+2006,Aug,Japan,714
+2006,Aug,Canada,785
+2006,Aug,China,
+2006,Aug,Norway,3311
+2006,Aug,Poland,
+2006,Aug,Russia,
+2006,Aug,Singapore,
+2006,Aug,Spain,3445
+2006,Aug,South Korea,
+2006,Aug,Switzerland,1848
+2006,Aug,Sweden,3658
+2006,Aug,Taiwan,
+2006,Aug,Germany,10368
+2006,Aug,Other countries,10225
+2006,Sep,Passenger total,75845
+2006,Sep,Iceland,36217
+2006,Sep,Foreigners,39628
+2006,Sep,Austria,
+2006,Sep,Australia / New Zealand,
+2006,Sep,U.S.A.,5378
+2006,Sep,Belgium,
+2006,Sep,U.K.,5729
+2006,Sep,Denmark,4555
+2006,Sep,Estonia / Latvia / Lithuania,
+2006,Sep,Finland,1117
+2006,Sep,France,1384
+2006,Sep,Netherlands,1225
+2006,Sep,Hong Kong,
+2006,Sep,India,
+2006,Sep,Ireland,
+2006,Sep,Israel,
+2006,Sep,Italy,680
+2006,Sep,Japan,877
+2006,Sep,Canada,470
+2006,Sep,China,
+2006,Sep,Norway,3434
+2006,Sep,Poland,
+2006,Sep,Russia,
+2006,Sep,Singapore,
+2006,Sep,Spain,716
+2006,Sep,South Korea,
+2006,Sep,Switzerland,349
+2006,Sep,Sweden,2867
+2006,Sep,Taiwan,
+2006,Sep,Germany,4094
+2006,Sep,Other countries,6753
+2006,Oct,Passenger total,70265
+2006,Oct,Iceland,38188
+2006,Oct,Foreigners,32077
+2006,Oct,Austria,
+2006,Oct,Australia / New Zealand,
+2006,Oct,U.S.A.,3590
+2006,Oct,Belgium,
+2006,Oct,U.K.,7509
+2006,Oct,Denmark,3426
+2006,Oct,Estonia / Latvia / Lithuania,
+2006,Oct,Finland,923
+2006,Oct,France,613
+2006,Oct,Netherlands,996
+2006,Oct,Hong Kong,
+2006,Oct,India,
+2006,Oct,Ireland,
+2006,Oct,Israel,
+2006,Oct,Italy,266
+2006,Oct,Japan,829
+2006,Oct,Canada,470
+2006,Oct,China,
+2006,Oct,Norway,3123
+2006,Oct,Poland,
+2006,Oct,Russia,
+2006,Oct,Singapore,
+2006,Oct,Spain,275
+2006,Oct,South Korea,
+2006,Oct,Switzerland,170
+2006,Oct,Sweden,2984
+2006,Oct,Taiwan,
+2006,Oct,Germany,1635
+2006,Oct,Other countries,5268
+2006,Nov,Passenger total,57827
+2006,Nov,Iceland,36267
+2006,Nov,Foreigners,21560
+2006,Nov,Austria,
+2006,Nov,Australia / New Zealand,
+2006,Nov,U.S.A.,2797
+2006,Nov,Belgium,
+2006,Nov,U.K.,5100
+2006,Nov,Denmark,2245
+2006,Nov,Estonia / Latvia / Lithuania,
+2006,Nov,Finland,293
+2006,Nov,France,519
+2006,Nov,Netherlands,534
+2006,Nov,Hong Kong,
+2006,Nov,India,
+2006,Nov,Ireland,
+2006,Nov,Israel,
+2006,Nov,Italy,214
+2006,Nov,Japan,328
+2006,Nov,Canada,408
+2006,Nov,China,
+2006,Nov,Norway,2056
+2006,Nov,Poland,
+2006,Nov,Russia,
+2006,Nov,Singapore,
+2006,Nov,Spain,193
+2006,Nov,South Korea,
+2006,Nov,Switzerland,135
+2006,Nov,Sweden,1801
+2006,Nov,Taiwan,
+2006,Nov,Germany,880
+2006,Nov,Other countries,4057
+2006,Dec,Passenger total,45982
+2006,Dec,Iceland,25937
+2006,Dec,Foreigners,20045
+2006,Dec,Austria,
+2006,Dec,Australia / New Zealand,
+2006,Dec,U.S.A.,1612
+2006,Dec,Belgium,
+2006,Dec,U.K.,3985
+2006,Dec,Denmark,1504
+2006,Dec,Estonia / Latvia / Lithuania,
+2006,Dec,Finland,191
+2006,Dec,France,581
+2006,Dec,Netherlands,351
+2006,Dec,Hong Kong,
+2006,Dec,India,
+2006,Dec,Ireland,
+2006,Dec,Israel,
+2006,Dec,Italy,199
+2006,Dec,Japan,458
+2006,Dec,Canada,212
+2006,Dec,China,
+2006,Dec,Norway,1308
+2006,Dec,Poland,
+2006,Dec,Russia,
+2006,Dec,Singapore,
+2006,Dec,Spain,183
+2006,Dec,South Korea,
+2006,Dec,Switzerland,89
+2006,Dec,Sweden,1196
+2006,Dec,Taiwan,
+2006,Dec,Germany,1039
+2006,Dec,Other countries,7137
+2007,Jan,Passenger total,47905
+2007,Jan,Iceland,29095
+2007,Jan,Foreigners,18810
+2007,Jan,Austria,
+2007,Jan,Australia / New Zealand,
+2007,Jan,U.S.A.,2068
+2007,Jan,Belgium,
+2007,Jan,U.K.,4287
+2007,Jan,Denmark,2001
+2007,Jan,Estonia / Latvia / Lithuania,
+2007,Jan,Finland,332
+2007,Jan,France,546
+2007,Jan,Netherlands,441
+2007,Jan,Hong Kong,
+2007,Jan,India,
+2007,Jan,Ireland,
+2007,Jan,Israel,
+2007,Jan,Italy,264
+2007,Jan,Japan,714
+2007,Jan,Canada,184
+2007,Jan,China,
+2007,Jan,Norway,1414
+2007,Jan,Poland,
+2007,Jan,Russia,
+2007,Jan,Singapore,
+2007,Jan,Spain,191
+2007,Jan,South Korea,
+2007,Jan,Switzerland,276
+2007,Jan,Sweden,1465
+2007,Jan,Taiwan,
+2007,Jan,Germany,1058
+2007,Jan,Other countries,3569
+2007,Feb,Passenger total,47032
+2007,Feb,Iceland,29385
+2007,Feb,Foreigners,17647
+2007,Feb,Austria,
+2007,Feb,Australia / New Zealand,
+2007,Feb,U.S.A.,1685
+2007,Feb,Belgium,
+2007,Feb,U.K.,5344
+2007,Feb,Denmark,1731
+2007,Feb,Estonia / Latvia / Lithuania,
+2007,Feb,Finland,305
+2007,Feb,France,686
+2007,Feb,Netherlands,454
+2007,Feb,Hong Kong,
+2007,Feb,India,
+2007,Feb,Ireland,
+2007,Feb,Israel,
+2007,Feb,Italy,144
+2007,Feb,Japan,528
+2007,Feb,Canada,114
+2007,Feb,China,
+2007,Feb,Norway,1629
+2007,Feb,Poland,
+2007,Feb,Russia,
+2007,Feb,Singapore,
+2007,Feb,Spain,86
+2007,Feb,South Korea,
+2007,Feb,Switzerland,91
+2007,Feb,Sweden,1189
+2007,Feb,Taiwan,
+2007,Feb,Germany,886
+2007,Feb,Other countries,2775
+2007,Mar,Passenger total,59051
+2007,Mar,Iceland,35351
+2007,Mar,Foreigners,23700
+2007,Mar,Austria,
+2007,Mar,Australia / New Zealand,
+2007,Mar,U.S.A.,2517
+2007,Mar,Belgium,
+2007,Mar,U.K.,5486
+2007,Mar,Denmark,2841
+2007,Mar,Estonia / Latvia / Lithuania,
+2007,Mar,Finland,286
+2007,Mar,France,919
+2007,Mar,Netherlands,720
+2007,Mar,Hong Kong,
+2007,Mar,India,
+2007,Mar,Ireland,
+2007,Mar,Israel,
+2007,Mar,Italy,488
+2007,Mar,Japan,475
+2007,Mar,Canada,189
+2007,Mar,China,116
+2007,Mar,Norway,2504
+2007,Mar,Poland,624
+2007,Mar,Russia,
+2007,Mar,Singapore,
+2007,Mar,Spain,199
+2007,Mar,South Korea,
+2007,Mar,Switzerland,120
+2007,Mar,Sweden,1838
+2007,Mar,Taiwan,
+2007,Mar,Germany,1314
+2007,Mar,Other countries,3064
+2007,Apr,Passenger total,64920
+2007,Apr,Iceland,37256
+2007,Apr,Foreigners,27664
+2007,Apr,Austria,
+2007,Apr,Australia / New Zealand,
+2007,Apr,U.S.A.,2934
+2007,Apr,Belgium,
+2007,Apr,U.K.,7547
+2007,Apr,Denmark,2832
+2007,Apr,Estonia / Latvia / Lithuania,
+2007,Apr,Finland,534
+2007,Apr,France,1248
+2007,Apr,Netherlands,654
+2007,Apr,Hong Kong,
+2007,Apr,India,
+2007,Apr,Ireland,
+2007,Apr,Israel,
+2007,Apr,Italy,238
+2007,Apr,Japan,308
+2007,Apr,Canada,205
+2007,Apr,China,245
+2007,Apr,Norway,2432
+2007,Apr,Poland,1619
+2007,Apr,Russia,
+2007,Apr,Singapore,
+2007,Apr,Spain,237
+2007,Apr,South Korea,
+2007,Apr,Switzerland,129
+2007,Apr,Sweden,1867
+2007,Apr,Taiwan,
+2007,Apr,Germany,1390
+2007,Apr,Other countries,3245
+2007,May,Passenger total,74202
+2007,May,Iceland,39946
+2007,May,Foreigners,34256
+2007,May,Austria,
+2007,May,Australia / New Zealand,
+2007,May,U.S.A.,4754
+2007,May,Belgium,
+2007,May,U.K.,4997
+2007,May,Denmark,3016
+2007,May,Estonia / Latvia / Lithuania,
+2007,May,Finland,1077
+2007,May,France,1471
+2007,May,Netherlands,1256
+2007,May,Hong Kong,
+2007,May,India,
+2007,May,Ireland,
+2007,May,Israel,
+2007,May,Italy,429
+2007,May,Japan,315
+2007,May,Canada,500
+2007,May,China,381
+2007,May,Norway,3439
+2007,May,Poland,1197
+2007,May,Russia,
+2007,May,Singapore,
+2007,May,Spain,515
+2007,May,South Korea,
+2007,May,Switzerland,247
+2007,May,Sweden,2911
+2007,May,Taiwan,
+2007,May,Germany,2365
+2007,May,Other countries,5386
+2007,Jun,Passenger total,110496
+2007,Jun,Iceland,54769
+2007,Jun,Foreigners,55727
+2007,Jun,Austria,
+2007,Jun,Australia / New Zealand,
+2007,Jun,U.S.A.,8788
+2007,Jun,Belgium,
+2007,Jun,U.K.,6594
+2007,Jun,Denmark,4632
+2007,Jun,Estonia / Latvia / Lithuania,
+2007,Jun,Finland,1498
+2007,Jun,France,2189
+2007,Jun,Netherlands,1727
+2007,Jun,Hong Kong,
+2007,Jun,India,
+2007,Jun,Ireland,
+2007,Jun,Israel,
+2007,Jun,Italy,1111
+2007,Jun,Japan,463
+2007,Jun,Canada,993
+2007,Jun,China,1779
+2007,Jun,Norway,4378
+2007,Jun,Poland,2080
+2007,Jun,Russia,
+2007,Jun,Singapore,
+2007,Jun,Spain,684
+2007,Jun,South Korea,
+2007,Jun,Switzerland,841
+2007,Jun,Sweden,4056
+2007,Jun,Taiwan,
+2007,Jun,Germany,5347
+2007,Jun,Other countries,8567
+2007,Jul,Passenger total,130072
+2007,Jul,Iceland,49311
+2007,Jul,Foreigners,80761
+2007,Jul,Austria,
+2007,Jul,Australia / New Zealand,
+2007,Jul,U.S.A.,8548
+2007,Jul,Belgium,
+2007,Jul,U.K.,8775
+2007,Jul,Denmark,7583
+2007,Jul,Estonia / Latvia / Lithuania,
+2007,Jul,Finland,1700
+2007,Jul,France,5917
+2007,Jul,Netherlands,3103
+2007,Jul,Hong Kong,
+2007,Jul,India,
+2007,Jul,Ireland,
+2007,Jul,Israel,
+2007,Jul,Italy,2079
+2007,Jul,Japan,707
+2007,Jul,Canada,1173
+2007,Jul,China,1873
+2007,Jul,Norway,4817
+2007,Jul,Poland,2907
+2007,Jul,Russia,
+2007,Jul,Singapore,
+2007,Jul,Spain,1986
+2007,Jul,South Korea,
+2007,Jul,Switzerland,2283
+2007,Jul,Sweden,5129
+2007,Jul,Taiwan,
+2007,Jul,Germany,10438
+2007,Jul,Other countries,11743
+2007,Aug,Passenger total,128628
+2007,Aug,Iceland,47357
+2007,Aug,Foreigners,81271
+2007,Aug,Austria,
+2007,Aug,Australia / New Zealand,
+2007,Aug,U.S.A.,8282
+2007,Aug,Belgium,
+2007,Aug,U.K.,8813
+2007,Aug,Denmark,5432
+2007,Aug,Estonia / Latvia / Lithuania,
+2007,Aug,Finland,1287
+2007,Aug,France,6487
+2007,Aug,Netherlands,2929
+2007,Aug,Hong Kong,
+2007,Aug,India,
+2007,Aug,Ireland,
+2007,Aug,Israel,
+2007,Aug,Italy,4339
+2007,Aug,Japan,758
+2007,Aug,Canada,1358
+2007,Aug,China,1732
+2007,Aug,Norway,4279
+2007,Aug,Poland,2105
+2007,Aug,Russia,
+2007,Aug,Singapore,
+2007,Aug,Spain,3887
+2007,Aug,South Korea,
+2007,Aug,Switzerland,2029
+2007,Aug,Sweden,4968
+2007,Aug,Taiwan,
+2007,Aug,Germany,11140
+2007,Aug,Other countries,11446
+2007,Sep,Passenger total,73869
+2007,Sep,Iceland,34801
+2007,Sep,Foreigners,39065
+2007,Sep,Austria,
+2007,Sep,Australia / New Zealand,
+2007,Sep,U.S.A.,4996
+2007,Sep,Belgium,
+2007,Sep,U.K.,5602
+2007,Sep,Denmark,3926
+2007,Sep,Estonia / Latvia / Lithuania,
+2007,Sep,Finland,1085
+2007,Sep,France,1173
+2007,Sep,Netherlands,1443
+2007,Sep,Hong Kong,
+2007,Sep,India,
+2007,Sep,Ireland,
+2007,Sep,Israel,
+2007,Sep,Italy,743
+2007,Sep,Japan,467
+2007,Sep,Canada,614
+2007,Sep,China,1321
+2007,Sep,Norway,3291
+2007,Sep,Poland,1300
+2007,Sep,Russia,
+2007,Sep,Singapore,
+2007,Sep,Spain,1133
+2007,Sep,South Korea,
+2007,Sep,Switzerland,498
+2007,Sep,Sweden,3367
+2007,Sep,Taiwan,
+2007,Sep,Germany,3191
+2007,Sep,Other countries,4915
+2007,Oct,Passenger total,76724
+2007,Oct,Iceland,42549
+2007,Oct,Foreigners,34175
+2007,Oct,Austria,
+2007,Oct,Australia / New Zealand,
+2007,Oct,U.S.A.,3432
+2007,Oct,Belgium,
+2007,Oct,U.K.,7309
+2007,Oct,Denmark,3739
+2007,Oct,Estonia / Latvia / Lithuania,
+2007,Oct,Finland,1028
+2007,Oct,France,776
+2007,Oct,Netherlands,822
+2007,Oct,Hong Kong,
+2007,Oct,India,
+2007,Oct,Ireland,
+2007,Oct,Israel,
+2007,Oct,Italy,276
+2007,Oct,Japan,371
+2007,Oct,Canada,351
+2007,Oct,China,1150
+2007,Oct,Norway,3113
+2007,Oct,Poland,1121
+2007,Oct,Russia,
+2007,Oct,Singapore,
+2007,Oct,Spain,220
+2007,Oct,South Korea,
+2007,Oct,Switzerland,198
+2007,Oct,Sweden,3397
+2007,Oct,Taiwan,
+2007,Oct,Germany,1382
+2007,Oct,Other countries,5490
+2007,Nov,Passenger total,64052
+2007,Nov,Iceland,40943
+2007,Nov,Foreigners,23109
+2007,Nov,Austria,
+2007,Nov,Australia / New Zealand,
+2007,Nov,U.S.A.,2374
+2007,Nov,Belgium,
+2007,Nov,U.K.,5150
+2007,Nov,Denmark,2132
+2007,Nov,Estonia / Latvia / Lithuania,
+2007,Nov,Finland,456
+2007,Nov,France,696
+2007,Nov,Netherlands,457
+2007,Nov,Hong Kong,
+2007,Nov,India,
+2007,Nov,Ireland,
+2007,Nov,Israel,
+2007,Nov,Italy,199
+2007,Nov,Japan,402
+2007,Nov,Canada,321
+2007,Nov,China,522
+2007,Nov,Norway,2213
+2007,Nov,Poland,764
+2007,Nov,Russia,
+2007,Nov,Singapore,
+2007,Nov,Spain,159
+2007,Nov,South Korea,
+2007,Nov,Switzerland,91
+2007,Nov,Sweden,2025
+2007,Nov,Taiwan,
+2007,Nov,Germany,995
+2007,Nov,Other countries,4153
+2007,Dec,Passenger total,51933
+2007,Dec,Iceland,29119
+2007,Dec,Foreigners,22814
+2007,Dec,Austria,
+2007,Dec,Australia / New Zealand,
+2007,Dec,U.S.A.,1531
+2007,Dec,Belgium,
+2007,Dec,U.K.,3487
+2007,Dec,Denmark,1527
+2007,Dec,Estonia / Latvia / Lithuania,
+2007,Dec,Finland,287
+2007,Dec,France,563
+2007,Dec,Netherlands,399
+2007,Dec,Hong Kong,
+2007,Dec,India,
+2007,Dec,Ireland,
+2007,Dec,Israel,
+2007,Dec,Italy,165
+2007,Dec,Japan,588
+2007,Dec,Canada,294
+2007,Dec,China,414
+2007,Dec,Norway,1270
+2007,Dec,Poland,5303
+2007,Dec,Russia,
+2007,Dec,Singapore,
+2007,Dec,Spain,158
+2007,Dec,South Korea,
+2007,Dec,Switzerland,108
+2007,Dec,Sweden,1144
+2007,Dec,Taiwan,
+2007,Dec,Germany,1050
+2007,Dec,Other countries,4526
+2008,Jan,Passenger total,51292
+2008,Jan,Iceland,31003
+2008,Jan,Foreigners,20289
+2008,Jan,Austria,
+2008,Jan,Australia / New Zealand,
+2008,Jan,U.S.A.,2130
+2008,Jan,Belgium,
+2008,Jan,U.K.,3872
+2008,Jan,Denmark,1941
+2008,Jan,Estonia / Latvia / Lithuania,
+2008,Jan,Finland,288
+2008,Jan,France,1040
+2008,Jan,Netherlands,573
+2008,Jan,Hong Kong,
+2008,Jan,India,
+2008,Jan,Ireland,
+2008,Jan,Israel,
+2008,Jan,Italy,291
+2008,Jan,Japan,768
+2008,Jan,Canada,316
+2008,Jan,China,226
+2008,Jan,Norway,1660
+2008,Jan,Poland,808
+2008,Jan,Russia,
+2008,Jan,Singapore,
+2008,Jan,Spain,166
+2008,Jan,South Korea,
+2008,Jan,Switzerland,195
+2008,Jan,Sweden,1544
+2008,Jan,Taiwan,
+2008,Jan,Germany,1162
+2008,Jan,Other countries,3309
+2008,Feb,Passenger total,52783
+2008,Feb,Iceland,32471
+2008,Feb,Foreigners,20312
+2008,Feb,Austria,
+2008,Feb,Australia / New Zealand,
+2008,Feb,U.S.A.,1502
+2008,Feb,Belgium,
+2008,Feb,U.K.,5797
+2008,Feb,Denmark,1762
+2008,Feb,Estonia / Latvia / Lithuania,
+2008,Feb,Finland,586
+2008,Feb,France,1074
+2008,Feb,Netherlands,655
+2008,Feb,Hong Kong,
+2008,Feb,India,
+2008,Feb,Ireland,
+2008,Feb,Israel,
+2008,Feb,Italy,160
+2008,Feb,Japan,668
+2008,Feb,Canada,225
+2008,Feb,China,133
+2008,Feb,Norway,1907
+2008,Feb,Poland,725
+2008,Feb,Russia,
+2008,Feb,Singapore,
+2008,Feb,Spain,172
+2008,Feb,South Korea,
+2008,Feb,Switzerland,103
+2008,Feb,Sweden,1468
+2008,Feb,Taiwan,
+2008,Feb,Germany,1094
+2008,Feb,Other countries,2281
+2008,Mar,Passenger total,64254
+2008,Mar,Iceland,38635
+2008,Mar,Foreigners,25619
+2008,Mar,Austria,
+2008,Mar,Australia / New Zealand,
+2008,Mar,U.S.A.,2112
+2008,Mar,Belgium,
+2008,Mar,U.K.,5703
+2008,Mar,Denmark,2307
+2008,Mar,Estonia / Latvia / Lithuania,
+2008,Mar,Finland,711
+2008,Mar,France,1093
+2008,Mar,Netherlands,1075
+2008,Mar,Hong Kong,
+2008,Mar,India,
+2008,Mar,Ireland,
+2008,Mar,Israel,
+2008,Mar,Italy,242
+2008,Mar,Japan,702
+2008,Mar,Canada,210
+2008,Mar,China,145
+2008,Mar,Norway,1994
+2008,Mar,Poland,2077
+2008,Mar,Russia,
+2008,Mar,Singapore,
+2008,Mar,Spain,299
+2008,Mar,South Korea,
+2008,Mar,Switzerland,98
+2008,Mar,Sweden,1570
+2008,Mar,Taiwan,
+2008,Mar,Germany,1568
+2008,Mar,Other countries,3713
+2008,Apr,Passenger total,60976
+2008,Apr,Iceland,34891
+2008,Apr,Foreigners,26085
+2008,Apr,Austria,
+2008,Apr,Australia / New Zealand,
+2008,Apr,U.S.A.,2111
+2008,Apr,Belgium,
+2008,Apr,U.K.,5817
+2008,Apr,Denmark,2583
+2008,Apr,Estonia / Latvia / Lithuania,
+2008,Apr,Finland,804
+2008,Apr,France,1204
+2008,Apr,Netherlands,956
+2008,Apr,Hong Kong,
+2008,Apr,India,
+2008,Apr,Ireland,
+2008,Apr,Israel,
+2008,Apr,Italy,279
+2008,Apr,Japan,172
+2008,Apr,Canada,350
+2008,Apr,China,320
+2008,Apr,Norway,3001
+2008,Apr,Poland,1292
+2008,Apr,Russia,
+2008,Apr,Singapore,
+2008,Apr,Spain,173
+2008,Apr,South Korea,
+2008,Apr,Switzerland,151
+2008,Apr,Sweden,1856
+2008,Apr,Taiwan,
+2008,Apr,Germany,1468
+2008,Apr,Other countries,3548
+2008,May,Passenger total,77592
+2008,May,Iceland,41568
+2008,May,Foreigners,36024
+2008,May,Austria,
+2008,May,Australia / New Zealand,
+2008,May,U.S.A.,3354
+2008,May,Belgium,
+2008,May,U.K.,4938
+2008,May,Denmark,3351
+2008,May,Estonia / Latvia / Lithuania,
+2008,May,Finland,1142
+2008,May,France,1468
+2008,May,Netherlands,1739
+2008,May,Hong Kong,
+2008,May,India,
+2008,May,Ireland,
+2008,May,Israel,
+2008,May,Italy,404
+2008,May,Japan,286
+2008,May,Canada,995
+2008,May,China,647
+2008,May,Norway,3012
+2008,May,Poland,2052
+2008,May,Russia,
+2008,May,Singapore,
+2008,May,Spain,409
+2008,May,South Korea,
+2008,May,Switzerland,272
+2008,May,Sweden,3094
+2008,May,Taiwan,
+2008,May,Germany,3098
+2008,May,Other countries,5763
+2008,Jun,Passenger total,105051
+2008,Jun,Iceland,49073
+2008,Jun,Foreigners,55978
+2008,Jun,Austria,
+2008,Jun,Australia / New Zealand,
+2008,Jun,U.S.A.,5947
+2008,Jun,Belgium,
+2008,Jun,U.K.,5440
+2008,Jun,Denmark,4683
+2008,Jun,Estonia / Latvia / Lithuania,
+2008,Jun,Finland,1528
+2008,Jun,France,2780
+2008,Jun,Netherlands,2066
+2008,Jun,Hong Kong,
+2008,Jun,India,
+2008,Jun,Ireland,
+2008,Jun,Israel,
+2008,Jun,Italy,1110
+2008,Jun,Japan,545
+2008,Jun,Canada,1598
+2008,Jun,China,1000
+2008,Jun,Norway,4117
+2008,Jun,Poland,3120
+2008,Jun,Russia,
+2008,Jun,Singapore,
+2008,Jun,Spain,875
+2008,Jun,South Korea,
+2008,Jun,Switzerland,738
+2008,Jun,Sweden,4354
+2008,Jun,Taiwan,
+2008,Jun,Germany,5708
+2008,Jun,Other countries,10369
+2008,Jul,Passenger total,125663
+2008,Jul,Iceland,44396
+2008,Jul,Foreigners,81267
+2008,Jul,Austria,
+2008,Jul,Australia / New Zealand,
+2008,Jul,U.S.A.,6378
+2008,Jul,Belgium,
+2008,Jul,U.K.,8031
+2008,Jul,Denmark,7737
+2008,Jul,Estonia / Latvia / Lithuania,
+2008,Jul,Finland,1506
+2008,Jul,France,6129
+2008,Jul,Netherlands,3448
+2008,Jul,Hong Kong,
+2008,Jul,India,
+2008,Jul,Ireland,
+2008,Jul,Israel,
+2008,Jul,Italy,1857
+2008,Jul,Japan,560
+2008,Jul,Canada,1827
+2008,Jul,China,965
+2008,Jul,Norway,4352
+2008,Jul,Poland,3772
+2008,Jul,Russia,
+2008,Jul,Singapore,
+2008,Jul,Spain,1892
+2008,Jul,South Korea,
+2008,Jul,Switzerland,2340
+2008,Jul,Sweden,4646
+2008,Jul,Taiwan,
+2008,Jul,Germany,11047
+2008,Jul,Other countries,14780
+2008,Aug,Passenger total,123511
+2008,Aug,Iceland,39544
+2008,Aug,Foreigners,83967
+2008,Aug,Austria,
+2008,Aug,Australia / New Zealand,
+2008,Aug,U.S.A.,6892
+2008,Aug,Belgium,
+2008,Aug,U.K.,8685
+2008,Aug,Denmark,5370
+2008,Aug,Estonia / Latvia / Lithuania,
+2008,Aug,Finland,1230
+2008,Aug,France,7232
+2008,Aug,Netherlands,3841
+2008,Aug,Hong Kong,
+2008,Aug,India,
+2008,Aug,Ireland,
+2008,Aug,Israel,
+2008,Aug,Italy,4212
+2008,Aug,Japan,844
+2008,Aug,Canada,2388
+2008,Aug,China,684
+2008,Aug,Norway,3584
+2008,Aug,Poland,2638
+2008,Aug,Russia,
+2008,Aug,Singapore,
+2008,Aug,Spain,4623
+2008,Aug,South Korea,
+2008,Aug,Switzerland,2214
+2008,Aug,Sweden,4123
+2008,Aug,Taiwan,
+2008,Aug,Germany,10612
+2008,Aug,Other countries,14795
+2008,Sep,Passenger total,77494
+2008,Sep,Iceland,33587
+2008,Sep,Foreigners,43907
+2008,Sep,Austria,
+2008,Sep,Australia / New Zealand,
+2008,Sep,U.S.A.,3784
+2008,Sep,Belgium,
+2008,Sep,U.K.,6812
+2008,Sep,Denmark,4123
+2008,Sep,Estonia / Latvia / Lithuania,
+2008,Sep,Finland,1204
+2008,Sep,France,1708
+2008,Sep,Netherlands,1629
+2008,Sep,Hong Kong,
+2008,Sep,India,
+2008,Sep,Ireland,
+2008,Sep,Israel,
+2008,Sep,Italy,874
+2008,Sep,Japan,538
+2008,Sep,Canada,1276
+2008,Sep,China,425
+2008,Sep,Norway,3897
+2008,Sep,Poland,1703
+2008,Sep,Russia,
+2008,Sep,Singapore,
+2008,Sep,Spain,1054
+2008,Sep,South Korea,
+2008,Sep,Switzerland,598
+2008,Sep,Sweden,3337
+2008,Sep,Taiwan,
+2008,Sep,Germany,5025
+2008,Sep,Other countries,5920
+2008,Oct,Passenger total,61813
+2008,Oct,Iceland,28987
+2008,Oct,Foreigners,32826
+2008,Oct,Austria,
+2008,Oct,Australia / New Zealand,
+2008,Oct,U.S.A.,2535
+2008,Oct,Belgium,
+2008,Oct,U.K.,6377
+2008,Oct,Denmark,2909
+2008,Oct,Estonia / Latvia / Lithuania,
+2008,Oct,Finland,995
+2008,Oct,France,850
+2008,Oct,Netherlands,1191
+2008,Oct,Hong Kong,
+2008,Oct,India,
+2008,Oct,Ireland,
+2008,Oct,Israel,
+2008,Oct,Italy,312
+2008,Oct,Japan,455
+2008,Oct,Canada,967
+2008,Oct,China,555
+2008,Oct,Norway,3520
+2008,Oct,Poland,1445
+2008,Oct,Russia,
+2008,Oct,Singapore,
+2008,Oct,Spain,457
+2008,Oct,South Korea,
+2008,Oct,Switzerland,214
+2008,Oct,Sweden,2946
+2008,Oct,Taiwan,
+2008,Oct,Germany,1865
+2008,Oct,Other countries,5233
+2008,Nov,Passenger total,41275
+2008,Nov,Iceland,16899
+2008,Nov,Foreigners,24376
+2008,Nov,Austria,
+2008,Nov,Australia / New Zealand,
+2008,Nov,U.S.A.,2042
+2008,Nov,Belgium,
+2008,Nov,U.K.,4957
+2008,Nov,Denmark,2391
+2008,Nov,Estonia / Latvia / Lithuania,
+2008,Nov,Finland,468
+2008,Nov,France,804
+2008,Nov,Netherlands,895
+2008,Nov,Hong Kong,
+2008,Nov,India,
+2008,Nov,Ireland,
+2008,Nov,Israel,
+2008,Nov,Italy,183
+2008,Nov,Japan,468
+2008,Nov,Canada,225
+2008,Nov,China,359
+2008,Nov,Norway,2392
+2008,Nov,Poland,1254
+2008,Nov,Russia,
+2008,Nov,Singapore,
+2008,Nov,Spain,147
+2008,Nov,South Korea,
+2008,Nov,Switzerland,100
+2008,Nov,Sweden,1857
+2008,Nov,Taiwan,
+2008,Nov,Germany,1201
+2008,Nov,Other countries,4633
+2008,Dec,Passenger total,37614
+2008,Dec,Iceland,15592
+2008,Dec,Foreigners,22022
+2008,Dec,Austria,
+2008,Dec,Australia / New Zealand,
+2008,Dec,U.S.A.,1708
+2008,Dec,Belgium,
+2008,Dec,U.K.,3553
+2008,Dec,Denmark,1869
+2008,Dec,Estonia / Latvia / Lithuania,
+2008,Dec,Finland,335
+2008,Dec,France,779
+2008,Dec,Netherlands,688
+2008,Dec,Hong Kong,
+2008,Dec,India,
+2008,Dec,Ireland,
+2008,Dec,Israel,
+2008,Dec,Italy,192
+2008,Dec,Japan,726
+2008,Dec,Canada,191
+2008,Dec,China,301
+2008,Dec,Norway,1686
+2008,Dec,Poland,3341
+2008,Dec,Russia,
+2008,Dec,Singapore,
+2008,Dec,Spain,171
+2008,Dec,South Korea,
+2008,Dec,Switzerland,113
+2008,Dec,Sweden,1464
+2008,Dec,Taiwan,
+2008,Dec,Germany,1272
+2008,Dec,Other countries,3633
+2009,Jan,Passenger total,38551
+2009,Jan,Iceland,18566
+2009,Jan,Foreigners,19985
+2009,Jan,Austria,
+2009,Jan,Australia / New Zealand,
+2009,Jan,U.S.A.,2386
+2009,Jan,Belgium,
+2009,Jan,U.K.,3865
+2009,Jan,Denmark,1910
+2009,Jan,Estonia / Latvia / Lithuania,
+2009,Jan,Finland,316
+2009,Jan,France,914
+2009,Jan,Netherlands,559
+2009,Jan,Hong Kong,
+2009,Jan,India,
+2009,Jan,Ireland,
+2009,Jan,Israel,
+2009,Jan,Italy,266
+2009,Jan,Japan,971
+2009,Jan,Canada,191
+2009,Jan,China,150
+2009,Jan,Norway,1431
+2009,Jan,Poland,686
+2009,Jan,Russia,
+2009,Jan,Singapore,
+2009,Jan,Spain,221
+2009,Jan,South Korea,
+2009,Jan,Switzerland,268
+2009,Jan,Sweden,1440
+2009,Jan,Taiwan,
+2009,Jan,Germany,1482
+2009,Jan,Other countries,2929
+2009,Feb,Passenger total,33531
+2009,Feb,Iceland,15255
+2009,Feb,Foreigners,18276
+2009,Feb,Austria,
+2009,Feb,Australia / New Zealand,
+2009,Feb,U.S.A.,1756
+2009,Feb,Belgium,
+2009,Feb,U.K.,4881
+2009,Feb,Denmark,1885
+2009,Feb,Estonia / Latvia / Lithuania,
+2009,Feb,Finland,322
+2009,Feb,France,818
+2009,Feb,Netherlands,680
+2009,Feb,Hong Kong,
+2009,Feb,India,
+2009,Feb,Ireland,
+2009,Feb,Israel,
+2009,Feb,Italy,116
+2009,Feb,Japan,588
+2009,Feb,Canada,151
+2009,Feb,China,116
+2009,Feb,Norway,1746
+2009,Feb,Poland,536
+2009,Feb,Russia,
+2009,Feb,Singapore,
+2009,Feb,Spain,116
+2009,Feb,South Korea,
+2009,Feb,Switzerland,123
+2009,Feb,Sweden,1166
+2009,Feb,Taiwan,
+2009,Feb,Germany,1212
+2009,Feb,Other countries,2064
+2009,Mar,Passenger total,41306
+2009,Mar,Iceland,17609
+2009,Mar,Foreigners,23697
+2009,Mar,Austria,
+2009,Mar,Australia / New Zealand,
+2009,Mar,U.S.A.,2693
+2009,Mar,Belgium,
+2009,Mar,U.K.,5197
+2009,Mar,Denmark,2460
+2009,Mar,Estonia / Latvia / Lithuania,
+2009,Mar,Finland,421
+2009,Mar,France,1070
+2009,Mar,Netherlands,1158
+2009,Mar,Hong Kong,
+2009,Mar,India,
+2009,Mar,Ireland,
+2009,Mar,Israel,
+2009,Mar,Italy,228
+2009,Mar,Japan,673
+2009,Mar,Canada,195
+2009,Mar,China,164
+2009,Mar,Norway,2383
+2009,Mar,Poland,682
+2009,Mar,Russia,
+2009,Mar,Singapore,
+2009,Mar,Spain,172
+2009,Mar,South Korea,
+2009,Mar,Switzerland,114
+2009,Mar,Sweden,1720
+2009,Mar,Taiwan,
+2009,Mar,Germany,1778
+2009,Mar,Other countries,2589
+2009,Apr,Passenger total,52155
+2009,Apr,Iceland,24370
+2009,Apr,Foreigners,27785
+2009,Apr,Austria,
+2009,Apr,Australia / New Zealand,
+2009,Apr,U.S.A.,2105
+2009,Apr,Belgium,
+2009,Apr,U.K.,5794
+2009,Apr,Denmark,3053
+2009,Apr,Estonia / Latvia / Lithuania,
+2009,Apr,Finland,644
+2009,Apr,France,1382
+2009,Apr,Netherlands,1020
+2009,Apr,Hong Kong,
+2009,Apr,India,
+2009,Apr,Ireland,
+2009,Apr,Israel,
+2009,Apr,Italy,290
+2009,Apr,Japan,282
+2009,Apr,Canada,640
+2009,Apr,China,242
+2009,Apr,Norway,2757
+2009,Apr,Poland,969
+2009,Apr,Russia,
+2009,Apr,Singapore,
+2009,Apr,Spain,380
+2009,Apr,South Korea,
+2009,Apr,Switzerland,230
+2009,Apr,Sweden,2733
+2009,Apr,Taiwan,
+2009,Apr,Germany,2017
+2009,Apr,Other countries,3247
+2009,May,Passenger total,57043
+2009,May,Iceland,22406
+2009,May,Foreigners,34637
+2009,May,Austria,
+2009,May,Australia / New Zealand,
+2009,May,U.S.A.,3625
+2009,May,Belgium,
+2009,May,U.K.,4324
+2009,May,Denmark,3345
+2009,May,Estonia / Latvia / Lithuania,
+2009,May,Finland,1376
+2009,May,France,1775
+2009,May,Netherlands,1621
+2009,May,Hong Kong,
+2009,May,India,
+2009,May,Ireland,
+2009,May,Israel,
+2009,May,Italy,371
+2009,May,Japan,306
+2009,May,Canada,948
+2009,May,China,362
+2009,May,Norway,3843
+2009,May,Poland,1142
+2009,May,Russia,
+2009,May,Singapore,
+2009,May,Spain,366
+2009,May,South Korea,
+2009,May,Switzerland,341
+2009,May,Sweden,3544
+2009,May,Taiwan,
+2009,May,Germany,2996
+2009,May,Other countries,4352
+2009,Jun,Passenger total,81252
+2009,Jun,Iceland,26763
+2009,Jun,Foreigners,54489
+2009,Jun,Austria,
+2009,Jun,Australia / New Zealand,
+2009,Jun,U.S.A.,6024
+2009,Jun,Belgium,
+2009,Jun,U.K.,4377
+2009,Jun,Denmark,4363
+2009,Jun,Estonia / Latvia / Lithuania,
+2009,Jun,Finland,1617
+2009,Jun,France,3086
+2009,Jun,Netherlands,3034
+2009,Jun,Hong Kong,
+2009,Jun,India,
+2009,Jun,Ireland,
+2009,Jun,Israel,
+2009,Jun,Italy,1284
+2009,Jun,Japan,558
+2009,Jun,Canada,1606
+2009,Jun,China,822
+2009,Jun,Norway,3967
+2009,Jun,Poland,2194
+2009,Jun,Russia,
+2009,Jun,Singapore,
+2009,Jun,Spain,893
+2009,Jun,South Korea,
+2009,Jun,Switzerland,1030
+2009,Jun,Sweden,3521
+2009,Jun,Taiwan,
+2009,Jun,Germany,7317
+2009,Jun,Other countries,8796
+2009,Jul,Passenger total,105344
+2009,Jul,Iceland,23124
+2009,Jul,Foreigners,82220
+2009,Jul,Austria,
+2009,Jul,Australia / New Zealand,
+2009,Jul,U.S.A.,6422
+2009,Jul,Belgium,
+2009,Jul,U.K.,6319
+2009,Jul,Denmark,7787
+2009,Jul,Estonia / Latvia / Lithuania,
+2009,Jul,Finland,2159
+2009,Jul,France,6327
+2009,Jul,Netherlands,2825
+2009,Jul,Hong Kong,
+2009,Jul,India,
+2009,Jul,Ireland,
+2009,Jul,Israel,
+2009,Jul,Italy,2709
+2009,Jul,Japan,779
+2009,Jul,Canada,2347
+2009,Jul,China,730
+2009,Jul,Norway,4818
+2009,Jul,Poland,2502
+2009,Jul,Russia,
+2009,Jul,Singapore,
+2009,Jul,Spain,3021
+2009,Jul,South Korea,
+2009,Jul,Switzerland,2694
+2009,Jul,Sweden,4562
+2009,Jul,Taiwan,
+2009,Jul,Germany,11619
+2009,Jul,Other countries,14600
+2009,Aug,Passenger total,116373
+2009,Aug,Iceland,24352
+2009,Aug,Foreigners,92021
+2009,Aug,Austria,
+2009,Aug,Australia / New Zealand,
+2009,Aug,U.S.A.,7329
+2009,Aug,Belgium,
+2009,Aug,U.K.,7208
+2009,Aug,Denmark,6058
+2009,Aug,Estonia / Latvia / Lithuania,
+2009,Aug,Finland,1824
+2009,Aug,France,8824
+2009,Aug,Netherlands,3523
+2009,Aug,Hong Kong,
+2009,Aug,India,
+2009,Aug,Ireland,
+2009,Aug,Israel,
+2009,Aug,Italy,5895
+2009,Aug,Japan,801
+2009,Aug,Canada,2528
+2009,Aug,China,1122
+2009,Aug,Norway,4149
+2009,Aug,Poland,1686
+2009,Aug,Russia,
+2009,Aug,Singapore,
+2009,Aug,Spain,6499
+2009,Aug,South Korea,
+2009,Aug,Switzerland,2826
+2009,Aug,Sweden,4111
+2009,Aug,Taiwan,
+2009,Aug,Germany,14330
+2009,Aug,Other countries,13308
+2009,Sep,Passenger total,64151
+2009,Sep,Iceland,21688
+2009,Sep,Foreigners,42463
+2009,Sep,Austria,
+2009,Sep,Australia / New Zealand,
+2009,Sep,U.S.A.,4721
+2009,Sep,Belgium,
+2009,Sep,U.K.,4845
+2009,Sep,Denmark,3451
+2009,Sep,Estonia / Latvia / Lithuania,
+2009,Sep,Finland,1077
+2009,Sep,France,2249
+2009,Sep,Netherlands,1837
+2009,Sep,Hong Kong,
+2009,Sep,India,
+2009,Sep,Ireland,
+2009,Sep,Israel,
+2009,Sep,Italy,817
+2009,Sep,Japan,591
+2009,Sep,Canada,1484
+2009,Sep,China,599
+2009,Sep,Norway,4341
+2009,Sep,Poland,832
+2009,Sep,Russia,
+2009,Sep,Singapore,
+2009,Sep,Spain,1167
+2009,Sep,South Korea,
+2009,Sep,Switzerland,582
+2009,Sep,Sweden,3290
+2009,Sep,Taiwan,
+2009,Sep,Germany,5375
+2009,Sep,Other countries,5205
+2009,Oct,Passenger total,55129
+2009,Oct,Iceland,24758
+2009,Oct,Foreigners,30371
+2009,Oct,Austria,
+2009,Oct,Australia / New Zealand,
+2009,Oct,U.S.A.,2946
+2009,Oct,Belgium,
+2009,Oct,U.K.,6088
+2009,Oct,Denmark,3024
+2009,Oct,Estonia / Latvia / Lithuania,
+2009,Oct,Finland,1163
+2009,Oct,France,889
+2009,Oct,Netherlands,1312
+2009,Oct,Hong Kong,
+2009,Oct,India,
+2009,Oct,Ireland,
+2009,Oct,Israel,
+2009,Oct,Italy,275
+2009,Oct,Japan,491
+2009,Oct,Canada,558
+2009,Oct,China,532
+2009,Oct,Norway,3480
+2009,Oct,Poland,787
+2009,Oct,Russia,
+2009,Oct,Singapore,
+2009,Oct,Spain,540
+2009,Oct,South Korea,
+2009,Oct,Switzerland,198
+2009,Oct,Sweden,2511
+2009,Oct,Taiwan,
+2009,Oct,Germany,1726
+2009,Oct,Other countries,3851
+2009,Nov,Passenger total,40598
+2009,Nov,Iceland,19521
+2009,Nov,Foreigners,21077
+2009,Nov,Austria,
+2009,Nov,Australia / New Zealand,
+2009,Nov,U.S.A.,2404
+2009,Nov,Belgium,
+2009,Nov,U.K.,5017
+2009,Nov,Denmark,1640
+2009,Nov,Estonia / Latvia / Lithuania,
+2009,Nov,Finland,399
+2009,Nov,France,746
+2009,Nov,Netherlands,943
+2009,Nov,Hong Kong,
+2009,Nov,India,
+2009,Nov,Ireland,
+2009,Nov,Israel,
+2009,Nov,Italy,197
+2009,Nov,Japan,457
+2009,Nov,Canada,223
+2009,Nov,China,235
+2009,Nov,Norway,2433
+2009,Nov,Poland,535
+2009,Nov,Russia,
+2009,Nov,Singapore,
+2009,Nov,Spain,207
+2009,Nov,South Korea,
+2009,Nov,Switzerland,84
+2009,Nov,Sweden,1849
+2009,Nov,Taiwan,
+2009,Nov,Germany,1108
+2009,Nov,Other countries,2600
+2009,Dec,Passenger total,33640
+2009,Dec,Iceland,16125
+2009,Dec,Foreigners,17515
+2009,Dec,Austria,
+2009,Dec,Australia / New Zealand,
+2009,Dec,U.S.A.,1498
+2009,Dec,Belgium,
+2009,Dec,U.K.,3704
+2009,Dec,Denmark,1294
+2009,Dec,Estonia / Latvia / Lithuania,
+2009,Dec,Finland,248
+2009,Dec,France,738
+2009,Dec,Netherlands,750
+2009,Dec,Hong Kong,
+2009,Dec,India,
+2009,Dec,Ireland,
+2009,Dec,Israel,
+2009,Dec,Italy,197
+2009,Dec,Japan,551
+2009,Dec,Canada,192
+2009,Dec,China,294
+2009,Dec,Norway,1137
+2009,Dec,Poland,1789
+2009,Dec,Russia,
+2009,Dec,Singapore,
+2009,Dec,Spain,189
+2009,Dec,South Korea,
+2009,Dec,Switzerland,156
+2009,Dec,Sweden,974
+2009,Dec,Taiwan,
+2009,Dec,Germany,919
+2009,Dec,Other countries,2885
+2010,Jan,Passenger total,38726
+2010,Jan,Iceland,19944
+2010,Jan,Foreigners,18782
+2010,Jan,Austria,
+2010,Jan,Australia / New Zealand,
+2010,Jan,U.S.A.,2077
+2010,Jan,Belgium,
+2010,Jan,U.K.,4312
+2010,Jan,Denmark,1232
+2010,Jan,Estonia / Latvia / Lithuania,
+2010,Jan,Finland,275
+2010,Jan,France,796
+2010,Jan,Netherlands,669
+2010,Jan,Hong Kong,
+2010,Jan,India,
+2010,Jan,Ireland,
+2010,Jan,Israel,
+2010,Jan,Italy,252
+2010,Jan,Japan,767
+2010,Jan,Canada,241
+2010,Jan,China,226
+2010,Jan,Norway,1489
+2010,Jan,Poland,503
+2010,Jan,Russia,165
+2010,Jan,Singapore,
+2010,Jan,Spain,201
+2010,Jan,South Korea,
+2010,Jan,Switzerland,229
+2010,Jan,Sweden,1525
+2010,Jan,Taiwan,
+2010,Jan,Germany,1374
+2010,Jan,Other countries,2449
+2010,Feb,Passenger total,37292
+2010,Feb,Iceland,16999
+2010,Feb,Foreigners,20293
+2010,Feb,Austria,
+2010,Feb,Australia / New Zealand,
+2010,Feb,U.S.A.,2186
+2010,Feb,Belgium,
+2010,Feb,U.K.,6116
+2010,Feb,Denmark,1418
+2010,Feb,Estonia / Latvia / Lithuania,
+2010,Feb,Finland,268
+2010,Feb,France,884
+2010,Feb,Netherlands,839
+2010,Feb,Hong Kong,
+2010,Feb,India,
+2010,Feb,Ireland,
+2010,Feb,Israel,
+2010,Feb,Italy,206
+2010,Feb,Japan,751
+2010,Feb,Canada,237
+2010,Feb,China,180
+2010,Feb,Norway,1618
+2010,Feb,Poland,397
+2010,Feb,Russia,99
+2010,Feb,Singapore,
+2010,Feb,Spain,175
+2010,Feb,South Korea,
+2010,Feb,Switzerland,186
+2010,Feb,Sweden,1247
+2010,Feb,Taiwan,
+2010,Feb,Germany,1263
+2010,Feb,Other countries,2223
+2010,Mar,Passenger total,48812
+2010,Mar,Iceland,22413
+2010,Mar,Foreigners,26399
+2010,Mar,Austria,
+2010,Mar,Australia / New Zealand,
+2010,Mar,U.S.A.,3035
+2010,Mar,Belgium,
+2010,Mar,U.K.,6544
+2010,Mar,Denmark,2274
+2010,Mar,Estonia / Latvia / Lithuania,
+2010,Mar,Finland,530
+2010,Mar,France,1604
+2010,Mar,Netherlands,1188
+2010,Mar,Hong Kong,
+2010,Mar,India,
+2010,Mar,Ireland,
+2010,Mar,Israel,
+2010,Mar,Italy,237
+2010,Mar,Japan,695
+2010,Mar,Canada,260
+2010,Mar,China,162
+2010,Mar,Norway,2494
+2010,Mar,Poland,658
+2010,Mar,Russia,55
+2010,Mar,Singapore,
+2010,Mar,Spain,284
+2010,Mar,South Korea,
+2010,Mar,Switzerland,157
+2010,Mar,Sweden,1614
+2010,Mar,Taiwan,
+2010,Mar,Germany,1530
+2010,Mar,Other countries,3078
+2010,Apr,Passenger total,42197
+2010,Apr,Iceland,19110
+2010,Apr,Foreigners,23087
+2010,Apr,Austria,
+2010,Apr,Australia / New Zealand,
+2010,Apr,U.S.A.,2117
+2010,Apr,Belgium,
+2010,Apr,U.K.,5286
+2010,Apr,Denmark,1971
+2010,Apr,Estonia / Latvia / Lithuania,
+2010,Apr,Finland,926
+2010,Apr,France,1141
+2010,Apr,Netherlands,821
+2010,Apr,Hong Kong,
+2010,Apr,India,
+2010,Apr,Ireland,
+2010,Apr,Israel,
+2010,Apr,Italy,211
+2010,Apr,Japan,258
+2010,Apr,Canada,234
+2010,Apr,China,189
+2010,Apr,Norway,2066
+2010,Apr,Poland,632
+2010,Apr,Russia,47
+2010,Apr,Singapore,
+2010,Apr,Spain,509
+2010,Apr,South Korea,
+2010,Apr,Switzerland,175
+2010,Apr,Sweden,1773
+2010,Apr,Taiwan,
+2010,Apr,Germany,1565
+2010,Apr,Other countries,3166
+2010,May,Passenger total,51566
+2010,May,Iceland,23268
+2010,May,Foreigners,28298
+2010,May,Austria,
+2010,May,Australia / New Zealand,
+2010,May,U.S.A.,3470
+2010,May,Belgium,
+2010,May,U.K.,3137
+2010,May,Denmark,2841
+2010,May,Estonia / Latvia / Lithuania,
+2010,May,Finland,842
+2010,May,France,1457
+2010,May,Netherlands,1467
+2010,May,Hong Kong,
+2010,May,India,
+2010,May,Ireland,
+2010,May,Israel,
+2010,May,Italy,299
+2010,May,Japan,184
+2010,May,Canada,887
+2010,May,China,269
+2010,May,Norway,3141
+2010,May,Poland,772
+2010,May,Russia,111
+2010,May,Singapore,
+2010,May,Spain,327
+2010,May,South Korea,
+2010,May,Switzerland,305
+2010,May,Sweden,2362
+2010,May,Taiwan,
+2010,May,Germany,2816
+2010,May,Other countries,3611
+2010,Jun,Passenger total,85127
+2010,Jun,Iceland,30736
+2010,Jun,Foreigners,54391
+2010,Jun,Austria,
+2010,Jun,Australia / New Zealand,
+2010,Jun,U.S.A.,7257
+2010,Jun,Belgium,
+2010,Jun,U.K.,4051
+2010,Jun,Denmark,4259
+2010,Jun,Estonia / Latvia / Lithuania,
+2010,Jun,Finland,1459
+2010,Jun,France,3365
+2010,Jun,Netherlands,1857
+2010,Jun,Hong Kong,
+2010,Jun,India,
+2010,Jun,Ireland,
+2010,Jun,Israel,
+2010,Jun,Italy,925
+2010,Jun,Japan,335
+2010,Jun,Canada,2111
+2010,Jun,China,800
+2010,Jun,Norway,4276
+2010,Jun,Poland,2317
+2010,Jun,Russia,129
+2010,Jun,Singapore,
+2010,Jun,Spain,761
+2010,Jun,South Korea,
+2010,Jun,Switzerland,1013
+2010,Jun,Sweden,3092
+2010,Jun,Taiwan,
+2010,Jun,Germany,8412
+2010,Jun,Other countries,7972
+2010,Jul,Passenger total,111918
+2010,Jul,Iceland,28453
+2010,Jul,Foreigners,83465
+2010,Jul,Austria,
+2010,Jul,Australia / New Zealand,
+2010,Jul,U.S.A.,8128
+2010,Jul,Belgium,
+2010,Jul,U.K.,6222
+2010,Jul,Denmark,8058
+2010,Jul,Estonia / Latvia / Lithuania,
+2010,Jul,Finland,1769
+2010,Jul,France,6400
+2010,Jul,Netherlands,2866
+2010,Jul,Hong Kong,
+2010,Jul,India,
+2010,Jul,Ireland,
+2010,Jul,Israel,
+2010,Jul,Italy,2112
+2010,Jul,Japan,340
+2010,Jul,Canada,2496
+2010,Jul,China,787
+2010,Jul,Norway,4781
+2010,Jul,Poland,2511
+2010,Jul,Russia,272
+2010,Jul,Singapore,
+2010,Jul,Spain,3023
+2010,Jul,South Korea,
+2010,Jul,Switzerland,3158
+2010,Jul,Sweden,4018
+2010,Jul,Taiwan,
+2010,Jul,Germany,13306
+2010,Jul,Other countries,13218
+2010,Aug,Passenger total,119473
+2010,Aug,Iceland,29915
+2010,Aug,Foreigners,89558
+2010,Aug,Austria,
+2010,Aug,Australia / New Zealand,
+2010,Aug,U.S.A.,8363
+2010,Aug,Belgium,
+2010,Aug,U.K.,6383
+2010,Aug,Denmark,5804
+2010,Aug,Estonia / Latvia / Lithuania,
+2010,Aug,Finland,1762
+2010,Aug,France,9103
+2010,Aug,Netherlands,3265
+2010,Aug,Hong Kong,
+2010,Aug,India,
+2010,Aug,Ireland,
+2010,Aug,Israel,
+2010,Aug,Italy,4149
+2010,Aug,Japan,557
+2010,Aug,Canada,2795
+2010,Aug,China,868
+2010,Aug,Norway,4822
+2010,Aug,Poland,1875
+2010,Aug,Russia,378
+2010,Aug,Singapore,
+2010,Aug,Spain,5257
+2010,Aug,South Korea,
+2010,Aug,Switzerland,2829
+2010,Aug,Sweden,4152
+2010,Aug,Taiwan,
+2010,Aug,Germany,14414
+2010,Aug,Other countries,12782
+2010,Sep,Passenger total,68671
+2010,Sep,Iceland,27808
+2010,Sep,Foreigners,40863
+2010,Sep,Austria,
+2010,Sep,Australia / New Zealand,
+2010,Sep,U.S.A.,5629
+2010,Sep,Belgium,
+2010,Sep,U.K.,3749
+2010,Sep,Denmark,3602
+2010,Sep,Estonia / Latvia / Lithuania,
+2010,Sep,Finland,1004
+2010,Sep,France,1728
+2010,Sep,Netherlands,1440
+2010,Sep,Hong Kong,
+2010,Sep,India,
+2010,Sep,Ireland,
+2010,Sep,Israel,
+2010,Sep,Italy,542
+2010,Sep,Japan,419
+2010,Sep,Canada,1981
+2010,Sep,China,624
+2010,Sep,Norway,4074
+2010,Sep,Poland,738
+2010,Sep,Russia,79
+2010,Sep,Singapore,
+2010,Sep,Spain,865
+2010,Sep,South Korea,
+2010,Sep,Switzerland,584
+2010,Sep,Sweden,2727
+2010,Sep,Taiwan,
+2010,Sep,Germany,5200
+2010,Sep,Other countries,5878
+2010,Oct,Passenger total,64321
+2010,Oct,Iceland,30252
+2010,Oct,Foreigners,34069
+2010,Oct,Austria,
+2010,Oct,Australia / New Zealand,
+2010,Oct,U.S.A.,3844
+2010,Oct,Belgium,
+2010,Oct,U.K.,6545
+2010,Oct,Denmark,3405
+2010,Oct,Estonia / Latvia / Lithuania,
+2010,Oct,Finland,1053
+2010,Oct,France,1127
+2010,Oct,Netherlands,1365
+2010,Oct,Hong Kong,
+2010,Oct,India,
+2010,Oct,Ireland,
+2010,Oct,Israel,
+2010,Oct,Italy,259
+2010,Oct,Japan,361
+2010,Oct,Canada,1505
+2010,Oct,China,486
+2010,Oct,Norway,3577
+2010,Oct,Poland,801
+2010,Oct,Russia,177
+2010,Oct,Singapore,
+2010,Oct,Spain,377
+2010,Oct,South Korea,
+2010,Oct,Switzerland,306
+2010,Oct,Sweden,2359
+2010,Oct,Taiwan,
+2010,Oct,Germany,2294
+2010,Oct,Other countries,4228
+2010,Nov,Passenger total,45821
+2010,Nov,Iceland,24581
+2010,Nov,Foreigners,21240
+2010,Nov,Austria,
+2010,Nov,Australia / New Zealand,
+2010,Nov,U.S.A.,2806
+2010,Nov,Belgium,
+2010,Nov,U.K.,4229
+2010,Nov,Denmark,1720
+2010,Nov,Estonia / Latvia / Lithuania,
+2010,Nov,Finland,618
+2010,Nov,France,844
+2010,Nov,Netherlands,891
+2010,Nov,Hong Kong,
+2010,Nov,India,
+2010,Nov,Ireland,
+2010,Nov,Israel,
+2010,Nov,Italy,260
+2010,Nov,Japan,393
+2010,Nov,Canada,339
+2010,Nov,China,297
+2010,Nov,Norway,2189
+2010,Nov,Poland,522
+2010,Nov,Russia,184
+2010,Nov,Singapore,
+2010,Nov,Spain,199
+2010,Nov,South Korea,
+2010,Nov,Switzerland,125
+2010,Nov,Sweden,1878
+2010,Nov,Taiwan,
+2010,Nov,Germany,1191
+2010,Nov,Other countries,2555
+2010,Dec,Passenger total,39098
+2010,Dec,Iceland,20291
+2010,Dec,Foreigners,18807
+2010,Dec,Austria,
+2010,Dec,Australia / New Zealand,
+2010,Dec,U.S.A.,2254
+2010,Dec,Belgium,
+2010,Dec,U.K.,3752
+2010,Dec,Denmark,1555
+2010,Dec,Estonia / Latvia / Lithuania,
+2010,Dec,Finland,506
+2010,Dec,France,806
+2010,Dec,Netherlands,613
+2010,Dec,Hong Kong,
+2010,Dec,India,
+2010,Dec,Ireland,
+2010,Dec,Israel,
+2010,Dec,Italy,240
+2010,Dec,Japan,520
+2010,Dec,Canada,361
+2010,Dec,China,306
+2010,Dec,Norway,1135
+2010,Dec,Poland,1527
+2010,Dec,Russia,59
+2010,Dec,Singapore,
+2010,Dec,Spain,259
+2010,Dec,South Korea,
+2010,Dec,Switzerland,96
+2010,Dec,Sweden,1197
+2010,Dec,Taiwan,
+2010,Dec,Germany,1012
+2010,Dec,Other countries,2609
+2011,Jan,Passenger total,45036
+2011,Jan,Iceland,22774
+2011,Jan,Foreigners,22262
+2011,Jan,Austria,
+2011,Jan,Australia / New Zealand,
+2011,Jan,U.S.A.,2909
+2011,Jan,Belgium,
+2011,Jan,U.K.,4526
+2011,Jan,Denmark,1625
+2011,Jan,Estonia / Latvia / Lithuania,
+2011,Jan,Finland,443
+2011,Jan,France,1451
+2011,Jan,Netherlands,698
+2011,Jan,Hong Kong,
+2011,Jan,India,
+2011,Jan,Ireland,
+2011,Jan,Israel,
+2011,Jan,Italy,301
+2011,Jan,Japan,835
+2011,Jan,Canada,352
+2011,Jan,China,183
+2011,Jan,Norway,1506
+2011,Jan,Poland,521
+2011,Jan,Russia,237
+2011,Jan,Singapore,
+2011,Jan,Spain,301
+2011,Jan,South Korea,
+2011,Jan,Switzerland,315
+2011,Jan,Sweden,2033
+2011,Jan,Taiwan,
+2011,Jan,Germany,1538
+2011,Jan,Other countries,2488
+2011,Feb,Passenger total,42454
+2011,Feb,Iceland,19605
+2011,Feb,Foreigners,22849
+2011,Feb,Austria,
+2011,Feb,Australia / New Zealand,
+2011,Feb,U.S.A.,2900
+2011,Feb,Belgium,
+2011,Feb,U.K.,7033
+2011,Feb,Denmark,1472
+2011,Feb,Estonia / Latvia / Lithuania,
+2011,Feb,Finland,228
+2011,Feb,France,1268
+2011,Feb,Netherlands,969
+2011,Feb,Hong Kong,
+2011,Feb,India,
+2011,Feb,Ireland,
+2011,Feb,Israel,
+2011,Feb,Italy,216
+2011,Feb,Japan,712
+2011,Feb,Canada,343
+2011,Feb,China,217
+2011,Feb,Norway,1799
+2011,Feb,Poland,475
+2011,Feb,Russia,81
+2011,Feb,Singapore,
+2011,Feb,Spain,258
+2011,Feb,South Korea,
+2011,Feb,Switzerland,152
+2011,Feb,Sweden,1185
+2011,Feb,Taiwan,
+2011,Feb,Germany,1310
+2011,Feb,Other countries,2231
+2011,Mar,Passenger total,49265
+2011,Mar,Iceland,22641
+2011,Mar,Foreigners,26624
+2011,Mar,Austria,
+2011,Mar,Australia / New Zealand,
+2011,Mar,U.S.A.,3710
+2011,Mar,Belgium,
+2011,Mar,U.K.,5719
+2011,Mar,Denmark,2208
+2011,Mar,Estonia / Latvia / Lithuania,
+2011,Mar,Finland,339
+2011,Mar,France,1582
+2011,Mar,Netherlands,1191
+2011,Mar,Hong Kong,
+2011,Mar,India,
+2011,Mar,Ireland,
+2011,Mar,Israel,
+2011,Mar,Italy,247
+2011,Mar,Japan,589
+2011,Mar,Canada,485
+2011,Mar,China,239
+2011,Mar,Norway,2289
+2011,Mar,Poland,421
+2011,Mar,Russia,94
+2011,Mar,Singapore,
+2011,Mar,Spain,410
+2011,Mar,South Korea,
+2011,Mar,Switzerland,170
+2011,Mar,Sweden,2015
+2011,Mar,Taiwan,
+2011,Mar,Germany,2133
+2011,Mar,Other countries,2783
+2011,Apr,Passenger total,61329
+2011,Apr,Iceland,28996
+2011,Apr,Foreigners,32333
+2011,Apr,Austria,
+2011,Apr,Australia / New Zealand,
+2011,Apr,U.S.A.,3318
+2011,Apr,Belgium,
+2011,Apr,U.K.,6722
+2011,Apr,Denmark,3175
+2011,Apr,Estonia / Latvia / Lithuania,
+2011,Apr,Finland,937
+2011,Apr,France,1836
+2011,Apr,Netherlands,1216
+2011,Apr,Hong Kong,
+2011,Apr,India,
+2011,Apr,Ireland,
+2011,Apr,Israel,
+2011,Apr,Italy,327
+2011,Apr,Japan,228
+2011,Apr,Canada,977
+2011,Apr,China,420
+2011,Apr,Norway,3008
+2011,Apr,Poland,939
+2011,Apr,Russia,130
+2011,Apr,Singapore,
+2011,Apr,Spain,505
+2011,Apr,South Korea,
+2011,Apr,Switzerland,186
+2011,Apr,Sweden,2381
+2011,Apr,Taiwan,
+2011,Apr,Germany,2496
+2011,Apr,Other countries,3532
+2011,May,Passenger total,68333
+2011,May,Iceland,31121
+2011,May,Foreigners,37212
+2011,May,Austria,
+2011,May,Australia / New Zealand,
+2011,May,U.S.A.,5117
+2011,May,Belgium,
+2011,May,U.K.,3375
+2011,May,Denmark,3436
+2011,May,Estonia / Latvia / Lithuania,
+2011,May,Finland,1248
+2011,May,France,1737
+2011,May,Netherlands,1939
+2011,May,Hong Kong,
+2011,May,India,
+2011,May,Ireland,
+2011,May,Israel,
+2011,May,Italy,404
+2011,May,Japan,260
+2011,May,Canada,1443
+2011,May,China,651
+2011,May,Norway,4560
+2011,May,Poland,1392
+2011,May,Russia,185
+2011,May,Singapore,
+2011,May,Spain,830
+2011,May,South Korea,
+2011,May,Switzerland,325
+2011,May,Sweden,2953
+2011,May,Taiwan,
+2011,May,Germany,3064
+2011,May,Other countries,4293
+2011,Jun,Passenger total,103044
+2011,Jun,Iceland,37438
+2011,Jun,Foreigners,65606
+2011,Jun,Austria,
+2011,Jun,Australia / New Zealand,
+2011,Jun,U.S.A.,11580
+2011,Jun,Belgium,
+2011,Jun,U.K.,4360
+2011,Jun,Denmark,4532
+2011,Jun,Estonia / Latvia / Lithuania,
+2011,Jun,Finland,1467
+2011,Jun,France,3946
+2011,Jun,Netherlands,2178
+2011,Jun,Hong Kong,
+2011,Jun,India,
+2011,Jun,Ireland,
+2011,Jun,Israel,
+2011,Jun,Italy,1251
+2011,Jun,Japan,590
+2011,Jun,Canada,2513
+2011,Jun,China,1389
+2011,Jun,Norway,5294
+2011,Jun,Poland,2136
+2011,Jun,Russia,254
+2011,Jun,Singapore,
+2011,Jun,Spain,999
+2011,Jun,South Korea,
+2011,Jun,Switzerland,946
+2011,Jun,Sweden,4018
+2011,Jun,Taiwan,
+2011,Jun,Germany,9584
+2011,Jun,Other countries,8569
+2011,Jul,Passenger total,130386
+2011,Jul,Iceland,32629
+2011,Jul,Foreigners,97757
+2011,Jul,Austria,
+2011,Jul,Australia / New Zealand,
+2011,Jul,U.S.A.,13545
+2011,Jul,Belgium,
+2011,Jul,U.K.,7059
+2011,Jul,Denmark,7996
+2011,Jul,Estonia / Latvia / Lithuania,
+2011,Jul,Finland,2318
+2011,Jul,France,7945
+2011,Jul,Netherlands,3398
+2011,Jul,Hong Kong,
+2011,Jul,India,
+2011,Jul,Ireland,
+2011,Jul,Israel,
+2011,Jul,Italy,2260
+2011,Jul,Japan,543
+2011,Jul,Canada,3332
+2011,Jul,China,1544
+2011,Jul,Norway,5552
+2011,Jul,Poland,2839
+2011,Jul,Russia,547
+2011,Jul,Singapore,
+2011,Jul,Spain,3017
+2011,Jul,South Korea,
+2011,Jul,Switzerland,3659
+2011,Jul,Sweden,4893
+2011,Jul,Taiwan,
+2011,Jul,Germany,12498
+2011,Jul,Other countries,14812
+2011,Aug,Passenger total,136029
+2011,Aug,Iceland,34188
+2011,Aug,Foreigners,101841
+2011,Aug,Austria,
+2011,Aug,Australia / New Zealand,
+2011,Aug,U.S.A.,13821
+2011,Aug,Belgium,
+2011,Aug,U.K.,6997
+2011,Aug,Denmark,6027
+2011,Aug,Estonia / Latvia / Lithuania,
+2011,Aug,Finland,2026
+2011,Aug,France,10376
+2011,Aug,Netherlands,3619
+2011,Aug,Hong Kong,
+2011,Aug,India,
+2011,Aug,Ireland,
+2011,Aug,Israel,
+2011,Aug,Italy,5714
+2011,Aug,Japan,741
+2011,Aug,Canada,3232
+2011,Aug,China,1323
+2011,Aug,Norway,5393
+2011,Aug,Poland,2035
+2011,Aug,Russia,444
+2011,Aug,Singapore,
+2011,Aug,Spain,5501
+2011,Aug,South Korea,
+2011,Aug,Switzerland,2957
+2011,Aug,Sweden,4536
+2011,Aug,Taiwan,
+2011,Aug,Germany,14001
+2011,Aug,Other countries,13098
+2011,Sep,Passenger total,82385
+2011,Sep,Iceland,30809
+2011,Sep,Foreigners,51576
+2011,Sep,Austria,
+2011,Sep,Australia / New Zealand,
+2011,Sep,U.S.A.,8272
+2011,Sep,Belgium,
+2011,Sep,U.K.,4190
+2011,Sep,Denmark,3894
+2011,Sep,Estonia / Latvia / Lithuania,
+2011,Sep,Finland,1395
+2011,Sep,France,2403
+2011,Sep,Netherlands,2026
+2011,Sep,Hong Kong,
+2011,Sep,India,
+2011,Sep,Ireland,
+2011,Sep,Israel,
+2011,Sep,Italy,796
+2011,Sep,Japan,645
+2011,Sep,Canada,2594
+2011,Sep,China,1115
+2011,Sep,Norway,5260
+2011,Sep,Poland,953
+2011,Sep,Russia,242
+2011,Sep,Singapore,
+2011,Sep,Spain,1239
+2011,Sep,South Korea,
+2011,Sep,Switzerland,841
+2011,Sep,Sweden,3423
+2011,Sep,Taiwan,
+2011,Sep,Germany,5891
+2011,Sep,Other countries,6397
+2011,Oct,Passenger total,70989
+2011,Oct,Iceland,32153
+2011,Oct,Foreigners,38836
+2011,Oct,Austria,
+2011,Oct,Australia / New Zealand,
+2011,Oct,U.S.A.,5549
+2011,Oct,Belgium,
+2011,Oct,U.K.,7703
+2011,Oct,Denmark,3450
+2011,Oct,Estonia / Latvia / Lithuania,
+2011,Oct,Finland,779
+2011,Oct,France,1598
+2011,Oct,Netherlands,1475
+2011,Oct,Hong Kong,
+2011,Oct,India,
+2011,Oct,Ireland,
+2011,Oct,Israel,
+2011,Oct,Italy,302
+2011,Oct,Japan,535
+2011,Oct,Canada,1999
+2011,Oct,China,637
+2011,Oct,Norway,3747
+2011,Oct,Poland,633
+2011,Oct,Russia,216
+2011,Oct,Singapore,
+2011,Oct,Spain,485
+2011,Oct,South Korea,
+2011,Oct,Switzerland,336
+2011,Oct,Sweden,2440
+2011,Oct,Taiwan,
+2011,Oct,Germany,2230
+2011,Oct,Other countries,4722
+2011,Nov,Passenger total,49053
+2011,Nov,Iceland,26084
+2011,Nov,Foreigners,22969
+2011,Nov,Austria,
+2011,Nov,Australia / New Zealand,
+2011,Nov,U.S.A.,4108
+2011,Nov,Belgium,
+2011,Nov,U.K.,5090
+2011,Nov,Denmark,1574
+2011,Nov,Estonia / Latvia / Lithuania,
+2011,Nov,Finland,383
+2011,Nov,France,993
+2011,Nov,Netherlands,751
+2011,Nov,Hong Kong,
+2011,Nov,India,
+2011,Nov,Ireland,
+2011,Nov,Israel,
+2011,Nov,Italy,323
+2011,Nov,Japan,526
+2011,Nov,Canada,349
+2011,Nov,China,373
+2011,Nov,Norway,2099
+2011,Nov,Poland,492
+2011,Nov,Russia,95
+2011,Nov,Singapore,
+2011,Nov,Spain,187
+2011,Nov,South Korea,
+2011,Nov,Switzerland,139
+2011,Nov,Sweden,1766
+2011,Nov,Taiwan,
+2011,Nov,Germany,1122
+2011,Nov,Other countries,2599
+2011,Dec,Passenger total,43612
+2011,Dec,Iceland,22653
+2011,Dec,Foreigners,20959
+2011,Dec,Austria,
+2011,Dec,Australia / New Zealand,
+2011,Dec,U.S.A.,2732
+2011,Dec,Belgium,
+2011,Dec,U.K.,4834
+2011,Dec,Denmark,1316
+2011,Dec,Estonia / Latvia / Lithuania,
+2011,Dec,Finland,468
+2011,Dec,France,822
+2011,Dec,Netherlands,537
+2011,Dec,Hong Kong,
+2011,Dec,India,
+2011,Dec,Ireland,
+2011,Dec,Israel,
+2011,Dec,Italy,205
+2011,Dec,Japan,698
+2011,Dec,Canada,310
+2011,Dec,China,693
+2011,Dec,Norway,1295
+2011,Dec,Poland,1403
+2011,Dec,Russia,72
+2011,Dec,Singapore,
+2011,Dec,Spain,239
+2011,Dec,South Korea,
+2011,Dec,Switzerland,129
+2011,Dec,Sweden,1192
+2011,Dec,Taiwan,
+2011,Dec,Germany,948
+2011,Dec,Other countries,3066
+2012,Jan,Passenger total,49539
+2012,Jan,Iceland,23387
+2012,Jan,Foreigners,26152
+2012,Jan,Austria,
+2012,Jan,Australia / New Zealand,
+2012,Jan,U.S.A.,3914
+2012,Jan,Belgium,
+2012,Jan,U.K.,6956
+2012,Jan,Denmark,1715
+2012,Jan,Estonia / Latvia / Lithuania,
+2012,Jan,Finland,416
+2012,Jan,France,1387
+2012,Jan,Netherlands,722
+2012,Jan,Hong Kong,
+2012,Jan,India,
+2012,Jan,Ireland,
+2012,Jan,Israel,
+2012,Jan,Italy,249
+2012,Jan,Japan,1076
+2012,Jan,Canada,361
+2012,Jan,China,449
+2012,Jan,Norway,1718
+2012,Jan,Poland,470
+2012,Jan,Russia,315
+2012,Jan,Singapore,
+2012,Jan,Spain,352
+2012,Jan,South Korea,
+2012,Jan,Switzerland,252
+2012,Jan,Sweden,1440
+2012,Jan,Taiwan,
+2012,Jan,Germany,1272
+2012,Jan,Other countries,3088
+2012,Feb,Passenger total,49151
+2012,Feb,Iceland,21242
+2012,Feb,Foreigners,27909
+2012,Feb,Austria,
+2012,Feb,Australia / New Zealand,
+2012,Feb,U.S.A.,3879
+2012,Feb,Belgium,
+2012,Feb,U.K.,10522
+2012,Feb,Denmark,1525
+2012,Feb,Estonia / Latvia / Lithuania,
+2012,Feb,Finland,238
+2012,Feb,France,1336
+2012,Feb,Netherlands,1021
+2012,Feb,Hong Kong,
+2012,Feb,India,
+2012,Feb,Ireland,
+2012,Feb,Israel,
+2012,Feb,Italy,208
+2012,Feb,Japan,1078
+2012,Feb,Canada,284
+2012,Feb,China,343
+2012,Feb,Norway,1949
+2012,Feb,Poland,341
+2012,Feb,Russia,66
+2012,Feb,Singapore,
+2012,Feb,Spain,206
+2012,Feb,South Korea,
+2012,Feb,Switzerland,169
+2012,Feb,Sweden,1035
+2012,Feb,Taiwan,
+2012,Feb,Germany,1079
+2012,Feb,Other countries,2630
+2012,Mar,Passenger total,60091
+2012,Mar,Iceland,26494
+2012,Mar,Foreigners,33597
+2012,Mar,Austria,
+2012,Mar,Australia / New Zealand,
+2012,Mar,U.S.A.,4513
+2012,Mar,Belgium,
+2012,Mar,U.K.,9107
+2012,Mar,Denmark,2695
+2012,Mar,Estonia / Latvia / Lithuania,
+2012,Mar,Finland,725
+2012,Mar,France,1747
+2012,Mar,Netherlands,1279
+2012,Mar,Hong Kong,
+2012,Mar,India,
+2012,Mar,Ireland,
+2012,Mar,Israel,
+2012,Mar,Italy,354
+2012,Mar,Japan,884
+2012,Mar,Canada,455
+2012,Mar,China,376
+2012,Mar,Norway,3144
+2012,Mar,Poland,544
+2012,Mar,Russia,153
+2012,Mar,Singapore,
+2012,Mar,Spain,346
+2012,Mar,South Korea,
+2012,Mar,Switzerland,230
+2012,Mar,Sweden,1680
+2012,Mar,Taiwan,
+2012,Mar,Germany,2015
+2012,Mar,Other countries,3350
+2012,Apr,Passenger total,66559
+2012,Apr,Iceland,28884
+2012,Apr,Foreigners,37675
+2012,Apr,Austria,
+2012,Apr,Australia / New Zealand,
+2012,Apr,U.S.A.,4450
+2012,Apr,Belgium,
+2012,Apr,U.K.,8437
+2012,Apr,Denmark,2855
+2012,Apr,Estonia / Latvia / Lithuania,
+2012,Apr,Finland,1093
+2012,Apr,France,2213
+2012,Apr,Netherlands,1158
+2012,Apr,Hong Kong,
+2012,Apr,India,
+2012,Apr,Ireland,
+2012,Apr,Israel,
+2012,Apr,Italy,329
+2012,Apr,Japan,415
+2012,Apr,Canada,1294
+2012,Apr,China,630
+2012,Apr,Norway,3889
+2012,Apr,Poland,911
+2012,Apr,Russia,203
+2012,Apr,Singapore,
+2012,Apr,Spain,436
+2012,Apr,South Korea,
+2012,Apr,Switzerland,325
+2012,Apr,Sweden,2651
+2012,Apr,Taiwan,
+2012,Apr,Germany,2571
+2012,Apr,Other countries,3815
+2012,May,Passenger total,76679
+2012,May,Iceland,31452
+2012,May,Foreigners,45227
+2012,May,Austria,
+2012,May,Australia / New Zealand,
+2012,May,U.S.A.,7469
+2012,May,Belgium,
+2012,May,U.K.,4352
+2012,May,Denmark,2981
+2012,May,Estonia / Latvia / Lithuania,
+2012,May,Finland,1381
+2012,May,France,2314
+2012,May,Netherlands,2119
+2012,May,Hong Kong,
+2012,May,India,
+2012,May,Ireland,
+2012,May,Israel,
+2012,May,Italy,421
+2012,May,Japan,356
+2012,May,Canada,1746
+2012,May,China,798
+2012,May,Norway,4795
+2012,May,Poland,1359
+2012,May,Russia,522
+2012,May,Singapore,
+2012,May,Spain,974
+2012,May,South Korea,
+2012,May,Switzerland,360
+2012,May,Sweden,3509
+2012,May,Taiwan,
+2012,May,Germany,4045
+2012,May,Other countries,5726
+2012,Jun,Passenger total,113686
+2012,Jun,Iceland,39361
+2012,Jun,Foreigners,74325
+2012,Jun,Austria,
+2012,Jun,Australia / New Zealand,
+2012,Jun,U.S.A.,14258
+2012,Jun,Belgium,
+2012,Jun,U.K.,5878
+2012,Jun,Denmark,4175
+2012,Jun,Estonia / Latvia / Lithuania,
+2012,Jun,Finland,1969
+2012,Jun,France,4412
+2012,Jun,Netherlands,2319
+2012,Jun,Hong Kong,
+2012,Jun,India,
+2012,Jun,Ireland,
+2012,Jun,Israel,
+2012,Jun,Italy,1385
+2012,Jun,Japan,557
+2012,Jun,Canada,2698
+2012,Jun,China,2093
+2012,Jun,Norway,5850
+2012,Jun,Poland,2313
+2012,Jun,Russia,455
+2012,Jun,Singapore,
+2012,Jun,Spain,1006
+2012,Jun,South Korea,
+2012,Jun,Switzerland,1461
+2012,Jun,Sweden,3995
+2012,Jun,Taiwan,
+2012,Jun,Germany,9659
+2012,Jun,Other countries,9842
+2012,Jul,Passenger total,147182
+2012,Jul,Iceland,35061
+2012,Jul,Foreigners,112121
+2012,Jul,Austria,
+2012,Jul,Australia / New Zealand,
+2012,Jul,U.S.A.,14960
+2012,Jul,Belgium,
+2012,Jul,U.K.,8506
+2012,Jul,Denmark,8167
+2012,Jul,Estonia / Latvia / Lithuania,
+2012,Jul,Finland,2198
+2012,Jul,France,8454
+2012,Jul,Netherlands,3841
+2012,Jul,Hong Kong,
+2012,Jul,India,
+2012,Jul,Ireland,
+2012,Jul,Israel,
+2012,Jul,Italy,3176
+2012,Jul,Japan,589
+2012,Jul,Canada,3048
+2012,Jul,China,2408
+2012,Jul,Norway,6686
+2012,Jul,Poland,2957
+2012,Jul,Russia,752
+2012,Jul,Singapore,
+2012,Jul,Spain,2971
+2012,Jul,South Korea,
+2012,Jul,Switzerland,3918
+2012,Jul,Sweden,6257
+2012,Jul,Taiwan,
+2012,Jul,Germany,15461
+2012,Jul,Other countries,17772
+2012,Aug,Passenger total,152302
+2012,Aug,Iceland,37023
+2012,Aug,Foreigners,115279
+2012,Aug,Austria,
+2012,Aug,Australia / New Zealand,
+2012,Aug,U.S.A.,15825
+2012,Aug,Belgium,
+2012,Aug,U.K.,7784
+2012,Aug,Denmark,6110
+2012,Aug,Estonia / Latvia / Lithuania,
+2012,Aug,Finland,1542
+2012,Aug,France,12258
+2012,Aug,Netherlands,4006
+2012,Aug,Hong Kong,
+2012,Aug,India,
+2012,Aug,Ireland,
+2012,Aug,Israel,
+2012,Aug,Italy,5653
+2012,Aug,Japan,828
+2012,Aug,Canada,3652
+2012,Aug,China,2417
+2012,Aug,Norway,5956
+2012,Aug,Poland,2091
+2012,Aug,Russia,1215
+2012,Aug,Singapore,
+2012,Aug,Spain,5547
+2012,Aug,South Korea,
+2012,Aug,Switzerland,3696
+2012,Aug,Sweden,4926
+2012,Aug,Taiwan,
+2012,Aug,Germany,16633
+2012,Aug,Other countries,15140
+2012,Sep,Passenger total,96985
+2012,Sep,Iceland,32313
+2012,Sep,Foreigners,64672
+2012,Sep,Austria,
+2012,Sep,Australia / New Zealand,
+2012,Sep,U.S.A.,9820
+2012,Sep,Belgium,
+2012,Sep,U.K.,6313
+2012,Sep,Denmark,4138
+2012,Sep,Estonia / Latvia / Lithuania,
+2012,Sep,Finland,1792
+2012,Sep,France,3646
+2012,Sep,Netherlands,2045
+2012,Sep,Hong Kong,
+2012,Sep,India,
+2012,Sep,Ireland,
+2012,Sep,Israel,
+2012,Sep,Italy,950
+2012,Sep,Japan,1812
+2012,Sep,Canada,2488
+2012,Sep,China,1651
+2012,Sep,Norway,7486
+2012,Sep,Poland,1193
+2012,Sep,Russia,372
+2012,Sep,Singapore,
+2012,Sep,Spain,1841
+2012,Sep,South Korea,
+2012,Sep,Switzerland,1025
+2012,Sep,Sweden,4139
+2012,Sep,Taiwan,
+2012,Sep,Germany,6418
+2012,Sep,Other countries,7543
+2012,Oct,Passenger total,80475
+2012,Oct,Iceland,35481
+2012,Oct,Foreigners,44994
+2012,Oct,Austria,
+2012,Oct,Australia / New Zealand,
+2012,Oct,U.S.A.,5912
+2012,Oct,Belgium,
+2012,Oct,U.K.,9458
+2012,Oct,Denmark,3392
+2012,Oct,Estonia / Latvia / Lithuania,
+2012,Oct,Finland,935
+2012,Oct,France,1196
+2012,Oct,Netherlands,1414
+2012,Oct,Hong Kong,
+2012,Oct,India,
+2012,Oct,Ireland,
+2012,Oct,Israel,
+2012,Oct,Italy,338
+2012,Oct,Japan,671
+2012,Oct,Canada,1702
+2012,Oct,China,1080
+2012,Oct,Norway,5008
+2012,Oct,Poland,754
+2012,Oct,Russia,413
+2012,Oct,Singapore,
+2012,Oct,Spain,931
+2012,Oct,South Korea,
+2012,Oct,Switzerland,1021
+2012,Oct,Sweden,2648
+2012,Oct,Taiwan,
+2012,Oct,Germany,2703
+2012,Oct,Other countries,5418
+2012,Nov,Passenger total,63190
+2012,Nov,Iceland,26240
+2012,Nov,Foreigners,36950
+2012,Nov,Austria,
+2012,Nov,Australia / New Zealand,
+2012,Nov,U.S.A.,6414
+2012,Nov,Belgium,
+2012,Nov,U.K.,10241
+2012,Nov,Denmark,1804
+2012,Nov,Estonia / Latvia / Lithuania,
+2012,Nov,Finland,758
+2012,Nov,France,1514
+2012,Nov,Netherlands,835
+2012,Nov,Hong Kong,
+2012,Nov,India,
+2012,Nov,Ireland,
+2012,Nov,Israel,
+2012,Nov,Italy,532
+2012,Nov,Japan,1020
+2012,Nov,Canada,676
+2012,Nov,China,532
+2012,Nov,Norway,3065
+2012,Nov,Poland,528
+2012,Nov,Russia,185
+2012,Nov,Singapore,
+2012,Nov,Spain,280
+2012,Nov,South Korea,
+2012,Nov,Switzerland,207
+2012,Nov,Sweden,2146
+2012,Nov,Taiwan,
+2012,Nov,Germany,1922
+2012,Nov,Other countries,4291
+2012,Dec,Passenger total,49283
+2012,Dec,Iceland,21263
+2012,Dec,Foreigners,28020
+2012,Dec,Austria,
+2012,Dec,Australia / New Zealand,
+2012,Dec,U.S.A.,3612
+2012,Dec,Belgium,
+2012,Dec,U.K.,7045
+2012,Dec,Denmark,1349
+2012,Dec,Estonia / Latvia / Lithuania,
+2012,Dec,Finland,637
+2012,Dec,France,1093
+2012,Dec,Netherlands,546
+2012,Dec,Hong Kong,
+2012,Dec,India,
+2012,Dec,Ireland,
+2012,Dec,Israel,
+2012,Dec,Italy,246
+2012,Dec,Japan,1057
+2012,Dec,Canada,356
+2012,Dec,China,1259
+2012,Dec,Norway,1988
+2012,Dec,Poland,1475
+2012,Dec,Russia,73
+2012,Dec,Singapore,
+2012,Dec,Spain,388
+2012,Dec,South Korea,
+2012,Dec,Switzerland,174
+2012,Dec,Sweden,1175
+2012,Dec,Taiwan,
+2012,Dec,Germany,1401
+2012,Dec,Other countries,4146
+2013,Jan,Passenger total,56546
+2013,Jan,Iceland,23256
+2013,Jan,Foreigners,33290
+2013,Jan,Austria,
+2013,Jan,Australia / New Zealand,
+2013,Jan,U.S.A.,5054
+2013,Jan,Belgium,
+2013,Jan,U.K.,10031
+2013,Jan,Denmark,1504
+2013,Jan,Estonia / Latvia / Lithuania,
+2013,Jan,Finland,347
+2013,Jan,France,1371
+2013,Jan,Netherlands,733
+2013,Jan,Hong Kong,
+2013,Jan,India,
+2013,Jan,Ireland,
+2013,Jan,Israel,
+2013,Jan,Italy,335
+2013,Jan,Japan,1566
+2013,Jan,Canada,404
+2013,Jan,China,738
+2013,Jan,Norway,2003
+2013,Jan,Poland,486
+2013,Jan,Russia,355
+2013,Jan,Singapore,
+2013,Jan,Spain,415
+2013,Jan,South Korea,
+2013,Jan,Switzerland,345
+2013,Jan,Sweden,1480
+2013,Jan,Taiwan,
+2013,Jan,Germany,2101
+2013,Jan,Other countries,4022
+2013,Feb,Passenger total,60812
+2013,Feb,Iceland,20833
+2013,Feb,Foreigners,39979
+2013,Feb,Austria,
+2013,Feb,Australia / New Zealand,
+2013,Feb,U.S.A.,5357
+2013,Feb,Belgium,
+2013,Feb,U.K.,15970
+2013,Feb,Denmark,1590
+2013,Feb,Estonia / Latvia / Lithuania,
+2013,Feb,Finland,387
+2013,Feb,France,1671
+2013,Feb,Netherlands,1272
+2013,Feb,Hong Kong,
+2013,Feb,India,
+2013,Feb,Ireland,
+2013,Feb,Israel,
+2013,Feb,Italy,299
+2013,Feb,Japan,1148
+2013,Feb,Canada,374
+2013,Feb,China,779
+2013,Feb,Norway,2418
+2013,Feb,Poland,490
+2013,Feb,Russia,245
+2013,Feb,Singapore,
+2013,Feb,Spain,321
+2013,Feb,South Korea,
+2013,Feb,Switzerland,427
+2013,Feb,Sweden,1142
+2013,Feb,Taiwan,
+2013,Feb,Germany,2278
+2013,Feb,Other countries,3811
+2013,Mar,Passenger total,76213
+2013,Mar,Iceland,27345
+2013,Mar,Foreigners,48868
+2013,Mar,Austria,
+2013,Mar,Australia / New Zealand,
+2013,Mar,U.S.A.,6962
+2013,Mar,Belgium,
+2013,Mar,U.K.,15458
+2013,Mar,Denmark,2747
+2013,Mar,Estonia / Latvia / Lithuania,
+2013,Mar,Finland,756
+2013,Mar,France,2427
+2013,Mar,Netherlands,1552
+2013,Mar,Hong Kong,
+2013,Mar,India,
+2013,Mar,Ireland,
+2013,Mar,Israel,
+2013,Mar,Italy,436
+2013,Mar,Japan,1417
+2013,Mar,Canada,1044
+2013,Mar,China,796
+2013,Mar,Norway,3556
+2013,Mar,Poland,682
+2013,Mar,Russia,230
+2013,Mar,Singapore,
+2013,Mar,Spain,373
+2013,Mar,South Korea,
+2013,Mar,Switzerland,375
+2013,Mar,Sweden,2079
+2013,Mar,Taiwan,
+2013,Mar,Germany,3117
+2013,Mar,Other countries,4861
+2013,Apr,Passenger total,73885
+2013,Apr,Iceland,28120
+2013,Apr,Foreigners,45765
+2013,Apr,Austria,
+2013,Apr,Australia / New Zealand,
+2013,Apr,U.S.A.,5990
+2013,Apr,Belgium,
+2013,Apr,U.K.,11490
+2013,Apr,Denmark,2750
+2013,Apr,Estonia / Latvia / Lithuania,
+2013,Apr,Finland,1416
+2013,Apr,France,1911
+2013,Apr,Netherlands,1248
+2013,Apr,Hong Kong,
+2013,Apr,India,
+2013,Apr,Ireland,
+2013,Apr,Israel,
+2013,Apr,Italy,502
+2013,Apr,Japan,497
+2013,Apr,Canada,1584
+2013,Apr,China,491
+2013,Apr,Norway,4203
+2013,Apr,Poland,629
+2013,Apr,Russia,338
+2013,Apr,Singapore,
+2013,Apr,Spain,680
+2013,Apr,South Korea,
+2013,Apr,Switzerland,398
+2013,Apr,Sweden,2647
+2013,Apr,Taiwan,
+2013,Apr,Germany,2786
+2013,Apr,Other countries,6205
+2013,May,Passenger total,88077
+2013,May,Iceland,34429
+2013,May,Foreigners,53648
+2013,May,Austria,
+2013,May,Australia / New Zealand,
+2013,May,U.S.A.,8864
+2013,May,Belgium,
+2013,May,U.K.,6763
+2013,May,Denmark,3427
+2013,May,Estonia / Latvia / Lithuania,
+2013,May,Finland,1481
+2013,May,France,3012
+2013,May,Netherlands,1725
+2013,May,Hong Kong,
+2013,May,India,
+2013,May,Ireland,
+2013,May,Israel,
+2013,May,Italy,777
+2013,May,Japan,306
+2013,May,Canada,2278
+2013,May,China,896
+2013,May,Norway,5771
+2013,May,Poland,1202
+2013,May,Russia,503
+2013,May,Singapore,
+2013,May,Spain,864
+2013,May,South Korea,
+2013,May,Switzerland,472
+2013,May,Sweden,3683
+2013,May,Taiwan,
+2013,May,Germany,5163
+2013,May,Other countries,6461
+2013,Jun,Passenger total,126143
+2013,Jun,Iceland,36284
+2013,Jun,Foreigners,89859
+2013,Jun,Austria,
+2013,Jun,Australia / New Zealand,
+2013,Jun,U.S.A.,17581
+2013,Jun,Belgium,
+2013,Jun,U.K.,6969
+2013,Jun,Denmark,4300
+2013,Jun,Estonia / Latvia / Lithuania,
+2013,Jun,Finland,1898
+2013,Jun,France,6268
+2013,Jun,Netherlands,2514
+2013,Jun,Hong Kong,
+2013,Jun,India,
+2013,Jun,Ireland,
+2013,Jun,Israel,
+2013,Jun,Italy,1790
+2013,Jun,Japan,533
+2013,Jun,Canada,3333
+2013,Jun,China,2705
+2013,Jun,Norway,6386
+2013,Jun,Poland,2771
+2013,Jun,Russia,710
+2013,Jun,Singapore,
+2013,Jun,Spain,1598
+2013,Jun,South Korea,
+2013,Jun,Switzerland,1721
+2013,Jun,Sweden,4461
+2013,Jun,Taiwan,
+2013,Jun,Germany,12139
+2013,Jun,Other countries,12182
+2013,Jul,Passenger total,156887
+2013,Jul,Iceland,33366
+2013,Jul,Foreigners,123521
+2013,Jul,Austria,
+2013,Jul,Australia / New Zealand,
+2013,Jul,U.S.A.,18452
+2013,Jul,Belgium,
+2013,Jul,U.K.,9954
+2013,Jul,Denmark,8938
+2013,Jul,Estonia / Latvia / Lithuania,
+2013,Jul,Finland,1786
+2013,Jul,France,10183
+2013,Jul,Netherlands,4237
+2013,Jul,Hong Kong,
+2013,Jul,India,
+2013,Jul,Ireland,
+2013,Jul,Israel,
+2013,Jul,Italy,3380
+2013,Jul,Japan,654
+2013,Jul,Canada,3573
+2013,Jul,China,2628
+2013,Jul,Norway,6268
+2013,Jul,Poland,2944
+2013,Jul,Russia,1514
+2013,Jul,Singapore,
+2013,Jul,Spain,2975
+2013,Jul,South Korea,
+2013,Jul,Switzerland,4235
+2013,Jul,Sweden,5298
+2013,Jul,Taiwan,
+2013,Jul,Germany,15027
+2013,Jul,Other countries,21475
+2013,Aug,Passenger total,168605
+2013,Aug,Iceland,36773
+2013,Aug,Foreigners,131832
+2013,Aug,Austria,
+2013,Aug,Australia / New Zealand,
+2013,Aug,U.S.A.,19409
+2013,Aug,Belgium,
+2013,Aug,U.K.,10215
+2013,Aug,Denmark,5547
+2013,Aug,Estonia / Latvia / Lithuania,
+2013,Aug,Finland,1731
+2013,Aug,France,12927
+2013,Aug,Netherlands,4443
+2013,Aug,Hong Kong,
+2013,Aug,India,
+2013,Aug,Ireland,
+2013,Aug,Israel,
+2013,Aug,Italy,6312
+2013,Aug,Japan,1034
+2013,Aug,Canada,3632
+2013,Aug,China,3064
+2013,Aug,Norway,6076
+2013,Aug,Poland,2053
+2013,Aug,Russia,1729
+2013,Aug,Singapore,
+2013,Aug,Spain,6060
+2013,Aug,South Korea,
+2013,Aug,Switzerland,4239
+2013,Aug,Sweden,5069
+2013,Aug,Taiwan,
+2013,Aug,Germany,18457
+2013,Aug,Other countries,19835
+2013,Sep,Passenger total,106677
+2013,Sep,Iceland,33488
+2013,Sep,Foreigners,73189
+2013,Sep,Austria,
+2013,Sep,Australia / New Zealand,
+2013,Sep,U.S.A.,11547
+2013,Sep,Belgium,
+2013,Sep,U.K.,8087
+2013,Sep,Denmark,4884
+2013,Sep,Estonia / Latvia / Lithuania,
+2013,Sep,Finland,1577
+2013,Sep,France,3855
+2013,Sep,Netherlands,1993
+2013,Sep,Hong Kong,
+2013,Sep,India,
+2013,Sep,Ireland,
+2013,Sep,Israel,
+2013,Sep,Italy,1024
+2013,Sep,Japan,1752
+2013,Sep,Canada,2944
+2013,Sep,China,1797
+2013,Sep,Norway,6733
+2013,Sep,Poland,1396
+2013,Sep,Russia,629
+2013,Sep,Singapore,
+2013,Sep,Spain,2025
+2013,Sep,South Korea,
+2013,Sep,Switzerland,1209
+2013,Sep,Sweden,3899
+2013,Sep,Taiwan,
+2013,Sep,Germany,7669
+2013,Sep,Other countries,10169
+2013,Oct,Passenger total,90675
+2013,Oct,Iceland,37749
+2013,Oct,Foreigners,52926
+2013,Oct,Austria,
+2013,Oct,Australia / New Zealand,
+2013,Oct,U.S.A.,7162
+2013,Oct,Belgium,
+2013,Oct,U.K.,13000
+2013,Oct,Denmark,3951
+2013,Oct,Estonia / Latvia / Lithuania,
+2013,Oct,Finland,1198
+2013,Oct,France,1698
+2013,Oct,Netherlands,1201
+2013,Oct,Hong Kong,
+2013,Oct,India,
+2013,Oct,Ireland,
+2013,Oct,Israel,
+2013,Oct,Italy,400
+2013,Oct,Japan,1018
+2013,Oct,Canada,1978
+2013,Oct,China,1110
+2013,Oct,Norway,4708
+2013,Oct,Poland,774
+2013,Oct,Russia,246
+2013,Oct,Singapore,
+2013,Oct,Spain,583
+2013,Oct,South Korea,
+2013,Oct,Switzerland,405
+2013,Oct,Sweden,2527
+2013,Oct,Taiwan,
+2013,Oct,Germany,3198
+2013,Oct,Other countries,7769
+2013,Nov,Passenger total,75285
+2013,Nov,Iceland,28834
+2013,Nov,Foreigners,46451
+2013,Nov,Austria,
+2013,Nov,Australia / New Zealand,
+2013,Nov,U.S.A.,7333
+2013,Nov,Belgium,
+2013,Nov,U.K.,15527
+2013,Nov,Denmark,1956
+2013,Nov,Estonia / Latvia / Lithuania,
+2013,Nov,Finland,578
+2013,Nov,France,1656
+2013,Nov,Netherlands,1034
+2013,Nov,Hong Kong,
+2013,Nov,India,
+2013,Nov,Ireland,
+2013,Nov,Israel,
+2013,Nov,Italy,656
+2013,Nov,Japan,1137
+2013,Nov,Canada,1730
+2013,Nov,China,595
+2013,Nov,Norway,2804
+2013,Nov,Poland,570
+2013,Nov,Russia,298
+2013,Nov,Singapore,
+2013,Nov,Spain,606
+2013,Nov,South Korea,
+2013,Nov,Switzerland,281
+2013,Nov,Sweden,1955
+2013,Nov,Taiwan,
+2013,Nov,Germany,2367
+2013,Nov,Other countries,5368
+2013,Dec,Passenger total,66123
+2013,Dec,Iceland,24435
+2013,Dec,Foreigners,41688
+2013,Dec,Austria,
+2013,Dec,Australia / New Zealand,
+2013,Dec,U.S.A.,6001
+2013,Dec,Belgium,
+2013,Dec,U.K.,13644
+2013,Dec,Denmark,1525
+2013,Dec,Estonia / Latvia / Lithuania,
+2013,Dec,Finland,644
+2013,Dec,France,1334
+2013,Dec,Netherlands,868
+2013,Dec,Hong Kong,
+2013,Dec,India,
+2013,Dec,Ireland,
+2013,Dec,Israel,
+2013,Dec,Italy,302
+2013,Dec,Japan,1301
+2013,Dec,Canada,1096
+2013,Dec,China,1998
+2013,Dec,Norway,1781
+2013,Dec,Poland,1838
+2013,Dec,Russia,191
+2013,Dec,Singapore,
+2013,Dec,Spain,517
+2013,Dec,South Korea,
+2013,Dec,Switzerland,200
+2013,Dec,Sweden,1251
+2013,Dec,Taiwan,
+2013,Dec,Germany,1512
+2013,Dec,Other countries,5685
+2014,Jan,Passenger total,72201
+2014,Jan,Iceland,25551
+2014,Jan,Foreigners,46650
+2014,Jan,Austria,
+2014,Jan,Australia / New Zealand,
+2014,Jan,U.S.A.,6770
+2014,Jan,Belgium,
+2014,Jan,U.K.,16576
+2014,Jan,Denmark,1932
+2014,Jan,Estonia / Latvia / Lithuania,
+2014,Jan,Finland,351
+2014,Jan,France,1981
+2014,Jan,Netherlands,953
+2014,Jan,Hong Kong,
+2014,Jan,India,
+2014,Jan,Ireland,
+2014,Jan,Israel,
+2014,Jan,Italy,350
+2014,Jan,Japan,1778
+2014,Jan,Canada,1020
+2014,Jan,China,1331
+2014,Jan,Norway,1982
+2014,Jan,Poland,678
+2014,Jan,Russia,600
+2014,Jan,Singapore,
+2014,Jan,Spain,500
+2014,Jan,South Korea,
+2014,Jan,Switzerland,376
+2014,Jan,Sweden,1760
+2014,Jan,Taiwan,
+2014,Jan,Germany,2329
+2014,Jan,Other countries,5383
+2014,Feb,Passenger total,73710
+2014,Feb,Iceland,21261
+2014,Feb,Foreigners,52449
+2014,Feb,Austria,
+2014,Feb,Australia / New Zealand,
+2014,Feb,U.S.A.,6743
+2014,Feb,Belgium,
+2014,Feb,U.K.,22820
+2014,Feb,Denmark,1876
+2014,Feb,Estonia / Latvia / Lithuania,
+2014,Feb,Finland,347
+2014,Feb,France,2498
+2014,Feb,Netherlands,1651
+2014,Feb,Hong Kong,
+2014,Feb,India,
+2014,Feb,Ireland,
+2014,Feb,Israel,
+2014,Feb,Italy,310
+2014,Feb,Japan,1290
+2014,Feb,Canada,1139
+2014,Feb,China,1158
+2014,Feb,Norway,2509
+2014,Feb,Poland,524
+2014,Feb,Russia,165
+2014,Feb,Singapore,
+2014,Feb,Spain,363
+2014,Feb,South Korea,
+2014,Feb,Switzerland,388
+2014,Feb,Sweden,1292
+2014,Feb,Taiwan,
+2014,Feb,Germany,2140
+2014,Feb,Other countries,5236
+2014,Mar,Passenger total,90526
+2014,Mar,Iceland,24393
+2014,Mar,Foreigners,66133
+2014,Mar,Austria,
+2014,Mar,Australia / New Zealand,
+2014,Mar,U.S.A.,12217
+2014,Mar,Belgium,
+2014,Mar,U.K.,21093
+2014,Mar,Denmark,2769
+2014,Mar,Estonia / Latvia / Lithuania,
+2014,Mar,Finland,783
+2014,Mar,France,2999
+2014,Mar,Netherlands,1857
+2014,Mar,Hong Kong,
+2014,Mar,India,
+2014,Mar,Ireland,
+2014,Mar,Israel,
+2014,Mar,Italy,604
+2014,Mar,Japan,1556
+2014,Mar,Canada,2304
+2014,Mar,China,991
+2014,Mar,Norway,3489
+2014,Mar,Poland,551
+2014,Mar,Russia,348
+2014,Mar,Singapore,
+2014,Mar,Spain,566
+2014,Mar,South Korea,
+2014,Mar,Switzerland,383
+2014,Mar,Sweden,1938
+2014,Mar,Taiwan,
+2014,Mar,Germany,3410
+2014,Mar,Other countries,8275
+2014,Apr,Passenger total,94642
+2014,Apr,Iceland,35417
+2014,Apr,Foreigners,59225
+2014,Apr,Austria,
+2014,Apr,Australia / New Zealand,
+2014,Apr,U.S.A.,7691
+2014,Apr,Belgium,
+2014,Apr,U.K.,15661
+2014,Apr,Denmark,3477
+2014,Apr,Estonia / Latvia / Lithuania,
+2014,Apr,Finland,1382
+2014,Apr,France,2345
+2014,Apr,Netherlands,1308
+2014,Apr,Hong Kong,
+2014,Apr,India,
+2014,Apr,Ireland,
+2014,Apr,Israel,
+2014,Apr,Italy,776
+2014,Apr,Japan,486
+2014,Apr,Canada,2835
+2014,Apr,China,1053
+2014,Apr,Norway,4908
+2014,Apr,Poland,1098
+2014,Apr,Russia,289
+2014,Apr,Singapore,
+2014,Apr,Spain,873
+2014,Apr,South Korea,
+2014,Apr,Switzerland,594
+2014,Apr,Sweden,3234
+2014,Apr,Taiwan,
+2014,Apr,Germany,3508
+2014,Apr,Other countries,7707
+2014,May,Passenger total,103748
+2014,May,Iceland,37035
+2014,May,Foreigners,66713
+2014,May,Austria,
+2014,May,Australia / New Zealand,
+2014,May,U.S.A.,11495
+2014,May,Belgium,
+2014,May,U.K.,8280
+2014,May,Denmark,4116
+2014,May,Estonia / Latvia / Lithuania,
+2014,May,Finland,1922
+2014,May,France,3656
+2014,May,Netherlands,1891
+2014,May,Hong Kong,
+2014,May,India,
+2014,May,Ireland,
+2014,May,Israel,
+2014,May,Italy,941
+2014,May,Japan,586
+2014,May,Canada,4020
+2014,May,China,1246
+2014,May,Norway,5587
+2014,May,Poland,1686
+2014,May,Russia,590
+2014,May,Singapore,
+2014,May,Spain,1045
+2014,May,South Korea,
+2014,May,Switzerland,884
+2014,May,Sweden,4264
+2014,May,Taiwan,
+2014,May,Germany,4822
+2014,May,Other countries,9682
+2014,Jun,Passenger total,151765
+2014,Jun,Iceland,41163
+2014,Jun,Foreigners,110602
+2014,Jun,Austria,
+2014,Jun,Australia / New Zealand,
+2014,Jun,U.S.A.,21255
+2014,Jun,Belgium,
+2014,Jun,U.K.,9479
+2014,Jun,Denmark,4939
+2014,Jun,Estonia / Latvia / Lithuania,
+2014,Jun,Finland,2086
+2014,Jun,France,7131
+2014,Jun,Netherlands,2904
+2014,Jun,Hong Kong,
+2014,Jun,India,
+2014,Jun,Ireland,
+2014,Jun,Israel,
+2014,Jun,Italy,2036
+2014,Jun,Japan,575
+2014,Jun,Canada,5347
+2014,Jun,China,3794
+2014,Jun,Norway,6281
+2014,Jun,Poland,3605
+2014,Jun,Russia,908
+2014,Jun,Singapore,
+2014,Jun,Spain,1801
+2014,Jun,South Korea,
+2014,Jun,Switzerland,2250
+2014,Jun,Sweden,5405
+2014,Jun,Taiwan,
+2014,Jun,Germany,14035
+2014,Jun,Other countries,16771
+2014,Jul,Passenger total,184204
+2014,Jul,Iceland,39623
+2014,Jul,Foreigners,144581
+2014,Jul,Austria,
+2014,Jul,Australia / New Zealand,
+2014,Jul,U.S.A.,22998
+2014,Jul,Belgium,
+2014,Jul,U.K.,12641
+2014,Jul,Denmark,8567
+2014,Jul,Estonia / Latvia / Lithuania,
+2014,Jul,Finland,2433
+2014,Jul,France,10771
+2014,Jul,Netherlands,4734
+2014,Jul,Hong Kong,
+2014,Jul,India,
+2014,Jul,Ireland,
+2014,Jul,Israel,
+2014,Jul,Italy,3825
+2014,Jul,Japan,696
+2014,Jul,Canada,5328
+2014,Jul,China,4312
+2014,Jul,Norway,6698
+2014,Jul,Poland,3863
+2014,Jul,Russia,1501
+2014,Jul,Singapore,
+2014,Jul,Spain,3804
+2014,Jul,South Korea,
+2014,Jul,Switzerland,5140
+2014,Jul,Sweden,6328
+2014,Jul,Taiwan,
+2014,Jul,Germany,18059
+2014,Jul,Other countries,22883
+2014,Aug,Passenger total,190292
+2014,Aug,Iceland,36835
+2014,Aug,Foreigners,153457
+2014,Aug,Austria,
+2014,Aug,Australia / New Zealand,
+2014,Aug,U.S.A.,22513
+2014,Aug,Belgium,
+2014,Aug,U.K.,11156
+2014,Aug,Denmark,5855
+2014,Aug,Estonia / Latvia / Lithuania,
+2014,Aug,Finland,1728
+2014,Aug,France,15083
+2014,Aug,Netherlands,4919
+2014,Aug,Hong Kong,
+2014,Aug,India,
+2014,Aug,Ireland,
+2014,Aug,Israel,
+2014,Aug,Italy,7783
+2014,Aug,Japan,1008
+2014,Aug,Canada,5534
+2014,Aug,China,4403
+2014,Aug,Norway,5871
+2014,Aug,Poland,2498
+2014,Aug,Russia,2031
+2014,Aug,Singapore,
+2014,Aug,Spain,7161
+2014,Aug,South Korea,
+2014,Aug,Switzerland,4742
+2014,Aug,Sweden,5856
+2014,Aug,Taiwan,
+2014,Aug,Germany,19330
+2014,Aug,Other countries,25986
+2014,Sep,Passenger total,125699
+2014,Sep,Iceland,37410
+2014,Sep,Foreigners,88289
+2014,Sep,Austria,
+2014,Sep,Australia / New Zealand,
+2014,Sep,U.S.A.,15329
+2014,Sep,Belgium,
+2014,Sep,U.K.,9384
+2014,Sep,Denmark,5284
+2014,Sep,Estonia / Latvia / Lithuania,
+2014,Sep,Finland,1692
+2014,Sep,France,4687
+2014,Sep,Netherlands,2241
+2014,Sep,Hong Kong,
+2014,Sep,India,
+2014,Sep,Ireland,
+2014,Sep,Israel,
+2014,Sep,Italy,1245
+2014,Sep,Japan,2117
+2014,Sep,Canada,4423
+2014,Sep,China,2022
+2014,Sep,Norway,5929
+2014,Sep,Poland,1795
+2014,Sep,Russia,666
+2014,Sep,Singapore,
+2014,Sep,Spain,2609
+2014,Sep,South Korea,
+2014,Sep,Switzerland,1948
+2014,Sep,Sweden,4251
+2014,Sep,Taiwan,
+2014,Sep,Germany,9983
+2014,Sep,Other countries,12684
+2014,Oct,Passenger total,107278
+2014,Oct,Iceland,40762
+2014,Oct,Foreigners,66516
+2014,Oct,Austria,
+2014,Oct,Australia / New Zealand,
+2014,Oct,U.S.A.,8498
+2014,Oct,Belgium,
+2014,Oct,U.K.,16249
+2014,Oct,Denmark,4450
+2014,Oct,Estonia / Latvia / Lithuania,
+2014,Oct,Finland,1357
+2014,Oct,France,2814
+2014,Oct,Netherlands,1675
+2014,Oct,Hong Kong,
+2014,Oct,India,
+2014,Oct,Ireland,
+2014,Oct,Israel,
+2014,Oct,Italy,643
+2014,Oct,Japan,897
+2014,Oct,Canada,2779
+2014,Oct,China,2016
+2014,Oct,Norway,5406
+2014,Oct,Poland,926
+2014,Oct,Russia,375
+2014,Oct,Singapore,
+2014,Oct,Spain,1039
+2014,Oct,South Korea,
+2014,Oct,Switzerland,1131
+2014,Oct,Sweden,2865
+2014,Oct,Taiwan,
+2014,Oct,Germany,3306
+2014,Oct,Other countries,10090
+2014,Nov,Passenger total,93313
+2014,Nov,Iceland,32463
+2014,Nov,Foreigners,60850
+2014,Nov,Austria,
+2014,Nov,Australia / New Zealand,
+2014,Nov,U.S.A.,9735
+2014,Nov,Belgium,
+2014,Nov,U.K.,19638
+2014,Nov,Denmark,2884
+2014,Nov,Estonia / Latvia / Lithuania,
+2014,Nov,Finland,736
+2014,Nov,France,2294
+2014,Nov,Netherlands,1179
+2014,Nov,Hong Kong,
+2014,Nov,India,
+2014,Nov,Ireland,
+2014,Nov,Israel,
+2014,Nov,Italy,819
+2014,Nov,Japan,1053
+2014,Nov,Canada,2630
+2014,Nov,China,858
+2014,Nov,Norway,3276
+2014,Nov,Poland,771
+2014,Nov,Russia,339
+2014,Nov,Singapore,
+2014,Nov,Spain,640
+2014,Nov,South Korea,
+2014,Nov,Switzerland,764
+2014,Nov,Sweden,2314
+2014,Nov,Taiwan,
+2014,Nov,Germany,2941
+2014,Nov,Other countries,7979
+2014,Dec,Passenger total,81805
+2014,Dec,Iceland,28089
+2014,Dec,Foreigners,53716
+2014,Dec,Austria,
+2014,Dec,Australia / New Zealand,
+2014,Dec,U.S.A.,6860
+2014,Dec,Belgium,
+2014,Dec,U.K.,17526
+2014,Dec,Denmark,2088
+2014,Dec,Estonia / Latvia / Lithuania,
+2014,Dec,Finland,598
+2014,Dec,France,2034
+2014,Dec,Netherlands,910
+2014,Dec,Hong Kong,
+2014,Dec,India,
+2014,Dec,Ireland,
+2014,Dec,Israel,
+2014,Dec,Italy,538
+2014,Dec,Japan,1298
+2014,Dec,Canada,1431
+2014,Dec,China,2853
+2014,Dec,Norway,1711
+2014,Dec,Poland,1964
+2014,Dec,Russia,152
+2014,Dec,Singapore,
+2014,Dec,Spain,531
+2014,Dec,South Korea,
+2014,Dec,Switzerland,715
+2014,Dec,Sweden,1485
+2014,Dec,Taiwan,
+2014,Dec,Germany,2052
+2014,Dec,Other countries,8970
+2015,Jan,Passenger total,90089
+2015,Jan,Iceland,27330
+2015,Jan,Foreigners,62759
+2015,Jan,Austria,
+2015,Jan,Australia / New Zealand,
+2015,Jan,U.S.A.,9377
+2015,Jan,Belgium,
+2015,Jan,U.K.,21686
+2015,Jan,Denmark,2164
+2015,Jan,Estonia / Latvia / Lithuania,
+2015,Jan,Finland,482
+2015,Jan,France,3206
+2015,Jan,Netherlands,1150
+2015,Jan,Hong Kong,
+2015,Jan,India,
+2015,Jan,Ireland,
+2015,Jan,Israel,
+2015,Jan,Italy,505
+2015,Jan,Japan,2129
+2015,Jan,Canada,1527
+2015,Jan,China,2149
+2015,Jan,Norway,1933
+2015,Jan,Poland,773
+2015,Jan,Russia,328
+2015,Jan,Singapore,
+2015,Jan,Spain,657
+2015,Jan,South Korea,
+2015,Jan,Switzerland,1116
+2015,Jan,Sweden,2027
+2015,Jan,Taiwan,
+2015,Jan,Germany,2971
+2015,Jan,Other countries,8579
+2015,Feb,Passenger total,93878
+2015,Feb,Iceland,23400
+2015,Feb,Foreigners,70478
+2015,Feb,Austria,
+2015,Feb,Australia / New Zealand,
+2015,Feb,U.S.A.,9039
+2015,Feb,Belgium,
+2015,Feb,U.K.,29250
+2015,Feb,Denmark,2318
+2015,Feb,Estonia / Latvia / Lithuania,
+2015,Feb,Finland,624
+2015,Feb,France,3695
+2015,Feb,Netherlands,1906
+2015,Feb,Hong Kong,
+2015,Feb,India,
+2015,Feb,Ireland,
+2015,Feb,Israel,
+2015,Feb,Italy,502
+2015,Feb,Japan,1793
+2015,Feb,Canada,1663
+2015,Feb,China,2107
+2015,Feb,Norway,2551
+2015,Feb,Poland,599
+2015,Feb,Russia,158
+2015,Feb,Singapore,
+2015,Feb,Spain,438
+2015,Feb,South Korea,
+2015,Feb,Switzerland,1118
+2015,Feb,Sweden,1628
+2015,Feb,Taiwan,
+2015,Feb,Germany,3415
+2015,Feb,Other countries,7674
+2015,Mar,Passenger total,116577
+2015,Mar,Iceland,32722
+2015,Mar,Foreigners,83855
+2015,Mar,Austria,
+2015,Mar,Australia / New Zealand,
+2015,Mar,U.S.A.,14391
+2015,Mar,Belgium,
+2015,Mar,U.K.,28142
+2015,Mar,Denmark,3183
+2015,Mar,Estonia / Latvia / Lithuania,
+2015,Mar,Finland,803
+2015,Mar,France,3951
+2015,Mar,Netherlands,1819
+2015,Mar,Hong Kong,
+2015,Mar,India,
+2015,Mar,Ireland,
+2015,Mar,Israel,
+2015,Mar,Italy,880
+2015,Mar,Japan,1632
+2015,Mar,Canada,2211
+2015,Mar,China,1862
+2015,Mar,Norway,3135
+2015,Mar,Poland,880
+2015,Mar,Russia,192
+2015,Mar,Singapore,
+2015,Mar,Spain,711
+2015,Mar,South Korea,
+2015,Mar,Switzerland,1035
+2015,Mar,Sweden,2292
+2015,Mar,Taiwan,
+2015,Mar,Germany,5067
+2015,Mar,Other countries,11669
+2015,Apr,Passenger total,107482
+2015,Apr,Iceland,35874
+2015,Apr,Foreigners,71608
+2015,Apr,Austria,
+2015,Apr,Australia / New Zealand,
+2015,Apr,U.S.A.,10870
+2015,Apr,Belgium,
+2015,Apr,U.K.,18930
+2015,Apr,Denmark,4323
+2015,Apr,Estonia / Latvia / Lithuania,
+2015,Apr,Finland,1342
+2015,Apr,France,2938
+2015,Apr,Netherlands,1105
+2015,Apr,Hong Kong,
+2015,Apr,India,
+2015,Apr,Ireland,
+2015,Apr,Israel,
+2015,Apr,Italy,809
+2015,Apr,Japan,659
+2015,Apr,Canada,2427
+2015,Apr,China,1690
+2015,Apr,Norway,4915
+2015,Apr,Poland,958
+2015,Apr,Russia,175
+2015,Apr,Singapore,
+2015,Apr,Spain,1442
+2015,Apr,South Korea,
+2015,Apr,Switzerland,1100
+2015,Apr,Sweden,3289
+2015,Apr,Taiwan,
+2015,Apr,Germany,3722
+2015,Apr,Other countries,10914
+2015,May,Passenger total,132442
+2015,May,Iceland,41419
+2015,May,Foreigners,91023
+2015,May,Austria,
+2015,May,Australia / New Zealand,
+2015,May,U.S.A.,20267
+2015,May,Belgium,
+2015,May,U.K.,10717
+2015,May,Denmark,4025
+2015,May,Estonia / Latvia / Lithuania,
+2015,May,Finland,1933
+2015,May,France,4607
+2015,May,Netherlands,2504
+2015,May,Hong Kong,
+2015,May,India,
+2015,May,Ireland,
+2015,May,Israel,
+2015,May,Italy,1328
+2015,May,Japan,570
+2015,May,Canada,4475
+2015,May,China,2294
+2015,May,Norway,5903
+2015,May,Poland,2408
+2015,May,Russia,406
+2015,May,Singapore,
+2015,May,Spain,1429
+2015,May,South Korea,
+2015,May,Switzerland,1354
+2015,May,Sweden,5181
+2015,May,Taiwan,
+2015,May,Germany,6771
+2015,May,Other countries,14851
+2015,Jun,Passenger total,185104
+2015,Jun,Iceland,47790
+2015,Jun,Foreigners,137314
+2015,Jun,Austria,
+2015,Jun,Australia / New Zealand,
+2015,Jun,U.S.A.,33589
+2015,Jun,Belgium,
+2015,Jun,U.K.,11539
+2015,Jun,Denmark,4267
+2015,Jun,Estonia / Latvia / Lithuania,
+2015,Jun,Finland,2102
+2015,Jun,France,7254
+2015,Jun,Netherlands,2929
+2015,Jun,Hong Kong,
+2015,Jun,India,
+2015,Jun,Ireland,
+2015,Jun,Israel,
+2015,Jun,Italy,2234
+2015,Jun,Japan,700
+2015,Jun,Canada,6355
+2015,Jun,China,6961
+2015,Jun,Norway,5640
+2015,Jun,Poland,3919
+2015,Jun,Russia,539
+2015,Jun,Singapore,
+2015,Jun,Spain,2136
+2015,Jun,South Korea,
+2015,Jun,Switzerland,3038
+2015,Jun,Sweden,4505
+2015,Jun,Taiwan,
+2015,Jun,Germany,14458
+2015,Jun,Other countries,25149
+2015,Jul,Passenger total,225338
+2015,Jul,Iceland,44659
+2015,Jul,Foreigners,180679
+2015,Jul,Austria,
+2015,Jul,Australia / New Zealand,
+2015,Jul,U.S.A.,37235
+2015,Jul,Belgium,
+2015,Jul,U.K.,15601
+2015,Jul,Denmark,8514
+2015,Jul,Estonia / Latvia / Lithuania,
+2015,Jul,Finland,1937
+2015,Jul,France,12074
+2015,Jul,Netherlands,5086
+2015,Jul,Hong Kong,
+2015,Jul,India,
+2015,Jul,Ireland,
+2015,Jul,Israel,
+2015,Jul,Italy,4504
+2015,Jul,Japan,715
+2015,Jul,Canada,7069
+2015,Jul,China,7483
+2015,Jul,Norway,6053
+2015,Jul,Poland,4915
+2015,Jul,Russia,898
+2015,Jul,Singapore,
+2015,Jul,Spain,5101
+2015,Jul,South Korea,
+2015,Jul,Switzerland,6460
+2015,Jul,Sweden,6191
+2015,Jul,Taiwan,
+2015,Jul,Germany,20047
+2015,Jul,Other countries,30796
+2015,Aug,Passenger total,229319
+2015,Aug,Iceland,39889
+2015,Aug,Foreigners,189430
+2015,Aug,Austria,
+2015,Aug,Australia / New Zealand,
+2015,Aug,U.S.A.,36410
+2015,Aug,Belgium,
+2015,Aug,U.K.,15063
+2015,Aug,Denmark,6022
+2015,Aug,Estonia / Latvia / Lithuania,
+2015,Aug,Finland,1947
+2015,Aug,France,16193
+2015,Aug,Netherlands,5592
+2015,Aug,Hong Kong,
+2015,Aug,India,
+2015,Aug,Ireland,
+2015,Aug,Israel,
+2015,Aug,Italy,9063
+2015,Aug,Japan,1098
+2015,Aug,Canada,6946
+2015,Aug,China,8101
+2015,Aug,Norway,5154
+2015,Aug,Poland,3645
+2015,Aug,Russia,989
+2015,Aug,Singapore,
+2015,Aug,Spain,9007
+2015,Aug,South Korea,
+2015,Aug,Switzerland,5516
+2015,Aug,Sweden,5851
+2015,Aug,Taiwan,
+2015,Aug,Germany,23236
+2015,Aug,Other countries,29597
+2015,Sep,Passenger total,166891
+2015,Sep,Iceland,43851
+2015,Sep,Foreigners,123040
+2015,Sep,Austria,
+2015,Sep,Australia / New Zealand,
+2015,Sep,U.S.A.,27972
+2015,Sep,Belgium,
+2015,Sep,U.K.,12678
+2015,Sep,Denmark,4866
+2015,Sep,Estonia / Latvia / Lithuania,
+2015,Sep,Finland,1831
+2015,Sep,France,5081
+2015,Sep,Netherlands,2725
+2015,Sep,Hong Kong,
+2015,Sep,India,
+2015,Sep,Ireland,
+2015,Sep,Israel,
+2015,Sep,Italy,1977
+2015,Sep,Japan,2527
+2015,Sep,Canada,6770
+2015,Sep,China,4364
+2015,Sep,Norway,5522
+2015,Sep,Poland,2663
+2015,Sep,Russia,475
+2015,Sep,Singapore,
+2015,Sep,Spain,3395
+2015,Sep,South Korea,
+2015,Sep,Switzerland,2760
+2015,Sep,Sweden,4513
+2015,Sep,Taiwan,
+2015,Sep,Germany,12717
+2015,Sep,Other countries,20204
+2015,Oct,Passenger total,144026
+2015,Oct,Iceland,44740
+2015,Oct,Foreigners,99286
+2015,Oct,Austria,
+2015,Oct,Australia / New Zealand,
+2015,Oct,U.S.A.,16122
+2015,Oct,Belgium,
+2015,Oct,U.K.,24200
+2015,Oct,Denmark,4962
+2015,Oct,Estonia / Latvia / Lithuania,
+2015,Oct,Finland,1658
+2015,Oct,France,2926
+2015,Oct,Netherlands,2105
+2015,Oct,Hong Kong,
+2015,Oct,India,
+2015,Oct,Ireland,
+2015,Oct,Israel,
+2015,Oct,Italy,933
+2015,Oct,Japan,1420
+2015,Oct,Canada,3559
+2015,Oct,China,4382
+2015,Oct,Norway,6248
+2015,Oct,Poland,2187
+2015,Oct,Russia,364
+2015,Oct,Singapore,
+2015,Oct,Spain,1591
+2015,Oct,South Korea,
+2015,Oct,Switzerland,1665
+2015,Oct,Sweden,3670
+2015,Oct,Taiwan,
+2015,Oct,Germany,5784
+2015,Oct,Other countries,15510
+2015,Nov,Passenger total,117296
+2015,Nov,Iceland,35687
+2015,Nov,Foreigners,81609
+2015,Nov,Austria,
+2015,Nov,Australia / New Zealand,
+2015,Nov,U.S.A.,15320
+2015,Nov,Belgium,
+2015,Nov,U.K.,28943
+2015,Nov,Denmark,2933
+2015,Nov,Estonia / Latvia / Lithuania,
+2015,Nov,Finland,781
+2015,Nov,France,2261
+2015,Nov,Netherlands,1539
+2015,Nov,Hong Kong,
+2015,Nov,India,
+2015,Nov,Ireland,
+2015,Nov,Israel,
+2015,Nov,Italy,710
+2015,Nov,Japan,1552
+2015,Nov,Canada,2254
+2015,Nov,China,1464
+2015,Nov,Norway,2945
+2015,Nov,Poland,1451
+2015,Nov,Russia,176
+2015,Nov,Singapore,
+2015,Nov,Spain,743
+2015,Nov,South Korea,
+2015,Nov,Switzerland,483
+2015,Nov,Sweden,2642
+2015,Nov,Taiwan,
+2015,Nov,Germany,3117
+2015,Nov,Other countries,12295
+2015,Dec,Passenger total,103770
+2015,Dec,Iceland,32913
+2015,Dec,Foreigners,70857
+2015,Dec,Austria,
+2015,Dec,Australia / New Zealand,
+2015,Dec,U.S.A.,12213
+2015,Dec,Belgium,
+2015,Dec,U.K.,24275
+2015,Dec,Denmark,1648
+2015,Dec,Estonia / Latvia / Lithuania,
+2015,Dec,Finland,581
+2015,Dec,France,1636
+2015,Dec,Netherlands,1086
+2015,Dec,Hong Kong,
+2015,Dec,India,
+2015,Dec,Ireland,
+2015,Dec,Israel,
+2015,Dec,Italy,372
+2015,Dec,Japan,1752
+2015,Dec,Canada,1398
+2015,Dec,China,4786
+2015,Dec,Norway,1403
+2015,Dec,Poland,2681
+2015,Dec,Russia,177
+2015,Dec,Singapore,
+2015,Dec,Spain,516
+2015,Dec,South Korea,
+2015,Dec,Switzerland,290
+2015,Dec,Sweden,1307
+2015,Dec,Taiwan,
+2015,Dec,Germany,2079
+2015,Dec,Other countries,12657
+2016,Jan,Passenger total,107595
+2016,Jan,Iceland,30036
+2016,Jan,Foreigners,77559
+2016,Jan,Austria,
+2016,Jan,Australia / New Zealand,
+2016,Jan,U.S.A.,14428
+2016,Jan,Belgium,
+2016,Jan,U.K.,27521
+2016,Jan,Denmark,2063
+2016,Jan,Estonia / Latvia / Lithuania,
+2016,Jan,Finland,498
+2016,Jan,France,2518
+2016,Jan,Netherlands,1346
+2016,Jan,Hong Kong,
+2016,Jan,India,
+2016,Jan,Ireland,
+2016,Jan,Israel,
+2016,Jan,Italy,556
+2016,Jan,Japan,1800
+2016,Jan,Canada,1569
+2016,Jan,China,3322
+2016,Jan,Norway,1940
+2016,Jan,Poland,1171
+2016,Jan,Russia,220
+2016,Jan,Singapore,
+2016,Jan,Spain,782
+2016,Jan,South Korea,
+2016,Jan,Switzerland,554
+2016,Jan,Sweden,1738
+2016,Jan,Taiwan,
+2016,Jan,Germany,3268
+2016,Jan,Other countries,12265
+2016,Feb,Passenger total,129620
+2016,Feb,Iceland,28878
+2016,Feb,Foreigners,100742
+2016,Feb,Austria,
+2016,Feb,Australia / New Zealand,
+2016,Feb,U.S.A.,16339
+2016,Feb,Belgium,
+2016,Feb,U.K.,43123
+2016,Feb,Denmark,1761
+2016,Feb,Estonia / Latvia / Lithuania,
+2016,Feb,Finland,551
+2016,Feb,France,3596
+2016,Feb,Netherlands,2012
+2016,Feb,Hong Kong,
+2016,Feb,India,
+2016,Feb,Ireland,
+2016,Feb,Israel,
+2016,Feb,Italy,630
+2016,Feb,Japan,2688
+2016,Feb,Canada,1611
+2016,Feb,China,4452
+2016,Feb,Norway,2238
+2016,Feb,Poland,1153
+2016,Feb,Russia,132
+2016,Feb,Singapore,
+2016,Feb,Spain,573
+2016,Feb,South Korea,
+2016,Feb,Switzerland,949
+2016,Feb,Sweden,1720
+2016,Feb,Taiwan,
+2016,Feb,Germany,3733
+2016,Feb,Other countries,13481
+2016,Mar,Passenger total,156144
+2016,Mar,Iceland,40336
+2016,Mar,Foreigners,115808
+2016,Mar,Austria,
+2016,Mar,Australia / New Zealand,
+2016,Mar,U.S.A.,23587
+2016,Mar,Belgium,
+2016,Mar,U.K.,36530
+2016,Mar,Denmark,3265
+2016,Mar,Estonia / Latvia / Lithuania,
+2016,Mar,Finland,1125
+2016,Mar,France,4483
+2016,Mar,Netherlands,2212
+2016,Mar,Hong Kong,
+2016,Mar,India,
+2016,Mar,Ireland,
+2016,Mar,Israel,
+2016,Mar,Italy,1110
+2016,Mar,Japan,2597
+2016,Mar,Canada,2601
+2016,Mar,China,3382
+2016,Mar,Norway,2996
+2016,Mar,Poland,1490
+2016,Mar,Russia,142
+2016,Mar,Singapore,
+2016,Mar,Spain,1663
+2016,Mar,South Korea,
+2016,Mar,Switzerland,1158
+2016,Mar,Sweden,2652
+2016,Mar,Taiwan,
+2016,Mar,Germany,6099
+2016,Mar,Other countries,18716
+2016,Apr,Passenger total,133751
+2016,Apr,Iceland,38876
+2016,Apr,Foreigners,94875
+2016,Apr,Austria,
+2016,Apr,Australia / New Zealand,
+2016,Apr,U.S.A.,20186
+2016,Apr,Belgium,
+2016,Apr,U.K.,23990
+2016,Apr,Denmark,3955
+2016,Apr,Estonia / Latvia / Lithuania,
+2016,Apr,Finland,1300
+2016,Apr,France,4170
+2016,Apr,Netherlands,1680
+2016,Apr,Hong Kong,
+2016,Apr,India,
+2016,Apr,Ireland,
+2016,Apr,Israel,
+2016,Apr,Italy,1023
+2016,Apr,Japan,555
+2016,Apr,Canada,2540
+2016,Apr,China,2005
+2016,Apr,Norway,4476
+2016,Apr,Poland,2055
+2016,Apr,Russia,200
+2016,Apr,Singapore,
+2016,Apr,Spain,980
+2016,Apr,South Korea,
+2016,Apr,Switzerland,1244
+2016,Apr,Sweden,3187
+2016,Apr,Taiwan,
+2016,Apr,Germany,4318
+2016,Apr,Other countries,17011
+2016,May,Passenger total,170985
+2016,May,Iceland,46736
+2016,May,Foreigners,124249
+2016,May,Austria,
+2016,May,Australia / New Zealand,
+2016,May,U.S.A.,32563
+2016,May,Belgium,
+2016,May,U.K.,15860
+2016,May,Denmark,4519
+2016,May,Estonia / Latvia / Lithuania,
+2016,May,Finland,2595
+2016,May,France,5629
+2016,May,Netherlands,3437
+2016,May,Hong Kong,
+2016,May,India,
+2016,May,Ireland,
+2016,May,Israel,
+2016,May,Italy,1196
+2016,May,Japan,737
+2016,May,Canada,7421
+2016,May,China,2475
+2016,May,Norway,6475
+2016,May,Poland,3326
+2016,May,Russia,475
+2016,May,Singapore,
+2016,May,Spain,1538
+2016,May,South Korea,
+2016,May,Switzerland,1591
+2016,May,Sweden,6069
+2016,May,Taiwan,
+2016,May,Germany,9641
+2016,May,Other countries,18702
+2016,Jun,Passenger total,253613
+2016,Jun,Iceland,67075
+2016,Jun,Foreigners,186538
+2016,Jun,Austria,
+2016,Jun,Australia / New Zealand,
+2016,Jun,U.S.A.,55510
+2016,Jun,Belgium,
+2016,Jun,U.K.,16189
+2016,Jun,Denmark,4560
+2016,Jun,Estonia / Latvia / Lithuania,
+2016,Jun,Finland,2576
+2016,Jun,France,9234
+2016,Jun,Netherlands,3971
+2016,Jun,Hong Kong,
+2016,Jun,India,
+2016,Jun,Ireland,
+2016,Jun,Israel,
+2016,Jun,Italy,3158
+2016,Jun,Japan,835
+2016,Jun,Canada,13087
+2016,Jun,China,7850
+2016,Jun,Norway,5643
+2016,Jun,Poland,5210
+2016,Jun,Russia,803
+2016,Jun,Singapore,
+2016,Jun,Spain,2887
+2016,Jun,South Korea,
+2016,Jun,Switzerland,3213
+2016,Jun,Sweden,6750
+2016,Jun,Taiwan,
+2016,Jun,Germany,17433
+2016,Jun,Other countries,27629
+2016,Jul,Passenger total,291517
+2016,Jul,Iceland,55501
+2016,Jul,Foreigners,236016
+2016,Jul,Austria,
+2016,Jul,Australia / New Zealand,
+2016,Jul,U.S.A.,60607
+2016,Jul,Belgium,
+2016,Jul,U.K.,18162
+2016,Jul,Denmark,8982
+2016,Jul,Estonia / Latvia / Lithuania,
+2016,Jul,Finland,2578
+2016,Jul,France,14508
+2016,Jul,Netherlands,5900
+2016,Jul,Hong Kong,
+2016,Jul,India,
+2016,Jul,Ireland,
+2016,Jul,Israel,
+2016,Jul,Italy,5439
+2016,Jul,Japan,1028
+2016,Jul,Canada,12305
+2016,Jul,China,8382
+2016,Jul,Norway,6276
+2016,Jul,Poland,6101
+2016,Jul,Russia,1104
+2016,Jul,Singapore,
+2016,Jul,Spain,6882
+2016,Jul,South Korea,
+2016,Jul,Switzerland,7256
+2016,Jul,Sweden,9073
+2016,Jul,Taiwan,
+2016,Jul,Germany,25203
+2016,Jul,Other countries,36230
+2016,Aug,Passenger total,285785
+2016,Aug,Iceland,44226
+2016,Aug,Foreigners,241559
+2016,Aug,Austria,
+2016,Aug,Australia / New Zealand,
+2016,Aug,U.S.A.,56924
+2016,Aug,Belgium,
+2016,Aug,U.K.,17558
+2016,Aug,Denmark,5792
+2016,Aug,Estonia / Latvia / Lithuania,
+2016,Aug,Finland,1933
+2016,Aug,France,20844
+2016,Aug,Netherlands,6596
+2016,Aug,Hong Kong,
+2016,Aug,India,
+2016,Aug,Ireland,
+2016,Aug,Israel,
+2016,Aug,Italy,11424
+2016,Aug,Japan,1869
+2016,Aug,Canada,11955
+2016,Aug,China,9938
+2016,Aug,Norway,5591
+2016,Aug,Poland,4525
+2016,Aug,Russia,1372
+2016,Aug,Singapore,
+2016,Aug,Spain,11010
+2016,Aug,South Korea,
+2016,Aug,Switzerland,6090
+2016,Aug,Sweden,7435
+2016,Aug,Taiwan,
+2016,Aug,Germany,26872
+2016,Aug,Other countries,33831
+2016,Sep,Passenger total,223424
+2016,Sep,Iceland,48089
+2016,Sep,Foreigners,175335
+2016,Sep,Austria,
+2016,Sep,Australia / New Zealand,
+2016,Sep,U.S.A.,45378
+2016,Sep,Belgium,
+2016,Sep,U.K.,16274
+2016,Sep,Denmark,5308
+2016,Sep,Estonia / Latvia / Lithuania,
+2016,Sep,Finland,2150
+2016,Sep,France,7213
+2016,Sep,Netherlands,3737
+2016,Sep,Hong Kong,
+2016,Sep,India,
+2016,Sep,Ireland,
+2016,Sep,Israel,
+2016,Sep,Italy,2868
+2016,Sep,Japan,3059
+2016,Sep,Canada,10845
+2016,Sep,China,6118
+2016,Sep,Norway,5114
+2016,Sep,Poland,3819
+2016,Sep,Russia,633
+2016,Sep,Singapore,
+2016,Sep,Spain,5153
+2016,Sep,South Korea,
+2016,Sep,Switzerland,2879
+2016,Sep,Sweden,5791
+2016,Sep,Taiwan,
+2016,Sep,Germany,16849
+2016,Sep,Other countries,32147
+2016,Oct,Passenger total,208622
+2016,Oct,Iceland,50080
+2016,Oct,Foreigners,158542
+2016,Oct,Austria,
+2016,Oct,Australia / New Zealand,
+2016,Oct,U.S.A.,34756
+2016,Oct,Belgium,
+2016,Oct,U.K.,31205
+2016,Oct,Denmark,5362
+2016,Oct,Estonia / Latvia / Lithuania,
+2016,Oct,Finland,2897
+2016,Oct,France,5318
+2016,Oct,Netherlands,3468
+2016,Oct,Hong Kong,
+2016,Oct,India,
+2016,Oct,Ireland,
+2016,Oct,Israel,
+2016,Oct,Italy,1467
+2016,Oct,Japan,2377
+2016,Oct,Canada,9943
+2016,Oct,China,6474
+2016,Oct,Norway,5838
+2016,Oct,Poland,3412
+2016,Oct,Russia,467
+2016,Oct,Singapore,
+2016,Oct,Spain,2652
+2016,Oct,South Korea,
+2016,Oct,Switzerland,2508
+2016,Oct,Sweden,4745
+2016,Oct,Taiwan,
+2016,Oct,Germany,9480
+2016,Oct,Other countries,26173
+2016,Nov,Passenger total,176860
+2016,Nov,Iceland,45137
+2016,Nov,Foreigners,131723
+2016,Nov,Austria,
+2016,Nov,Australia / New Zealand,
+2016,Nov,U.S.A.,30580
+2016,Nov,Belgium,
+2016,Nov,U.K.,36594
+2016,Nov,Denmark,2588
+2016,Nov,Estonia / Latvia / Lithuania,
+2016,Nov,Finland,905
+2016,Nov,France,3884
+2016,Nov,Netherlands,2471
+2016,Nov,Hong Kong,
+2016,Nov,India,
+2016,Nov,Ireland,
+2016,Nov,Israel,
+2016,Nov,Italy,1560
+2016,Nov,Japan,2406
+2016,Nov,Canada,5465
+2016,Nov,China,2935
+2016,Nov,Norway,2804
+2016,Nov,Poland,2867
+2016,Nov,Russia,487
+2016,Nov,Singapore,
+2016,Nov,Spain,2423
+2016,Nov,South Korea,
+2016,Nov,Switzerland,660
+2016,Nov,Sweden,3507
+2016,Nov,Taiwan,
+2016,Nov,Germany,5864
+2016,Nov,Other countries,23723
+2016,Dec,Passenger total,166067
+2016,Dec,Iceland,41287
+2016,Dec,Foreigners,124780
+2016,Dec,Austria,
+2016,Dec,Australia / New Zealand,
+2016,Dec,U.S.A.,24429
+2016,Dec,Belgium,
+2016,Dec,U.K.,33389
+2016,Dec,Denmark,1796
+2016,Dec,Estonia / Latvia / Lithuania,
+2016,Dec,Finland,787
+2016,Dec,France,3824
+2016,Dec,Netherlands,2268
+2016,Dec,Hong Kong,
+2016,Dec,India,
+2016,Dec,Ireland,
+2016,Dec,Israel,
+2016,Dec,Italy,1142
+2016,Dec,Japan,2420
+2016,Dec,Canada,3802
+2016,Dec,China,9448
+2016,Dec,Norway,1621
+2016,Dec,Poland,4484
+2016,Dec,Russia,285
+2016,Dec,Singapore,
+2016,Dec,Spain,2640
+2016,Dec,South Korea,
+2016,Dec,Switzerland,580
+2016,Dec,Sweden,1848
+2016,Dec,Taiwan,
+2016,Dec,Germany,4029
+2016,Dec,Other countries,25988
+2017,Jan,Passenger total,173290
+2017,Jan,Iceland,37291
+2017,Jan,Foreigners,135999
+2017,Jan,Austria,
+2017,Jan,Australia / New Zealand,
+2017,Jan,U.S.A.,31009
+2017,Jan,Belgium,
+2017,Jan,U.K.,38357
+2017,Jan,Denmark,2074
+2017,Jan,Estonia / Latvia / Lithuania,
+2017,Jan,Finland,666
+2017,Jan,France,4457
+2017,Jan,Netherlands,2953
+2017,Jan,Hong Kong,
+2017,Jan,India,
+2017,Jan,Ireland,
+2017,Jan,Israel,
+2017,Jan,Italy,1611
+2017,Jan,Japan,3246
+2017,Jan,Canada,4199
+2017,Jan,China,7278
+2017,Jan,Norway,1922
+2017,Jan,Poland,2555
+2017,Jan,Russia,425
+2017,Jan,Singapore,
+2017,Jan,Spain,2502
+2017,Jan,South Korea,
+2017,Jan,Switzerland,937
+2017,Jan,Sweden,2567
+2017,Jan,Taiwan,
+2017,Jan,Germany,6002
+2017,Jan,Other countries,23239
+2017,Feb,Passenger total,183504
+2017,Feb,Iceland,35161
+2017,Feb,Foreigners,148343
+2017,Feb,Austria,
+2017,Feb,Australia / New Zealand,
+2017,Feb,U.S.A.,28913
+2017,Feb,Belgium,
+2017,Feb,U.K.,47321
+2017,Feb,Denmark,2412
+2017,Feb,Estonia / Latvia / Lithuania,
+2017,Feb,Finland,652
+2017,Feb,France,6638
+2017,Feb,Netherlands,3056
+2017,Feb,Hong Kong,
+2017,Feb,India,
+2017,Feb,Ireland,
+2017,Feb,Israel,
+2017,Feb,Italy,1698
+2017,Feb,Japan,2698
+2017,Feb,Canada,4929
+2017,Feb,China,8407
+2017,Feb,Norway,2114
+2017,Feb,Poland,2873
+2017,Feb,Russia,367
+2017,Feb,Singapore,
+2017,Feb,Spain,2463
+2017,Feb,South Korea,
+2017,Feb,Switzerland,1331
+2017,Feb,Sweden,2027
+2017,Feb,Taiwan,
+2017,Feb,Germany,6542
+2017,Feb,Other countries,23902
+2017,Mar,Passenger total,208683
+2017,Mar,Iceland,40877
+2017,Mar,Foreigners,167806
+2017,Mar,Austria,
+2017,Mar,Australia / New Zealand,
+2017,Mar,U.S.A.,42978
+2017,Mar,Belgium,
+2017,Mar,U.K.,38687
+2017,Mar,Denmark,3392
+2017,Mar,Estonia / Latvia / Lithuania,
+2017,Mar,Finland,1123
+2017,Mar,France,5938
+2017,Mar,Netherlands,3835
+2017,Mar,Hong Kong,
+2017,Mar,India,
+2017,Mar,Ireland,
+2017,Mar,Israel,
+2017,Mar,Italy,3002
+2017,Mar,Japan,2848
+2017,Mar,Canada,7346
+2017,Mar,China,5204
+2017,Mar,Norway,3009
+2017,Mar,Poland,3697
+2017,Mar,Russia,479
+2017,Mar,Singapore,
+2017,Mar,Spain,3667
+2017,Mar,South Korea,
+2017,Mar,Switzerland,1306
+2017,Mar,Sweden,2683
+2017,Mar,Taiwan,
+2017,Mar,Germany,9916
+2017,Mar,Other countries,28696
+2017,Apr,Passenger total,215741
+2017,Apr,Iceland,62173
+2017,Apr,Foreigners,153568
+2017,Apr,Austria,
+2017,Apr,Australia / New Zealand,
+2017,Apr,U.S.A.,40388
+2017,Apr,Belgium,
+2017,Apr,U.K.,27817
+2017,Apr,Denmark,5026
+2017,Apr,Estonia / Latvia / Lithuania,
+2017,Apr,Finland,2537
+2017,Apr,France,6739
+2017,Apr,Netherlands,3686
+2017,Apr,Hong Kong,
+2017,Apr,India,
+2017,Apr,Ireland,
+2017,Apr,Israel,
+2017,Apr,Italy,2266
+2017,Apr,Japan,836
+2017,Apr,Canada,6014
+2017,Apr,China,3560
+2017,Apr,Norway,4611
+2017,Apr,Poland,4150
+2017,Apr,Russia,561
+2017,Apr,Singapore,
+2017,Apr,Spain,3172
+2017,Apr,South Korea,
+2017,Apr,Switzerland,2021
+2017,Apr,Sweden,4638
+2017,Apr,Taiwan,
+2017,Apr,Germany,9299
+2017,Apr,Other countries,26247
+2017,May,Passenger total,197260
+2017,May,Iceland,51280
+2017,May,Foreigners,145980
+2017,May,Austria,
+2017,May,Australia / New Zealand,
+2017,May,U.S.A.,43626
+2017,May,Belgium,
+2017,May,U.K.,11363
+2017,May,Denmark,4517
+2017,May,Estonia / Latvia / Lithuania,
+2017,May,Finland,3097
+2017,May,France,7574
+2017,May,Netherlands,4271
+2017,May,Hong Kong,
+2017,May,India,
+2017,May,Ireland,
+2017,May,Israel,
+2017,May,Italy,1695
+2017,May,Japan,767
+2017,May,Canada,9079
+2017,May,China,3827
+2017,May,Norway,5437
+2017,May,Poland,5017
+2017,May,Russia,965
+2017,May,Singapore,
+2017,May,Spain,2618
+2017,May,South Korea,
+2017,May,Switzerland,1686
+2017,May,Sweden,6129
+2017,May,Taiwan,
+2017,May,Germany,10727
+2017,May,Other countries,23585
+2017,Jun,Passenger total,284079
+2017,Jun,Iceland,62234
+2017,Jun,Foreigners,221845
+2017,Jun,Austria,2074
+2017,Jun,Australia / New Zealand,3624
+2017,Jun,U.S.A.,71949
+2017,Jun,Belgium,2158
+2017,Jun,U.K.,13878
+2017,Jun,Denmark,5194
+2017,Jun,Estonia / Latvia / Lithuania,2581
+2017,Jun,Finland,3602
+2017,Jun,France,11082
+2017,Jun,Netherlands,4564
+2017,Jun,Hong Kong,1346
+2017,Jun,India,1787
+2017,Jun,Ireland,1430
+2017,Jun,Israel,450
+2017,Jun,Italy,3332
+2017,Jun,Japan,805
+2017,Jun,Canada,12612
+2017,Jun,China,8530
+2017,Jun,Norway,5330
+2017,Jun,Poland,7026
+2017,Jun,Russia,1203
+2017,Jun,Singapore,1218
+2017,Jun,Spain,4259
+2017,Jun,South Korea,1004
+2017,Jun,Switzerland,3335
+2017,Jun,Sweden,7788
+2017,Jun,Taiwan,3781
+2017,Jun,Germany,21607
+2017,Jun,Other countries,14296
+2017,Jul,Passenger total,334403
+2017,Jul,Iceland,62483
+2017,Jul,Foreigners,271920
+2017,Jul,Austria,3807
+2017,Jul,Australia / New Zealand,4499
+2017,Jul,U.S.A.,80622
+2017,Jul,Belgium,4750
+2017,Jul,U.K.,16551
+2017,Jul,Denmark,8817
+2017,Jul,Estonia / Latvia / Lithuania,3363
+2017,Jul,Finland,3326
+2017,Jul,France,15137
+2017,Jul,Netherlands,6138
+2017,Jul,Hong Kong,1359
+2017,Jul,India,1664
+2017,Jul,Ireland,1431
+2017,Jul,Israel,1697
+2017,Jul,Italy,6014
+2017,Jul,Japan,1007
+2017,Jul,Canada,13830
+2017,Jul,China,9617
+2017,Jul,Norway,6439
+2017,Jul,Poland,8618
+2017,Jul,Russia,2082
+2017,Jul,Singapore,622
+2017,Jul,Spain,8187
+2017,Jul,South Korea,1491
+2017,Jul,Switzerland,6437
+2017,Jul,Sweden,8670
+2017,Jul,Taiwan,3532
+2017,Jul,Germany,25620
+2017,Jul,Other countries,16593
+2017,Aug,Passenger total,337856
+2017,Aug,Iceland,53732
+2017,Aug,Foreigners,284124
+2017,Aug,Austria,3931
+2017,Aug,Australia / New Zealand,4280
+2017,Aug,U.S.A.,74604
+2017,Aug,Belgium,3677
+2017,Aug,U.K.,16179
+2017,Aug,Denmark,6280
+2017,Aug,Estonia / Latvia / Lithuania,2927
+2017,Aug,Finland,2518
+2017,Aug,France,20440
+2017,Aug,Netherlands,7952
+2017,Aug,Hong Kong,1569
+2017,Aug,India,1494
+2017,Aug,Ireland,1830
+2017,Aug,Israel,1875
+2017,Aug,Italy,12745
+2017,Aug,Japan,2018
+2017,Aug,Canada,15442
+2017,Aug,China,12273
+2017,Aug,Norway,4880
+2017,Aug,Poland,7092
+2017,Aug,Russia,2531
+2017,Aug,Singapore,649
+2017,Aug,Spain,13089
+2017,Aug,South Korea,2287
+2017,Aug,Switzerland,6237
+2017,Aug,Sweden,7101
+2017,Aug,Taiwan,2436
+2017,Aug,Germany,27933
+2017,Aug,Other countries,17855
+2017,Sep,Passenger total,261061
+2017,Sep,Iceland,57175
+2017,Sep,Foreigners,203886
+2017,Sep,Austria,1616
+2017,Sep,Australia / New Zealand,4188
+2017,Sep,U.S.A.,57315
+2017,Sep,Belgium,2352
+2017,Sep,U.K.,15779
+2017,Sep,Denmark,5507
+2017,Sep,Estonia / Latvia / Lithuania,2263
+2017,Sep,Finland,2417
+2017,Sep,France,8380
+2017,Sep,Netherlands,4326
+2017,Sep,Hong Kong,1486
+2017,Sep,India,1717
+2017,Sep,Ireland,1193
+2017,Sep,Israel,1155
+2017,Sep,Italy,3190
+2017,Sep,Japan,2547
+2017,Sep,Canada,12353
+2017,Sep,China,6447
+2017,Sep,Norway,4919
+2017,Sep,Poland,6661
+2017,Sep,Russia,1462
+2017,Sep,Singapore,1065
+2017,Sep,Spain,7614
+2017,Sep,South Korea,1019
+2017,Sep,Switzerland,3063
+2017,Sep,Sweden,5457
+2017,Sep,Taiwan,2642
+2017,Sep,Germany,17624
+2017,Sep,Other countries,18129
+2017,Oct,Passenger total,241219
+2017,Oct,Iceland,59300
+2017,Oct,Foreigners,181919
+2017,Oct,Austria,758
+2017,Oct,Australia / New Zealand,3671
+2017,Oct,U.S.A.,44969
+2017,Oct,Belgium,960
+2017,Oct,U.K.,26862
+2017,Oct,Denmark,5068
+2017,Oct,Estonia / Latvia / Lithuania,2478
+2017,Oct,Finland,2306
+2017,Oct,France,5609
+2017,Oct,Netherlands,3806
+2017,Oct,Hong Kong,1635
+2017,Oct,India,1979
+2017,Oct,Ireland,3069
+2017,Oct,Israel,1367
+2017,Oct,Italy,1618
+2017,Oct,Japan,1978
+2017,Oct,Canada,8575
+2017,Oct,China,7756
+2017,Oct,Norway,5061
+2017,Oct,Poland,6338
+2017,Oct,Russia,798
+2017,Oct,Singapore,1223
+2017,Oct,Spain,3828
+2017,Oct,South Korea,2427
+2017,Oct,Switzerland,2463
+2017,Oct,Sweden,4025
+2017,Oct,Taiwan,5671
+2017,Oct,Germany,10128
+2017,Oct,Other countries,15493
+2017,Nov,Passenger total,196566
+2017,Nov,Iceland,51925
+2017,Nov,Foreigners,144641
+2017,Nov,Austria,551
+2017,Nov,Australia / New Zealand,2591
+2017,Nov,U.S.A.,33629
+2017,Nov,Belgium,1099
+2017,Nov,U.K.,36378
+2017,Nov,Denmark,2615
+2017,Nov,Estonia / Latvia / Lithuania,2042
+2017,Nov,Finland,913
+2017,Nov,France,4635
+2017,Nov,Netherlands,2464
+2017,Nov,Hong Kong,1136
+2017,Nov,India,1065
+2017,Nov,Ireland,3440
+2017,Nov,Israel,218
+2017,Nov,Italy,1998
+2017,Nov,Japan,1783
+2017,Nov,Canada,5253
+2017,Nov,China,2916
+2017,Nov,Norway,2595
+2017,Nov,Poland,5278
+2017,Nov,Russia,617
+2017,Nov,Singapore,1236
+2017,Nov,Spain,3265
+2017,Nov,South Korea,1348
+2017,Nov,Switzerland,746
+2017,Nov,Sweden,3154
+2017,Nov,Taiwan,2039
+2017,Nov,Germany,6307
+2017,Nov,Other countries,13330
+2017,Dec,Passenger total,180561
+2017,Dec,Iceland,45321
+2017,Dec,Foreigners,135240
+2017,Dec,Austria,398
+2017,Dec,Australia / New Zealand,3307
+2017,Dec,U.S.A.,26401
+2017,Dec,Belgium,750
+2017,Dec,U.K.,33371
+2017,Dec,Denmark,2338
+2017,Dec,Estonia / Latvia / Lithuania,2837
+2017,Dec,Finland,911
+2017,Dec,France,3745
+2017,Dec,Netherlands,2113
+2017,Dec,Hong Kong,1370
+2017,Dec,India,1238
+2017,Dec,Ireland,1771
+2017,Dec,Israel,183
+2017,Dec,Italy,1696
+2017,Dec,Japan,1864
+2017,Dec,Canada,3394
+2017,Dec,China,10188
+2017,Dec,Norway,1641
+2017,Dec,Poland,6994
+2017,Dec,Russia,329
+2017,Dec,Singapore,1988
+2017,Dec,Spain,3307
+2017,Dec,South Korea,1614
+2017,Dec,Switzerland,604
+2017,Dec,Sweden,1990
+2017,Dec,Taiwan,1364
+2017,Dec,Germany,4108
+2017,Dec,Other countries,13426
+2018,Jan,Passenger total,186636
+2018,Jan,Iceland,39067
+2018,Jan,Foreigners,147569
+2018,Jan,Austria,552
+2018,Jan,Australia / New Zealand,4063
+2018,Jan,U.S.A.,33501
+2018,Jan,Belgium,1090
+2018,Jan,U.K.,37999
+2018,Jan,Denmark,2671
+2018,Jan,Estonia / Latvia / Lithuania,1713
+2018,Jan,Finland,793
+2018,Jan,France,5446
+2018,Jan,Netherlands,2609
+2018,Jan,Hong Kong,1128
+2018,Jan,India,867
+2018,Jan,Ireland,2670
+2018,Jan,Israel,128
+2018,Jan,Italy,2073
+2018,Jan,Japan,2495
+2018,Jan,Canada,3938
+2018,Jan,China,6526
+2018,Jan,Norway,1943
+2018,Jan,Poland,5511
+2018,Jan,Russia,639
+2018,Jan,Singapore,606
+2018,Jan,Spain,3071
+2018,Jan,South Korea,1842
+2018,Jan,Switzerland,938
+2018,Jan,Sweden,2296
+2018,Jan,Taiwan,1615
+2018,Jan,Germany,6168
+2018,Jan,Other countries,12678
+2018,Feb,Passenger total,200300
+2018,Feb,Iceland,40222
+2018,Feb,Foreigners,160078
+2018,Feb,Austria,784
+2018,Feb,Australia / New Zealand,2239
+2018,Feb,U.S.A.,30526
+2018,Feb,Belgium,1465
+2018,Feb,U.K.,46931
+2018,Feb,Denmark,2886
+2018,Feb,Estonia / Latvia / Lithuania,1968
+2018,Feb,Finland,991
+2018,Feb,France,6699
+2018,Feb,Netherlands,2652
+2018,Feb,Hong Kong,1542
+2018,Feb,India,949
+2018,Feb,Ireland,3109
+2018,Feb,Israel,200
+2018,Feb,Italy,2315
+2018,Feb,Japan,2396
+2018,Feb,Canada,4018
+2018,Feb,China,8587
+2018,Feb,Norway,2334
+2018,Feb,Poland,5958
+2018,Feb,Russia,564
+2018,Feb,Singapore,680
+2018,Feb,Spain,3587
+2018,Feb,South Korea,1447
+2018,Feb,Switzerland,1196
+2018,Feb,Sweden,1914
+2018,Feb,Taiwan,3006
+2018,Feb,Germany,6885
+2018,Feb,Other countries,12250
+2018,Mar,Passenger total,229828
+2018,Mar,Iceland,56767
+2018,Mar,Foreigners,173061
+2018,Mar,Austria,756
+2018,Mar,Australia / New Zealand,2206
+2018,Mar,U.S.A.,41904
+2018,Mar,Belgium,1089
+2018,Mar,U.K.,35044
+2018,Mar,Denmark,4401
+2018,Mar,Estonia / Latvia / Lithuania,2644
+2018,Mar,Finland,1175
+2018,Mar,France,8241
+2018,Mar,Netherlands,3516
+2018,Mar,Hong Kong,1709
+2018,Mar,India,1245
+2018,Mar,Ireland,2934
+2018,Mar,Israel,214
+2018,Mar,Italy,4163
+2018,Mar,Japan,1864
+2018,Mar,Canada,6177
+2018,Mar,China,4169
+2018,Mar,Norway,2919
+2018,Mar,Poland,6845
+2018,Mar,Russia,762
+2018,Mar,Singapore,1096
+2018,Mar,Spain,4281
+2018,Mar,South Korea,1130
+2018,Mar,Switzerland,1126
+2018,Mar,Sweden,2745
+2018,Mar,Taiwan,3257
+2018,Mar,Germany,9174
+2018,Mar,Other countries,16275
+2018,Apr,Passenger total,200324
+2018,Apr,Iceland,52773
+2018,Apr,Foreigners,147551
+2018,Apr,Austria,761
+2018,Apr,Australia / New Zealand,2125
+2018,Apr,U.S.A.,36274
+2018,Apr,Belgium,1413
+2018,Apr,U.K.,22841
+2018,Apr,Denmark,4847
+2018,Apr,Estonia / Latvia / Lithuania,2350
+2018,Apr,Finland,2324
+2018,Apr,France,6073
+2018,Apr,Netherlands,2749
+2018,Apr,Hong Kong,1007
+2018,Apr,India,1470
+2018,Apr,Ireland,2342
+2018,Apr,Israel,297
+2018,Apr,Italy,2323
+2018,Apr,Japan,691
+2018,Apr,Canada,6308
+2018,Apr,China,2458
+2018,Apr,Norway,4393
+2018,Apr,Poland,7218
+2018,Apr,Russia,653
+2018,Apr,Singapore,731
+2018,Apr,Spain,4398
+2018,Apr,South Korea,881
+2018,Apr,Switzerland,1791
+2018,Apr,Sweden,4622
+2018,Apr,Taiwan,2140
+2018,Apr,Germany,8012
+2018,Apr,Other countries,14059
+2018,May,Passenger total,228076
+2018,May,Iceland,62836
+2018,May,Foreigners,165240
+2018,May,Austria,834
+2018,May,Australia / New Zealand,2304
+2018,May,U.S.A.,51608
+2018,May,Belgium,1139
+2018,May,U.K.,10651
+2018,May,Denmark,4125
+2018,May,Estonia / Latvia / Lithuania,2430
+2018,May,Finland,2796
+2018,May,France,8192
+2018,May,Netherlands,4868
+2018,May,Hong Kong,563
+2018,May,India,1849
+2018,May,Ireland,1035
+2018,May,Israel,458
+2018,May,Italy,2473
+2018,May,Japan,703
+2018,May,Canada,9581
+2018,May,China,3891
+2018,May,Norway,5218
+2018,May,Poland,8890
+2018,May,Russia,1428
+2018,May,Singapore,572
+2018,May,Spain,3815
+2018,May,South Korea,975
+2018,May,Switzerland,1784
+2018,May,Sweden,5448
+2018,May,Taiwan,1244
+2018,May,Germany,11921
+2018,May,Other countries,14445
+2018,Jun,Passenger total,305082
+2018,Jun,Iceland,71208
+2018,Jun,Foreigners,233874
+2018,Jun,Austria,1492
+2018,Jun,Australia / New Zealand,3626
+2018,Jun,U.S.A.,92879
+2018,Jun,Belgium,1846
+2018,Jun,U.K.,12846
+2018,Jun,Denmark,4134
+2018,Jun,Estonia / Latvia / Lithuania,3140
+2018,Jun,Finland,2641
+2018,Jun,France,9907
+2018,Jun,Netherlands,4084
+2018,Jun,Hong Kong,1184
+2018,Jun,India,2246
+2018,Jun,Ireland,1350
+2018,Jun,Israel,829
+2018,Jun,Italy,3641
+2018,Jun,Japan,878
+2018,Jun,Canada,11446
+2018,Jun,China,8465
+2018,Jun,Norway,4279
+2018,Jun,Poland,9480
+2018,Jun,Russia,1612
+2018,Jun,Singapore,1268
+2018,Jun,Spain,4601
+2018,Jun,South Korea,1131
+2018,Jun,Switzerland,2986
+2018,Jun,Sweden,5535
+2018,Jun,Taiwan,2780
+2018,Jun,Germany,16363
+2018,Jun,Other countries,17205
+2018,Jul,Passenger total,344852
+2018,Jul,Iceland,66239
+2018,Jul,Foreigners,278613
+2018,Jul,Austria,3511
+2018,Jul,Australia / New Zealand,4117
+2018,Jul,U.S.A.,102709
+2018,Jul,Belgium,3814
+2018,Jul,U.K.,14353
+2018,Jul,Denmark,7639
+2018,Jul,Estonia / Latvia / Lithuania,3561
+2018,Jul,Finland,2691
+2018,Jul,France,12605
+2018,Jul,Netherlands,5357
+2018,Jul,Hong Kong,1291
+2018,Jul,India,2050
+2018,Jul,Ireland,1221
+2018,Jul,Israel,2041
+2018,Jul,Italy,5645
+2018,Jul,Japan,962
+2018,Jul,Canada,12568
+2018,Jul,China,9589
+2018,Jul,Norway,5684
+2018,Jul,Poland,10168
+2018,Jul,Russia,2055
+2018,Jul,Singapore,632
+2018,Jul,Spain,8174
+2018,Jul,South Korea,1786
+2018,Jul,Switzerland,5484
+2018,Jul,Sweden,7298
+2018,Jul,Taiwan,2560
+2018,Jul,Germany,20595
+2018,Jul,Other countries,18453
+2018,Aug,Passenger total,347475
+2018,Aug,Iceland,56131
+2018,Aug,Foreigners,291344
+2018,Aug,Austria,3189
+2018,Aug,Australia / New Zealand,3880
+2018,Aug,U.S.A.,97434
+2018,Aug,Belgium,3257
+2018,Aug,U.K.,14533
+2018,Aug,Denmark,5741
+2018,Aug,Estonia / Latvia / Lithuania,3026
+2018,Aug,Finland,1927
+2018,Aug,France,17774
+2018,Aug,Netherlands,6336
+2018,Aug,Hong Kong,1290
+2018,Aug,India,1661
+2018,Aug,Ireland,1358
+2018,Aug,Israel,2825
+2018,Aug,Italy,12515
+2018,Aug,Japan,1971
+2018,Aug,Canada,13407
+2018,Aug,China,12219
+2018,Aug,Norway,4693
+2018,Aug,Poland,9132
+2018,Aug,Russia,3105
+2018,Aug,Singapore,633
+2018,Aug,Spain,12854
+2018,Aug,South Korea,2254
+2018,Aug,Switzerland,5231
+2018,Aug,Sweden,6058
+2018,Aug,Taiwan,1877
+2018,Aug,Germany,21830
+2018,Aug,Other countries,19334
+2018,Sep,Passenger total,289502
+2018,Sep,Iceland,57821
+2018,Sep,Foreigners,231681
+2018,Sep,Austria,1660
+2018,Sep,Australia / New Zealand,4445
+2018,Sep,U.S.A.,82346
+2018,Sep,Belgium,2966
+2018,Sep,U.K.,13530
+2018,Sep,Denmark,4714
+2018,Sep,Estonia / Latvia / Lithuania,2738
+2018,Sep,Finland,1892
+2018,Sep,France,7349
+2018,Sep,Netherlands,4025
+2018,Sep,Hong Kong,1444
+2018,Sep,India,2140
+2018,Sep,Ireland,1122
+2018,Sep,Israel,2093
+2018,Sep,Italy,3927
+2018,Sep,Japan,2019
+2018,Sep,Canada,12590
+2018,Sep,China,8243
+2018,Sep,Norway,4267
+2018,Sep,Poland,8094
+2018,Sep,Russia,1891
+2018,Sep,Singapore,746
+2018,Sep,Spain,9508
+2018,Sep,South Korea,1517
+2018,Sep,Switzerland,3168
+2018,Sep,Sweden,4962
+2018,Sep,Taiwan,2789
+2018,Sep,Germany,16310
+2018,Sep,Other countries,19186
+2018,Oct,Passenger total,263587
+2018,Oct,Iceland,63961
+2018,Oct,Foreigners,199626
+2018,Oct,Austria,661
+2018,Oct,Australia / New Zealand,3496
+2018,Oct,U.S.A.,60976
+2018,Oct,Belgium,809
+2018,Oct,U.K.,24657
+2018,Oct,Denmark,4884
+2018,Oct,Estonia / Latvia / Lithuania,2609
+2018,Oct,Finland,1827
+2018,Oct,France,6034
+2018,Oct,Netherlands,3603
+2018,Oct,Hong Kong,1712
+2018,Oct,India,2310
+2018,Oct,Ireland,2972
+2018,Oct,Israel,755
+2018,Oct,Italy,2300
+2018,Oct,Japan,1882
+2018,Oct,Canada,10218
+2018,Oct,China,8663
+2018,Oct,Norway,4058
+2018,Oct,Poland,7277
+2018,Oct,Russia,784
+2018,Oct,Singapore,1067
+2018,Oct,Spain,5083
+2018,Oct,South Korea,1435
+2018,Oct,Switzerland,2760
+2018,Oct,Sweden,3521
+2018,Oct,Taiwan,3378
+2018,Oct,Germany,11164
+2018,Oct,Other countries,18731
+2018,Nov,Passenger total,201503
+2018,Nov,Iceland,51445
+2018,Nov,Foreigners,150058
+2018,Nov,Austria,594
+2018,Nov,Australia / New Zealand,2342
+2018,Nov,U.S.A.,36530
+2018,Nov,Belgium,1395
+2018,Nov,U.K.,34291
+2018,Nov,Denmark,2868
+2018,Nov,Estonia / Latvia / Lithuania,1719
+2018,Nov,Finland,1030
+2018,Nov,France,4765
+2018,Nov,Netherlands,2464
+2018,Nov,Hong Kong,1192
+2018,Nov,India,1447
+2018,Nov,Ireland,3167
+2018,Nov,Israel,92
+2018,Nov,Italy,3150
+2018,Nov,Japan,1587
+2018,Nov,Canada,6004
+2018,Nov,China,3453
+2018,Nov,Norway,2337
+2018,Nov,Poland,5427
+2018,Nov,Russia,487
+2018,Nov,Singapore,1201
+2018,Nov,Spain,3553
+2018,Nov,South Korea,1180
+2018,Nov,Switzerland,1079
+2018,Nov,Sweden,3193
+2018,Nov,Taiwan,2192
+2018,Nov,Germany,6280
+2018,Nov,Other countries,15039
+2018,Dec,Passenger total,186853
+2018,Dec,Iceland,49623
+2018,Dec,Foreigners,137230
+2018,Dec,Austria,326
+2018,Dec,Australia / New Zealand,2930
+2018,Dec,U.S.A.,28127
+2018,Dec,Belgium,745
+2018,Dec,U.K.,30287
+2018,Dec,Denmark,2109
+2018,Dec,Estonia / Latvia / Lithuania,2772
+2018,Dec,Finland,880
+2018,Dec,France,4139
+2018,Dec,Netherlands,2116
+2018,Dec,Hong Kong,1483
+2018,Dec,India,1349
+2018,Dec,Ireland,2042
+2018,Dec,Israel,84
+2018,Dec,Italy,1876
+2018,Dec,Japan,1689
+2018,Dec,Canada,3460
+2018,Dec,China,13232
+2018,Dec,Norway,1610
+2018,Dec,Poland,7463
+2018,Dec,Russia,302
+2018,Dec,Singapore,1340
+2018,Dec,Spain,2664
+2018,Dec,South Korea,1444
+2018,Dec,Switzerland,1019
+2018,Dec,Sweden,1724
+2018,Dec,Taiwan,1635
+2018,Dec,Germany,4453
+2018,Dec,Other countries,13930
+2019,Jan,Passenger total,179640
+2019,Jan,Iceland,40585
+2019,Jan,Foreigners,139055
+2019,Jan,Austria,486
+2019,Jan,Australia / New Zealand,3596
+2019,Jan,U.S.A.,29524
+2019,Jan,Belgium,1047
+2019,Jan,U.K.,34719
+2019,Jan,Denmark,2758
+2019,Jan,Estonia / Latvia / Lithuania,1620
+2019,Jan,Finland,866
+2019,Jan,France,5414
+2019,Jan,Netherlands,2413
+2019,Jan,Hong Kong,957
+2019,Jan,India,1051
+2019,Jan,Ireland,2495
+2019,Jan,Israel,81
+2019,Jan,Italy,2651
+2019,Jan,Japan,2267
+2019,Jan,Canada,3506
+2019,Jan,China,7728
+2019,Jan,Norway,2095
+2019,Jan,Poland,5250
+2019,Jan,Russia,429
+2019,Jan,Singapore,411
+2019,Jan,Spain,2879
+2019,Jan,South Korea,1652
+2019,Jan,Switzerland,1314
+2019,Jan,Sweden,2030
+2019,Jan,Taiwan,1500
+2019,Jan,Germany,6641
+2019,Jan,Other countries,11675
+2019,Feb,Passenger total,189579
+2019,Feb,Iceland,40575
+2019,Feb,Foreigners,149004
+2019,Feb,Austria,920
+2019,Feb,Australia / New Zealand,1921
+2019,Feb,U.S.A.,24727
+2019,Feb,Belgium,1190
+2019,Feb,U.K.,42715
+2019,Feb,Denmark,2929
+2019,Feb,Estonia / Latvia / Lithuania,1451
+2019,Feb,Finland,894
+2019,Feb,France,6787
+2019,Feb,Netherlands,2529
+2019,Feb,Hong Kong,1578
+2019,Feb,India,1065
+2019,Feb,Ireland,3502
+2019,Feb,Israel,100
+2019,Feb,Italy,3272
+2019,Feb,Japan,1917
+2019,Feb,Canada,4181
+2019,Feb,China,9829
+2019,Feb,Norway,1968
+2019,Feb,Poland,5758
+2019,Feb,Russia,453
+2019,Feb,Singapore,506
+2019,Feb,Spain,3150
+2019,Feb,South Korea,1555
+2019,Feb,Switzerland,1268
+2019,Feb,Sweden,1727
+2019,Feb,Taiwan,2257
+2019,Feb,Germany,6893
+2019,Feb,Other countries,11962
+2019,Mar,Passenger total,213448
+2019,Mar,Iceland,43271
+2019,Mar,Foreigners,170177
+2019,Mar,Austria,1008
+2019,Mar,Australia / New Zealand,2144
+2019,Mar,U.S.A.,38088
+2019,Mar,Belgium,1506
+2019,Mar,U.K.,34458
+2019,Mar,Denmark,3551
+2019,Mar,Estonia / Latvia / Lithuania,1990
+2019,Mar,Finland,1181
+2019,Mar,France,7604
+2019,Mar,Netherlands,3429
+2019,Mar,Hong Kong,1463
+2019,Mar,India,1667
+2019,Mar,Ireland,2793
+2019,Mar,Israel,203
+2019,Mar,Italy,5226
+2019,Mar,Japan,1815
+2019,Mar,Canada,5971
+2019,Mar,China,4433
+2019,Mar,Norway,2965
+2019,Mar,Poland,6126
+2019,Mar,Russia,607
+2019,Mar,Singapore,1613
+2019,Mar,Spain,4432
+2019,Mar,South Korea,1383
+2019,Mar,Switzerland,1306
+2019,Mar,Sweden,2203
+2019,Mar,Taiwan,3203
+2019,Mar,Germany,10702
+2019,Mar,Other countries,17107
+2019,Apr,Passenger total,181229
+2019,Apr,Iceland,60923
+2019,Apr,Foreigners,120306
+2019,Apr,Austria,990
+2019,Apr,Australia / New Zealand,1758
+2019,Apr,U.S.A.,26477
+2019,Apr,Belgium,1239
+2019,Apr,U.K.,15644
+2019,Apr,Denmark,4363
+2019,Apr,Estonia / Latvia / Lithuania,2411
+2019,Apr,Finland,2203
+2019,Apr,France,4919
+2019,Apr,Netherlands,2324
+2019,Apr,Hong Kong,828
+2019,Apr,India,977
+2019,Apr,Ireland,1228
+2019,Apr,Israel,156
+2019,Apr,Italy,2596
+2019,Apr,Japan,479
+2019,Apr,Canada,4083
+2019,Apr,China,2623
+2019,Apr,Norway,3794
+2019,Apr,Poland,7320
+2019,Apr,Russia,621
+2019,Apr,Singapore,994
+2019,Apr,Spain,3775
+2019,Apr,South Korea,670
+2019,Apr,Switzerland,1712
+2019,Apr,Sweden,3436
+2019,Apr,Taiwan,1607
+2019,Apr,Germany,7625
+2019,Apr,Other countries,13454
+2019,May,Passenger total,183278
+2019,May,Iceland,56969
+2019,May,Foreigners,126309
+2019,May,Austria,882
+2019,May,Australia / New Zealand,1861
+2019,May,U.S.A.,31640
+2019,May,Belgium,904
+2019,May,U.K.,8949
+2019,May,Denmark,4033
+2019,May,Estonia / Latvia / Lithuania,2443
+2019,May,Finland,2489
+2019,May,France,5814
+2019,May,Netherlands,3958
+2019,May,Hong Kong,659
+2019,May,India,1472
+2019,May,Ireland,664
+2019,May,Israel,163
+2019,May,Italy,2264
+2019,May,Japan,851
+2019,May,Canada,5845
+2019,May,China,4260
+2019,May,Norway,4194
+2019,May,Poland,8236
+2019,May,Russia,1713
+2019,May,Singapore,479
+2019,May,Spain,2864
+2019,May,South Korea,537
+2019,May,Switzerland,1631
+2019,May,Sweden,4136
+2019,May,Taiwan,1191
+2019,May,Germany,9087
+2019,May,Other countries,13090
+2019,Jun,Passenger total,259702
+2019,Jun,Iceland,64790
+2019,Jun,Foreigners,194912
+2019,Jun,Austria,1695
+2019,Jun,Australia / New Zealand,3031
+2019,Jun,U.S.A.,60248
+2019,Jun,Belgium,2031
+2019,Jun,U.K.,10134
+2019,Jun,Denmark,4366
+2019,Jun,Estonia / Latvia / Lithuania,3310
+2019,Jun,Finland,2681
+2019,Jun,France,8546
+2019,Jun,Netherlands,4048
+2019,Jun,Hong Kong,1227
+2019,Jun,India,2554
+2019,Jun,Ireland,808
+2019,Jun,Israel,604
+2019,Jun,Italy,3111
+2019,Jun,Japan,692
+2019,Jun,Canada,8337
+2019,Jun,China,9557
+2019,Jun,Norway,4799
+2019,Jun,Poland,9432
+2019,Jun,Russia,2289
+2019,Jun,Singapore,1210
+2019,Jun,Spain,4239
+2019,Jun,South Korea,987
+2019,Jun,Switzerland,2842
+2019,Jun,Sweden,5623
+2019,Jun,Taiwan,2306
+2019,Jun,Germany,16918
+2019,Jun,Other countries,17287
+2019,Jul,Passenger total,291608
+2019,Jul,Iceland,60327
+2019,Jul,Foreigners,231281
+2019,Jul,Austria,3289
+2019,Jul,Australia / New Zealand,3335
+2019,Jul,U.S.A.,65552
+2019,Jul,Belgium,3707
+2019,Jul,U.K.,11230
+2019,Jul,Denmark,7497
+2019,Jul,Estonia / Latvia / Lithuania,3656
+2019,Jul,Finland,2645
+2019,Jul,France,12117
+2019,Jul,Netherlands,4911
+2019,Jul,Hong Kong,1289
+2019,Jul,India,2240
+2019,Jul,Ireland,800
+2019,Jul,Israel,2262
+2019,Jul,Italy,5289
+2019,Jul,Japan,907
+2019,Jul,Canada,9508
+2019,Jul,China,11366
+2019,Jul,Norway,5223
+2019,Jul,Poland,10249
+2019,Jul,Russia,3186
+2019,Jul,Singapore,528
+2019,Jul,Spain,7050
+2019,Jul,South Korea,1441
+2019,Jul,Switzerland,5052
+2019,Jul,Sweden,5895
+2019,Jul,Taiwan,2408
+2019,Jul,Germany,18968
+2019,Jul,Other countries,19681
+2019,Aug,Passenger total,300366
+2019,Aug,Iceland,48479
+2019,Aug,Foreigners,251887
+2019,Aug,Austria,3476
+2019,Aug,Australia / New Zealand,3015
+2019,Aug,U.S.A.,62752
+2019,Aug,Belgium,2969
+2019,Aug,U.K.,12128
+2019,Aug,Denmark,5745
+2019,Aug,Estonia / Latvia / Lithuania,3209
+2019,Aug,Finland,2127
+2019,Aug,France,18831
+2019,Aug,Netherlands,6566
+2019,Aug,Hong Kong,1207
+2019,Aug,India,1902
+2019,Aug,Ireland,938
+2019,Aug,Israel,2309
+2019,Aug,Italy,13287
+2019,Aug,Japan,1923
+2019,Aug,Canada,10832
+2019,Aug,China,12828
+2019,Aug,Norway,4143
+2019,Aug,Poland,8758
+2019,Aug,Russia,3569
+2019,Aug,Singapore,625
+2019,Aug,Spain,12969
+2019,Aug,South Korea,2331
+2019,Aug,Switzerland,4620
+2019,Aug,Sweden,5012
+2019,Aug,Taiwan,2149
+2019,Aug,Germany,21262
+2019,Aug,Other countries,20405
+2019,Sep,Passenger total,233357
+2019,Sep,Iceland,49703
+2019,Sep,Foreigners,183654
+2019,Sep,Austria,1406
+2019,Sep,Australia / New Zealand,3341
+2019,Sep,U.S.A.,47108
+2019,Sep,Belgium,1836
+2019,Sep,U.K.,11770
+2019,Sep,Denmark,4619
+2019,Sep,Estonia / Latvia / Lithuania,2667
+2019,Sep,Finland,1897
+2019,Sep,France,6612
+2019,Sep,Netherlands,3758
+2019,Sep,Hong Kong,1484
+2019,Sep,India,2167
+2019,Sep,Ireland,861
+2019,Sep,Israel,960
+2019,Sep,Italy,3510
+2019,Sep,Japan,2041
+2019,Sep,Canada,8083
+2019,Sep,China,7883
+2019,Sep,Norway,4379
+2019,Sep,Poland,8445
+2019,Sep,Russia,1837
+2019,Sep,Singapore,699
+2019,Sep,Spain,7321
+2019,Sep,South Korea,1017
+2019,Sep,Switzerland,2624
+2019,Sep,Sweden,3755
+2019,Sep,Taiwan,2392
+2019,Sep,Germany,14317
+2019,Sep,Other countries,24865
+2019,Oct,Passenger total,219948
+2019,Oct,Iceland,56854
+2019,Oct,Foreigners,163093
+2019,Oct,Austria,1099
+2019,Oct,Australia / New Zealand,2327
+2019,Oct,U.S.A.,36022
+2019,Oct,Belgium,1603
+2019,Oct,U.K.,20881
+2019,Oct,Denmark,5513
+2019,Oct,Estonia / Latvia / Lithuania,3519
+2019,Oct,Finland,1553
+2019,Oct,France,9046
+2019,Oct,Netherlands,3824
+2019,Oct,Hong Kong,1532
+2019,Oct,India,2277
+2019,Oct,Ireland,1177
+2019,Oct,Israel,425
+2019,Oct,Italy,2206
+2019,Oct,Japan,1433
+2019,Oct,Canada,4675
+2019,Oct,China,10898
+2019,Oct,Norway,2710
+2019,Oct,Poland,9018
+2019,Oct,Russia,823
+2019,Oct,Singapore,1390
+2019,Oct,Spain,6045
+2019,Oct,South Korea,1277
+2019,Oct,Switzerland,1362
+2019,Oct,Sweden,2632
+2019,Oct,Taiwan,2767
+2019,Oct,Germany,8216
+2019,Oct,Other countries,16830
+2019,Nov,Passenger total,176531
+2019,Nov,Iceland,45477
+2019,Nov,Foreigners,131054
+2019,Nov,Austria,677
+2019,Nov,Australia / New Zealand,2161
+2019,Nov,U.S.A.,22871
+2019,Nov,Belgium,1932
+2019,Nov,U.K.,32039
+2019,Nov,Denmark,2115
+2019,Nov,Estonia / Latvia / Lithuania,2885
+2019,Nov,Finland,1108
+2019,Nov,France,6484
+2019,Nov,Netherlands,3013
+2019,Nov,Hong Kong,1089
+2019,Nov,India,1245
+2019,Nov,Ireland,3123
+2019,Nov,Israel,82
+2019,Nov,Italy,2363
+2019,Nov,Japan,2491
+2019,Nov,Canada,2912
+2019,Nov,China,4698
+2019,Nov,Norway,1502
+2019,Nov,Poland,6356
+2019,Nov,Russia,714
+2019,Nov,Singapore,833
+2019,Nov,Spain,2445
+2019,Nov,South Korea,1529
+2019,Nov,Switzerland,1144
+2019,Nov,Sweden,2244
+2019,Nov,Taiwan,1731
+2019,Nov,Germany,7153
+2019,Nov,Other countries,12099
+2019,Dec,Passenger total,168850
+2019,Dec,Iceland,43429
+2019,Dec,Foreigners,125421
+2019,Dec,Austria,985
+2019,Dec,Australia / New Zealand,3164
+2019,Dec,U.S.A.,19049
+2019,Dec,Belgium,616
+2019,Dec,U.K.,27135
+2019,Dec,Denmark,1790
+2019,Dec,Estonia / Latvia / Lithuania,3419
+2019,Dec,Finland,1025
+2019,Dec,France,5330
+2019,Dec,Netherlands,2554
+2019,Dec,Hong Kong,1515
+2019,Dec,India,1233
+2019,Dec,Ireland,2138
+2019,Dec,Israel,140
+2019,Dec,Italy,1341
+2019,Dec,Japan,1696
+2019,Dec,Canada,2011
+2019,Dec,China,13148
+2019,Dec,Norway,1361
+2019,Dec,Poland,8777
+2019,Dec,Russia,335
+2019,Dec,Singapore,1347
+2019,Dec,Spain,1971
+2019,Dec,South Korea,1971
+2019,Dec,Switzerland,824
+2019,Dec,Sweden,1159
+2019,Dec,Taiwan,1421
+2019,Dec,Germany,4371
+2019,Dec,Other countries,13578
+2020,Jan,Passenger total,158986
+2020,Jan,Iceland,38068
+2020,Jan,Foreigners,120918
+2020,Jan,Austria,664
+2020,Jan,Australia / New Zealand,2661
+2020,Jan,U.S.A.,17887
+2020,Jan,Belgium,1200
+2020,Jan,U.K.,30466
+2020,Jan,Denmark,1920
+2020,Jan,Estonia / Latvia / Lithuania,1362
+2020,Jan,Finland,826
+2020,Jan,France,5562
+2020,Jan,Netherlands,1828
+2020,Jan,Hong Kong,
+2020,Jan,India,551
+2020,Jan,Ireland,2365
+2020,Jan,Israel,120
+2020,Jan,Italy,2626
+2020,Jan,Japan,2922
+2020,Jan,Canada,2089
+2020,Jan,China,12804
+2020,Jan,Norway,1638
+2020,Jan,Poland,8372
+2020,Jan,Russia,339
+2020,Jan,Singapore,226
+2020,Jan,Spain,1864
+2020,Jan,South Korea,2287
+2020,Jan,Switzerland,1539
+2020,Jan,Sweden,1447
+2020,Jan,Taiwan,
+2020,Jan,Germany,6593
+2020,Jan,Other countries,8760
+2020,Feb,Passenger total,167458
+2020,Feb,Iceland,34457
+2020,Feb,Foreigners,133001
+2020,Feb,Austria,1361
+2020,Feb,Australia / New Zealand,1744
+2020,Feb,U.S.A.,17472
+2020,Feb,Belgium,1699
+2020,Feb,U.K.,40706
+2020,Feb,Denmark,2308
+2020,Feb,Estonia / Latvia / Lithuania,4285
+2020,Feb,Finland,1076
+2020,Feb,France,9517
+2020,Feb,Netherlands,2619
+2020,Feb,Hong Kong,
+2020,Feb,India,778
+2020,Feb,Ireland,3280
+2020,Feb,Israel,78
+2020,Feb,Italy,2418
+2020,Feb,Japan,1614
+2020,Feb,Canada,2580
+2020,Feb,China,8058
+2020,Feb,Norway,2126
+2020,Feb,Poland,3053
+2020,Feb,Russia,558
+2020,Feb,Singapore,415
+2020,Feb,Spain,2541
+2020,Feb,South Korea,1841
+2020,Feb,Switzerland,1627
+2020,Feb,Sweden,1562
+2020,Feb,Taiwan,
+2020,Feb,Germany,8369
+2020,Feb,Other countries,9316
+2020,Mar,Passenger total,95611
+2020,Mar,Iceland,15738
+2020,Mar,Foreigners,79873
+2020,Mar,Austria,224
+2020,Mar,Australia / New Zealand,1008
+2020,Mar,U.S.A.,14646
+2020,Mar,Belgium,833
+2020,Mar,U.K.,22869
+2020,Mar,Denmark,1819
+2020,Mar,Estonia / Latvia / Lithuania,5654
+2020,Mar,Finland,303
+2020,Mar,France,4109
+2020,Mar,Netherlands,1281
+2020,Mar,Hong Kong,
+2020,Mar,India,637
+2020,Mar,Ireland,1570
+2020,Mar,Israel,79
+2020,Mar,Italy,1383
+2020,Mar,Japan,860
+2020,Mar,Canada,1989
+2020,Mar,China,2510
+2020,Mar,Norway,751
+2020,Mar,Poland,4983
+2020,Mar,Russia,574
+2020,Mar,Singapore,352
+2020,Mar,Spain,1819
+2020,Mar,South Korea,320
+2020,Mar,Switzerland,716
+2020,Mar,Sweden,576
+2020,Mar,Taiwan,
+2020,Mar,Germany,4614
+2020,Mar,Other countries,3223
+2020,Apr,Passenger total,1262
+2020,Apr,Iceland,338
+2020,Apr,Foreigners,924
+2020,Apr,Austria,
+2020,Apr,Australia / New Zealand,
+2020,Apr,U.S.A.,
+2020,Apr,Belgium,
+2020,Apr,U.K.,
+2020,Apr,Denmark,
+2020,Apr,Estonia / Latvia / Lithuania,
+2020,Apr,Finland,
+2020,Apr,France,
+2020,Apr,Netherlands,
+2020,Apr,Hong Kong,
+2020,Apr,India,
+2020,Apr,Ireland,
+2020,Apr,Israel,
+2020,Apr,Italy,
+2020,Apr,Japan,
+2020,Apr,Canada,
+2020,Apr,China,
+2020,Apr,Norway,
+2020,Apr,Poland,
+2020,Apr,Russia,
+2020,Apr,Singapore,
+2020,Apr,Spain,
+2020,Apr,South Korea,
+2020,Apr,Switzerland,
+2020,Apr,Sweden,
+2020,Apr,Taiwan,
+2020,Apr,Germany,
+2020,Apr,Other countries,
+2020,May,Passenger total,1864
+2020,May,Iceland,829
+2020,May,Foreigners,1035
+2020,May,Austria,
+2020,May,Australia / New Zealand,
+2020,May,U.S.A.,
+2020,May,Belgium,
+2020,May,U.K.,
+2020,May,Denmark,
+2020,May,Estonia / Latvia / Lithuania,
+2020,May,Finland,
+2020,May,France,
+2020,May,Netherlands,
+2020,May,Hong Kong,
+2020,May,India,
+2020,May,Ireland,
+2020,May,Israel,
+2020,May,Italy,
+2020,May,Japan,
+2020,May,Canada,
+2020,May,China,
+2020,May,Norway,
+2020,May,Poland,
+2020,May,Russia,
+2020,May,Singapore,
+2020,May,Spain,
+2020,May,South Korea,
+2020,May,Switzerland,
+2020,May,Sweden,
+2020,May,Taiwan,
+2020,May,Germany,
+2020,May,Other countries,
+2020,Jun,Passenger total,11253
+2020,Jun,Iceland,5310
+2020,Jun,Foreigners,5943
+2020,Jun,Austria,
+2020,Jun,Australia / New Zealand,
+2020,Jun,U.S.A.,
+2020,Jun,Belgium,
+2020,Jun,U.K.,
+2020,Jun,Denmark,1050
+2020,Jun,Estonia / Latvia / Lithuania,668
+2020,Jun,Finland,107
+2020,Jun,France,275
+2020,Jun,Netherlands,192
+2020,Jun,Hong Kong,
+2020,Jun,India,
+2020,Jun,Ireland,
+2020,Jun,Israel,
+2020,Jun,Italy,
+2020,Jun,Japan,
+2020,Jun,Canada,
+2020,Jun,China,
+2020,Jun,Norway,242
+2020,Jun,Poland,299
+2020,Jun,Russia,
+2020,Jun,Singapore,
+2020,Jun,Spain,
+2020,Jun,South Korea,
+2020,Jun,Switzerland,348
+2020,Jun,Sweden,111
+2020,Jun,Taiwan,
+2020,Jun,Germany,1182
+2020,Jun,Other countries,1469
+2020,Jul,Passenger total,58940
+2020,Jul,Iceland,13326
+2020,Jul,Foreigners,45614
+2020,Jul,Austria,814
+2020,Jul,Australia / New Zealand,75
+2020,Jul,U.S.A.,362
+2020,Jul,Belgium,1206
+2020,Jul,U.K.,1422
+2020,Jul,Denmark,9949
+2020,Jul,Estonia / Latvia / Lithuania,995
+2020,Jul,Finland,397
+2020,Jul,France,2970
+2020,Jul,Netherlands,2095
+2020,Jul,Hong Kong,
+2020,Jul,India,5
+2020,Jul,Ireland,75
+2020,Jul,Israel,10
+2020,Jul,Italy,925
+2020,Jul,Japan,15
+2020,Jul,Canada,106
+2020,Jul,China,136
+2020,Jul,Norway,2306
+2020,Jul,Poland,3181
+2020,Jul,Russia,141
+2020,Jul,Singapore,10
+2020,Jul,Spain,497
+2020,Jul,South Korea,15
+2020,Jul,Switzerland,3161
+2020,Jul,Sweden,553
+2020,Jul,Taiwan,
+2020,Jul,Germany,9220
+2020,Jul,Other countries,4973

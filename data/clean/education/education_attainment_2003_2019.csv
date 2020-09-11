@@ -1,0 +1,2041 @@
+Sex,age_region,Education,Year,Percent
+Total,25 to 64 years,Basic education,2003,0.341
+Total,25 to 64 years,Upper secondary education,2003,0.377
+Total,25 to 64 years,Tertiary education,2003,0.277
+Total,25 to 64 years,Education unknown,2003,0.006
+Total,20 to 24 years,Basic education,2003,0.434
+Total,20 to 24 years,Upper secondary education,2003,0.521
+Total,20 to 24 years,Tertiary education,2003,0.042
+Total,20 to 24 years,Education unknown,2003,0.002
+Total,25 to 29 years,Basic education,2003,0.322
+Total,25 to 29 years,Upper secondary education,2003,0.431
+Total,25 to 29 years,Tertiary education,2003,0.246
+Total,25 to 29 years,Education unknown,2003,0.001
+Total,30 to 49 years,Basic education,2003,0.31
+Total,30 to 49 years,Upper secondary education,2003,0.364
+Total,30 to 49 years,Tertiary education,2003,0.323
+Total,30 to 49 years,Education unknown,2003,0.004
+Total,50 to 64 years,Basic education,2003,0.409
+Total,50 to 64 years,Upper secondary education,2003,0.377
+Total,50 to 64 years,Tertiary education,2003,0.203
+Total,50 to 64 years,Education unknown,2003,0.011
+Total,65 to 74 years,Basic education,2003,0.519
+Total,65 to 74 years,Upper secondary education,2003,0.34
+Total,65 to 74 years,Tertiary education,2003,0.116
+Total,65 to 74 years,Education unknown,2003,0.026
+Total,Capital region 16-74 years,Basic education,2003,0.349
+Total,Capital region 16-74 years,Upper secondary education,2003,0.379
+Total,Capital region 16-74 years,Tertiary education,2003,0.264
+Total,Capital region 16-74 years,Education unknown,2003,0.008
+Total,Other regions 16-74 years,Basic education,2003,0.53
+Total,Other regions 16-74 years,Upper secondary education,2003,0.338
+Total,Other regions 16-74 years,Tertiary education,2003,0.128
+Total,Other regions 16-74 years,Education unknown,2003,0.004
+Total,Capital region 25-64 years,Basic education,2003,0.272
+Total,Capital region 25-64 years,Upper secondary education,2003,0.38
+Total,Capital region 25-64 years,Tertiary education,2003,0.341
+Total,Capital region 25-64 years,Education unknown,2003,0.007
+Total,Other regions 25-64 years,Basic education,2003,0.461
+Total,Other regions 25-64 years,Upper secondary education,2003,0.37
+Total,Other regions 25-64 years,Tertiary education,2003,0.164
+Total,Other regions 25-64 years,Education unknown,2003,0.004
+Males,25 to 64 years,Basic education,2003,0.278
+Males,25 to 64 years,Upper secondary education,2003,0.461
+Males,25 to 64 years,Tertiary education,2003,0.254
+Males,25 to 64 years,Education unknown,2003,0.007
+Males,20 to 24 years,Basic education,2003,0.459
+Males,20 to 24 years,Upper secondary education,2003,0.495
+Males,20 to 24 years,Tertiary education,2003,0.042
+Males,20 to 24 years,Education unknown,2003,0.004
+Males,25 to 29 years,Basic education,2003,0.337
+Males,25 to 29 years,Upper secondary education,2003,0.422
+Males,25 to 29 years,Tertiary education,2003,0.239
+Males,25 to 29 years,Education unknown,2003,0.002
+Males,30 to 49 years,Basic education,2003,0.267
+Males,30 to 49 years,Upper secondary education,2003,0.451
+Males,30 to 49 years,Tertiary education,2003,0.278
+Males,30 to 49 years,Education unknown,2003,0.004
+Males,50 to 64 years,Basic education,2003,0.273
+Males,50 to 64 years,Upper secondary education,2003,0.497
+Males,50 to 64 years,Tertiary education,2003,0.215
+Males,50 to 64 years,Education unknown,2003,0.015
+Males,65 to 74 years,Basic education,2003,0.33
+Males,65 to 74 years,Upper secondary education,2003,0.512
+Males,65 to 74 years,Tertiary education,2003,0.142
+Males,65 to 74 years,Education unknown,2003,0.016
+Males,Capital region 16-74 years,Basic education,2003,0.296
+Males,Capital region 16-74 years,Upper secondary education,2003,0.439
+Males,Capital region 16-74 years,Tertiary education,2003,0.256
+Males,Capital region 16-74 years,Education unknown,2003,0.009
+Males,Other regions 16-74 years,Basic education,2003,0.456
+Males,Other regions 16-74 years,Upper secondary education,2003,0.435
+Males,Other regions 16-74 years,Tertiary education,2003,0.107
+Males,Other regions 16-74 years,Education unknown,2003,0.003
+Males,Capital region 25-64 years,Basic education,2003,0.224
+Males,Capital region 25-64 years,Upper secondary education,2003,0.447
+Males,Capital region 25-64 years,Tertiary education,2003,0.321
+Males,Capital region 25-64 years,Education unknown,2003,0.008
+Males,Other regions 25-64 years,Basic education,2003,0.372
+Males,Other regions 25-64 years,Upper secondary education,2003,0.485
+Males,Other regions 25-64 years,Tertiary education,2003,0.139
+Males,Other regions 25-64 years,Education unknown,2003,0.004
+Females,25 to 64 years,Basic education,2003,0.404
+Females,25 to 64 years,Upper secondary education,2003,0.291
+Females,25 to 64 years,Tertiary education,2003,0.3
+Females,25 to 64 years,Education unknown,2003,0.005
+Females,20 to 24 years,Basic education,2003,0.408
+Females,20 to 24 years,Upper secondary education,2003,0.55
+Females,20 to 24 years,Tertiary education,2003,0.042
+Females,20 to 24 years,Education unknown,2003,0.0
+Females,25 to 29 years,Basic education,2003,0.307
+Females,25 to 29 years,Upper secondary education,2003,0.439
+Females,25 to 29 years,Tertiary education,2003,0.253
+Females,25 to 29 years,Education unknown,2003,0.0
+Females,30 to 49 years,Basic education,2003,0.353
+Females,30 to 49 years,Upper secondary education,2003,0.275
+Females,30 to 49 years,Tertiary education,2003,0.368
+Females,30 to 49 years,Education unknown,2003,0.005
+Females,50 to 64 years,Basic education,2003,0.549
+Females,50 to 64 years,Upper secondary education,2003,0.253
+Females,50 to 64 years,Tertiary education,2003,0.191
+Females,50 to 64 years,Education unknown,2003,0.007
+Females,65 to 74 years,Basic education,2003,0.693
+Females,65 to 74 years,Upper secondary education,2003,0.18
+Females,65 to 74 years,Tertiary education,2003,0.092
+Females,65 to 74 years,Education unknown,2003,0.034
+Females,Capital region 16-74 years,Basic education,2003,0.4
+Females,Capital region 16-74 years,Upper secondary education,2003,0.321
+Females,Capital region 16-74 years,Tertiary education,2003,0.272
+Females,Capital region 16-74 years,Education unknown,2003,0.007
+Females,Other regions 16-74 years,Basic education,2003,0.612
+Females,Other regions 16-74 years,Upper secondary education,2003,0.231
+Females,Other regions 16-74 years,Tertiary education,2003,0.152
+Females,Other regions 16-74 years,Education unknown,2003,0.005
+Females,Capital region 25-64 years,Basic education,2003,0.321
+Females,Capital region 25-64 years,Upper secondary education,2003,0.314
+Females,Capital region 25-64 years,Tertiary education,2003,0.361
+Females,Capital region 25-64 years,Education unknown,2003,0.005
+Females,Other regions 25-64 years,Basic education,2003,0.555
+Females,Other regions 25-64 years,Upper secondary education,2003,0.249
+Females,Other regions 25-64 years,Tertiary education,2003,0.191
+Females,Other regions 25-64 years,Education unknown,2003,0.004
+Total,25 to 64 years,Basic education,2004,0.335
+Total,25 to 64 years,Upper secondary education,2004,0.383
+Total,25 to 64 years,Tertiary education,2004,0.278
+Total,25 to 64 years,Education unknown,2004,0.004
+Total,20 to 24 years,Basic education,2004,0.424
+Total,20 to 24 years,Upper secondary education,2004,0.541
+Total,20 to 24 years,Tertiary education,2004,0.035
+Total,20 to 24 years,Education unknown,2004,0.0
+Total,25 to 29 years,Basic education,2004,0.298
+Total,25 to 29 years,Upper secondary education,2004,0.43
+Total,25 to 29 years,Tertiary education,2004,0.267
+Total,25 to 29 years,Education unknown,2004,0.006
+Total,30 to 49 years,Basic education,2004,0.309
+Total,30 to 49 years,Upper secondary education,2004,0.371
+Total,30 to 49 years,Tertiary education,2004,0.316
+Total,30 to 49 years,Education unknown,2004,0.004
+Total,50 to 64 years,Basic education,2004,0.399
+Total,50 to 64 years,Upper secondary education,2004,0.384
+Total,50 to 64 years,Tertiary education,2004,0.213
+Total,50 to 64 years,Education unknown,2004,0.004
+Total,65 to 74 years,Basic education,2004,0.549
+Total,65 to 74 years,Upper secondary education,2004,0.331
+Total,65 to 74 years,Tertiary education,2004,0.1
+Total,65 to 74 years,Education unknown,2004,0.02
+Total,Capital region 16-74 years,Basic education,2004,0.347
+Total,Capital region 16-74 years,Upper secondary education,2004,0.389
+Total,Capital region 16-74 years,Tertiary education,2004,0.259
+Total,Capital region 16-74 years,Education unknown,2004,0.005
+Total,Other regions 16-74 years,Basic education,2004,0.528
+Total,Other regions 16-74 years,Upper secondary education,2004,0.331
+Total,Other regions 16-74 years,Tertiary education,2004,0.136
+Total,Other regions 16-74 years,Education unknown,2004,0.005
+Total,Capital region 25-64 years,Basic education,2004,0.267
+Total,Capital region 25-64 years,Upper secondary education,2004,0.392
+Total,Capital region 25-64 years,Tertiary education,2004,0.337
+Total,Capital region 25-64 years,Education unknown,2004,0.003
+Total,Other regions 25-64 years,Basic education,2004,0.453
+Total,Other regions 25-64 years,Upper secondary education,2004,0.366
+Total,Other regions 25-64 years,Tertiary education,2004,0.176
+Total,Other regions 25-64 years,Education unknown,2004,0.005
+Males,25 to 64 years,Basic education,2004,0.263
+Males,25 to 64 years,Upper secondary education,2004,0.472
+Males,25 to 64 years,Tertiary education,2004,0.26
+Males,25 to 64 years,Education unknown,2004,0.005
+Males,20 to 24 years,Basic education,2004,0.467
+Males,20 to 24 years,Upper secondary education,2004,0.51
+Males,20 to 24 years,Tertiary education,2004,0.023
+Males,20 to 24 years,Education unknown,2004,0.0
+Males,25 to 29 years,Basic education,2004,0.31
+Males,25 to 29 years,Upper secondary education,2004,0.476
+Males,25 to 29 years,Tertiary education,2004,0.203
+Males,25 to 29 years,Education unknown,2004,0.012
+Males,30 to 49 years,Basic education,2004,0.253
+Males,30 to 49 years,Upper secondary education,2004,0.459
+Males,30 to 49 years,Tertiary education,2004,0.285
+Males,30 to 49 years,Education unknown,2004,0.002
+Males,50 to 64 years,Basic education,2004,0.262
+Males,50 to 64 years,Upper secondary education,2004,0.494
+Males,50 to 64 years,Tertiary education,2004,0.238
+Males,50 to 64 years,Education unknown,2004,0.007
+Males,65 to 74 years,Basic education,2004,0.328
+Males,65 to 74 years,Upper secondary education,2004,0.512
+Males,65 to 74 years,Tertiary education,2004,0.151
+Males,65 to 74 years,Education unknown,2004,0.009
+Males,Capital region 16-74 years,Basic education,2004,0.282
+Males,Capital region 16-74 years,Upper secondary education,2004,0.46
+Males,Capital region 16-74 years,Tertiary education,2004,0.254
+Males,Capital region 16-74 years,Education unknown,2004,0.005
+Males,Other regions 16-74 years,Basic education,2004,0.449
+Males,Other regions 16-74 years,Upper secondary education,2004,0.425
+Males,Other regions 16-74 years,Tertiary education,2004,0.122
+Males,Other regions 16-74 years,Education unknown,2004,0.004
+Males,Capital region 25-64 years,Basic education,2004,0.198
+Males,Capital region 25-64 years,Upper secondary education,2004,0.474
+Males,Capital region 25-64 years,Tertiary education,2004,0.323
+Males,Capital region 25-64 years,Education unknown,2004,0.005
+Males,Other regions 25-64 years,Basic education,2004,0.37
+Males,Other regions 25-64 years,Upper secondary education,2004,0.468
+Males,Other regions 25-64 years,Tertiary education,2004,0.156
+Males,Other regions 25-64 years,Education unknown,2004,0.005
+Females,25 to 64 years,Basic education,2004,0.408
+Females,25 to 64 years,Upper secondary education,2004,0.292
+Females,25 to 64 years,Tertiary education,2004,0.296
+Females,25 to 64 years,Education unknown,2004,0.003
+Females,20 to 24 years,Basic education,2004,0.379
+Females,20 to 24 years,Upper secondary education,2004,0.573
+Females,20 to 24 years,Tertiary education,2004,0.048
+Females,20 to 24 years,Education unknown,2004,0.0
+Females,25 to 29 years,Basic education,2004,0.287
+Females,25 to 29 years,Upper secondary education,2004,0.384
+Females,25 to 29 years,Tertiary education,2004,0.329
+Females,25 to 29 years,Education unknown,2004,0.0
+Females,30 to 49 years,Basic education,2004,0.366
+Females,30 to 49 years,Upper secondary education,2004,0.282
+Females,30 to 49 years,Tertiary education,2004,0.347
+Females,30 to 49 years,Education unknown,2004,0.005
+Females,50 to 64 years,Basic education,2004,0.54
+Females,50 to 64 years,Upper secondary education,2004,0.271
+Females,50 to 64 years,Tertiary education,2004,0.187
+Females,50 to 64 years,Education unknown,2004,0.002
+Females,65 to 74 years,Basic education,2004,0.754
+Females,65 to 74 years,Upper secondary education,2004,0.163
+Females,65 to 74 years,Tertiary education,2004,0.053
+Females,65 to 74 years,Education unknown,2004,0.03
+Females,Capital region 16-74 years,Basic education,2004,0.41
+Females,Capital region 16-74 years,Upper secondary education,2004,0.322
+Females,Capital region 16-74 years,Tertiary education,2004,0.263
+Females,Capital region 16-74 years,Education unknown,2004,0.005
+Females,Other regions 16-74 years,Basic education,2004,0.614
+Females,Other regions 16-74 years,Upper secondary education,2004,0.229
+Females,Other regions 16-74 years,Tertiary education,2004,0.151
+Females,Other regions 16-74 years,Education unknown,2004,0.006
+Females,Capital region 25-64 years,Basic education,2004,0.335
+Females,Capital region 25-64 years,Upper secondary education,2004,0.312
+Females,Capital region 25-64 years,Tertiary education,2004,0.35
+Females,Capital region 25-64 years,Education unknown,2004,0.002
+Females,Other regions 25-64 years,Basic education,2004,0.543
+Females,Other regions 25-64 years,Upper secondary education,2004,0.255
+Females,Other regions 25-64 years,Tertiary education,2004,0.197
+Females,Other regions 25-64 years,Education unknown,2004,0.005
+Total,25 to 64 years,Basic education,2005,0.317
+Total,25 to 64 years,Upper secondary education,2005,0.386
+Total,25 to 64 years,Tertiary education,2005,0.293
+Total,25 to 64 years,Education unknown,2005,0.004
+Total,20 to 24 years,Basic education,2005,0.454
+Total,20 to 24 years,Upper secondary education,2005,0.508
+Total,20 to 24 years,Tertiary education,2005,0.038
+Total,20 to 24 years,Education unknown,2005,0.0
+Total,25 to 29 years,Basic education,2005,0.307
+Total,25 to 29 years,Upper secondary education,2005,0.395
+Total,25 to 29 years,Tertiary education,2005,0.296
+Total,25 to 29 years,Education unknown,2005,0.003
+Total,30 to 49 years,Basic education,2005,0.287
+Total,30 to 49 years,Upper secondary education,2005,0.38
+Total,30 to 49 years,Tertiary education,2005,0.33
+Total,30 to 49 years,Education unknown,2005,0.002
+Total,50 to 64 years,Basic education,2005,0.375
+Total,50 to 64 years,Upper secondary education,2005,0.392
+Total,50 to 64 years,Tertiary education,2005,0.227
+Total,50 to 64 years,Education unknown,2005,0.007
+Total,65 to 74 years,Basic education,2005,0.54
+Total,65 to 74 years,Upper secondary education,2005,0.338
+Total,65 to 74 years,Tertiary education,2005,0.103
+Total,65 to 74 years,Education unknown,2005,0.019
+Total,Capital region 16-74 years,Basic education,2005,0.34
+Total,Capital region 16-74 years,Upper secondary education,2005,0.387
+Total,Capital region 16-74 years,Tertiary education,2005,0.268
+Total,Capital region 16-74 years,Education unknown,2005,0.005
+Total,Other regions 16-74 years,Basic education,2005,0.508
+Total,Other regions 16-74 years,Upper secondary education,2005,0.335
+Total,Other regions 16-74 years,Tertiary education,2005,0.153
+Total,Other regions 16-74 years,Education unknown,2005,0.004
+Total,Capital region 25-64 years,Basic education,2005,0.252
+Total,Capital region 25-64 years,Upper secondary education,2005,0.393
+Total,Capital region 25-64 years,Tertiary education,2005,0.352
+Total,Capital region 25-64 years,Education unknown,2005,0.004
+Total,Other regions 25-64 years,Basic education,2005,0.428
+Total,Other regions 25-64 years,Upper secondary education,2005,0.374
+Total,Other regions 25-64 years,Tertiary education,2005,0.194
+Total,Other regions 25-64 years,Education unknown,2005,0.004
+Males,25 to 64 years,Basic education,2005,0.258
+Males,25 to 64 years,Upper secondary education,2005,0.47
+Males,25 to 64 years,Tertiary education,2005,0.267
+Males,25 to 64 years,Education unknown,2005,0.005
+Males,20 to 24 years,Basic education,2005,0.511
+Males,20 to 24 years,Upper secondary education,2005,0.457
+Males,20 to 24 years,Tertiary education,2005,0.033
+Males,20 to 24 years,Education unknown,2005,0.0
+Males,25 to 29 years,Basic education,2005,0.32
+Males,25 to 29 years,Upper secondary education,2005,0.423
+Males,25 to 29 years,Tertiary education,2005,0.252
+Males,25 to 29 years,Education unknown,2005,0.005
+Males,30 to 49 years,Basic education,2005,0.243
+Males,30 to 49 years,Upper secondary education,2005,0.461
+Males,30 to 49 years,Tertiary education,2005,0.293
+Males,30 to 49 years,Education unknown,2005,0.003
+Males,50 to 64 years,Basic education,2005,0.259
+Males,50 to 64 years,Upper secondary education,2005,0.506
+Males,50 to 64 years,Tertiary education,2005,0.227
+Males,50 to 64 years,Education unknown,2005,0.008
+Males,65 to 74 years,Basic education,2005,0.346
+Males,65 to 74 years,Upper secondary education,2005,0.497
+Males,65 to 74 years,Tertiary education,2005,0.141
+Males,65 to 74 years,Education unknown,2005,0.016
+Males,Capital region 16-74 years,Basic education,2005,0.291
+Males,Capital region 16-74 years,Upper secondary education,2005,0.447
+Males,Capital region 16-74 years,Tertiary education,2005,0.256
+Males,Capital region 16-74 years,Education unknown,2005,0.005
+Males,Other regions 16-74 years,Basic education,2005,0.443
+Males,Other regions 16-74 years,Upper secondary education,2005,0.421
+Males,Other regions 16-74 years,Tertiary education,2005,0.13
+Males,Other regions 16-74 years,Education unknown,2005,0.005
+Males,Capital region 25-64 years,Basic education,2005,0.198
+Males,Capital region 25-64 years,Upper secondary education,2005,0.469
+Males,Capital region 25-64 years,Tertiary education,2005,0.328
+Males,Capital region 25-64 years,Education unknown,2005,0.005
+Males,Other regions 25-64 years,Basic education,2005,0.36
+Males,Other regions 25-64 years,Upper secondary education,2005,0.471
+Males,Other regions 25-64 years,Tertiary education,2005,0.164
+Males,Other regions 25-64 years,Education unknown,2005,0.005
+Females,25 to 64 years,Basic education,2005,0.377
+Females,25 to 64 years,Upper secondary education,2005,0.3
+Females,25 to 64 years,Tertiary education,2005,0.321
+Females,25 to 64 years,Education unknown,2005,0.002
+Females,20 to 24 years,Basic education,2005,0.393
+Females,20 to 24 years,Upper secondary education,2005,0.563
+Females,20 to 24 years,Tertiary education,2005,0.044
+Females,20 to 24 years,Education unknown,2005,0.0
+Females,25 to 29 years,Basic education,2005,0.293
+Females,25 to 29 years,Upper secondary education,2005,0.367
+Females,25 to 29 years,Tertiary education,2005,0.34
+Females,25 to 29 years,Education unknown,2005,0.0
+Females,30 to 49 years,Basic education,2005,0.332
+Females,30 to 49 years,Upper secondary education,2005,0.297
+Females,30 to 49 years,Tertiary education,2005,0.369
+Females,30 to 49 years,Education unknown,2005,0.002
+Females,50 to 64 years,Basic education,2005,0.494
+Females,50 to 64 years,Upper secondary education,2005,0.276
+Females,50 to 64 years,Tertiary education,2005,0.226
+Females,50 to 64 years,Education unknown,2005,0.005
+Females,65 to 74 years,Basic education,2005,0.723
+Females,65 to 74 years,Upper secondary education,2005,0.188
+Females,65 to 74 years,Tertiary education,2005,0.066
+Females,65 to 74 years,Education unknown,2005,0.022
+Females,Capital region 16-74 years,Basic education,2005,0.389
+Females,Capital region 16-74 years,Upper secondary education,2005,0.326
+Females,Capital region 16-74 years,Tertiary education,2005,0.28
+Females,Capital region 16-74 years,Education unknown,2005,0.004
+Females,Other regions 16-74 years,Basic education,2005,0.578
+Females,Other regions 16-74 years,Upper secondary education,2005,0.242
+Females,Other regions 16-74 years,Tertiary education,2005,0.177
+Females,Other regions 16-74 years,Education unknown,2005,0.003
+Females,Capital region 25-64 years,Basic education,2005,0.307
+Females,Capital region 25-64 years,Upper secondary education,2005,0.315
+Females,Capital region 25-64 years,Tertiary education,2005,0.375
+Females,Capital region 25-64 years,Education unknown,2005,0.003
+Females,Other regions 25-64 years,Basic education,2005,0.499
+Females,Other regions 25-64 years,Upper secondary education,2005,0.273
+Females,Other regions 25-64 years,Tertiary education,2005,0.225
+Females,Other regions 25-64 years,Education unknown,2005,0.002
+Total,25 to 64 years,Basic education,2006,0.312
+Total,25 to 64 years,Upper secondary education,2006,0.381
+Total,25 to 64 years,Tertiary education,2006,0.303
+Total,25 to 64 years,Education unknown,2006,0.004
+Total,20 to 24 years,Basic education,2006,0.447
+Total,20 to 24 years,Upper secondary education,2006,0.508
+Total,20 to 24 years,Tertiary education,2006,0.045
+Total,20 to 24 years,Education unknown,2006,0.001
+Total,25 to 29 years,Basic education,2006,0.325
+Total,25 to 29 years,Upper secondary education,2006,0.383
+Total,25 to 29 years,Tertiary education,2006,0.292
+Total,25 to 29 years,Education unknown,2006,0.0
+Total,30 to 49 years,Basic education,2006,0.282
+Total,30 to 49 years,Upper secondary education,2006,0.367
+Total,30 to 49 years,Tertiary education,2006,0.348
+Total,30 to 49 years,Education unknown,2006,0.003
+Total,50 to 64 years,Basic education,2006,0.359
+Total,50 to 64 years,Upper secondary education,2006,0.404
+Total,50 to 64 years,Tertiary education,2006,0.229
+Total,50 to 64 years,Education unknown,2006,0.008
+Total,65 to 74 years,Basic education,2006,0.526
+Total,65 to 74 years,Upper secondary education,2006,0.335
+Total,65 to 74 years,Tertiary education,2006,0.126
+Total,65 to 74 years,Education unknown,2006,0.012
+Total,Capital region 16-74 years,Basic education,2006,0.334
+Total,Capital region 16-74 years,Upper secondary education,2006,0.382
+Total,Capital region 16-74 years,Tertiary education,2006,0.281
+Total,Capital region 16-74 years,Education unknown,2006,0.004
+Total,Other regions 16-74 years,Basic education,2006,0.508
+Total,Other regions 16-74 years,Upper secondary education,2006,0.33
+Total,Other regions 16-74 years,Tertiary education,2006,0.158
+Total,Other regions 16-74 years,Education unknown,2006,0.005
+Total,Capital region 25-64 years,Basic education,2006,0.239
+Total,Capital region 25-64 years,Upper secondary education,2006,0.393
+Total,Capital region 25-64 years,Tertiary education,2006,0.364
+Total,Capital region 25-64 years,Education unknown,2006,0.004
+Total,Other regions 25-64 years,Basic education,2006,0.442
+Total,Other regions 25-64 years,Upper secondary education,2006,0.36
+Total,Other regions 25-64 years,Tertiary education,2006,0.194
+Total,Other regions 25-64 years,Education unknown,2006,0.004
+Males,25 to 64 years,Basic education,2006,0.272
+Males,25 to 64 years,Upper secondary education,2006,0.457
+Males,25 to 64 years,Tertiary education,2006,0.267
+Males,25 to 64 years,Education unknown,2006,0.004
+Males,20 to 24 years,Basic education,2006,0.524
+Males,20 to 24 years,Upper secondary education,2006,0.423
+Males,20 to 24 years,Tertiary education,2006,0.052
+Males,20 to 24 years,Education unknown,2006,0.0
+Males,25 to 29 years,Basic education,2006,0.354
+Males,25 to 29 years,Upper secondary education,2006,0.416
+Males,25 to 29 years,Tertiary education,2006,0.23
+Males,25 to 29 years,Education unknown,2006,0.0
+Males,30 to 49 years,Basic education,2006,0.258
+Males,30 to 49 years,Upper secondary education,2006,0.435
+Males,30 to 49 years,Tertiary education,2006,0.305
+Males,30 to 49 years,Education unknown,2006,0.002
+Males,50 to 64 years,Basic education,2006,0.262
+Males,50 to 64 years,Upper secondary education,2006,0.513
+Males,50 to 64 years,Tertiary education,2006,0.216
+Males,50 to 64 years,Education unknown,2006,0.01
+Males,65 to 74 years,Basic education,2006,0.367
+Males,65 to 74 years,Upper secondary education,2006,0.471
+Males,65 to 74 years,Tertiary education,2006,0.148
+Males,65 to 74 years,Education unknown,2006,0.013
+Males,Capital region 16-74 years,Basic education,2006,0.302
+Males,Capital region 16-74 years,Upper secondary education,2006,0.432
+Males,Capital region 16-74 years,Tertiary education,2006,0.261
+Males,Capital region 16-74 years,Education unknown,2006,0.004
+Males,Other regions 16-74 years,Basic education,2006,0.463
+Males,Other regions 16-74 years,Upper secondary education,2006,0.403
+Males,Other regions 16-74 years,Tertiary education,2006,0.129
+Males,Other regions 16-74 years,Education unknown,2006,0.005
+Males,Capital region 25-64 years,Basic education,2006,0.205
+Males,Capital region 25-64 years,Upper secondary education,2006,0.46
+Males,Capital region 25-64 years,Tertiary education,2006,0.331
+Males,Capital region 25-64 years,Education unknown,2006,0.004
+Males,Other regions 25-64 years,Basic education,2006,0.393
+Males,Other regions 25-64 years,Upper secondary education,2006,0.45
+Males,Other regions 25-64 years,Tertiary education,2006,0.153
+Males,Other regions 25-64 years,Education unknown,2006,0.004
+Females,25 to 64 years,Basic education,2006,0.355
+Females,25 to 64 years,Upper secondary education,2006,0.3
+Females,25 to 64 years,Tertiary education,2006,0.342
+Females,25 to 64 years,Education unknown,2006,0.004
+Females,20 to 24 years,Basic education,2006,0.36
+Females,20 to 24 years,Upper secondary education,2006,0.602
+Females,20 to 24 years,Tertiary education,2006,0.036
+Females,20 to 24 years,Education unknown,2006,0.002
+Females,25 to 29 years,Basic education,2006,0.295
+Females,25 to 29 years,Upper secondary education,2006,0.346
+Females,25 to 29 years,Tertiary education,2006,0.359
+Females,25 to 29 years,Education unknown,2006,0.0
+Females,30 to 49 years,Basic education,2006,0.307
+Females,30 to 49 years,Upper secondary education,2006,0.295
+Females,30 to 49 years,Tertiary education,2006,0.394
+Females,30 to 49 years,Education unknown,2006,0.003
+Females,50 to 64 years,Basic education,2006,0.462
+Females,50 to 64 years,Upper secondary education,2006,0.29
+Females,50 to 64 years,Tertiary education,2006,0.242
+Females,50 to 64 years,Education unknown,2006,0.005
+Females,65 to 74 years,Basic education,2006,0.674
+Females,65 to 74 years,Upper secondary education,2006,0.21
+Females,65 to 74 years,Tertiary education,2006,0.106
+Females,65 to 74 years,Education unknown,2006,0.011
+Females,Capital region 16-74 years,Basic education,2006,0.366
+Females,Capital region 16-74 years,Upper secondary education,2006,0.33
+Females,Capital region 16-74 years,Tertiary education,2006,0.301
+Females,Capital region 16-74 years,Education unknown,2006,0.003
+Females,Other regions 16-74 years,Basic education,2006,0.556
+Females,Other regions 16-74 years,Upper secondary education,2006,0.249
+Females,Other regions 16-74 years,Tertiary education,2006,0.19
+Females,Other regions 16-74 years,Education unknown,2006,0.005
+Females,Capital region 25-64 years,Basic education,2006,0.276
+Females,Capital region 25-64 years,Upper secondary education,2006,0.321
+Females,Capital region 25-64 years,Tertiary education,2006,0.4
+Females,Capital region 25-64 years,Education unknown,2006,0.003
+Females,Other regions 25-64 years,Basic education,2006,0.495
+Females,Other regions 25-64 years,Upper secondary education,2006,0.263
+Females,Other regions 25-64 years,Tertiary education,2006,0.238
+Females,Other regions 25-64 years,Education unknown,2006,0.004
+Total,25 to 64 years,Basic education,2007,0.308
+Total,25 to 64 years,Upper secondary education,2007,0.382
+Total,25 to 64 years,Tertiary education,2007,0.307
+Total,25 to 64 years,Education unknown,2007,0.003
+Total,20 to 24 years,Basic education,2007,0.431
+Total,20 to 24 years,Upper secondary education,2007,0.539
+Total,20 to 24 years,Tertiary education,2007,0.03
+Total,20 to 24 years,Education unknown,2007,0.0
+Total,25 to 29 years,Basic education,2007,0.312
+Total,25 to 29 years,Upper secondary education,2007,0.401
+Total,25 to 29 years,Tertiary education,2007,0.286
+Total,25 to 29 years,Education unknown,2007,0.001
+Total,30 to 49 years,Basic education,2007,0.28
+Total,30 to 49 years,Upper secondary education,2007,0.367
+Total,30 to 49 years,Tertiary education,2007,0.35
+Total,30 to 49 years,Education unknown,2007,0.003
+Total,50 to 64 years,Basic education,2007,0.352
+Total,50 to 64 years,Upper secondary education,2007,0.4
+Total,50 to 64 years,Tertiary education,2007,0.242
+Total,50 to 64 years,Education unknown,2007,0.006
+Total,65 to 74 years,Basic education,2007,0.494
+Total,65 to 74 years,Upper secondary education,2007,0.346
+Total,65 to 74 years,Tertiary education,2007,0.144
+Total,65 to 74 years,Education unknown,2007,0.015
+Total,Capital region 16-74 years,Basic education,2007,0.323
+Total,Capital region 16-74 years,Upper secondary education,2007,0.382
+Total,Capital region 16-74 years,Tertiary education,2007,0.292
+Total,Capital region 16-74 years,Education unknown,2007,0.003
+Total,Other regions 16-74 years,Basic education,2007,0.514
+Total,Other regions 16-74 years,Upper secondary education,2007,0.337
+Total,Other regions 16-74 years,Tertiary education,2007,0.144
+Total,Other regions 16-74 years,Education unknown,2007,0.005
+Total,Capital region 25-64 years,Basic education,2007,0.232
+Total,Capital region 25-64 years,Upper secondary education,2007,0.391
+Total,Capital region 25-64 years,Tertiary education,2007,0.375
+Total,Capital region 25-64 years,Education unknown,2007,0.003
+Total,Other regions 25-64 years,Basic education,2007,0.447
+Total,Other regions 25-64 years,Upper secondary education,2007,0.367
+Total,Other regions 25-64 years,Tertiary education,2007,0.182
+Total,Other regions 25-64 years,Education unknown,2007,0.004
+Males,25 to 64 years,Basic education,2007,0.271
+Males,25 to 64 years,Upper secondary education,2007,0.446
+Males,25 to 64 years,Tertiary education,2007,0.28
+Males,25 to 64 years,Education unknown,2007,0.003
+Males,20 to 24 years,Basic education,2007,0.488
+Males,20 to 24 years,Upper secondary education,2007,0.485
+Males,20 to 24 years,Tertiary education,2007,0.027
+Males,20 to 24 years,Education unknown,2007,0.0
+Males,25 to 29 years,Basic education,2007,0.341
+Males,25 to 29 years,Upper secondary education,2007,0.442
+Males,25 to 29 years,Tertiary education,2007,0.217
+Males,25 to 29 years,Education unknown,2007,0.0
+Males,30 to 49 years,Basic education,2007,0.26
+Males,30 to 49 years,Upper secondary education,2007,0.421
+Males,30 to 49 years,Tertiary education,2007,0.316
+Males,30 to 49 years,Education unknown,2007,0.002
+Males,50 to 64 years,Basic education,2007,0.257
+Males,50 to 64 years,Upper secondary education,2007,0.492
+Males,50 to 64 years,Tertiary education,2007,0.245
+Males,50 to 64 years,Education unknown,2007,0.006
+Males,65 to 74 years,Basic education,2007,0.325
+Males,65 to 74 years,Upper secondary education,2007,0.482
+Males,65 to 74 years,Tertiary education,2007,0.172
+Males,65 to 74 years,Education unknown,2007,0.021
+Males,Capital region 16-74 years,Basic education,2007,0.292
+Males,Capital region 16-74 years,Upper secondary education,2007,0.428
+Males,Capital region 16-74 years,Tertiary education,2007,0.277
+Males,Capital region 16-74 years,Education unknown,2007,0.003
+Males,Other regions 16-74 years,Basic education,2007,0.469
+Males,Other regions 16-74 years,Upper secondary education,2007,0.403
+Males,Other regions 16-74 years,Tertiary education,2007,0.122
+Males,Other regions 16-74 years,Education unknown,2007,0.006
+Males,Capital region 25-64 years,Basic education,2007,0.206
+Males,Capital region 25-64 years,Upper secondary education,2007,0.444
+Males,Capital region 25-64 years,Tertiary education,2007,0.348
+Males,Capital region 25-64 years,Education unknown,2007,0.002
+Males,Other regions 25-64 years,Basic education,2007,0.394
+Males,Other regions 25-64 years,Upper secondary education,2007,0.451
+Males,Other regions 25-64 years,Tertiary education,2007,0.151
+Males,Other regions 25-64 years,Education unknown,2007,0.005
+Females,25 to 64 years,Basic education,2007,0.348
+Females,25 to 64 years,Upper secondary education,2007,0.312
+Females,25 to 64 years,Tertiary education,2007,0.336
+Females,25 to 64 years,Education unknown,2007,0.004
+Females,20 to 24 years,Basic education,2007,0.369
+Females,20 to 24 years,Upper secondary education,2007,0.597
+Females,20 to 24 years,Tertiary education,2007,0.033
+Females,20 to 24 years,Education unknown,2007,0.0
+Females,25 to 29 years,Basic education,2007,0.28
+Females,25 to 29 years,Upper secondary education,2007,0.357
+Females,25 to 29 years,Tertiary education,2007,0.361
+Females,25 to 29 years,Education unknown,2007,0.002
+Females,30 to 49 years,Basic education,2007,0.302
+Females,30 to 49 years,Upper secondary education,2007,0.308
+Females,30 to 49 years,Tertiary education,2007,0.387
+Females,30 to 49 years,Education unknown,2007,0.003
+Females,50 to 64 years,Basic education,2007,0.455
+Females,50 to 64 years,Upper secondary education,2007,0.302
+Females,50 to 64 years,Tertiary education,2007,0.238
+Females,50 to 64 years,Education unknown,2007,0.005
+Females,65 to 74 years,Basic education,2007,0.652
+Females,65 to 74 years,Upper secondary education,2007,0.22
+Females,65 to 74 years,Tertiary education,2007,0.118
+Females,65 to 74 years,Education unknown,2007,0.01
+Females,Capital region 16-74 years,Basic education,2007,0.357
+Females,Capital region 16-74 years,Upper secondary education,2007,0.331
+Females,Capital region 16-74 years,Tertiary education,2007,0.309
+Females,Capital region 16-74 years,Education unknown,2007,0.003
+Females,Other regions 16-74 years,Basic education,2007,0.561
+Females,Other regions 16-74 years,Upper secondary education,2007,0.267
+Females,Other regions 16-74 years,Tertiary education,2007,0.167
+Females,Other regions 16-74 years,Education unknown,2007,0.005
+Females,Capital region 25-64 years,Basic education,2007,0.261
+Females,Capital region 25-64 years,Upper secondary education,2007,0.331
+Females,Capital region 25-64 years,Tertiary education,2007,0.405
+Females,Capital region 25-64 years,Education unknown,2007,0.003
+Females,Other regions 25-64 years,Basic education,2007,0.502
+Females,Other regions 25-64 years,Upper secondary education,2007,0.279
+Females,Other regions 25-64 years,Tertiary education,2007,0.215
+Females,Other regions 25-64 years,Education unknown,2007,0.004
+Total,25 to 64 years,Basic education,2008,0.309
+Total,25 to 64 years,Upper secondary education,2008,0.374
+Total,25 to 64 years,Tertiary education,2008,0.315
+Total,25 to 64 years,Education unknown,2008,0.001
+Total,20 to 24 years,Basic education,2008,0.471
+Total,20 to 24 years,Upper secondary education,2008,0.495
+Total,20 to 24 years,Tertiary education,2008,0.033
+Total,20 to 24 years,Education unknown,2008,0.0
+Total,25 to 29 years,Basic education,2008,0.296
+Total,25 to 29 years,Upper secondary education,2008,0.417
+Total,25 to 29 years,Tertiary education,2008,0.287
+Total,25 to 29 years,Education unknown,2008,0.0
+Total,30 to 49 years,Basic education,2008,0.281
+Total,30 to 49 years,Upper secondary education,2008,0.355
+Total,30 to 49 years,Tertiary education,2008,0.363
+Total,30 to 49 years,Education unknown,2008,0.001
+Total,50 to 64 years,Basic education,2008,0.363
+Total,50 to 64 years,Upper secondary education,2008,0.386
+Total,50 to 64 years,Tertiary education,2008,0.249
+Total,50 to 64 years,Education unknown,2008,0.002
+Total,65 to 74 years,Basic education,2008,0.478
+Total,65 to 74 years,Upper secondary education,2008,0.368
+Total,65 to 74 years,Tertiary education,2008,0.143
+Total,65 to 74 years,Education unknown,2008,0.011
+Total,Capital region 16-74 years,Basic education,2008,0.331
+Total,Capital region 16-74 years,Upper secondary education,2008,0.365
+Total,Capital region 16-74 years,Tertiary education,2008,0.302
+Total,Capital region 16-74 years,Education unknown,2008,0.002
+Total,Other regions 16-74 years,Basic education,2008,0.512
+Total,Other regions 16-74 years,Upper secondary education,2008,0.34
+Total,Other regions 16-74 years,Tertiary education,2008,0.146
+Total,Other regions 16-74 years,Education unknown,2008,0.002
+Total,Capital region 25-64 years,Basic education,2008,0.241
+Total,Capital region 25-64 years,Upper secondary education,2008,0.372
+Total,Capital region 25-64 years,Tertiary education,2008,0.385
+Total,Capital region 25-64 years,Education unknown,2008,0.001
+Total,Other regions 25-64 years,Basic education,2008,0.434
+Total,Other regions 25-64 years,Upper secondary education,2008,0.378
+Total,Other regions 25-64 years,Tertiary education,2008,0.187
+Total,Other regions 25-64 years,Education unknown,2008,0.002
+Males,25 to 64 years,Basic education,2008,0.278
+Males,25 to 64 years,Upper secondary education,2008,0.434
+Males,25 to 64 years,Tertiary education,2008,0.286
+Males,25 to 64 years,Education unknown,2008,0.002
+Males,20 to 24 years,Basic education,2008,0.52
+Males,20 to 24 years,Upper secondary education,2008,0.465
+Males,20 to 24 years,Tertiary education,2008,0.015
+Males,20 to 24 years,Education unknown,2008,0.0
+Males,25 to 29 years,Basic education,2008,0.325
+Males,25 to 29 years,Upper secondary education,2008,0.458
+Males,25 to 29 years,Tertiary education,2008,0.217
+Males,25 to 29 years,Education unknown,2008,0.0
+Males,30 to 49 years,Basic education,2008,0.28
+Males,30 to 49 years,Upper secondary education,2008,0.404
+Males,30 to 49 years,Tertiary education,2008,0.315
+Males,30 to 49 years,Education unknown,2008,0.002
+Males,50 to 64 years,Basic education,2008,0.254
+Males,50 to 64 years,Upper secondary education,2008,0.474
+Males,50 to 64 years,Tertiary education,2008,0.27
+Males,50 to 64 years,Education unknown,2008,0.002
+Males,65 to 74 years,Basic education,2008,0.303
+Males,65 to 74 years,Upper secondary education,2008,0.505
+Males,65 to 74 years,Tertiary education,2008,0.177
+Males,65 to 74 years,Education unknown,2008,0.014
+Males,Capital region 16-74 years,Basic education,2008,0.308
+Males,Capital region 16-74 years,Upper secondary education,2008,0.404
+Males,Capital region 16-74 years,Tertiary education,2008,0.286
+Males,Capital region 16-74 years,Education unknown,2008,0.003
+Males,Other regions 16-74 years,Basic education,2008,0.466
+Males,Other regions 16-74 years,Upper secondary education,2008,0.419
+Males,Other regions 16-74 years,Tertiary education,2008,0.113
+Males,Other regions 16-74 years,Education unknown,2008,0.001
+Males,Capital region 25-64 years,Basic education,2008,0.225
+Males,Capital region 25-64 years,Upper secondary education,2008,0.415
+Males,Capital region 25-64 years,Tertiary education,2008,0.359
+Males,Capital region 25-64 years,Education unknown,2008,0.002
+Males,Other regions 25-64 years,Basic education,2008,0.382
+Males,Other regions 25-64 years,Upper secondary education,2008,0.471
+Males,Other regions 25-64 years,Tertiary education,2008,0.146
+Males,Other regions 25-64 years,Education unknown,2008,0.001
+Females,25 to 64 years,Basic education,2008,0.343
+Females,25 to 64 years,Upper secondary education,2008,0.309
+Females,25 to 64 years,Tertiary education,2008,0.347
+Females,25 to 64 years,Education unknown,2008,0.001
+Females,20 to 24 years,Basic education,2008,0.418
+Females,20 to 24 years,Upper secondary education,2008,0.528
+Females,20 to 24 years,Tertiary education,2008,0.054
+Females,20 to 24 years,Education unknown,2008,0.0
+Females,25 to 29 years,Basic education,2008,0.264
+Females,25 to 29 years,Upper secondary education,2008,0.371
+Females,25 to 29 years,Tertiary education,2008,0.365
+Females,25 to 29 years,Education unknown,2008,0.0
+Females,30 to 49 years,Basic education,2008,0.282
+Females,30 to 49 years,Upper secondary education,2008,0.303
+Females,30 to 49 years,Tertiary education,2008,0.414
+Females,30 to 49 years,Education unknown,2008,0.001
+Females,50 to 64 years,Basic education,2008,0.478
+Females,50 to 64 years,Upper secondary education,2008,0.292
+Females,50 to 64 years,Tertiary education,2008,0.227
+Females,50 to 64 years,Education unknown,2008,0.002
+Females,65 to 74 years,Basic education,2008,0.643
+Females,65 to 74 years,Upper secondary education,2008,0.238
+Females,65 to 74 years,Tertiary education,2008,0.11
+Females,65 to 74 years,Education unknown,2008,0.008
+Females,Capital region 16-74 years,Basic education,2008,0.357
+Females,Capital region 16-74 years,Upper secondary education,2008,0.322
+Females,Capital region 16-74 years,Tertiary education,2008,0.32
+Females,Capital region 16-74 years,Education unknown,2008,0.001
+Females,Other regions 16-74 years,Basic education,2008,0.558
+Females,Other regions 16-74 years,Upper secondary education,2008,0.26
+Females,Other regions 16-74 years,Tertiary education,2008,0.178
+Females,Other regions 16-74 years,Education unknown,2008,0.003
+Females,Capital region 25-64 years,Basic education,2008,0.26
+Females,Capital region 25-64 years,Upper secondary education,2008,0.324
+Females,Capital region 25-64 years,Tertiary education,2008,0.416
+Females,Capital region 25-64 years,Education unknown,2008,0.0
+Females,Other regions 25-64 years,Basic education,2008,0.486
+Females,Other regions 25-64 years,Upper secondary education,2008,0.284
+Females,Other regions 25-64 years,Tertiary education,2008,0.228
+Females,Other regions 25-64 years,Education unknown,2008,0.003
+Total,25 to 64 years,Basic education,2009,0.3
+Total,25 to 64 years,Upper secondary education,2009,0.37
+Total,25 to 64 years,Tertiary education,2009,0.329
+Total,25 to 64 years,Education unknown,2009,0.001
+Total,20 to 24 years,Basic education,2009,0.459
+Total,20 to 24 years,Upper secondary education,2009,0.513
+Total,20 to 24 years,Tertiary education,2009,0.028
+Total,20 to 24 years,Education unknown,2009,0.0
+Total,25 to 29 years,Basic education,2009,0.296
+Total,25 to 29 years,Upper secondary education,2009,0.402
+Total,25 to 29 years,Tertiary education,2009,0.301
+Total,25 to 29 years,Education unknown,2009,0.001
+Total,30 to 49 years,Basic education,2009,0.27
+Total,30 to 49 years,Upper secondary education,2009,0.353
+Total,30 to 49 years,Tertiary education,2009,0.376
+Total,30 to 49 years,Education unknown,2009,0.001
+Total,50 to 64 years,Basic education,2009,0.349
+Total,50 to 64 years,Upper secondary education,2009,0.385
+Total,50 to 64 years,Tertiary education,2009,0.265
+Total,50 to 64 years,Education unknown,2009,0.001
+Total,65 to 74 years,Basic education,2009,0.488
+Total,65 to 74 years,Upper secondary education,2009,0.377
+Total,65 to 74 years,Tertiary education,2009,0.132
+Total,65 to 74 years,Education unknown,2009,0.003
+Total,Capital region 16-74 years,Basic education,2009,0.328
+Total,Capital region 16-74 years,Upper secondary education,2009,0.365
+Total,Capital region 16-74 years,Tertiary education,2009,0.306
+Total,Capital region 16-74 years,Education unknown,2009,0.001
+Total,Other regions 16-74 years,Basic education,2009,0.498
+Total,Other regions 16-74 years,Upper secondary education,2009,0.341
+Total,Other regions 16-74 years,Tertiary education,2009,0.16
+Total,Other regions 16-74 years,Education unknown,2009,0.001
+Total,Capital region 25-64 years,Basic education,2009,0.237
+Total,Capital region 25-64 years,Upper secondary education,2009,0.369
+Total,Capital region 25-64 years,Tertiary education,2009,0.393
+Total,Capital region 25-64 years,Education unknown,2009,0.001
+Total,Other regions 25-64 years,Basic education,2009,0.416
+Total,Other regions 25-64 years,Upper secondary education,2009,0.373
+Total,Other regions 25-64 years,Tertiary education,2009,0.211
+Total,Other regions 25-64 years,Education unknown,2009,0.001
+Males,25 to 64 years,Basic education,2009,0.278
+Males,25 to 64 years,Upper secondary education,2009,0.428
+Males,25 to 64 years,Tertiary education,2009,0.292
+Males,25 to 64 years,Education unknown,2009,0.002
+Males,20 to 24 years,Basic education,2009,0.5
+Males,20 to 24 years,Upper secondary education,2009,0.471
+Males,20 to 24 years,Tertiary education,2009,0.028
+Males,20 to 24 years,Education unknown,2009,0.0
+Males,25 to 29 years,Basic education,2009,0.353
+Males,25 to 29 years,Upper secondary education,2009,0.421
+Males,25 to 29 years,Tertiary education,2009,0.224
+Males,25 to 29 years,Education unknown,2009,0.002
+Males,30 to 49 years,Basic education,2009,0.277
+Males,30 to 49 years,Upper secondary education,2009,0.402
+Males,30 to 49 years,Tertiary education,2009,0.319
+Males,30 to 49 years,Education unknown,2009,0.002
+Males,50 to 64 years,Basic education,2009,0.248
+Males,50 to 64 years,Upper secondary education,2009,0.472
+Males,50 to 64 years,Tertiary education,2009,0.279
+Males,50 to 64 years,Education unknown,2009,0.001
+Males,65 to 74 years,Basic education,2009,0.32
+Males,65 to 74 years,Upper secondary education,2009,0.526
+Males,65 to 74 years,Tertiary education,2009,0.153
+Males,65 to 74 years,Education unknown,2009,0.002
+Males,Capital region 16-74 years,Basic education,2009,0.307
+Males,Capital region 16-74 years,Upper secondary education,2009,0.407
+Males,Capital region 16-74 years,Tertiary education,2009,0.285
+Males,Capital region 16-74 years,Education unknown,2009,0.001
+Males,Other regions 16-74 years,Basic education,2009,0.464
+Males,Other regions 16-74 years,Upper secondary education,2009,0.403
+Males,Other regions 16-74 years,Tertiary education,2009,0.132
+Males,Other regions 16-74 years,Education unknown,2009,0.001
+Males,Capital region 25-64 years,Basic education,2009,0.218
+Males,Capital region 25-64 years,Upper secondary education,2009,0.421
+Males,Capital region 25-64 years,Tertiary education,2009,0.359
+Males,Capital region 25-64 years,Education unknown,2009,0.001
+Males,Other regions 25-64 years,Basic education,2009,0.385
+Males,Other regions 25-64 years,Upper secondary education,2009,0.439
+Males,Other regions 25-64 years,Tertiary education,2009,0.174
+Males,Other regions 25-64 years,Education unknown,2009,0.002
+Females,25 to 64 years,Basic education,2009,0.323
+Females,25 to 64 years,Upper secondary education,2009,0.31
+Females,25 to 64 years,Tertiary education,2009,0.367
+Females,25 to 64 years,Education unknown,2009,0.0
+Females,20 to 24 years,Basic education,2009,0.416
+Females,20 to 24 years,Upper secondary education,2009,0.557
+Females,20 to 24 years,Tertiary education,2009,0.027
+Females,20 to 24 years,Education unknown,2009,0.0
+Females,25 to 29 years,Basic education,2009,0.237
+Females,25 to 29 years,Upper secondary education,2009,0.382
+Females,25 to 29 years,Tertiary education,2009,0.381
+Females,25 to 29 years,Education unknown,2009,0.0
+Females,30 to 49 years,Basic education,2009,0.264
+Females,30 to 49 years,Upper secondary education,2009,0.301
+Females,30 to 49 years,Tertiary education,2009,0.435
+Females,30 to 49 years,Education unknown,2009,0.0
+Females,50 to 64 years,Basic education,2009,0.454
+Females,50 to 64 years,Upper secondary education,2009,0.294
+Females,50 to 64 years,Tertiary education,2009,0.251
+Females,50 to 64 years,Education unknown,2009,0.001
+Females,65 to 74 years,Basic education,2009,0.647
+Females,65 to 74 years,Upper secondary education,2009,0.237
+Females,65 to 74 years,Tertiary education,2009,0.112
+Females,65 to 74 years,Education unknown,2009,0.005
+Females,Capital region 16-74 years,Basic education,2009,0.349
+Females,Capital region 16-74 years,Upper secondary education,2009,0.322
+Females,Capital region 16-74 years,Tertiary education,2009,0.328
+Females,Capital region 16-74 years,Education unknown,2009,0.001
+Females,Other regions 16-74 years,Basic education,2009,0.536
+Females,Other regions 16-74 years,Upper secondary education,2009,0.273
+Females,Other regions 16-74 years,Tertiary education,2009,0.19
+Females,Other regions 16-74 years,Education unknown,2009,0.0
+Females,Capital region 25-64 years,Basic education,2009,0.257
+Females,Capital region 25-64 years,Upper secondary education,2009,0.316
+Females,Capital region 25-64 years,Tertiary education,2009,0.427
+Females,Capital region 25-64 years,Education unknown,2009,0.0
+Females,Other regions 25-64 years,Basic education,2009,0.45
+Females,Other regions 25-64 years,Upper secondary education,2009,0.299
+Females,Other regions 25-64 years,Tertiary education,2009,0.251
+Females,Other regions 25-64 years,Education unknown,2009,0.0
+Total,25 to 64 years,Basic education,2010,0.293
+Total,25 to 64 years,Upper secondary education,2010,0.381
+Total,25 to 64 years,Tertiary education,2010,0.326
+Total,25 to 64 years,Education unknown,2010,0.0
+Total,20 to 24 years,Basic education,2010,0.462
+Total,20 to 24 years,Upper secondary education,2010,0.514
+Total,20 to 24 years,Tertiary education,2010,0.024
+Total,20 to 24 years,Education unknown,2010,0.0
+Total,25 to 29 years,Basic education,2010,0.278
+Total,25 to 29 years,Upper secondary education,2010,0.405
+Total,25 to 29 years,Tertiary education,2010,0.317
+Total,25 to 29 years,Education unknown,2010,0.0
+Total,30 to 49 years,Basic education,2010,0.257
+Total,30 to 49 years,Upper secondary education,2010,0.368
+Total,30 to 49 years,Tertiary education,2010,0.375
+Total,30 to 49 years,Education unknown,2010,0.0
+Total,50 to 64 years,Basic education,2010,0.354
+Total,50 to 64 years,Upper secondary education,2010,0.391
+Total,50 to 64 years,Tertiary education,2010,0.255
+Total,50 to 64 years,Education unknown,2010,0.0
+Total,65 to 74 years,Basic education,2010,0.496
+Total,65 to 74 years,Upper secondary education,2010,0.37
+Total,65 to 74 years,Tertiary education,2010,0.133
+Total,65 to 74 years,Education unknown,2010,0.001
+Total,Capital region 16-74 years,Basic education,2010,0.33
+Total,Capital region 16-74 years,Upper secondary education,2010,0.369
+Total,Capital region 16-74 years,Tertiary education,2010,0.301
+Total,Capital region 16-74 years,Education unknown,2010,0.0
+Total,Other regions 16-74 years,Basic education,2010,0.484
+Total,Other regions 16-74 years,Upper secondary education,2010,0.354
+Total,Other regions 16-74 years,Tertiary education,2010,0.162
+Total,Other regions 16-74 years,Education unknown,2010,0.0
+Total,Capital region 25-64 years,Basic education,2010,0.233
+Total,Capital region 25-64 years,Upper secondary education,2010,0.377
+Total,Capital region 25-64 years,Tertiary education,2010,0.39
+Total,Capital region 25-64 years,Education unknown,2010,0.0
+Total,Other regions 25-64 years,Basic education,2010,0.403
+Total,Other regions 25-64 years,Upper secondary education,2010,0.387
+Total,Other regions 25-64 years,Tertiary education,2010,0.211
+Total,Other regions 25-64 years,Education unknown,2010,0.0
+Males,25 to 64 years,Basic education,2010,0.273
+Males,25 to 64 years,Upper secondary education,2010,0.451
+Males,25 to 64 years,Tertiary education,2010,0.276
+Males,25 to 64 years,Education unknown,2010,0.0
+Males,20 to 24 years,Basic education,2010,0.469
+Males,20 to 24 years,Upper secondary education,2010,0.507
+Males,20 to 24 years,Tertiary education,2010,0.024
+Males,20 to 24 years,Education unknown,2010,0.0
+Males,25 to 29 years,Basic education,2010,0.321
+Males,25 to 29 years,Upper secondary education,2010,0.455
+Males,25 to 29 years,Tertiary education,2010,0.225
+Males,25 to 29 years,Education unknown,2010,0.0
+Males,30 to 49 years,Basic education,2010,0.264
+Males,30 to 49 years,Upper secondary education,2010,0.424
+Males,30 to 49 years,Tertiary education,2010,0.311
+Males,30 to 49 years,Education unknown,2010,0.0
+Males,50 to 64 years,Basic education,2010,0.267
+Males,50 to 64 years,Upper secondary education,2010,0.493
+Males,50 to 64 years,Tertiary education,2010,0.241
+Males,50 to 64 years,Education unknown,2010,0.0
+Males,65 to 74 years,Basic education,2010,0.32
+Males,65 to 74 years,Upper secondary education,2010,0.518
+Males,65 to 74 years,Tertiary education,2010,0.162
+Males,65 to 74 years,Education unknown,2010,0.0
+Males,Capital region 16-74 years,Basic education,2010,0.305
+Males,Capital region 16-74 years,Upper secondary education,2010,0.427
+Males,Capital region 16-74 years,Tertiary education,2010,0.268
+Males,Capital region 16-74 years,Education unknown,2010,0.0
+Males,Other regions 16-74 years,Basic education,2010,0.444
+Males,Other regions 16-74 years,Upper secondary education,2010,0.425
+Males,Other regions 16-74 years,Tertiary education,2010,0.131
+Males,Other regions 16-74 years,Education unknown,2010,0.0
+Males,Capital region 25-64 years,Basic education,2010,0.219
+Males,Capital region 25-64 years,Upper secondary education,2010,0.443
+Males,Capital region 25-64 years,Tertiary education,2010,0.338
+Males,Capital region 25-64 years,Education unknown,2010,0.0
+Males,Other regions 25-64 years,Basic education,2010,0.364
+Males,Other regions 25-64 years,Upper secondary education,2010,0.467
+Males,Other regions 25-64 years,Tertiary education,2010,0.169
+Males,Other regions 25-64 years,Education unknown,2010,0.0
+Females,25 to 64 years,Basic education,2010,0.313
+Females,25 to 64 years,Upper secondary education,2010,0.308
+Females,25 to 64 years,Tertiary education,2010,0.378
+Females,25 to 64 years,Education unknown,2010,0.0
+Females,20 to 24 years,Basic education,2010,0.454
+Females,20 to 24 years,Upper secondary education,2010,0.522
+Females,20 to 24 years,Tertiary education,2010,0.024
+Females,20 to 24 years,Education unknown,2010,0.0
+Females,25 to 29 years,Basic education,2010,0.236
+Females,25 to 29 years,Upper secondary education,2010,0.355
+Females,25 to 29 years,Tertiary education,2010,0.41
+Females,25 to 29 years,Education unknown,2010,0.0
+Females,30 to 49 years,Basic education,2010,0.25
+Females,30 to 49 years,Upper secondary education,2010,0.311
+Females,30 to 49 years,Tertiary education,2010,0.439
+Females,30 to 49 years,Education unknown,2010,0.0
+Females,50 to 64 years,Basic education,2010,0.444
+Females,50 to 64 years,Upper secondary education,2010,0.285
+Females,50 to 64 years,Tertiary education,2010,0.27
+Females,50 to 64 years,Education unknown,2010,0.0
+Females,65 to 74 years,Basic education,2010,0.663
+Females,65 to 74 years,Upper secondary education,2010,0.231
+Females,65 to 74 years,Tertiary education,2010,0.105
+Females,65 to 74 years,Education unknown,2010,0.002
+Females,Capital region 16-74 years,Basic education,2010,0.353
+Females,Capital region 16-74 years,Upper secondary education,2010,0.314
+Females,Capital region 16-74 years,Tertiary education,2010,0.333
+Females,Capital region 16-74 years,Education unknown,2010,0.0
+Females,Other regions 16-74 years,Basic education,2010,0.53
+Females,Other regions 16-74 years,Upper secondary education,2010,0.274
+Females,Other regions 16-74 years,Tertiary education,2010,0.196
+Females,Other regions 16-74 years,Education unknown,2010,0.0
+Females,Capital region 25-64 years,Basic education,2010,0.246
+Females,Capital region 25-64 years,Upper secondary education,2010,0.314
+Females,Capital region 25-64 years,Tertiary education,2010,0.44
+Females,Capital region 25-64 years,Education unknown,2010,0.0
+Females,Other regions 25-64 years,Basic education,2010,0.446
+Females,Other regions 25-64 years,Upper secondary education,2010,0.297
+Females,Other regions 25-64 years,Tertiary education,2010,0.257
+Females,Other regions 25-64 years,Education unknown,2010,0.0
+Total,25 to 64 years,Basic education,2011,0.292
+Total,25 to 64 years,Upper secondary education,2011,0.37
+Total,25 to 64 years,Tertiary education,2011,0.338
+Total,25 to 64 years,Education unknown,2011,0.001
+Total,20 to 24 years,Basic education,2011,0.436
+Total,20 to 24 years,Upper secondary education,2011,0.534
+Total,20 to 24 years,Tertiary education,2011,0.03
+Total,20 to 24 years,Education unknown,2011,0.0
+Total,25 to 29 years,Basic education,2011,0.263
+Total,25 to 29 years,Upper secondary education,2011,0.399
+Total,25 to 29 years,Tertiary education,2011,0.338
+Total,25 to 29 years,Education unknown,2011,0.0
+Total,30 to 49 years,Basic education,2011,0.263
+Total,30 to 49 years,Upper secondary education,2011,0.347
+Total,30 to 49 years,Tertiary education,2011,0.39
+Total,30 to 49 years,Education unknown,2011,0.001
+Total,50 to 64 years,Basic education,2011,0.347
+Total,50 to 64 years,Upper secondary education,2011,0.393
+Total,50 to 64 years,Tertiary education,2011,0.259
+Total,50 to 64 years,Education unknown,2011,0.001
+Total,65 to 74 years,Basic education,2011,0.496
+Total,65 to 74 years,Upper secondary education,2011,0.37
+Total,65 to 74 years,Tertiary education,2011,0.134
+Total,65 to 74 years,Education unknown,2011,0.001
+Total,Capital region 16-74 years,Basic education,2011,0.332
+Total,Capital region 16-74 years,Upper secondary education,2011,0.358
+Total,Capital region 16-74 years,Tertiary education,2011,0.309
+Total,Capital region 16-74 years,Education unknown,2011,0.001
+Total,Other regions 16-74 years,Basic education,2011,0.472
+Total,Other regions 16-74 years,Upper secondary education,2011,0.361
+Total,Other regions 16-74 years,Tertiary education,2011,0.168
+Total,Other regions 16-74 years,Education unknown,2011,0.0
+Total,Capital region 25-64 years,Basic education,2011,0.243
+Total,Capital region 25-64 years,Upper secondary education,2011,0.351
+Total,Capital region 25-64 years,Tertiary education,2011,0.404
+Total,Capital region 25-64 years,Education unknown,2011,0.001
+Total,Other regions 25-64 years,Basic education,2011,0.38
+Total,Other regions 25-64 years,Upper secondary education,2011,0.404
+Total,Other regions 25-64 years,Tertiary education,2011,0.215
+Total,Other regions 25-64 years,Education unknown,2011,0.0
+Males,25 to 64 years,Basic education,2011,0.266
+Males,25 to 64 years,Upper secondary education,2011,0.452
+Males,25 to 64 years,Tertiary education,2011,0.281
+Males,25 to 64 years,Education unknown,2011,0.0
+Males,20 to 24 years,Basic education,2011,0.452
+Males,20 to 24 years,Upper secondary education,2011,0.52
+Males,20 to 24 years,Tertiary education,2011,0.028
+Males,20 to 24 years,Education unknown,2011,0.0
+Males,25 to 29 years,Basic education,2011,0.292
+Males,25 to 29 years,Upper secondary education,2011,0.457
+Males,25 to 29 years,Tertiary education,2011,0.251
+Males,25 to 29 years,Education unknown,2011,0.0
+Males,30 to 49 years,Basic education,2011,0.271
+Males,30 to 49 years,Upper secondary education,2011,0.416
+Males,30 to 49 years,Tertiary education,2011,0.312
+Males,30 to 49 years,Education unknown,2011,0.001
+Males,50 to 64 years,Basic education,2011,0.249
+Males,50 to 64 years,Upper secondary education,2011,0.504
+Males,50 to 64 years,Tertiary education,2011,0.247
+Males,50 to 64 years,Education unknown,2011,0.0
+Males,65 to 74 years,Basic education,2011,0.321
+Males,65 to 74 years,Upper secondary education,2011,0.525
+Males,65 to 74 years,Tertiary education,2011,0.152
+Males,65 to 74 years,Education unknown,2011,0.002
+Males,Capital region 16-74 years,Basic education,2011,0.304
+Males,Capital region 16-74 years,Upper secondary education,2011,0.422
+Males,Capital region 16-74 years,Tertiary education,2011,0.274
+Males,Capital region 16-74 years,Education unknown,2011,0.001
+Males,Other regions 16-74 years,Basic education,2011,0.432
+Males,Other regions 16-74 years,Upper secondary education,2011,0.443
+Males,Other regions 16-74 years,Tertiary education,2011,0.125
+Males,Other regions 16-74 years,Education unknown,2011,0.0
+Males,Capital region 25-64 years,Basic education,2011,0.228
+Males,Capital region 25-64 years,Upper secondary education,2011,0.419
+Males,Capital region 25-64 years,Tertiary education,2011,0.352
+Males,Capital region 25-64 years,Education unknown,2011,0.001
+Males,Other regions 25-64 years,Basic education,2011,0.333
+Males,Other regions 25-64 years,Upper secondary education,2011,0.509
+Males,Other regions 25-64 years,Tertiary education,2011,0.158
+Males,Other regions 25-64 years,Education unknown,2011,0.0
+Females,25 to 64 years,Basic education,2011,0.317
+Females,25 to 64 years,Upper secondary education,2011,0.287
+Females,25 to 64 years,Tertiary education,2011,0.395
+Females,25 to 64 years,Education unknown,2011,0.001
+Females,20 to 24 years,Basic education,2011,0.421
+Females,20 to 24 years,Upper secondary education,2011,0.548
+Females,20 to 24 years,Tertiary education,2011,0.031
+Females,20 to 24 years,Education unknown,2011,0.0
+Females,25 to 29 years,Basic education,2011,0.233
+Females,25 to 29 years,Upper secondary education,2011,0.341
+Females,25 to 29 years,Tertiary education,2011,0.426
+Females,25 to 29 years,Education unknown,2011,0.0
+Females,30 to 49 years,Basic education,2011,0.255
+Females,30 to 49 years,Upper secondary education,2011,0.277
+Females,30 to 49 years,Tertiary education,2011,0.468
+Females,30 to 49 years,Education unknown,2011,0.0
+Females,50 to 64 years,Basic education,2011,0.446
+Females,50 to 64 years,Upper secondary education,2011,0.282
+Females,50 to 64 years,Tertiary education,2011,0.27
+Females,50 to 64 years,Education unknown,2011,0.002
+Females,65 to 74 years,Basic education,2011,0.664
+Females,65 to 74 years,Upper secondary education,2011,0.22
+Females,65 to 74 years,Tertiary education,2011,0.116
+Females,65 to 74 years,Education unknown,2011,0.0
+Females,Capital region 16-74 years,Basic education,2011,0.36
+Females,Capital region 16-74 years,Upper secondary education,2011,0.295
+Females,Capital region 16-74 years,Tertiary education,2011,0.344
+Females,Capital region 16-74 years,Education unknown,2011,0.001
+Females,Other regions 16-74 years,Basic education,2011,0.515
+Females,Other regions 16-74 years,Upper secondary education,2011,0.27
+Females,Other regions 16-74 years,Tertiary education,2011,0.215
+Females,Other regions 16-74 years,Education unknown,2011,0.0
+Females,Capital region 25-64 years,Basic education,2011,0.258
+Females,Capital region 25-64 years,Upper secondary education,2011,0.284
+Females,Capital region 25-64 years,Tertiary education,2011,0.456
+Females,Capital region 25-64 years,Education unknown,2011,0.001
+Females,Other regions 25-64 years,Basic education,2011,0.431
+Females,Other regions 25-64 years,Upper secondary education,2011,0.292
+Females,Other regions 25-64 years,Tertiary education,2011,0.277
+Females,Other regions 25-64 years,Education unknown,2011,0.0
+Total,25 to 64 years,Basic education,2012,0.292
+Total,25 to 64 years,Upper secondary education,2012,0.357
+Total,25 to 64 years,Tertiary education,2012,0.35
+Total,25 to 64 years,Education unknown,2012,0.001
+Total,20 to 24 years,Basic education,2012,0.421
+Total,20 to 24 years,Upper secondary education,2012,0.546
+Total,20 to 24 years,Tertiary education,2012,0.033
+Total,20 to 24 years,Education unknown,2012,0.0
+Total,25 to 29 years,Basic education,2012,0.28
+Total,25 to 29 years,Upper secondary education,2012,0.388
+Total,25 to 29 years,Tertiary education,2012,0.332
+Total,25 to 29 years,Education unknown,2012,0.0
+Total,30 to 49 years,Basic education,2012,0.25
+Total,30 to 49 years,Upper secondary education,2012,0.34
+Total,30 to 49 years,Tertiary education,2012,0.409
+Total,30 to 49 years,Education unknown,2012,0.001
+Total,50 to 64 years,Basic education,2012,0.359
+Total,50 to 64 years,Upper secondary education,2012,0.372
+Total,50 to 64 years,Tertiary education,2012,0.268
+Total,50 to 64 years,Education unknown,2012,0.002
+Total,65 to 74 years,Basic education,2012,0.436
+Total,65 to 74 years,Upper secondary education,2012,0.387
+Total,65 to 74 years,Tertiary education,2012,0.177
+Total,65 to 74 years,Education unknown,2012,0.0
+Total,Capital region 16-74 years,Basic education,2012,0.332
+Total,Capital region 16-74 years,Upper secondary education,2012,0.354
+Total,Capital region 16-74 years,Tertiary education,2012,0.313
+Total,Capital region 16-74 years,Education unknown,2012,0.001
+Total,Other regions 16-74 years,Basic education,2012,0.451
+Total,Other regions 16-74 years,Upper secondary education,2012,0.35
+Total,Other regions 16-74 years,Tertiary education,2012,0.198
+Total,Other regions 16-74 years,Education unknown,2012,0.001
+Total,Capital region 25-64 years,Basic education,2012,0.245
+Total,Capital region 25-64 years,Upper secondary education,2012,0.347
+Total,Capital region 25-64 years,Tertiary education,2012,0.407
+Total,Capital region 25-64 years,Education unknown,2012,0.001
+Total,Other regions 25-64 years,Basic education,2012,0.373
+Total,Other regions 25-64 years,Upper secondary education,2012,0.377
+Total,Other regions 25-64 years,Tertiary education,2012,0.249
+Total,Other regions 25-64 years,Education unknown,2012,0.001
+Males,25 to 64 years,Basic education,2012,0.272
+Males,25 to 64 years,Upper secondary education,2012,0.44
+Males,25 to 64 years,Tertiary education,2012,0.288
+Males,25 to 64 years,Education unknown,2012,0.001
+Males,20 to 24 years,Basic education,2012,0.431
+Males,20 to 24 years,Upper secondary education,2012,0.539
+Males,20 to 24 years,Tertiary education,2012,0.031
+Males,20 to 24 years,Education unknown,2012,0.0
+Males,25 to 29 years,Basic education,2012,0.352
+Males,25 to 29 years,Upper secondary education,2012,0.403
+Males,25 to 29 years,Tertiary education,2012,0.245
+Males,25 to 29 years,Education unknown,2012,0.0
+Males,30 to 49 years,Basic education,2012,0.251
+Males,30 to 49 years,Upper secondary education,2012,0.425
+Males,30 to 49 years,Tertiary education,2012,0.324
+Males,30 to 49 years,Education unknown,2012,0.0
+Males,50 to 64 years,Basic education,2012,0.273
+Males,50 to 64 years,Upper secondary education,2012,0.475
+Males,50 to 64 years,Tertiary education,2012,0.25
+Males,50 to 64 years,Education unknown,2012,0.002
+Males,65 to 74 years,Basic education,2012,0.266
+Males,65 to 74 years,Upper secondary education,2012,0.542
+Males,65 to 74 years,Tertiary education,2012,0.191
+Males,65 to 74 years,Education unknown,2012,0.0
+Males,Capital region 16-74 years,Basic education,2012,0.315
+Males,Capital region 16-74 years,Upper secondary education,2012,0.412
+Males,Capital region 16-74 years,Tertiary education,2012,0.273
+Males,Capital region 16-74 years,Education unknown,2012,0.0
+Males,Other regions 16-74 years,Basic education,2012,0.404
+Males,Other regions 16-74 years,Upper secondary education,2012,0.448
+Males,Other regions 16-74 years,Tertiary education,2012,0.147
+Males,Other regions 16-74 years,Education unknown,2012,0.001
+Males,Capital region 25-64 years,Basic education,2012,0.242
+Males,Capital region 25-64 years,Upper secondary education,2012,0.411
+Males,Capital region 25-64 years,Tertiary education,2012,0.348
+Males,Capital region 25-64 years,Education unknown,2012,0.0
+Males,Other regions 25-64 years,Basic education,2012,0.323
+Males,Other regions 25-64 years,Upper secondary education,2012,0.489
+Males,Other regions 25-64 years,Tertiary education,2012,0.186
+Males,Other regions 25-64 years,Education unknown,2012,0.002
+Females,25 to 64 years,Basic education,2012,0.312
+Females,25 to 64 years,Upper secondary education,2012,0.274
+Females,25 to 64 years,Tertiary education,2012,0.412
+Females,25 to 64 years,Education unknown,2012,0.001
+Females,20 to 24 years,Basic education,2012,0.41
+Females,20 to 24 years,Upper secondary education,2012,0.554
+Females,20 to 24 years,Tertiary education,2012,0.036
+Females,20 to 24 years,Education unknown,2012,0.0
+Females,25 to 29 years,Basic education,2012,0.205
+Females,25 to 29 years,Upper secondary education,2012,0.372
+Females,25 to 29 years,Tertiary education,2012,0.423
+Females,25 to 29 years,Education unknown,2012,0.0
+Females,30 to 49 years,Basic education,2012,0.248
+Females,30 to 49 years,Upper secondary education,2012,0.255
+Females,30 to 49 years,Tertiary education,2012,0.495
+Females,30 to 49 years,Education unknown,2012,0.001
+Females,50 to 64 years,Basic education,2012,0.445
+Females,50 to 64 years,Upper secondary education,2012,0.268
+Females,50 to 64 years,Tertiary education,2012,0.285
+Females,50 to 64 years,Education unknown,2012,0.001
+Females,65 to 74 years,Basic education,2012,0.603
+Females,65 to 74 years,Upper secondary education,2012,0.234
+Females,65 to 74 years,Tertiary education,2012,0.163
+Females,65 to 74 years,Education unknown,2012,0.0
+Females,Capital region 16-74 years,Basic education,2012,0.35
+Females,Capital region 16-74 years,Upper secondary education,2012,0.296
+Females,Capital region 16-74 years,Tertiary education,2012,0.353
+Females,Capital region 16-74 years,Education unknown,2012,0.001
+Females,Other regions 16-74 years,Basic education,2012,0.5
+Females,Other regions 16-74 years,Upper secondary education,2012,0.248
+Females,Other regions 16-74 years,Tertiary education,2012,0.252
+Females,Other regions 16-74 years,Education unknown,2012,0.0
+Females,Capital region 25-64 years,Basic education,2012,0.249
+Females,Capital region 25-64 years,Upper secondary education,2012,0.282
+Females,Capital region 25-64 years,Tertiary education,2012,0.467
+Females,Capital region 25-64 years,Education unknown,2012,0.002
+Females,Other regions 25-64 years,Basic education,2012,0.424
+Females,Other regions 25-64 years,Upper secondary education,2012,0.26
+Females,Other regions 25-64 years,Tertiary education,2012,0.315
+Females,Other regions 25-64 years,Education unknown,2012,0.001
+Total,25 to 64 years,Basic education,2013,0.278
+Total,25 to 64 years,Upper secondary education,2013,0.36
+Total,25 to 64 years,Tertiary education,2013,0.36
+Total,25 to 64 years,Education unknown,2013,0.001
+Total,20 to 24 years,Basic education,2013,0.413
+Total,20 to 24 years,Upper secondary education,2013,0.548
+Total,20 to 24 years,Tertiary education,2013,0.039
+Total,20 to 24 years,Education unknown,2013,0.0
+Total,25 to 29 years,Basic education,2013,0.292
+Total,25 to 29 years,Upper secondary education,2013,0.355
+Total,25 to 29 years,Tertiary education,2013,0.353
+Total,25 to 29 years,Education unknown,2013,0.0
+Total,30 to 49 years,Basic education,2013,0.244
+Total,30 to 49 years,Upper secondary education,2013,0.34
+Total,30 to 49 years,Tertiary education,2013,0.415
+Total,30 to 49 years,Education unknown,2013,0.001
+Total,50 to 64 years,Basic education,2013,0.325
+Total,50 to 64 years,Upper secondary education,2013,0.392
+Total,50 to 64 years,Tertiary education,2013,0.282
+Total,50 to 64 years,Education unknown,2013,0.002
+Total,65 to 74 years,Basic education,2013,0.445
+Total,65 to 74 years,Upper secondary education,2013,0.367
+Total,65 to 74 years,Tertiary education,2013,0.188
+Total,65 to 74 years,Education unknown,2013,0.0
+Total,Capital region 16-74 years,Basic education,2013,0.316
+Total,Capital region 16-74 years,Upper secondary education,2013,0.356
+Total,Capital region 16-74 years,Tertiary education,2013,0.328
+Total,Capital region 16-74 years,Education unknown,2013,0.0
+Total,Other regions 16-74 years,Basic education,2013,0.449
+Total,Other regions 16-74 years,Upper secondary education,2013,0.352
+Total,Other regions 16-74 years,Tertiary education,2013,0.197
+Total,Other regions 16-74 years,Education unknown,2013,0.002
+Total,Capital region 25-64 years,Basic education,2013,0.231
+Total,Capital region 25-64 years,Upper secondary education,2013,0.346
+Total,Capital region 25-64 years,Tertiary education,2013,0.423
+Total,Capital region 25-64 years,Education unknown,2013,0.0
+Total,Other regions 25-64 years,Basic education,2013,0.363
+Total,Other regions 25-64 years,Upper secondary education,2013,0.386
+Total,Other regions 25-64 years,Tertiary education,2013,0.249
+Total,Other regions 25-64 years,Education unknown,2013,0.002
+Males,25 to 64 years,Basic education,2013,0.258
+Males,25 to 64 years,Upper secondary education,2013,0.443
+Males,25 to 64 years,Tertiary education,2013,0.297
+Males,25 to 64 years,Education unknown,2013,0.001
+Males,20 to 24 years,Basic education,2013,0.482
+Males,20 to 24 years,Upper secondary education,2013,0.472
+Males,20 to 24 years,Tertiary education,2013,0.047
+Males,20 to 24 years,Education unknown,2013,0.0
+Males,25 to 29 years,Basic education,2013,0.354
+Males,25 to 29 years,Upper secondary education,2013,0.379
+Males,25 to 29 years,Tertiary education,2013,0.267
+Males,25 to 29 years,Education unknown,2013,0.0
+Males,30 to 49 years,Basic education,2013,0.252
+Males,30 to 49 years,Upper secondary education,2013,0.407
+Males,30 to 49 years,Tertiary education,2013,0.341
+Males,30 to 49 years,Education unknown,2013,0.0
+Males,50 to 64 years,Basic education,2013,0.233
+Males,50 to 64 years,Upper secondary education,2013,0.521
+Males,50 to 64 years,Tertiary education,2013,0.243
+Males,50 to 64 years,Education unknown,2013,0.003
+Males,65 to 74 years,Basic education,2013,0.311
+Males,65 to 74 years,Upper secondary education,2013,0.48
+Males,65 to 74 years,Tertiary education,2013,0.209
+Males,65 to 74 years,Education unknown,2013,0.0
+Males,Capital region 16-74 years,Basic education,2013,0.309
+Males,Capital region 16-74 years,Upper secondary education,2013,0.403
+Males,Capital region 16-74 years,Tertiary education,2013,0.288
+Males,Capital region 16-74 years,Education unknown,2013,0.0
+Males,Other regions 16-74 years,Basic education,2013,0.407
+Males,Other regions 16-74 years,Upper secondary education,2013,0.442
+Males,Other regions 16-74 years,Tertiary education,2013,0.149
+Males,Other regions 16-74 years,Education unknown,2013,0.002
+Males,Capital region 25-64 years,Basic education,2013,0.225
+Males,Capital region 25-64 years,Upper secondary education,2013,0.414
+Males,Capital region 25-64 years,Tertiary education,2013,0.36
+Males,Capital region 25-64 years,Education unknown,2013,0.0
+Males,Other regions 25-64 years,Basic education,2013,0.315
+Males,Other regions 25-64 years,Upper secondary education,2013,0.494
+Males,Other regions 25-64 years,Tertiary education,2013,0.188
+Males,Other regions 25-64 years,Education unknown,2013,0.003
+Females,25 to 64 years,Basic education,2013,0.299
+Females,25 to 64 years,Upper secondary education,2013,0.276
+Females,25 to 64 years,Tertiary education,2013,0.424
+Females,25 to 64 years,Education unknown,2013,0.001
+Females,20 to 24 years,Basic education,2013,0.338
+Females,20 to 24 years,Upper secondary education,2013,0.632
+Females,20 to 24 years,Tertiary education,2013,0.03
+Females,20 to 24 years,Education unknown,2013,0.0
+Females,25 to 29 years,Basic education,2013,0.228
+Females,25 to 29 years,Upper secondary education,2013,0.33
+Females,25 to 29 years,Tertiary education,2013,0.442
+Females,25 to 29 years,Education unknown,2013,0.0
+Females,30 to 49 years,Basic education,2013,0.235
+Females,30 to 49 years,Upper secondary education,2013,0.273
+Females,30 to 49 years,Tertiary education,2013,0.491
+Females,30 to 49 years,Education unknown,2013,0.001
+Females,50 to 64 years,Basic education,2013,0.417
+Females,50 to 64 years,Upper secondary education,2013,0.263
+Females,50 to 64 years,Tertiary education,2013,0.32
+Females,50 to 64 years,Education unknown,2013,0.0
+Females,65 to 74 years,Basic education,2013,0.575
+Females,65 to 74 years,Upper secondary education,2013,0.257
+Females,65 to 74 years,Tertiary education,2013,0.167
+Females,65 to 74 years,Education unknown,2013,0.0
+Females,Capital region 16-74 years,Basic education,2013,0.322
+Females,Capital region 16-74 years,Upper secondary education,2013,0.31
+Females,Capital region 16-74 years,Tertiary education,2013,0.368
+Females,Capital region 16-74 years,Education unknown,2013,0.0
+Females,Other regions 16-74 years,Basic education,2013,0.494
+Females,Other regions 16-74 years,Upper secondary education,2013,0.257
+Females,Other regions 16-74 years,Tertiary education,2013,0.248
+Females,Other regions 16-74 years,Education unknown,2013,0.001
+Females,Capital region 25-64 years,Basic education,2013,0.236
+Females,Capital region 25-64 years,Upper secondary education,2013,0.278
+Females,Capital region 25-64 years,Tertiary education,2013,0.485
+Females,Capital region 25-64 years,Education unknown,2013,0.0
+Females,Other regions 25-64 years,Basic education,2013,0.413
+Females,Other regions 25-64 years,Upper secondary education,2013,0.273
+Females,Other regions 25-64 years,Tertiary education,2013,0.313
+Females,Other regions 25-64 years,Education unknown,2013,0.001
+Total,25 to 64 years,Basic education,2014,0.269
+Total,25 to 64 years,Upper secondary education,2014,0.359
+Total,25 to 64 years,Tertiary education,2014,0.371
+Total,25 to 64 years,Education unknown,2014,0.001
+Total,20 to 24 years,Basic education,2014,0.391
+Total,20 to 24 years,Upper secondary education,2014,0.576
+Total,20 to 24 years,Tertiary education,2014,0.034
+Total,20 to 24 years,Education unknown,2014,0.0
+Total,25 to 29 years,Basic education,2014,0.277
+Total,25 to 29 years,Upper secondary education,2014,0.376
+Total,25 to 29 years,Tertiary education,2014,0.347
+Total,25 to 29 years,Education unknown,2014,0.0
+Total,30 to 49 years,Basic education,2014,0.243
+Total,30 to 49 years,Upper secondary education,2014,0.338
+Total,30 to 49 years,Tertiary education,2014,0.419
+Total,30 to 49 years,Education unknown,2014,0.0
+Total,50 to 64 years,Basic education,2014,0.303
+Total,50 to 64 years,Upper secondary education,2014,0.384
+Total,50 to 64 years,Tertiary education,2014,0.311
+Total,50 to 64 years,Education unknown,2014,0.002
+Total,65 to 74 years,Basic education,2014,0.458
+Total,65 to 74 years,Upper secondary education,2014,0.348
+Total,65 to 74 years,Tertiary education,2014,0.193
+Total,65 to 74 years,Education unknown,2014,0.0
+Total,Capital region 16-74 years,Basic education,2014,0.305
+Total,Capital region 16-74 years,Upper secondary education,2014,0.35
+Total,Capital region 16-74 years,Tertiary education,2014,0.345
+Total,Capital region 16-74 years,Education unknown,2014,0.0
+Total,Other regions 16-74 years,Basic education,2014,0.44
+Total,Other regions 16-74 years,Upper secondary education,2014,0.37
+Total,Other regions 16-74 years,Tertiary education,2014,0.189
+Total,Other regions 16-74 years,Education unknown,2014,0.001
+Total,Capital region 25-64 years,Basic education,2014,0.221
+Total,Capital region 25-64 years,Upper secondary education,2014,0.336
+Total,Capital region 25-64 years,Tertiary education,2014,0.442
+Total,Capital region 25-64 years,Education unknown,2014,0.001
+Total,Other regions 25-64 years,Basic education,2014,0.355
+Total,Other regions 25-64 years,Upper secondary education,2014,0.401
+Total,Other regions 25-64 years,Tertiary education,2014,0.242
+Total,Other regions 25-64 years,Education unknown,2014,0.001
+Males,25 to 64 years,Basic education,2014,0.26
+Males,25 to 64 years,Upper secondary education,2014,0.43
+Males,25 to 64 years,Tertiary education,2014,0.309
+Males,25 to 64 years,Education unknown,2014,0.001
+Males,20 to 24 years,Basic education,2014,0.479
+Males,20 to 24 years,Upper secondary education,2014,0.489
+Males,20 to 24 years,Tertiary education,2014,0.033
+Males,20 to 24 years,Education unknown,2014,0.0
+Males,25 to 29 years,Basic education,2014,0.35
+Males,25 to 29 years,Upper secondary education,2014,0.367
+Males,25 to 29 years,Tertiary education,2014,0.283
+Males,25 to 29 years,Education unknown,2014,0.0
+Males,30 to 49 years,Basic education,2014,0.256
+Males,30 to 49 years,Upper secondary education,2014,0.403
+Males,30 to 49 years,Tertiary education,2014,0.341
+Males,30 to 49 years,Education unknown,2014,0.0
+Males,50 to 64 years,Basic education,2014,0.234
+Males,50 to 64 years,Upper secondary education,2014,0.491
+Males,50 to 64 years,Tertiary education,2014,0.271
+Males,50 to 64 years,Education unknown,2014,0.004
+Males,65 to 74 years,Basic education,2014,0.315
+Males,65 to 74 years,Upper secondary education,2014,0.482
+Males,65 to 74 years,Tertiary education,2014,0.202
+Males,65 to 74 years,Education unknown,2014,0.0
+Males,Capital region 16-74 years,Basic education,2014,0.305
+Males,Capital region 16-74 years,Upper secondary education,2014,0.391
+Males,Capital region 16-74 years,Tertiary education,2014,0.303
+Males,Capital region 16-74 years,Education unknown,2014,0.001
+Males,Other regions 16-74 years,Basic education,2014,0.409
+Males,Other regions 16-74 years,Upper secondary education,2014,0.446
+Males,Other regions 16-74 years,Tertiary education,2014,0.144
+Males,Other regions 16-74 years,Education unknown,2014,0.001
+Males,Capital region 25-64 years,Basic education,2014,0.223
+Males,Capital region 25-64 years,Upper secondary education,2014,0.393
+Males,Capital region 25-64 years,Tertiary education,2014,0.383
+Males,Capital region 25-64 years,Education unknown,2014,0.001
+Males,Other regions 25-64 years,Basic education,2014,0.324
+Males,Other regions 25-64 years,Upper secondary education,2014,0.494
+Males,Other regions 25-64 years,Tertiary education,2014,0.18
+Males,Other regions 25-64 years,Education unknown,2014,0.001
+Females,25 to 64 years,Basic education,2014,0.277
+Females,25 to 64 years,Upper secondary education,2014,0.288
+Females,25 to 64 years,Tertiary education,2014,0.434
+Females,25 to 64 years,Education unknown,2014,0.0
+Females,20 to 24 years,Basic education,2014,0.299
+Females,20 to 24 years,Upper secondary education,2014,0.666
+Females,20 to 24 years,Tertiary education,2014,0.035
+Females,20 to 24 years,Education unknown,2014,0.0
+Females,25 to 29 years,Basic education,2014,0.201
+Females,25 to 29 years,Upper secondary education,2014,0.385
+Females,25 to 29 years,Tertiary education,2014,0.414
+Females,25 to 29 years,Education unknown,2014,0.0
+Females,30 to 49 years,Basic education,2014,0.229
+Females,30 to 49 years,Upper secondary education,2014,0.274
+Females,30 to 49 years,Tertiary education,2014,0.496
+Females,30 to 49 years,Education unknown,2014,0.001
+Females,50 to 64 years,Basic education,2014,0.373
+Females,50 to 64 years,Upper secondary education,2014,0.276
+Females,50 to 64 years,Tertiary education,2014,0.35
+Females,50 to 64 years,Education unknown,2014,0.0
+Females,65 to 74 years,Basic education,2014,0.598
+Females,65 to 74 years,Upper secondary education,2014,0.218
+Females,65 to 74 years,Tertiary education,2014,0.185
+Females,65 to 74 years,Education unknown,2014,0.0
+Females,Capital region 16-74 years,Basic education,2014,0.305
+Females,Capital region 16-74 years,Upper secondary education,2014,0.31
+Females,Capital region 16-74 years,Tertiary education,2014,0.385
+Females,Capital region 16-74 years,Education unknown,2014,0.0
+Females,Other regions 16-74 years,Basic education,2014,0.475
+Females,Other regions 16-74 years,Upper secondary education,2014,0.287
+Females,Other regions 16-74 years,Tertiary education,2014,0.237
+Females,Other regions 16-74 years,Education unknown,2014,0.001
+Females,Capital region 25-64 years,Basic education,2014,0.219
+Females,Capital region 25-64 years,Upper secondary education,2014,0.281
+Females,Capital region 25-64 years,Tertiary education,2014,0.501
+Females,Capital region 25-64 years,Education unknown,2014,0.0
+Females,Other regions 25-64 years,Basic education,2014,0.388
+Females,Other regions 25-64 years,Upper secondary education,2014,0.303
+Females,Other regions 25-64 years,Tertiary education,2014,0.308
+Females,Other regions 25-64 years,Education unknown,2014,0.001
+Total,25 to 64 years,Basic education,2015,0.254
+Total,25 to 64 years,Upper secondary education,2015,0.359
+Total,25 to 64 years,Tertiary education,2015,0.387
+Total,25 to 64 years,Education unknown,2015,0.0
+Total,20 to 24 years,Basic education,2015,0.377
+Total,20 to 24 years,Upper secondary education,2015,0.59
+Total,20 to 24 years,Tertiary education,2015,0.033
+Total,20 to 24 years,Education unknown,2015,0.001
+Total,25 to 29 years,Basic education,2015,0.27
+Total,25 to 29 years,Upper secondary education,2015,0.394
+Total,25 to 29 years,Tertiary education,2015,0.336
+Total,25 to 29 years,Education unknown,2015,0.0
+Total,30 to 49 years,Basic education,2015,0.22
+Total,30 to 49 years,Upper secondary education,2015,0.336
+Total,30 to 49 years,Tertiary education,2015,0.444
+Total,30 to 49 years,Education unknown,2015,0.0
+Total,50 to 64 years,Basic education,2015,0.295
+Total,50 to 64 years,Upper secondary education,2015,0.381
+Total,50 to 64 years,Tertiary education,2015,0.323
+Total,50 to 64 years,Education unknown,2015,0.001
+Total,65 to 74 years,Basic education,2015,0.446
+Total,65 to 74 years,Upper secondary education,2015,0.357
+Total,65 to 74 years,Tertiary education,2015,0.196
+Total,65 to 74 years,Education unknown,2015,0.0
+Total,Capital region 16-74 years,Basic education,2015,0.287
+Total,Capital region 16-74 years,Upper secondary education,2015,0.352
+Total,Capital region 16-74 years,Tertiary education,2015,0.361
+Total,Capital region 16-74 years,Education unknown,2015,0.001
+Total,Other regions 16-74 years,Basic education,2015,0.435
+Total,Other regions 16-74 years,Upper secondary education,2015,0.369
+Total,Other regions 16-74 years,Tertiary education,2015,0.197
+Total,Other regions 16-74 years,Education unknown,2015,0.0
+Total,Capital region 25-64 years,Basic education,2015,0.198
+Total,Capital region 25-64 years,Upper secondary education,2015,0.338
+Total,Capital region 25-64 years,Tertiary education,2015,0.463
+Total,Capital region 25-64 years,Education unknown,2015,0.001
+Total,Other regions 25-64 years,Basic education,2015,0.351
+Total,Other regions 25-64 years,Upper secondary education,2015,0.397
+Total,Other regions 25-64 years,Tertiary education,2015,0.251
+Total,Other regions 25-64 years,Education unknown,2015,0.0
+Males,25 to 64 years,Basic education,2015,0.255
+Males,25 to 64 years,Upper secondary education,2015,0.431
+Males,25 to 64 years,Tertiary education,2015,0.313
+Males,25 to 64 years,Education unknown,2015,0.001
+Males,20 to 24 years,Basic education,2015,0.455
+Males,20 to 24 years,Upper secondary education,2015,0.514
+Males,20 to 24 years,Tertiary education,2015,0.029
+Males,20 to 24 years,Education unknown,2015,0.002
+Males,25 to 29 years,Basic education,2015,0.354
+Males,25 to 29 years,Upper secondary education,2015,0.389
+Males,25 to 29 years,Tertiary education,2015,0.257
+Males,25 to 29 years,Education unknown,2015,0.0
+Males,30 to 49 years,Basic education,2015,0.246
+Males,30 to 49 years,Upper secondary education,2015,0.409
+Males,30 to 49 years,Tertiary education,2015,0.345
+Males,30 to 49 years,Education unknown,2015,0.0
+Males,50 to 64 years,Basic education,2015,0.232
+Males,50 to 64 years,Upper secondary education,2015,0.479
+Males,50 to 64 years,Tertiary education,2015,0.287
+Males,50 to 64 years,Education unknown,2015,0.002
+Males,65 to 74 years,Basic education,2015,0.307
+Males,65 to 74 years,Upper secondary education,2015,0.489
+Males,65 to 74 years,Tertiary education,2015,0.204
+Males,65 to 74 years,Education unknown,2015,0.0
+Males,Capital region 16-74 years,Basic education,2015,0.291
+Males,Capital region 16-74 years,Upper secondary education,2015,0.396
+Males,Capital region 16-74 years,Tertiary education,2015,0.313
+Males,Capital region 16-74 years,Education unknown,2015,0.001
+Males,Other regions 16-74 years,Basic education,2015,0.407
+Males,Other regions 16-74 years,Upper secondary education,2015,0.45
+Males,Other regions 16-74 years,Tertiary education,2015,0.143
+Males,Other regions 16-74 years,Education unknown,2015,0.0
+Males,Capital region 25-64 years,Basic education,2015,0.211
+Males,Capital region 25-64 years,Upper secondary education,2015,0.393
+Males,Capital region 25-64 years,Tertiary education,2015,0.395
+Males,Capital region 25-64 years,Education unknown,2015,0.001
+Males,Other regions 25-64 years,Basic education,2015,0.329
+Males,Other regions 25-64 years,Upper secondary education,2015,0.494
+Males,Other regions 25-64 years,Tertiary education,2015,0.177
+Males,Other regions 25-64 years,Education unknown,2015,0.0
+Females,25 to 64 years,Basic education,2015,0.252
+Females,25 to 64 years,Upper secondary education,2015,0.287
+Females,25 to 64 years,Tertiary education,2015,0.462
+Females,25 to 64 years,Education unknown,2015,0.0
+Females,20 to 24 years,Basic education,2015,0.296
+Females,20 to 24 years,Upper secondary education,2015,0.668
+Females,20 to 24 years,Tertiary education,2015,0.036
+Females,20 to 24 years,Education unknown,2015,0.0
+Females,25 to 29 years,Basic education,2015,0.181
+Females,25 to 29 years,Upper secondary education,2015,0.4
+Females,25 to 29 years,Tertiary education,2015,0.419
+Females,25 to 29 years,Education unknown,2015,0.0
+Females,30 to 49 years,Basic education,2015,0.194
+Females,30 to 49 years,Upper secondary education,2015,0.262
+Females,30 to 49 years,Tertiary education,2015,0.544
+Females,30 to 49 years,Education unknown,2015,0.0
+Females,50 to 64 years,Basic education,2015,0.358
+Females,50 to 64 years,Upper secondary education,2015,0.282
+Females,50 to 64 years,Tertiary education,2015,0.36
+Females,50 to 64 years,Education unknown,2015,0.0
+Females,65 to 74 years,Basic education,2015,0.583
+Females,65 to 74 years,Upper secondary education,2015,0.228
+Females,65 to 74 years,Tertiary education,2015,0.189
+Females,65 to 74 years,Education unknown,2015,0.0
+Females,Capital region 16-74 years,Basic education,2015,0.284
+Females,Capital region 16-74 years,Upper secondary education,2015,0.31
+Females,Capital region 16-74 years,Tertiary education,2015,0.406
+Females,Capital region 16-74 years,Education unknown,2015,0.0
+Females,Other regions 16-74 years,Basic education,2015,0.466
+Females,Other regions 16-74 years,Upper secondary education,2015,0.277
+Females,Other regions 16-74 years,Tertiary education,2015,0.257
+Females,Other regions 16-74 years,Education unknown,2015,0.0
+Females,Capital region 25-64 years,Basic education,2015,0.186
+Females,Capital region 25-64 years,Upper secondary education,2015,0.285
+Females,Capital region 25-64 years,Tertiary education,2015,0.529
+Females,Capital region 25-64 years,Education unknown,2015,0.0
+Females,Other regions 25-64 years,Basic education,2015,0.376
+Females,Other regions 25-64 years,Upper secondary education,2015,0.29
+Females,Other regions 25-64 years,Tertiary education,2015,0.333
+Females,Other regions 25-64 years,Education unknown,2015,0.0
+Total,25 to 64 years,Basic education,2016,0.22
+Total,25 to 64 years,Upper secondary education,2016,0.376
+Total,25 to 64 years,Tertiary education,2016,0.404
+Total,25 to 64 years,Education unknown,2016,0.0
+Total,20 to 24 years,Basic education,2016,0.347
+Total,20 to 24 years,Upper secondary education,2016,0.598
+Total,20 to 24 years,Tertiary education,2016,0.055
+Total,20 to 24 years,Education unknown,2016,0.0
+Total,25 to 29 years,Basic education,2016,0.243
+Total,25 to 29 years,Upper secondary education,2016,0.373
+Total,25 to 29 years,Tertiary education,2016,0.384
+Total,25 to 29 years,Education unknown,2016,0.0
+Total,30 to 49 years,Basic education,2016,0.182
+Total,30 to 49 years,Upper secondary education,2016,0.348
+Total,30 to 49 years,Tertiary education,2016,0.47
+Total,30 to 49 years,Education unknown,2016,0.0
+Total,50 to 64 years,Basic education,2016,0.265
+Total,50 to 64 years,Upper secondary education,2016,0.415
+Total,50 to 64 years,Tertiary education,2016,0.319
+Total,50 to 64 years,Education unknown,2016,0.0
+Total,65 to 74 years,Basic education,2016,0.375
+Total,65 to 74 years,Upper secondary education,2016,0.418
+Total,65 to 74 years,Tertiary education,2016,0.207
+Total,65 to 74 years,Education unknown,2016,0.0
+Total,Capital region 16-74 years,Basic education,2016,0.246
+Total,Capital region 16-74 years,Upper secondary education,2016,0.382
+Total,Capital region 16-74 years,Tertiary education,2016,0.372
+Total,Capital region 16-74 years,Education unknown,2016,0.0
+Total,Other regions 16-74 years,Basic education,2016,0.403
+Total,Other regions 16-74 years,Upper secondary education,2016,0.372
+Total,Other regions 16-74 years,Tertiary education,2016,0.225
+Total,Other regions 16-74 years,Education unknown,2016,0.0
+Total,Capital region 25-64 years,Basic education,2016,0.158
+Total,Capital region 25-64 years,Upper secondary education,2016,0.368
+Total,Capital region 25-64 years,Tertiary education,2016,0.474
+Total,Capital region 25-64 years,Education unknown,2016,0.0
+Total,Other regions 25-64 years,Basic education,2016,0.327
+Total,Other regions 25-64 years,Upper secondary education,2016,0.388
+Total,Other regions 25-64 years,Tertiary education,2016,0.285
+Total,Other regions 25-64 years,Education unknown,2016,0.0
+Males,25 to 64 years,Basic education,2016,0.223
+Males,25 to 64 years,Upper secondary education,2016,0.448
+Males,25 to 64 years,Tertiary education,2016,0.329
+Males,25 to 64 years,Education unknown,2016,0.0
+Males,20 to 24 years,Basic education,2016,0.42
+Males,20 to 24 years,Upper secondary education,2016,0.538
+Males,20 to 24 years,Tertiary education,2016,0.041
+Males,20 to 24 years,Education unknown,2016,0.0
+Males,25 to 29 years,Basic education,2016,0.319
+Males,25 to 29 years,Upper secondary education,2016,0.397
+Males,25 to 29 years,Tertiary education,2016,0.284
+Males,25 to 29 years,Education unknown,2016,0.0
+Males,30 to 49 years,Basic education,2016,0.203
+Males,30 to 49 years,Upper secondary education,2016,0.412
+Males,30 to 49 years,Tertiary education,2016,0.385
+Males,30 to 49 years,Education unknown,2016,0.0
+Males,50 to 64 years,Basic education,2016,0.215
+Males,50 to 64 years,Upper secondary education,2016,0.521
+Males,50 to 64 years,Tertiary education,2016,0.264
+Males,50 to 64 years,Education unknown,2016,0.0
+Males,65 to 74 years,Basic education,2016,0.24
+Males,65 to 74 years,Upper secondary education,2016,0.54
+Males,65 to 74 years,Tertiary education,2016,0.22
+Males,65 to 74 years,Education unknown,2016,0.0
+Males,Capital region 16-74 years,Basic education,2016,0.244
+Males,Capital region 16-74 years,Upper secondary education,2016,0.427
+Males,Capital region 16-74 years,Tertiary education,2016,0.329
+Males,Capital region 16-74 years,Education unknown,2016,0.0
+Males,Other regions 16-74 years,Basic education,2016,0.393
+Males,Other regions 16-74 years,Upper secondary education,2016,0.457
+Males,Other regions 16-74 years,Tertiary education,2016,0.15
+Males,Other regions 16-74 years,Education unknown,2016,0.0
+Males,Capital region 25-64 years,Basic education,2016,0.162
+Males,Capital region 25-64 years,Upper secondary education,2016,0.428
+Males,Capital region 25-64 years,Tertiary education,2016,0.41
+Males,Capital region 25-64 years,Education unknown,2016,0.0
+Males,Other regions 25-64 years,Basic education,2016,0.329
+Males,Other regions 25-64 years,Upper secondary education,2016,0.483
+Males,Other regions 25-64 years,Tertiary education,2016,0.188
+Males,Other regions 25-64 years,Education unknown,2016,0.0
+Females,25 to 64 years,Basic education,2016,0.217
+Females,25 to 64 years,Upper secondary education,2016,0.301
+Females,25 to 64 years,Tertiary education,2016,0.482
+Females,25 to 64 years,Education unknown,2016,0.0
+Females,20 to 24 years,Basic education,2016,0.265
+Females,20 to 24 years,Upper secondary education,2016,0.666
+Females,20 to 24 years,Tertiary education,2016,0.069
+Females,20 to 24 years,Education unknown,2016,0.0
+Females,25 to 29 years,Basic education,2016,0.161
+Females,25 to 29 years,Upper secondary education,2016,0.348
+Females,25 to 29 years,Tertiary education,2016,0.491
+Females,25 to 29 years,Education unknown,2016,0.0
+Females,30 to 49 years,Basic education,2016,0.16
+Females,30 to 49 years,Upper secondary education,2016,0.282
+Females,30 to 49 years,Tertiary education,2016,0.559
+Females,30 to 49 years,Education unknown,2016,0.0
+Females,50 to 64 years,Basic education,2016,0.316
+Females,50 to 64 years,Upper secondary education,2016,0.311
+Females,50 to 64 years,Tertiary education,2016,0.373
+Females,50 to 64 years,Education unknown,2016,0.0
+Females,65 to 74 years,Basic education,2016,0.511
+Females,65 to 74 years,Upper secondary education,2016,0.296
+Females,65 to 74 years,Tertiary education,2016,0.193
+Females,65 to 74 years,Education unknown,2016,0.0
+Females,Capital region 16-74 years,Basic education,2016,0.248
+Females,Capital region 16-74 years,Upper secondary education,2016,0.336
+Females,Capital region 16-74 years,Tertiary education,2016,0.416
+Females,Capital region 16-74 years,Education unknown,2016,0.0
+Females,Other regions 16-74 years,Basic education,2016,0.414
+Females,Other regions 16-74 years,Upper secondary education,2016,0.282
+Females,Other regions 16-74 years,Tertiary education,2016,0.304
+Females,Other regions 16-74 years,Education unknown,2016,0.0
+Females,Capital region 25-64 years,Basic education,2016,0.154
+Females,Capital region 25-64 years,Upper secondary education,2016,0.307
+Females,Capital region 25-64 years,Tertiary education,2016,0.538
+Females,Capital region 25-64 years,Education unknown,2016,0.0
+Females,Other regions 25-64 years,Basic education,2016,0.324
+Females,Other regions 25-64 years,Upper secondary education,2016,0.291
+Females,Other regions 25-64 years,Tertiary education,2016,0.385
+Females,Other regions 25-64 years,Education unknown,2016,0.0
+Total,25 to 64 years,Basic education,2017,0.228
+Total,25 to 64 years,Upper secondary education,2017,0.348
+Total,25 to 64 years,Tertiary education,2017,0.424
+Total,25 to 64 years,Education unknown,2017,0.0
+Total,20 to 24 years,Basic education,2017,0.349
+Total,20 to 24 years,Upper secondary education,2017,0.585
+Total,20 to 24 years,Tertiary education,2017,0.066
+Total,20 to 24 years,Education unknown,2017,0.0
+Total,25 to 29 years,Basic education,2017,0.219
+Total,25 to 29 years,Upper secondary education,2017,0.364
+Total,25 to 29 years,Tertiary education,2017,0.418
+Total,25 to 29 years,Education unknown,2017,0.0
+Total,30 to 49 years,Basic education,2017,0.194
+Total,30 to 49 years,Upper secondary education,2017,0.316
+Total,30 to 49 years,Tertiary education,2017,0.49
+Total,30 to 49 years,Education unknown,2017,0.0
+Total,50 to 64 years,Basic education,2017,0.282
+Total,50 to 64 years,Upper secondary education,2017,0.386
+Total,50 to 64 years,Tertiary education,2017,0.333
+Total,50 to 64 years,Education unknown,2017,0.0
+Total,65 to 74 years,Basic education,2017,0.396
+Total,65 to 74 years,Upper secondary education,2017,0.392
+Total,65 to 74 years,Tertiary education,2017,0.211
+Total,65 to 74 years,Education unknown,2017,0.001
+Total,Capital region 16-74 years,Basic education,2017,0.258
+Total,Capital region 16-74 years,Upper secondary education,2017,0.35
+Total,Capital region 16-74 years,Tertiary education,2017,0.391
+Total,Capital region 16-74 years,Education unknown,2017,0.0
+Total,Other regions 16-74 years,Basic education,2017,0.399
+Total,Other regions 16-74 years,Upper secondary education,2017,0.363
+Total,Other regions 16-74 years,Tertiary education,2017,0.237
+Total,Other regions 16-74 years,Education unknown,2017,0.0
+Total,Capital region 25-64 years,Basic education,2017,0.175
+Total,Capital region 25-64 years,Upper secondary education,2017,0.329
+Total,Capital region 25-64 years,Tertiary education,2017,0.496
+Total,Capital region 25-64 years,Education unknown,2017,0.0
+Total,Other regions 25-64 years,Basic education,2017,0.319
+Total,Other regions 25-64 years,Upper secondary education,2017,0.379
+Total,Other regions 25-64 years,Tertiary education,2017,0.302
+Total,Other regions 25-64 years,Education unknown,2017,0.0
+Males,25 to 64 years,Basic education,2017,0.232
+Males,25 to 64 years,Upper secondary education,2017,0.422
+Males,25 to 64 years,Tertiary education,2017,0.347
+Males,25 to 64 years,Education unknown,2017,0.0
+Males,20 to 24 years,Basic education,2017,0.411
+Males,20 to 24 years,Upper secondary education,2017,0.544
+Males,20 to 24 years,Tertiary education,2017,0.044
+Males,20 to 24 years,Education unknown,2017,0.0
+Males,25 to 29 years,Basic education,2017,0.262
+Males,25 to 29 years,Upper secondary education,2017,0.386
+Males,25 to 29 years,Tertiary education,2017,0.352
+Males,25 to 29 years,Education unknown,2017,0.0
+Males,30 to 49 years,Basic education,2017,0.222
+Males,30 to 49 years,Upper secondary education,2017,0.389
+Males,30 to 49 years,Tertiary education,2017,0.389
+Males,30 to 49 years,Education unknown,2017,0.0
+Males,50 to 64 years,Basic education,2017,0.233
+Males,50 to 64 years,Upper secondary education,2017,0.485
+Males,50 to 64 years,Tertiary education,2017,0.282
+Males,50 to 64 years,Education unknown,2017,0.0
+Males,65 to 74 years,Basic education,2017,0.279
+Males,65 to 74 years,Upper secondary education,2017,0.511
+Males,65 to 74 years,Tertiary education,2017,0.211
+Males,65 to 74 years,Education unknown,2017,0.0
+Males,Capital region 16-74 years,Basic education,2017,0.252
+Males,Capital region 16-74 years,Upper secondary education,2017,0.403
+Males,Capital region 16-74 years,Tertiary education,2017,0.345
+Males,Capital region 16-74 years,Education unknown,2017,0.0
+Males,Other regions 16-74 years,Basic education,2017,0.399
+Males,Other regions 16-74 years,Upper secondary education,2017,0.445
+Males,Other regions 16-74 years,Tertiary education,2017,0.157
+Males,Other regions 16-74 years,Education unknown,2017,0.0
+Males,Capital region 25-64 years,Basic education,2017,0.172
+Males,Capital region 25-64 years,Upper secondary education,2017,0.395
+Males,Capital region 25-64 years,Tertiary education,2017,0.433
+Males,Capital region 25-64 years,Education unknown,2017,0.0
+Males,Other regions 25-64 years,Basic education,2017,0.337
+Males,Other regions 25-64 years,Upper secondary education,2017,0.468
+Males,Other regions 25-64 years,Tertiary education,2017,0.195
+Males,Other regions 25-64 years,Education unknown,2017,0.0
+Females,25 to 64 years,Basic education,2017,0.225
+Females,25 to 64 years,Upper secondary education,2017,0.27
+Females,25 to 64 years,Tertiary education,2017,0.505
+Females,25 to 64 years,Education unknown,2017,0.0
+Females,20 to 24 years,Basic education,2017,0.278
+Females,20 to 24 years,Upper secondary education,2017,0.631
+Females,20 to 24 years,Tertiary education,2017,0.091
+Females,20 to 24 years,Education unknown,2017,0.0
+Females,25 to 29 years,Basic education,2017,0.171
+Females,25 to 29 years,Upper secondary education,2017,0.339
+Females,25 to 29 years,Tertiary education,2017,0.49
+Females,25 to 29 years,Education unknown,2017,0.0
+Females,30 to 49 years,Basic education,2017,0.163
+Females,30 to 49 years,Upper secondary education,2017,0.239
+Females,30 to 49 years,Tertiary education,2017,0.599
+Females,30 to 49 years,Education unknown,2017,0.0
+Females,50 to 64 years,Basic education,2017,0.331
+Females,50 to 64 years,Upper secondary education,2017,0.286
+Females,50 to 64 years,Tertiary education,2017,0.383
+Females,50 to 64 years,Education unknown,2017,0.0
+Females,65 to 74 years,Basic education,2017,0.513
+Females,65 to 74 years,Upper secondary education,2017,0.274
+Females,65 to 74 years,Tertiary education,2017,0.211
+Females,65 to 74 years,Education unknown,2017,0.003
+Females,Capital region 16-74 years,Basic education,2017,0.265
+Females,Capital region 16-74 years,Upper secondary education,2017,0.295
+Females,Capital region 16-74 years,Tertiary education,2017,0.44
+Females,Capital region 16-74 years,Education unknown,2017,0.0
+Females,Other regions 16-74 years,Basic education,2017,0.4
+Females,Other regions 16-74 years,Upper secondary education,2017,0.278
+Females,Other regions 16-74 years,Tertiary education,2017,0.321
+Females,Other regions 16-74 years,Education unknown,2017,0.001
+Females,Capital region 25-64 years,Basic education,2017,0.179
+Females,Capital region 25-64 years,Upper secondary education,2017,0.257
+Females,Capital region 25-64 years,Tertiary education,2017,0.564
+Females,Capital region 25-64 years,Education unknown,2017,0.0
+Females,Other regions 25-64 years,Basic education,2017,0.301
+Females,Other regions 25-64 years,Upper secondary education,2017,0.29
+Females,Other regions 25-64 years,Tertiary education,2017,0.41
+Females,Other regions 25-64 years,Education unknown,2017,0.0
+Total,25 to 64 years,Basic education,2018,0.221
+Total,25 to 64 years,Upper secondary education,2018,0.341
+Total,25 to 64 years,Tertiary education,2018,0.438
+Total,25 to 64 years,Education unknown,2018,0.0
+Total,20 to 24 years,Basic education,2018,0.385
+Total,20 to 24 years,Upper secondary education,2018,0.565
+Total,20 to 24 years,Tertiary education,2018,0.05
+Total,20 to 24 years,Education unknown,2018,0.0
+Total,25 to 29 years,Basic education,2018,0.204
+Total,25 to 29 years,Upper secondary education,2018,0.369
+Total,25 to 29 years,Tertiary education,2018,0.427
+Total,25 to 29 years,Education unknown,2018,0.0
+Total,30 to 49 years,Basic education,2018,0.188
+Total,30 to 49 years,Upper secondary education,2018,0.306
+Total,30 to 49 years,Tertiary education,2018,0.506
+Total,30 to 49 years,Education unknown,2018,0.0
+Total,50 to 64 years,Basic education,2018,0.277
+Total,50 to 64 years,Upper secondary education,2018,0.382
+Total,50 to 64 years,Tertiary education,2018,0.341
+Total,50 to 64 years,Education unknown,2018,0.0
+Total,65 to 74 years,Basic education,2018,0.393
+Total,65 to 74 years,Upper secondary education,2018,0.355
+Total,65 to 74 years,Tertiary education,2018,0.253
+Total,65 to 74 years,Education unknown,2018,0.0
+Total,Capital region 16-74 years,Basic education,2018,0.25
+Total,Capital region 16-74 years,Upper secondary education,2018,0.334
+Total,Capital region 16-74 years,Tertiary education,2018,0.416
+Total,Capital region 16-74 years,Education unknown,2018,0.0
+Total,Other regions 16-74 years,Basic education,2018,0.401
+Total,Other regions 16-74 years,Upper secondary education,2018,0.367
+Total,Other regions 16-74 years,Tertiary education,2018,0.233
+Total,Other regions 16-74 years,Education unknown,2018,0.0
+Total,Capital region 25-64 years,Basic education,2018,0.165
+Total,Capital region 25-64 years,Upper secondary education,2018,0.315
+Total,Capital region 25-64 years,Tertiary education,2018,0.519
+Total,Capital region 25-64 years,Education unknown,2018,0.0
+Total,Other regions 25-64 years,Basic education,2018,0.322
+Total,Other regions 25-64 years,Upper secondary education,2018,0.387
+Total,Other regions 25-64 years,Tertiary education,2018,0.291
+Total,Other regions 25-64 years,Education unknown,2018,0.0
+Males,25 to 64 years,Basic education,2018,0.239
+Males,25 to 64 years,Upper secondary education,2018,0.409
+Males,25 to 64 years,Tertiary education,2018,0.353
+Males,25 to 64 years,Education unknown,2018,0.0
+Males,20 to 24 years,Basic education,2018,0.463
+Males,20 to 24 years,Upper secondary education,2018,0.501
+Males,20 to 24 years,Tertiary education,2018,0.036
+Males,20 to 24 years,Education unknown,2018,0.0
+Males,25 to 29 years,Basic education,2018,0.238
+Males,25 to 29 years,Upper secondary education,2018,0.394
+Males,25 to 29 years,Tertiary education,2018,0.368
+Males,25 to 29 years,Education unknown,2018,0.0
+Males,30 to 49 years,Basic education,2018,0.228
+Males,30 to 49 years,Upper secondary education,2018,0.373
+Males,30 to 49 years,Tertiary education,2018,0.399
+Males,30 to 49 years,Education unknown,2018,0.0
+Males,50 to 64 years,Basic education,2018,0.255
+Males,50 to 64 years,Upper secondary education,2018,0.469
+Males,50 to 64 years,Tertiary education,2018,0.275
+Males,50 to 64 years,Education unknown,2018,0.0
+Males,65 to 74 years,Basic education,2018,0.27
+Males,65 to 74 years,Upper secondary education,2018,0.481
+Males,65 to 74 years,Tertiary education,2018,0.249
+Males,65 to 74 years,Education unknown,2018,0.0
+Males,Capital region 16-74 years,Basic education,2018,0.255
+Males,Capital region 16-74 years,Upper secondary education,2018,0.383
+Males,Capital region 16-74 years,Tertiary education,2018,0.362
+Males,Capital region 16-74 years,Education unknown,2018,0.0
+Males,Other regions 16-74 years,Basic education,2018,0.401
+Males,Other regions 16-74 years,Upper secondary education,2018,0.44
+Males,Other regions 16-74 years,Tertiary education,2018,0.159
+Males,Other regions 16-74 years,Education unknown,2018,0.0
+Males,Capital region 25-64 years,Basic education,2018,0.181
+Males,Capital region 25-64 years,Upper secondary education,2018,0.372
+Males,Capital region 25-64 years,Tertiary education,2018,0.447
+Males,Capital region 25-64 years,Education unknown,2018,0.0
+Males,Other regions 25-64 years,Basic education,2018,0.337
+Males,Other regions 25-64 years,Upper secondary education,2018,0.471
+Males,Other regions 25-64 years,Tertiary education,2018,0.192
+Males,Other regions 25-64 years,Education unknown,2018,0.0
+Females,25 to 64 years,Basic education,2018,0.203
+Females,25 to 64 years,Upper secondary education,2018,0.268
+Females,25 to 64 years,Tertiary education,2018,0.528
+Females,25 to 64 years,Education unknown,2018,0.0
+Females,20 to 24 years,Basic education,2018,0.294
+Females,20 to 24 years,Upper secondary education,2018,0.639
+Females,20 to 24 years,Tertiary education,2018,0.067
+Females,20 to 24 years,Education unknown,2018,0.0
+Females,25 to 29 years,Basic education,2018,0.165
+Females,25 to 29 years,Upper secondary education,2018,0.339
+Females,25 to 29 years,Tertiary education,2018,0.497
+Females,25 to 29 years,Education unknown,2018,0.0
+Females,30 to 49 years,Basic education,2018,0.146
+Females,30 to 49 years,Upper secondary education,2018,0.232
+Females,30 to 49 years,Tertiary education,2018,0.622
+Females,30 to 49 years,Education unknown,2018,0.0
+Females,50 to 64 years,Basic education,2018,0.299
+Females,50 to 64 years,Upper secondary education,2018,0.293
+Females,50 to 64 years,Tertiary education,2018,0.408
+Females,50 to 64 years,Education unknown,2018,0.0
+Females,65 to 74 years,Basic education,2018,0.517
+Females,65 to 74 years,Upper secondary education,2018,0.226
+Females,65 to 74 years,Tertiary education,2018,0.257
+Females,65 to 74 years,Education unknown,2018,0.0
+Females,Capital region 16-74 years,Basic education,2018,0.244
+Females,Capital region 16-74 years,Upper secondary education,2018,0.284
+Females,Capital region 16-74 years,Tertiary education,2018,0.472
+Females,Capital region 16-74 years,Education unknown,2018,0.0
+Females,Other regions 16-74 years,Basic education,2018,0.4
+Females,Other regions 16-74 years,Upper secondary education,2018,0.282
+Females,Other regions 16-74 years,Tertiary education,2018,0.318
+Females,Other regions 16-74 years,Education unknown,2018,0.0
+Females,Capital region 25-64 years,Basic education,2018,0.149
+Females,Capital region 25-64 years,Upper secondary education,2018,0.257
+Females,Capital region 25-64 years,Tertiary education,2018,0.594
+Females,Capital region 25-64 years,Education unknown,2018,0.0
+Females,Other regions 25-64 years,Basic education,2018,0.305
+Females,Other regions 25-64 years,Upper secondary education,2018,0.291
+Females,Other regions 25-64 years,Tertiary education,2018,0.404
+Females,Other regions 25-64 years,Education unknown,2018,0.0
+Total,25 to 64 years,Basic education,2019,0.215
+Total,25 to 64 years,Upper secondary education,2019,0.335
+Total,25 to 64 years,Tertiary education,2019,0.45
+Total,25 to 64 years,Education unknown,2019,0.0
+Total,20 to 24 years,Basic education,2019,0.335
+Total,20 to 24 years,Upper secondary education,2019,0.613
+Total,20 to 24 years,Tertiary education,2019,0.053
+Total,20 to 24 years,Education unknown,2019,0.0
+Total,25 to 29 years,Basic education,2019,0.196
+Total,25 to 29 years,Upper secondary education,2019,0.387
+Total,25 to 29 years,Tertiary education,2019,0.418
+Total,25 to 29 years,Education unknown,2019,0.0
+Total,30 to 49 years,Basic education,2019,0.178
+Total,30 to 49 years,Upper secondary education,2019,0.301
+Total,30 to 49 years,Tertiary education,2019,0.521
+Total,30 to 49 years,Education unknown,2019,0.0
+Total,50 to 64 years,Basic education,2019,0.279
+Total,50 to 64 years,Upper secondary education,2019,0.363
+Total,50 to 64 years,Tertiary education,2019,0.358
+Total,50 to 64 years,Education unknown,2019,0.0
+Total,65 to 74 years,Basic education,2019,0.376
+Total,65 to 74 years,Upper secondary education,2019,0.392
+Total,65 to 74 years,Tertiary education,2019,0.232
+Total,65 to 74 years,Education unknown,2019,0.0
+Total,Capital region 16-74 years,Basic education,2019,0.238
+Total,Capital region 16-74 years,Upper secondary education,2019,0.339
+Total,Capital region 16-74 years,Tertiary education,2019,0.423
+Total,Capital region 16-74 years,Education unknown,2019,0.0
+Total,Other regions 16-74 years,Basic education,2019,0.381
+Total,Other regions 16-74 years,Upper secondary education,2019,0.374
+Total,Other regions 16-74 years,Tertiary education,2019,0.245
+Total,Other regions 16-74 years,Education unknown,2019,0.0
+Total,Capital region 25-64 years,Basic education,2019,0.159
+Total,Capital region 25-64 years,Upper secondary education,2019,0.312
+Total,Capital region 25-64 years,Tertiary education,2019,0.529
+Total,Capital region 25-64 years,Education unknown,2019,0.0
+Total,Other regions 25-64 years,Basic education,2019,0.313
+Total,Other regions 25-64 years,Upper secondary education,2019,0.374
+Total,Other regions 25-64 years,Tertiary education,2019,0.312
+Total,Other regions 25-64 years,Education unknown,2019,0.0
+Males,25 to 64 years,Basic education,2019,0.235
+Males,25 to 64 years,Upper secondary education,2019,0.393
+Males,25 to 64 years,Tertiary education,2019,0.373
+Males,25 to 64 years,Education unknown,2019,0.0
+Males,20 to 24 years,Basic education,2019,0.417
+Males,20 to 24 years,Upper secondary education,2019,0.526
+Males,20 to 24 years,Tertiary education,2019,0.057
+Males,20 to 24 years,Education unknown,2019,0.0
+Males,25 to 29 years,Basic education,2019,0.254
+Males,25 to 29 years,Upper secondary education,2019,0.38
+Males,25 to 29 years,Tertiary education,2019,0.366
+Males,25 to 29 years,Education unknown,2019,0.0
+Males,30 to 49 years,Basic education,2019,0.214
+Males,30 to 49 years,Upper secondary education,2019,0.367
+Males,30 to 49 years,Tertiary education,2019,0.418
+Males,30 to 49 years,Education unknown,2019,0.0
+Males,50 to 64 years,Basic education,2019,0.258
+Males,50 to 64 years,Upper secondary education,2019,0.439
+Males,50 to 64 years,Tertiary education,2019,0.303
+Males,50 to 64 years,Education unknown,2019,0.0
+Males,65 to 74 years,Basic education,2019,0.249
+Males,65 to 74 years,Upper secondary education,2019,0.512
+Males,65 to 74 years,Tertiary education,2019,0.239
+Males,65 to 74 years,Education unknown,2019,0.0
+Males,Capital region 16-74 years,Basic education,2019,0.243
+Males,Capital region 16-74 years,Upper secondary education,2019,0.382
+Males,Capital region 16-74 years,Tertiary education,2019,0.375
+Males,Capital region 16-74 years,Education unknown,2019,0.0
+Males,Other regions 16-74 years,Basic education,2019,0.391
+Males,Other regions 16-74 years,Upper secondary education,2019,0.426
+Males,Other regions 16-74 years,Tertiary education,2019,0.183
+Males,Other regions 16-74 years,Education unknown,2019,0.0
+Males,Capital region 25-64 years,Basic education,2019,0.172
+Males,Capital region 25-64 years,Upper secondary education,2019,0.37
+Males,Capital region 25-64 years,Tertiary education,2019,0.458
+Males,Capital region 25-64 years,Education unknown,2019,0.0
+Males,Other regions 25-64 years,Basic education,2019,0.341
+Males,Other regions 25-64 years,Upper secondary education,2019,0.432
+Males,Other regions 25-64 years,Tertiary education,2019,0.227
+Males,Other regions 25-64 years,Education unknown,2019,0.0
+Females,25 to 64 years,Basic education,2019,0.193
+Females,25 to 64 years,Upper secondary education,2019,0.272
+Females,25 to 64 years,Tertiary education,2019,0.534
+Females,25 to 64 years,Education unknown,2019,0.0
+Females,20 to 24 years,Basic education,2019,0.242
+Females,20 to 24 years,Upper secondary education,2019,0.711
+Females,20 to 24 years,Tertiary education,2019,0.047
+Females,20 to 24 years,Education unknown,2019,0.0
+Females,25 to 29 years,Basic education,2019,0.13
+Females,25 to 29 years,Upper secondary education,2019,0.394
+Females,25 to 29 years,Tertiary education,2019,0.476
+Females,25 to 29 years,Education unknown,2019,0.0
+Females,30 to 49 years,Basic education,2019,0.138
+Females,30 to 49 years,Upper secondary education,2019,0.228
+Females,30 to 49 years,Tertiary education,2019,0.634
+Females,30 to 49 years,Education unknown,2019,0.0
+Females,50 to 64 years,Basic education,2019,0.3
+Females,50 to 64 years,Upper secondary education,2019,0.287
+Females,50 to 64 years,Tertiary education,2019,0.414
+Females,50 to 64 years,Education unknown,2019,0.0
+Females,65 to 74 years,Basic education,2019,0.507
+Females,65 to 74 years,Upper secondary education,2019,0.269
+Females,65 to 74 years,Tertiary education,2019,0.224
+Females,65 to 74 years,Education unknown,2019,0.0
+Females,Capital region 16-74 years,Basic education,2019,0.232
+Females,Capital region 16-74 years,Upper secondary education,2019,0.295
+Females,Capital region 16-74 years,Tertiary education,2019,0.473
+Females,Capital region 16-74 years,Education unknown,2019,0.0
+Females,Other regions 16-74 years,Basic education,2019,0.37
+Females,Other regions 16-74 years,Upper secondary education,2019,0.314
+Females,Other regions 16-74 years,Tertiary education,2019,0.316
+Females,Other regions 16-74 years,Education unknown,2019,0.0
+Females,Capital region 25-64 years,Basic education,2019,0.145
+Females,Capital region 25-64 years,Upper secondary education,2019,0.252
+Females,Capital region 25-64 years,Tertiary education,2019,0.603
+Females,Capital region 25-64 years,Education unknown,2019,0.0
+Females,Other regions 25-64 years,Basic education,2019,0.282
+Females,Other regions 25-64 years,Upper secondary education,2019,0.31
+Females,Other regions 25-64 years,Tertiary education,2019,0.408
+Females,Other regions 25-64 years,Education unknown,2019,0.0

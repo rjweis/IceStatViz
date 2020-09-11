@@ -1,0 +1,1837 @@
+Year,Region,Sex,Age,work_description,n_hours
+2003,Total,Total,16-24,Total actual working hours,35.2
+2003,Total,Total,25-54,Total actual working hours,43.7
+2003,Total,Total,55-74,Total actual working hours,41.0
+2003,Total,Males,16-24,Total actual working hours,38.0
+2003,Total,Males,25-54,Total actual working hours,49.3
+2003,Total,Males,55-74,Total actual working hours,46.2
+2003,Total,Females,16-24,Total actual working hours,32.1
+2003,Total,Females,25-54,Total actual working hours,37.3
+2003,Total,Females,55-74,Total actual working hours,34.5
+2003,Capital region,Total,16-24,Total actual working hours,34.2
+2003,Capital region,Total,25-54,Total actual working hours,42.8
+2003,Capital region,Total,55-74,Total actual working hours,39.1
+2003,Capital region,Males,16-24,Total actual working hours,36.6
+2003,Capital region,Males,25-54,Total actual working hours,47.3
+2003,Capital region,Males,55-74,Total actual working hours,43.4
+2003,Capital region,Females,16-24,Total actual working hours,31.9
+2003,Capital region,Females,25-54,Total actual working hours,37.7
+2003,Capital region,Females,55-74,Total actual working hours,34.3
+2003,Outside Capital region,Total,16-24,Total actual working hours,37.1
+2003,Outside Capital region,Total,25-54,Total actual working hours,45.4
+2003,Outside Capital region,Total,55-74,Total actual working hours,43.7
+2003,Outside Capital region,Males,16-24,Total actual working hours,40.3
+2003,Outside Capital region,Males,25-54,Total actual working hours,53.1
+2003,Outside Capital region,Males,55-74,Total actual working hours,49.7
+2003,Outside Capital region,Females,16-24,Total actual working hours,32.8
+2003,Outside Capital region,Females,25-54,Total actual working hours,36.7
+2003,Outside Capital region,Females,55-74,Total actual working hours,34.8
+2004,Total,Total,16-24,Total actual working hours,35.9
+2004,Total,Total,25-54,Total actual working hours,44.0
+2004,Total,Total,55-74,Total actual working hours,40.1
+2004,Total,Males,16-24,Total actual working hours,39.9
+2004,Total,Males,25-54,Total actual working hours,49.6
+2004,Total,Males,55-74,Total actual working hours,44.9
+2004,Total,Females,16-24,Total actual working hours,31.9
+2004,Total,Females,25-54,Total actual working hours,37.4
+2004,Total,Females,55-74,Total actual working hours,33.9
+2004,Capital region,Total,16-24,Total actual working hours,35.0
+2004,Capital region,Total,25-54,Total actual working hours,43.2
+2004,Capital region,Total,55-74,Total actual working hours,38.9
+2004,Capital region,Males,16-24,Total actual working hours,39.1
+2004,Capital region,Males,25-54,Total actual working hours,47.9
+2004,Capital region,Males,55-74,Total actual working hours,43.4
+2004,Capital region,Females,16-24,Total actual working hours,31.1
+2004,Capital region,Females,25-54,Total actual working hours,37.6
+2004,Capital region,Females,55-74,Total actual working hours,34.1
+2004,Outside Capital region,Total,16-24,Total actual working hours,38.2
+2004,Outside Capital region,Total,25-54,Total actual working hours,45.5
+2004,Outside Capital region,Total,55-74,Total actual working hours,41.7
+2004,Outside Capital region,Males,16-24,Total actual working hours,41.5
+2004,Outside Capital region,Males,25-54,Total actual working hours,52.5
+2004,Outside Capital region,Males,55-74,Total actual working hours,46.6
+2004,Outside Capital region,Females,16-24,Total actual working hours,34.0
+2004,Outside Capital region,Females,25-54,Total actual working hours,37.0
+2004,Outside Capital region,Females,55-74,Total actual working hours,33.5
+2005,Total,Total,16-24,Total actual working hours,35.9
+2005,Total,Total,25-54,Total actual working hours,44.2
+2005,Total,Total,55-74,Total actual working hours,41.4
+2005,Total,Males,16-24,Total actual working hours,41.0
+2005,Total,Males,25-54,Total actual working hours,49.9
+2005,Total,Males,55-74,Total actual working hours,46.6
+2005,Total,Females,16-24,Total actual working hours,30.6
+2005,Total,Females,25-54,Total actual working hours,37.3
+2005,Total,Females,55-74,Total actual working hours,34.4
+2005,Capital region,Total,16-24,Total actual working hours,35.1
+2005,Capital region,Total,25-54,Total actual working hours,43.1
+2005,Capital region,Total,55-74,Total actual working hours,41.1
+2005,Capital region,Males,16-24,Total actual working hours,39.8
+2005,Capital region,Males,25-54,Total actual working hours,47.8
+2005,Capital region,Males,55-74,Total actual working hours,45.8
+2005,Capital region,Females,16-24,Total actual working hours,30.8
+2005,Capital region,Females,25-54,Total actual working hours,37.6
+2005,Capital region,Females,55-74,Total actual working hours,35.1
+2005,Outside Capital region,Total,16-24,Total actual working hours,37.8
+2005,Outside Capital region,Total,25-54,Total actual working hours,46.1
+2005,Outside Capital region,Total,55-74,Total actual working hours,42.0
+2005,Outside Capital region,Males,16-24,Total actual working hours,43.8
+2005,Outside Capital region,Males,25-54,Total actual working hours,53.3
+2005,Outside Capital region,Males,55-74,Total actual working hours,47.7
+2005,Outside Capital region,Females,16-24,Total actual working hours,30.3
+2005,Outside Capital region,Females,25-54,Total actual working hours,36.8
+2005,Outside Capital region,Females,55-74,Total actual working hours,33.2
+2006,Total,Total,16-24,Total actual working hours,35.3
+2006,Total,Total,25-54,Total actual working hours,44.2
+2006,Total,Total,55-74,Total actual working hours,42.3
+2006,Total,Males,16-24,Total actual working hours,39.8
+2006,Total,Males,25-54,Total actual working hours,49.4
+2006,Total,Males,55-74,Total actual working hours,47.4
+2006,Total,Females,16-24,Total actual working hours,30.7
+2006,Total,Females,25-54,Total actual working hours,37.6
+2006,Total,Females,55-74,Total actual working hours,35.5
+2006,Capital region,Total,16-24,Total actual working hours,35.1
+2006,Capital region,Total,25-54,Total actual working hours,43.2
+2006,Capital region,Total,55-74,Total actual working hours,41.4
+2006,Capital region,Males,16-24,Total actual working hours,39.7
+2006,Capital region,Males,25-54,Total actual working hours,47.6
+2006,Capital region,Males,55-74,Total actual working hours,45.9
+2006,Capital region,Females,16-24,Total actual working hours,30.4
+2006,Capital region,Females,25-54,Total actual working hours,37.7
+2006,Capital region,Females,55-74,Total actual working hours,36.0
+2006,Outside Capital region,Total,16-24,Total actual working hours,36.0
+2006,Outside Capital region,Total,25-54,Total actual working hours,46.1
+2006,Outside Capital region,Total,55-74,Total actual working hours,43.5
+2006,Outside Capital region,Males,16-24,Total actual working hours,40.0
+2006,Outside Capital region,Males,25-54,Total actual working hours,52.8
+2006,Outside Capital region,Males,55-74,Total actual working hours,49.2
+2006,Outside Capital region,Females,16-24,Total actual working hours,31.3
+2006,Outside Capital region,Females,25-54,Total actual working hours,37.3
+2006,Outside Capital region,Females,55-74,Total actual working hours,34.6
+2007,Total,Total,16-24,Total actual working hours,35.7
+2007,Total,Total,25-54,Total actual working hours,43.6
+2007,Total,Total,55-74,Total actual working hours,41.7
+2007,Total,Males,16-24,Total actual working hours,40.1
+2007,Total,Males,25-54,Total actual working hours,48.6
+2007,Total,Males,55-74,Total actual working hours,46.7
+2007,Total,Females,16-24,Total actual working hours,30.9
+2007,Total,Females,25-54,Total actual working hours,37.0
+2007,Total,Females,55-74,Total actual working hours,35.3
+2007,Capital region,Total,16-24,Total actual working hours,34.5
+2007,Capital region,Total,25-54,Total actual working hours,42.6
+2007,Capital region,Total,55-74,Total actual working hours,40.3
+2007,Capital region,Males,16-24,Total actual working hours,37.9
+2007,Capital region,Males,25-54,Total actual working hours,46.7
+2007,Capital region,Males,55-74,Total actual working hours,44.7
+2007,Capital region,Females,16-24,Total actual working hours,30.9
+2007,Capital region,Females,25-54,Total actual working hours,37.2
+2007,Capital region,Females,55-74,Total actual working hours,35.2
+2007,Outside Capital region,Total,16-24,Total actual working hours,38.3
+2007,Outside Capital region,Total,25-54,Total actual working hours,45.4
+2007,Outside Capital region,Total,55-74,Total actual working hours,43.9
+2007,Outside Capital region,Males,16-24,Total actual working hours,44.9
+2007,Outside Capital region,Males,25-54,Total actual working hours,52.7
+2007,Outside Capital region,Males,55-74,Total actual working hours,49.9
+2007,Outside Capital region,Females,16-24,Total actual working hours,30.7
+2007,Outside Capital region,Females,25-54,Total actual working hours,36.7
+2007,Outside Capital region,Females,55-74,Total actual working hours,35.6
+2008,Total,Total,16-24,Total actual working hours,34.2
+2008,Total,Total,25-54,Total actual working hours,43.7
+2008,Total,Total,55-74,Total actual working hours,40.6
+2008,Total,Males,16-24,Total actual working hours,38.2
+2008,Total,Males,25-54,Total actual working hours,48.3
+2008,Total,Males,55-74,Total actual working hours,45.1
+2008,Total,Females,16-24,Total actual working hours,30.1
+2008,Total,Females,25-54,Total actual working hours,37.7
+2008,Total,Females,55-74,Total actual working hours,34.9
+2008,Capital region,Total,16-24,Total actual working hours,33.1
+2008,Capital region,Total,25-54,Total actual working hours,42.9
+2008,Capital region,Total,55-74,Total actual working hours,39.9
+2008,Capital region,Males,16-24,Total actual working hours,36.5
+2008,Capital region,Males,25-54,Total actual working hours,46.7
+2008,Capital region,Males,55-74,Total actual working hours,44.2
+2008,Capital region,Females,16-24,Total actual working hours,29.5
+2008,Capital region,Females,25-54,Total actual working hours,37.9
+2008,Capital region,Females,55-74,Total actual working hours,34.3
+2008,Outside Capital region,Total,16-24,Total actual working hours,36.6
+2008,Outside Capital region,Total,25-54,Total actual working hours,45.2
+2008,Outside Capital region,Total,55-74,Total actual working hours,41.8
+2008,Outside Capital region,Males,16-24,Total actual working hours,42.0
+2008,Outside Capital region,Males,25-54,Total actual working hours,51.5
+2008,Outside Capital region,Males,55-74,Total actual working hours,46.7
+2008,Outside Capital region,Females,16-24,Total actual working hours,31.4
+2008,Outside Capital region,Females,25-54,Total actual working hours,37.2
+2008,Outside Capital region,Females,55-74,Total actual working hours,35.8
+2009,Total,Total,16-24,Total actual working hours,31.4
+2009,Total,Total,25-54,Total actual working hours,41.6
+2009,Total,Total,55-74,Total actual working hours,39.3
+2009,Total,Males,16-24,Total actual working hours,34.3
+2009,Total,Males,25-54,Total actual working hours,45.8
+2009,Total,Males,55-74,Total actual working hours,43.3
+2009,Total,Females,16-24,Total actual working hours,28.6
+2009,Total,Females,25-54,Total actual working hours,36.7
+2009,Total,Females,55-74,Total actual working hours,34.3
+2009,Capital region,Total,16-24,Total actual working hours,30.2
+2009,Capital region,Total,25-54,Total actual working hours,40.7
+2009,Capital region,Total,55-74,Total actual working hours,38.6
+2009,Capital region,Males,16-24,Total actual working hours,32.3
+2009,Capital region,Males,25-54,Total actual working hours,44.0
+2009,Capital region,Males,55-74,Total actual working hours,42.3
+2009,Capital region,Females,16-24,Total actual working hours,28.2
+2009,Capital region,Females,25-54,Total actual working hours,37.1
+2009,Capital region,Females,55-74,Total actual working hours,33.7
+2009,Outside Capital region,Total,16-24,Total actual working hours,33.9
+2009,Outside Capital region,Total,25-54,Total actual working hours,43.3
+2009,Outside Capital region,Total,55-74,Total actual working hours,40.7
+2009,Outside Capital region,Males,16-24,Total actual working hours,38.8
+2009,Outside Capital region,Males,25-54,Total actual working hours,49.0
+2009,Outside Capital region,Males,55-74,Total actual working hours,45.2
+2009,Outside Capital region,Females,16-24,Total actual working hours,29.5
+2009,Outside Capital region,Females,25-54,Total actual working hours,36.0
+2009,Outside Capital region,Females,55-74,Total actual working hours,35.2
+2010,Total,Total,16-24,Total actual working hours,30.8
+2010,Total,Total,25-54,Total actual working hours,41.4
+2010,Total,Total,55-74,Total actual working hours,40.0
+2010,Total,Males,16-24,Total actual working hours,34.3
+2010,Total,Males,25-54,Total actual working hours,45.5
+2010,Total,Males,55-74,Total actual working hours,44.0
+2010,Total,Females,16-24,Total actual working hours,27.5
+2010,Total,Females,25-54,Total actual working hours,36.7
+2010,Total,Females,55-74,Total actual working hours,35.0
+2010,Capital region,Total,16-24,Total actual working hours,29.3
+2010,Capital region,Total,25-54,Total actual working hours,40.1
+2010,Capital region,Total,55-74,Total actual working hours,38.9
+2010,Capital region,Males,16-24,Total actual working hours,32.3
+2010,Capital region,Males,25-54,Total actual working hours,43.4
+2010,Capital region,Males,55-74,Total actual working hours,42.3
+2010,Capital region,Females,16-24,Total actual working hours,26.7
+2010,Capital region,Females,25-54,Total actual working hours,36.6
+2010,Capital region,Females,55-74,Total actual working hours,35.0
+2010,Outside Capital region,Total,16-24,Total actual working hours,33.8
+2010,Outside Capital region,Total,25-54,Total actual working hours,43.8
+2010,Outside Capital region,Total,55-74,Total actual working hours,41.7
+2010,Outside Capital region,Males,16-24,Total actual working hours,37.6
+2010,Outside Capital region,Males,25-54,Total actual working hours,49.3
+2010,Outside Capital region,Males,55-74,Total actual working hours,46.5
+2010,Outside Capital region,Females,16-24,Total actual working hours,29.3
+2010,Outside Capital region,Females,25-54,Total actual working hours,37.0
+2010,Outside Capital region,Females,55-74,Total actual working hours,35.1
+2011,Total,Total,16-24,Total actual working hours,30.9
+2011,Total,Total,25-54,Total actual working hours,42.0
+2011,Total,Total,55-74,Total actual working hours,40.3
+2011,Total,Males,16-24,Total actual working hours,34.1
+2011,Total,Males,25-54,Total actual working hours,46.3
+2011,Total,Males,55-74,Total actual working hours,44.0
+2011,Total,Females,16-24,Total actual working hours,27.8
+2011,Total,Females,25-54,Total actual working hours,37.1
+2011,Total,Females,55-74,Total actual working hours,35.9
+2011,Capital region,Total,16-24,Total actual working hours,29.7
+2011,Capital region,Total,25-54,Total actual working hours,40.6
+2011,Capital region,Total,55-74,Total actual working hours,38.7
+2011,Capital region,Males,16-24,Total actual working hours,32.5
+2011,Capital region,Males,25-54,Total actual working hours,43.9
+2011,Capital region,Males,55-74,Total actual working hours,41.5
+2011,Capital region,Females,16-24,Total actual working hours,27.0
+2011,Capital region,Females,25-54,Total actual working hours,37.1
+2011,Capital region,Females,55-74,Total actual working hours,35.6
+2011,Outside Capital region,Total,16-24,Total actual working hours,33.6
+2011,Outside Capital region,Total,25-54,Total actual working hours,44.6
+2011,Outside Capital region,Total,55-74,Total actual working hours,43.0
+2011,Outside Capital region,Males,16-24,Total actual working hours,37.3
+2011,Outside Capital region,Males,25-54,Total actual working hours,50.5
+2011,Outside Capital region,Males,55-74,Total actual working hours,47.7
+2011,Outside Capital region,Females,16-24,Total actual working hours,29.7
+2011,Outside Capital region,Females,25-54,Total actual working hours,37.2
+2011,Outside Capital region,Females,55-74,Total actual working hours,36.5
+2012,Total,Total,16-24,Total actual working hours,30.7
+2012,Total,Total,25-54,Total actual working hours,42.2
+2012,Total,Total,55-74,Total actual working hours,39.6
+2012,Total,Males,16-24,Total actual working hours,34.1
+2012,Total,Males,25-54,Total actual working hours,46.4
+2012,Total,Males,55-74,Total actual working hours,43.6
+2012,Total,Females,16-24,Total actual working hours,27.1
+2012,Total,Females,25-54,Total actual working hours,37.4
+2012,Total,Females,55-74,Total actual working hours,34.9
+2012,Capital region,Total,16-24,Total actual working hours,29.2
+2012,Capital region,Total,25-54,Total actual working hours,41.1
+2012,Capital region,Total,55-74,Total actual working hours,37.7
+2012,Capital region,Males,16-24,Total actual working hours,31.8
+2012,Capital region,Males,25-54,Total actual working hours,44.4
+2012,Capital region,Males,55-74,Total actual working hours,41.2
+2012,Capital region,Females,16-24,Total actual working hours,26.5
+2012,Capital region,Females,25-54,Total actual working hours,37.4
+2012,Capital region,Females,55-74,Total actual working hours,34.0
+2012,Outside Capital region,Total,16-24,Total actual working hours,34.6
+2012,Outside Capital region,Total,25-54,Total actual working hours,44.2
+2012,Outside Capital region,Total,55-74,Total actual working hours,42.5
+2012,Outside Capital region,Males,16-24,Total actual working hours,40.1
+2012,Outside Capital region,Males,25-54,Total actual working hours,50.0
+2012,Outside Capital region,Males,55-74,Total actual working hours,46.9
+2012,Outside Capital region,Females,16-24,Total actual working hours,28.6
+2012,Outside Capital region,Females,25-54,Total actual working hours,37.5
+2012,Outside Capital region,Females,55-74,Total actual working hours,36.6
+2013,Total,Total,16-24,Total actual working hours,31.0
+2013,Total,Total,25-54,Total actual working hours,41.9
+2013,Total,Total,55-74,Total actual working hours,40.5
+2013,Total,Males,16-24,Total actual working hours,33.7
+2013,Total,Males,25-54,Total actual working hours,46.2
+2013,Total,Males,55-74,Total actual working hours,44.7
+2013,Total,Females,16-24,Total actual working hours,28.5
+2013,Total,Females,25-54,Total actual working hours,37.0
+2013,Total,Females,55-74,Total actual working hours,35.1
+2013,Capital region,Total,16-24,Total actual working hours,29.9
+2013,Capital region,Total,25-54,Total actual working hours,40.5
+2013,Capital region,Total,55-74,Total actual working hours,39.1
+2013,Capital region,Males,16-24,Total actual working hours,31.8
+2013,Capital region,Males,25-54,Total actual working hours,43.8
+2013,Capital region,Males,55-74,Total actual working hours,42.4
+2013,Capital region,Females,16-24,Total actual working hours,28.2
+2013,Capital region,Females,25-54,Total actual working hours,36.8
+2013,Capital region,Females,55-74,Total actual working hours,35.1
+2013,Outside Capital region,Total,16-24,Total actual working hours,33.6
+2013,Outside Capital region,Total,25-54,Total actual working hours,44.4
+2013,Outside Capital region,Total,55-74,Total actual working hours,42.8
+2013,Outside Capital region,Males,16-24,Total actual working hours,37.7
+2013,Outside Capital region,Males,25-54,Total actual working hours,50.2
+2013,Outside Capital region,Males,55-74,Total actual working hours,48.2
+2013,Outside Capital region,Females,16-24,Total actual working hours,29.3
+2013,Outside Capital region,Females,25-54,Total actual working hours,37.5
+2013,Outside Capital region,Females,55-74,Total actual working hours,34.9
+2014,Total,Total,16-24,Total actual working hours,30.9
+2014,Total,Total,25-54,Total actual working hours,42.1
+2014,Total,Total,55-74,Total actual working hours,40.1
+2014,Total,Males,16-24,Total actual working hours,34.0
+2014,Total,Males,25-54,Total actual working hours,46.2
+2014,Total,Males,55-74,Total actual working hours,44.3
+2014,Total,Females,16-24,Total actual working hours,28.0
+2014,Total,Females,25-54,Total actual working hours,37.3
+2014,Total,Females,55-74,Total actual working hours,35.0
+2014,Capital region,Total,16-24,Total actual working hours,29.0
+2014,Capital region,Total,25-54,Total actual working hours,41.0
+2014,Capital region,Total,55-74,Total actual working hours,39.6
+2014,Capital region,Males,16-24,Total actual working hours,31.0
+2014,Capital region,Males,25-54,Total actual working hours,44.2
+2014,Capital region,Males,55-74,Total actual working hours,43.5
+2014,Capital region,Females,16-24,Total actual working hours,27.3
+2014,Capital region,Females,25-54,Total actual working hours,37.3
+2014,Capital region,Females,55-74,Total actual working hours,35.1
+2014,Outside Capital region,Total,16-24,Total actual working hours,35.1
+2014,Outside Capital region,Total,25-54,Total actual working hours,44.1
+2014,Outside Capital region,Total,55-74,Total actual working hours,41.0
+2014,Outside Capital region,Males,16-24,Total actual working hours,39.9
+2014,Outside Capital region,Males,25-54,Total actual working hours,49.7
+2014,Outside Capital region,Males,55-74,Total actual working hours,45.5
+2014,Outside Capital region,Females,16-24,Total actual working hours,29.7
+2014,Outside Capital region,Females,25-54,Total actual working hours,37.3
+2014,Outside Capital region,Females,55-74,Total actual working hours,34.9
+2015,Total,Total,16-24,Total actual working hours,30.8
+2015,Total,Total,25-54,Total actual working hours,42.3
+2015,Total,Total,55-74,Total actual working hours,40.8
+2015,Total,Males,16-24,Total actual working hours,33.9
+2015,Total,Males,25-54,Total actual working hours,46.4
+2015,Total,Males,55-74,Total actual working hours,44.5
+2015,Total,Females,16-24,Total actual working hours,27.8
+2015,Total,Females,25-54,Total actual working hours,37.5
+2015,Total,Females,55-74,Total actual working hours,36.1
+2015,Capital region,Total,16-24,Total actual working hours,29.0
+2015,Capital region,Total,25-54,Total actual working hours,41.3
+2015,Capital region,Total,55-74,Total actual working hours,39.7
+2015,Capital region,Males,16-24,Total actual working hours,31.6
+2015,Capital region,Males,25-54,Total actual working hours,44.7
+2015,Capital region,Males,55-74,Total actual working hours,43.0
+2015,Capital region,Females,16-24,Total actual working hours,26.7
+2015,Capital region,Females,25-54,Total actual working hours,37.6
+2015,Capital region,Females,55-74,Total actual working hours,36.1
+2015,Outside Capital region,Total,16-24,Total actual working hours,34.9
+2015,Outside Capital region,Total,25-54,Total actual working hours,44.1
+2015,Outside Capital region,Total,55-74,Total actual working hours,42.4
+2015,Outside Capital region,Males,16-24,Total actual working hours,38.4
+2015,Outside Capital region,Males,25-54,Total actual working hours,49.6
+2015,Outside Capital region,Males,55-74,Total actual working hours,46.5
+2015,Outside Capital region,Females,16-24,Total actual working hours,30.8
+2015,Outside Capital region,Females,25-54,Total actual working hours,37.4
+2015,Outside Capital region,Females,55-74,Total actual working hours,36.1
+2016,Total,Total,16-24,Total actual working hours,31.3
+2016,Total,Total,25-54,Total actual working hours,42.4
+2016,Total,Total,55-74,Total actual working hours,40.4
+2016,Total,Males,16-24,Total actual working hours,34.2
+2016,Total,Males,25-54,Total actual working hours,46.1
+2016,Total,Males,55-74,Total actual working hours,44.6
+2016,Total,Females,16-24,Total actual working hours,28.1
+2016,Total,Females,25-54,Total actual working hours,38.0
+2016,Total,Females,55-74,Total actual working hours,34.8
+2016,Capital region,Total,16-24,Total actual working hours,29.7
+2016,Capital region,Total,25-54,Total actual working hours,41.5
+2016,Capital region,Total,55-74,Total actual working hours,39.6
+2016,Capital region,Males,16-24,Total actual working hours,32.2
+2016,Capital region,Males,25-54,Total actual working hours,44.1
+2016,Capital region,Males,55-74,Total actual working hours,43.3
+2016,Capital region,Females,16-24,Total actual working hours,27.1
+2016,Capital region,Females,25-54,Total actual working hours,38.5
+2016,Capital region,Females,55-74,Total actual working hours,34.9
+2016,Outside Capital region,Total,16-24,Total actual working hours,35.1
+2016,Outside Capital region,Total,25-54,Total actual working hours,43.9
+2016,Outside Capital region,Total,55-74,Total actual working hours,41.5
+2016,Outside Capital region,Males,16-24,Total actual working hours,38.8
+2016,Outside Capital region,Males,25-54,Total actual working hours,50.0
+2016,Outside Capital region,Males,55-74,Total actual working hours,46.3
+2016,Outside Capital region,Females,16-24,Total actual working hours,30.7
+2016,Outside Capital region,Females,25-54,Total actual working hours,37.1
+2016,Outside Capital region,Females,55-74,Total actual working hours,34.5
+2017,Total,Total,16-24,Total actual working hours,31.7
+2017,Total,Total,25-54,Total actual working hours,42.0
+2017,Total,Total,55-74,Total actual working hours,39.8
+2017,Total,Males,16-24,Total actual working hours,34.8
+2017,Total,Males,25-54,Total actual working hours,45.4
+2017,Total,Males,55-74,Total actual working hours,43.2
+2017,Total,Females,16-24,Total actual working hours,28.0
+2017,Total,Females,25-54,Total actual working hours,37.8
+2017,Total,Females,55-74,Total actual working hours,35.2
+2017,Capital region,Total,16-24,Total actual working hours,30.4
+2017,Capital region,Total,25-54,Total actual working hours,41.0
+2017,Capital region,Total,55-74,Total actual working hours,39.2
+2017,Capital region,Males,16-24,Total actual working hours,33.1
+2017,Capital region,Males,25-54,Total actual working hours,43.6
+2017,Capital region,Males,55-74,Total actual working hours,42.2
+2017,Capital region,Females,16-24,Total actual working hours,27.2
+2017,Capital region,Females,25-54,Total actual working hours,37.6
+2017,Capital region,Females,55-74,Total actual working hours,35.5
+2017,Outside Capital region,Total,16-24,Total actual working hours,34.8
+2017,Outside Capital region,Total,25-54,Total actual working hours,43.7
+2017,Outside Capital region,Total,55-74,Total actual working hours,40.6
+2017,Outside Capital region,Males,16-24,Total actual working hours,38.6
+2017,Outside Capital region,Males,25-54,Total actual working hours,49.0
+2017,Outside Capital region,Males,55-74,Total actual working hours,44.7
+2017,Outside Capital region,Females,16-24,Total actual working hours,29.9
+2017,Outside Capital region,Females,25-54,Total actual working hours,38.0
+2017,Outside Capital region,Females,55-74,Total actual working hours,34.7
+2018,Total,Total,16-24,Total actual working hours,31.9
+2018,Total,Total,25-54,Total actual working hours,41.3
+2018,Total,Total,55-74,Total actual working hours,40.1
+2018,Total,Males,16-24,Total actual working hours,35.3
+2018,Total,Males,25-54,Total actual working hours,44.6
+2018,Total,Males,55-74,Total actual working hours,43.9
+2018,Total,Females,16-24,Total actual working hours,28.0
+2018,Total,Females,25-54,Total actual working hours,37.2
+2018,Total,Females,55-74,Total actual working hours,35.0
+2018,Capital region,Total,16-24,Total actual working hours,30.8
+2018,Capital region,Total,25-54,Total actual working hours,40.4
+2018,Capital region,Total,55-74,Total actual working hours,39.2
+2018,Capital region,Males,16-24,Total actual working hours,34.1
+2018,Capital region,Males,25-54,Total actual working hours,43.2
+2018,Capital region,Males,55-74,Total actual working hours,42.4
+2018,Capital region,Females,16-24,Total actual working hours,27.2
+2018,Capital region,Females,25-54,Total actual working hours,37.0
+2018,Capital region,Females,55-74,Total actual working hours,35.4
+2018,Outside Capital region,Total,16-24,Total actual working hours,34.3
+2018,Outside Capital region,Total,25-54,Total actual working hours,42.9
+2018,Outside Capital region,Total,55-74,Total actual working hours,41.5
+2018,Outside Capital region,Males,16-24,Total actual working hours,37.7
+2018,Outside Capital region,Males,25-54,Total actual working hours,47.4
+2018,Outside Capital region,Males,55-74,Total actual working hours,45.9
+2018,Outside Capital region,Females,16-24,Total actual working hours,29.9
+2018,Outside Capital region,Females,25-54,Total actual working hours,37.4
+2018,Outside Capital region,Females,55-74,Total actual working hours,34.1
+2019,Total,Total,16-24,Total actual working hours,31.0
+2019,Total,Total,25-54,Total actual working hours,41.4
+2019,Total,Total,55-74,Total actual working hours,40.0
+2019,Total,Males,16-24,Total actual working hours,33.2
+2019,Total,Males,25-54,Total actual working hours,44.5
+2019,Total,Males,55-74,Total actual working hours,43.9
+2019,Total,Females,16-24,Total actual working hours,28.9
+2019,Total,Females,25-54,Total actual working hours,37.5
+2019,Total,Females,55-74,Total actual working hours,34.9
+2019,Capital region,Total,16-24,Total actual working hours,28.8
+2019,Capital region,Total,25-54,Total actual working hours,40.2
+2019,Capital region,Total,55-74,Total actual working hours,39.1
+2019,Capital region,Males,16-24,Total actual working hours,30.4
+2019,Capital region,Males,25-54,Total actual working hours,42.6
+2019,Capital region,Males,55-74,Total actual working hours,42.5
+2019,Capital region,Females,16-24,Total actual working hours,27.4
+2019,Capital region,Females,25-54,Total actual working hours,37.4
+2019,Capital region,Females,55-74,Total actual working hours,34.9
+2019,Outside Capital region,Total,16-24,Total actual working hours,35.2
+2019,Outside Capital region,Total,25-54,Total actual working hours,43.5
+2019,Outside Capital region,Total,55-74,Total actual working hours,41.6
+2019,Outside Capital region,Males,16-24,Total actual working hours,37.7
+2019,Outside Capital region,Males,25-54,Total actual working hours,47.8
+2019,Outside Capital region,Males,55-74,Total actual working hours,45.9
+2019,Outside Capital region,Females,16-24,Total actual working hours,32.1
+2019,Outside Capital region,Females,25-54,Total actual working hours,37.9
+2019,Outside Capital region,Females,55-74,Total actual working hours,35.0
+2003,Total,Total,16-24,Actual working hours full-time,45.3
+2003,Total,Total,25-54,Actual working hours full-time,47.4
+2003,Total,Total,55-74,Actual working hours full-time,46.7
+2003,Total,Males,16-24,Actual working hours full-time,46.4
+2003,Total,Males,25-54,Actual working hours full-time,50.4
+2003,Total,Males,55-74,Actual working hours full-time,48.8
+2003,Total,Females,16-24,Actual working hours full-time,43.7
+2003,Total,Females,25-54,Actual working hours full-time,42.6
+2003,Total,Females,55-74,Actual working hours full-time,42.4
+2003,Capital region,Total,16-24,Actual working hours full-time,45.2
+2003,Capital region,Total,25-54,Actual working hours full-time,45.9
+2003,Capital region,Total,55-74,Actual working hours full-time,44.8
+2003,Capital region,Males,16-24,Actual working hours full-time,46.5
+2003,Capital region,Males,25-54,Actual working hours full-time,48.4
+2003,Capital region,Males,55-74,Actual working hours full-time,46.3
+2003,Capital region,Females,16-24,Actual working hours full-time,43.7
+2003,Capital region,Females,25-54,Actual working hours full-time,42.0
+2003,Capital region,Females,55-74,Actual working hours full-time,42.3
+2003,Outside Capital region,Total,16-24,Actual working hours full-time,45.4
+2003,Outside Capital region,Total,25-54,Actual working hours full-time,50.5
+2003,Outside Capital region,Total,55-74,Actual working hours full-time,49.2
+2003,Outside Capital region,Males,16-24,Actual working hours full-time,46.3
+2003,Outside Capital region,Males,25-54,Actual working hours full-time,54.1
+2003,Outside Capital region,Males,55-74,Actual working hours full-time,51.6
+2003,Outside Capital region,Females,16-24,Actual working hours full-time,43.8
+2003,Outside Capital region,Females,25-54,Actual working hours full-time,43.8
+2003,Outside Capital region,Females,55-74,Actual working hours full-time,42.7
+2004,Total,Total,16-24,Actual working hours full-time,46.1
+2004,Total,Total,25-54,Actual working hours full-time,47.6
+2004,Total,Total,55-74,Actual working hours full-time,45.8
+2004,Total,Males,16-24,Actual working hours full-time,47.7
+2004,Total,Males,25-54,Actual working hours full-time,50.7
+2004,Total,Males,55-74,Actual working hours full-time,47.7
+2004,Total,Females,16-24,Actual working hours full-time,43.9
+2004,Total,Females,25-54,Actual working hours full-time,42.5
+2004,Total,Females,55-74,Actual working hours full-time,41.9
+2004,Capital region,Total,16-24,Actual working hours full-time,45.6
+2004,Capital region,Total,25-54,Actual working hours full-time,46.4
+2004,Capital region,Total,55-74,Actual working hours full-time,44.5
+2004,Capital region,Males,16-24,Actual working hours full-time,47.1
+2004,Capital region,Males,25-54,Actual working hours full-time,49.3
+2004,Capital region,Males,55-74,Actual working hours full-time,46.0
+2004,Capital region,Females,16-24,Actual working hours full-time,43.6
+2004,Capital region,Females,25-54,Actual working hours full-time,42.0
+2004,Capital region,Females,55-74,Actual working hours full-time,42.1
+2004,Outside Capital region,Total,16-24,Actual working hours full-time,47.3
+2004,Outside Capital region,Total,25-54,Actual working hours full-time,49.9
+2004,Outside Capital region,Total,55-74,Actual working hours full-time,47.6
+2004,Outside Capital region,Males,16-24,Actual working hours full-time,48.8
+2004,Outside Capital region,Males,25-54,Actual working hours full-time,53.1
+2004,Outside Capital region,Males,55-74,Actual working hours full-time,49.9
+2004,Outside Capital region,Females,16-24,Actual working hours full-time,44.8
+2004,Outside Capital region,Females,25-54,Actual working hours full-time,43.5
+2004,Outside Capital region,Females,55-74,Actual working hours full-time,41.5
+2005,Total,Total,16-24,Actual working hours full-time,46.5
+2005,Total,Total,25-54,Actual working hours full-time,47.7
+2005,Total,Total,55-74,Actual working hours full-time,46.9
+2005,Total,Males,16-24,Actual working hours full-time,48.5
+2005,Total,Males,25-54,Actual working hours full-time,50.7
+2005,Total,Males,55-74,Actual working hours full-time,49.0
+2005,Total,Females,16-24,Actual working hours full-time,43.5
+2005,Total,Females,25-54,Actual working hours full-time,42.5
+2005,Total,Females,55-74,Actual working hours full-time,42.1
+2005,Capital region,Total,16-24,Actual working hours full-time,46.1
+2005,Capital region,Total,25-54,Actual working hours full-time,46.0
+2005,Capital region,Total,55-74,Actual working hours full-time,45.6
+2005,Capital region,Males,16-24,Actual working hours full-time,48.0
+2005,Capital region,Males,25-54,Actual working hours full-time,48.7
+2005,Capital region,Males,55-74,Actual working hours full-time,47.8
+2005,Capital region,Females,16-24,Actual working hours full-time,43.5
+2005,Capital region,Females,25-54,Actual working hours full-time,41.9
+2005,Capital region,Females,55-74,Actual working hours full-time,41.4
+2005,Outside Capital region,Total,16-24,Actual working hours full-time,47.4
+2005,Outside Capital region,Total,25-54,Actual working hours full-time,50.5
+2005,Outside Capital region,Total,55-74,Actual working hours full-time,49.0
+2005,Outside Capital region,Males,16-24,Actual working hours full-time,49.4
+2005,Outside Capital region,Males,25-54,Actual working hours full-time,53.9
+2005,Outside Capital region,Males,55-74,Actual working hours full-time,50.8
+2005,Outside Capital region,Females,16-24,Actual working hours full-time,43.4
+2005,Outside Capital region,Females,25-54,Actual working hours full-time,43.7
+2005,Outside Capital region,Females,55-74,Actual working hours full-time,43.6
+2006,Total,Total,16-24,Actual working hours full-time,46.1
+2006,Total,Total,25-54,Actual working hours full-time,47.6
+2006,Total,Total,55-74,Actual working hours full-time,47.2
+2006,Total,Males,16-24,Actual working hours full-time,48.5
+2006,Total,Males,25-54,Actual working hours full-time,50.3
+2006,Total,Males,55-74,Actual working hours full-time,49.6
+2006,Total,Females,16-24,Actual working hours full-time,42.7
+2006,Total,Females,25-54,Actual working hours full-time,42.7
+2006,Total,Females,55-74,Actual working hours full-time,42.3
+2006,Capital region,Total,16-24,Actual working hours full-time,46.1
+2006,Capital region,Total,25-54,Actual working hours full-time,46.1
+2006,Capital region,Total,55-74,Actual working hours full-time,45.2
+2006,Capital region,Males,16-24,Actual working hours full-time,48.6
+2006,Capital region,Males,25-54,Actual working hours full-time,48.4
+2006,Capital region,Males,55-74,Actual working hours full-time,47.4
+2006,Capital region,Females,16-24,Actual working hours full-time,42.5
+2006,Capital region,Females,25-54,Actual working hours full-time,42.3
+2006,Capital region,Females,55-74,Actual working hours full-time,41.3
+2006,Outside Capital region,Total,16-24,Actual working hours full-time,46.3
+2006,Outside Capital region,Total,25-54,Actual working hours full-time,50.4
+2006,Outside Capital region,Total,55-74,Actual working hours full-time,50.4
+2006,Outside Capital region,Males,16-24,Actual working hours full-time,48.3
+2006,Outside Capital region,Males,25-54,Actual working hours full-time,53.9
+2006,Outside Capital region,Males,55-74,Actual working hours full-time,52.5
+2006,Outside Capital region,Females,16-24,Actual working hours full-time,42.9
+2006,Outside Capital region,Females,25-54,Actual working hours full-time,43.6
+2006,Outside Capital region,Females,55-74,Actual working hours full-time,44.5
+2007,Total,Total,16-24,Actual working hours full-time,46.9
+2007,Total,Total,25-54,Actual working hours full-time,46.9
+2007,Total,Total,55-74,Actual working hours full-time,46.9
+2007,Total,Males,16-24,Actual working hours full-time,49.1
+2007,Total,Males,25-54,Actual working hours full-time,49.6
+2007,Total,Males,55-74,Actual working hours full-time,49.4
+2007,Total,Females,16-24,Actual working hours full-time,43.2
+2007,Total,Females,25-54,Actual working hours full-time,41.9
+2007,Total,Females,55-74,Actual working hours full-time,42.0
+2007,Capital region,Total,16-24,Actual working hours full-time,45.9
+2007,Capital region,Total,25-54,Actual working hours full-time,45.4
+2007,Capital region,Total,55-74,Actual working hours full-time,44.9
+2007,Capital region,Males,16-24,Actual working hours full-time,47.8
+2007,Capital region,Males,25-54,Actual working hours full-time,47.6
+2007,Capital region,Males,55-74,Actual working hours full-time,47.2
+2007,Capital region,Females,16-24,Actual working hours full-time,43.1
+2007,Capital region,Females,25-54,Actual working hours full-time,41.5
+2007,Capital region,Females,55-74,Actual working hours full-time,40.9
+2007,Outside Capital region,Total,16-24,Actual working hours full-time,48.8
+2007,Outside Capital region,Total,25-54,Actual working hours full-time,50.1
+2007,Outside Capital region,Total,55-74,Actual working hours full-time,50.2
+2007,Outside Capital region,Males,16-24,Actual working hours full-time,51.5
+2007,Outside Capital region,Males,25-54,Actual working hours full-time,53.9
+2007,Outside Capital region,Males,55-74,Actual working hours full-time,52.8
+2007,Outside Capital region,Females,16-24,Actual working hours full-time,43.5
+2007,Outside Capital region,Females,25-54,Actual working hours full-time,42.9
+2007,Outside Capital region,Females,55-74,Actual working hours full-time,44.3
+2008,Total,Total,16-24,Actual working hours full-time,45.5
+2008,Total,Total,25-54,Actual working hours full-time,46.8
+2008,Total,Total,55-74,Actual working hours full-time,45.6
+2008,Total,Males,16-24,Actual working hours full-time,48.1
+2008,Total,Males,25-54,Actual working hours full-time,49.4
+2008,Total,Males,55-74,Actual working hours full-time,47.5
+2008,Total,Females,16-24,Actual working hours full-time,41.8
+2008,Total,Females,25-54,Actual working hours full-time,42.3
+2008,Total,Females,55-74,Actual working hours full-time,41.8
+2008,Capital region,Total,16-24,Actual working hours full-time,44.6
+2008,Capital region,Total,25-54,Actual working hours full-time,45.5
+2008,Capital region,Total,55-74,Actual working hours full-time,44.4
+2008,Capital region,Males,16-24,Actual working hours full-time,47.4
+2008,Capital region,Males,25-54,Actual working hours full-time,47.7
+2008,Capital region,Males,55-74,Actual working hours full-time,46.4
+2008,Capital region,Females,16-24,Actual working hours full-time,40.8
+2008,Capital region,Females,25-54,Actual working hours full-time,41.9
+2008,Capital region,Females,55-74,Actual working hours full-time,40.4
+2008,Outside Capital region,Total,16-24,Actual working hours full-time,47.3
+2008,Outside Capital region,Total,25-54,Actual working hours full-time,49.3
+2008,Outside Capital region,Total,55-74,Actual working hours full-time,47.8
+2008,Outside Capital region,Males,16-24,Actual working hours full-time,49.7
+2008,Outside Capital region,Males,25-54,Actual working hours full-time,52.7
+2008,Outside Capital region,Males,55-74,Actual working hours full-time,49.6
+2008,Outside Capital region,Females,16-24,Actual working hours full-time,43.9
+2008,Outside Capital region,Females,25-54,Actual working hours full-time,43.1
+2008,Outside Capital region,Females,55-74,Actual working hours full-time,44.3
+2009,Total,Total,16-24,Actual working hours full-time,44.7
+2009,Total,Total,25-54,Actual working hours full-time,45.0
+2009,Total,Total,55-74,Actual working hours full-time,44.5
+2009,Total,Males,16-24,Actual working hours full-time,45.6
+2009,Total,Males,25-54,Actual working hours full-time,47.3
+2009,Total,Males,55-74,Actual working hours full-time,45.9
+2009,Total,Females,16-24,Actual working hours full-time,43.5
+2009,Total,Females,25-54,Actual working hours full-time,41.3
+2009,Total,Females,55-74,Actual working hours full-time,41.7
+2009,Capital region,Total,16-24,Actual working hours full-time,44.4
+2009,Capital region,Total,25-54,Actual working hours full-time,43.8
+2009,Capital region,Total,55-74,Actual working hours full-time,43.3
+2009,Capital region,Males,16-24,Actual working hours full-time,44.9
+2009,Capital region,Males,25-54,Actual working hours full-time,45.7
+2009,Capital region,Males,55-74,Actual working hours full-time,44.8
+2009,Capital region,Females,16-24,Actual working hours full-time,43.6
+2009,Capital region,Females,25-54,Actual working hours full-time,41.2
+2009,Capital region,Females,55-74,Actual working hours full-time,40.4
+2009,Outside Capital region,Total,16-24,Actual working hours full-time,45.4
+2009,Outside Capital region,Total,25-54,Actual working hours full-time,47.1
+2009,Outside Capital region,Total,55-74,Actual working hours full-time,46.6
+2009,Outside Capital region,Males,16-24,Actual working hours full-time,46.8
+2009,Outside Capital region,Males,25-54,Actual working hours full-time,50.0
+2009,Outside Capital region,Males,55-74,Actual working hours full-time,47.8
+2009,Outside Capital region,Females,16-24,Actual working hours full-time,43.3
+2009,Outside Capital region,Females,25-54,Actual working hours full-time,41.7
+2009,Outside Capital region,Females,55-74,Actual working hours full-time,44.3
+2010,Total,Total,16-24,Actual working hours full-time,43.7
+2010,Total,Total,25-54,Actual working hours full-time,45.0
+2010,Total,Total,55-74,Actual working hours full-time,44.9
+2010,Total,Males,16-24,Actual working hours full-time,45.0
+2010,Total,Males,25-54,Actual working hours full-time,47.4
+2010,Total,Males,55-74,Actual working hours full-time,47.1
+2010,Total,Females,16-24,Actual working hours full-time,41.8
+2010,Total,Females,25-54,Actual working hours full-time,41.4
+2010,Total,Females,55-74,Actual working hours full-time,40.9
+2010,Capital region,Total,16-24,Actual working hours full-time,42.9
+2010,Capital region,Total,25-54,Actual working hours full-time,43.5
+2010,Capital region,Total,55-74,Actual working hours full-time,43.4
+2010,Capital region,Males,16-24,Actual working hours full-time,44.2
+2010,Capital region,Males,25-54,Actual working hours full-time,45.6
+2010,Capital region,Males,55-74,Actual working hours full-time,45.3
+2010,Capital region,Females,16-24,Actual working hours full-time,41.3
+2010,Capital region,Females,25-54,Actual working hours full-time,40.7
+2010,Capital region,Females,55-74,Actual working hours full-time,40.4
+2010,Outside Capital region,Total,16-24,Actual working hours full-time,44.8
+2010,Outside Capital region,Total,25-54,Actual working hours full-time,47.8
+2010,Outside Capital region,Total,55-74,Actual working hours full-time,47.2
+2010,Outside Capital region,Males,16-24,Actual working hours full-time,45.9
+2010,Outside Capital region,Males,25-54,Actual working hours full-time,50.4
+2010,Outside Capital region,Males,55-74,Actual working hours full-time,49.7
+2010,Outside Capital region,Females,16-24,Actual working hours full-time,42.8
+2010,Outside Capital region,Females,25-54,Actual working hours full-time,43.1
+2010,Outside Capital region,Females,55-74,Actual working hours full-time,42.0
+2011,Total,Total,16-24,Actual working hours full-time,43.2
+2011,Total,Total,25-54,Actual working hours full-time,45.3
+2011,Total,Total,55-74,Actual working hours full-time,44.9
+2011,Total,Males,16-24,Actual working hours full-time,44.9
+2011,Total,Males,25-54,Actual working hours full-time,47.9
+2011,Total,Males,55-74,Actual working hours full-time,46.9
+2011,Total,Females,16-24,Actual working hours full-time,40.8
+2011,Total,Females,25-54,Actual working hours full-time,41.3
+2011,Total,Females,55-74,Actual working hours full-time,41.6
+2011,Capital region,Total,16-24,Actual working hours full-time,42.7
+2011,Capital region,Total,25-54,Actual working hours full-time,43.6
+2011,Capital region,Total,55-74,Actual working hours full-time,43.4
+2011,Capital region,Males,16-24,Actual working hours full-time,44.2
+2011,Capital region,Males,25-54,Actual working hours full-time,45.7
+2011,Capital region,Males,55-74,Actual working hours full-time,44.9
+2011,Capital region,Females,16-24,Actual working hours full-time,40.6
+2011,Capital region,Females,25-54,Actual working hours full-time,40.8
+2011,Capital region,Females,55-74,Actual working hours full-time,41.1
+2011,Outside Capital region,Total,16-24,Actual working hours full-time,44.1
+2011,Outside Capital region,Total,25-54,Actual working hours full-time,48.4
+2011,Outside Capital region,Total,55-74,Actual working hours full-time,47.3
+2011,Outside Capital region,Males,16-24,Actual working hours full-time,46.2
+2011,Outside Capital region,Males,25-54,Actual working hours full-time,51.6
+2011,Outside Capital region,Males,55-74,Actual working hours full-time,49.6
+2011,Outside Capital region,Females,16-24,Actual working hours full-time,41.1
+2011,Outside Capital region,Females,25-54,Actual working hours full-time,42.5
+2011,Outside Capital region,Females,55-74,Actual working hours full-time,42.6
+2012,Total,Total,16-24,Actual working hours full-time,43.9
+2012,Total,Total,25-54,Actual working hours full-time,45.3
+2012,Total,Total,55-74,Actual working hours full-time,44.3
+2012,Total,Males,16-24,Actual working hours full-time,45.1
+2012,Total,Males,25-54,Actual working hours full-time,48.1
+2012,Total,Males,55-74,Actual working hours full-time,46.3
+2012,Total,Females,16-24,Actual working hours full-time,41.8
+2012,Total,Females,25-54,Actual working hours full-time,41.3
+2012,Total,Females,55-74,Actual working hours full-time,41.0
+2012,Capital region,Total,16-24,Actual working hours full-time,43.0
+2012,Capital region,Total,25-54,Actual working hours full-time,44.0
+2012,Capital region,Total,55-74,Actual working hours full-time,42.5
+2012,Capital region,Males,16-24,Actual working hours full-time,44.0
+2012,Capital region,Males,25-54,Actual working hours full-time,46.4
+2012,Capital region,Males,55-74,Actual working hours full-time,44.3
+2012,Capital region,Females,16-24,Actual working hours full-time,41.5
+2012,Capital region,Females,25-54,Actual working hours full-time,40.9
+2012,Capital region,Females,55-74,Actual working hours full-time,40.0
+2012,Outside Capital region,Total,16-24,Actual working hours full-time,45.6
+2012,Outside Capital region,Total,25-54,Actual working hours full-time,47.5
+2012,Outside Capital region,Total,55-74,Actual working hours full-time,47.0
+2012,Outside Capital region,Males,16-24,Actual working hours full-time,47.3
+2012,Outside Capital region,Males,25-54,Actual working hours full-time,51.2
+2012,Outside Capital region,Males,55-74,Actual working hours full-time,49.1
+2012,Outside Capital region,Females,16-24,Actual working hours full-time,42.5
+2012,Outside Capital region,Females,25-54,Actual working hours full-time,41.9
+2012,Outside Capital region,Females,55-74,Actual working hours full-time,42.9
+2013,Total,Total,16-24,Actual working hours full-time,44.3
+2013,Total,Total,25-54,Actual working hours full-time,45.0
+2013,Total,Total,55-74,Actual working hours full-time,45.3
+2013,Total,Males,16-24,Actual working hours full-time,45.9
+2013,Total,Males,25-54,Actual working hours full-time,47.7
+2013,Total,Males,55-74,Actual working hours full-time,47.3
+2013,Total,Females,16-24,Actual working hours full-time,42.3
+2013,Total,Females,25-54,Actual working hours full-time,41.1
+2013,Total,Females,55-74,Actual working hours full-time,41.5
+2013,Capital region,Total,16-24,Actual working hours full-time,43.9
+2013,Capital region,Total,25-54,Actual working hours full-time,43.4
+2013,Capital region,Total,55-74,Actual working hours full-time,43.4
+2013,Capital region,Males,16-24,Actual working hours full-time,45.4
+2013,Capital region,Males,25-54,Actual working hours full-time,45.5
+2013,Capital region,Males,55-74,Actual working hours full-time,45.2
+2013,Capital region,Females,16-24,Actual working hours full-time,42.1
+2013,Capital region,Females,25-54,Actual working hours full-time,40.5
+2013,Capital region,Females,55-74,Actual working hours full-time,40.4
+2013,Outside Capital region,Total,16-24,Actual working hours full-time,45.2
+2013,Outside Capital region,Total,25-54,Actual working hours full-time,47.9
+2013,Outside Capital region,Total,55-74,Actual working hours full-time,48.5
+2013,Outside Capital region,Males,16-24,Actual working hours full-time,46.7
+2013,Outside Capital region,Males,25-54,Actual working hours full-time,51.3
+2013,Outside Capital region,Males,55-74,Actual working hours full-time,50.4
+2013,Outside Capital region,Females,16-24,Actual working hours full-time,42.7
+2013,Outside Capital region,Females,25-54,Actual working hours full-time,42.5
+2013,Outside Capital region,Females,55-74,Actual working hours full-time,43.9
+2014,Total,Total,16-24,Actual working hours full-time,43.0
+2014,Total,Total,25-54,Actual working hours full-time,44.9
+2014,Total,Total,55-74,Actual working hours full-time,45.1
+2014,Total,Males,16-24,Actual working hours full-time,44.5
+2014,Total,Males,25-54,Actual working hours full-time,47.6
+2014,Total,Males,55-74,Actual working hours full-time,47.0
+2014,Total,Females,16-24,Actual working hours full-time,41.0
+2014,Total,Females,25-54,Actual working hours full-time,41.1
+2014,Total,Females,55-74,Actual working hours full-time,41.7
+2014,Capital region,Total,16-24,Actual working hours full-time,42.3
+2014,Capital region,Total,25-54,Actual working hours full-time,43.5
+2014,Capital region,Total,55-74,Actual working hours full-time,44.1
+2014,Capital region,Males,16-24,Actual working hours full-time,43.4
+2014,Capital region,Males,25-54,Actual working hours full-time,45.7
+2014,Capital region,Males,55-74,Actual working hours full-time,45.9
+2014,Capital region,Females,16-24,Actual working hours full-time,41.1
+2014,Capital region,Females,25-54,Actual working hours full-time,40.6
+2014,Capital region,Females,55-74,Actual working hours full-time,41.2
+2014,Outside Capital region,Total,16-24,Actual working hours full-time,44.0
+2014,Outside Capital region,Total,25-54,Actual working hours full-time,47.6
+2014,Outside Capital region,Total,55-74,Actual working hours full-time,46.8
+2014,Outside Capital region,Males,16-24,Actual working hours full-time,46.2
+2014,Outside Capital region,Males,25-54,Actual working hours full-time,50.9
+2014,Outside Capital region,Males,55-74,Actual working hours full-time,48.7
+2014,Outside Capital region,Females,16-24,Actual working hours full-time,40.6
+2014,Outside Capital region,Females,25-54,Actual working hours full-time,42.1
+2014,Outside Capital region,Females,55-74,Actual working hours full-time,42.7
+2015,Total,Total,16-24,Actual working hours full-time,44.4
+2015,Total,Total,25-54,Actual working hours full-time,45.2
+2015,Total,Total,55-74,Actual working hours full-time,45.1
+2015,Total,Males,16-24,Actual working hours full-time,46.0
+2015,Total,Males,25-54,Actual working hours full-time,48.1
+2015,Total,Males,55-74,Actual working hours full-time,47.1
+2015,Total,Females,16-24,Actual working hours full-time,42.2
+2015,Total,Females,25-54,Actual working hours full-time,41.1
+2015,Total,Females,55-74,Actual working hours full-time,41.6
+2015,Capital region,Total,16-24,Actual working hours full-time,44.0
+2015,Capital region,Total,25-54,Actual working hours full-time,44.1
+2015,Capital region,Total,55-74,Actual working hours full-time,43.9
+2015,Capital region,Males,16-24,Actual working hours full-time,45.3
+2015,Capital region,Males,25-54,Actual working hours full-time,46.6
+2015,Capital region,Males,55-74,Actual working hours full-time,45.8
+2015,Capital region,Females,16-24,Actual working hours full-time,42.5
+2015,Capital region,Females,25-54,Actual working hours full-time,40.8
+2015,Capital region,Females,55-74,Actual working hours full-time,41.2
+2015,Outside Capital region,Total,16-24,Actual working hours full-time,45.1
+2015,Outside Capital region,Total,25-54,Actual working hours full-time,47.3
+2015,Outside Capital region,Total,55-74,Actual working hours full-time,46.9
+2015,Outside Capital region,Males,16-24,Actual working hours full-time,47.1
+2015,Outside Capital region,Males,25-54,Actual working hours full-time,50.5
+2015,Outside Capital region,Males,55-74,Actual working hours full-time,48.8
+2015,Outside Capital region,Females,16-24,Actual working hours full-time,41.7
+2015,Outside Capital region,Females,25-54,Actual working hours full-time,41.8
+2015,Outside Capital region,Females,55-74,Actual working hours full-time,42.5
+2016,Total,Total,16-24,Actual working hours full-time,42.8
+2016,Total,Total,25-54,Actual working hours full-time,45.5
+2016,Total,Total,55-74,Actual working hours full-time,45.1
+2016,Total,Males,16-24,Actual working hours full-time,43.9
+2016,Total,Males,25-54,Actual working hours full-time,47.8
+2016,Total,Males,55-74,Actual working hours full-time,47.3
+2016,Total,Females,16-24,Actual working hours full-time,41.0
+2016,Total,Females,25-54,Actual working hours full-time,42.0
+2016,Total,Females,55-74,Actual working hours full-time,40.8
+2016,Capital region,Total,16-24,Actual working hours full-time,41.8
+2016,Capital region,Total,25-54,Actual working hours full-time,44.3
+2016,Capital region,Total,55-74,Actual working hours full-time,43.8
+2016,Capital region,Males,16-24,Actual working hours full-time,42.2
+2016,Capital region,Males,25-54,Actual working hours full-time,46.0
+2016,Capital region,Males,55-74,Actual working hours full-time,45.8
+2016,Capital region,Females,16-24,Actual working hours full-time,41.2
+2016,Capital region,Females,25-54,Actual working hours full-time,41.9
+2016,Capital region,Females,55-74,Actual working hours full-time,40.2
+2016,Outside Capital region,Total,16-24,Actual working hours full-time,44.8
+2016,Outside Capital region,Total,25-54,Actual working hours full-time,47.8
+2016,Outside Capital region,Total,55-74,Actual working hours full-time,47.1
+2016,Outside Capital region,Males,16-24,Actual working hours full-time,47.3
+2016,Outside Capital region,Males,25-54,Actual working hours full-time,51.2
+2016,Outside Capital region,Males,55-74,Actual working hours full-time,49.4
+2016,Outside Capital region,Females,16-24,Actual working hours full-time,40.7
+2016,Outside Capital region,Females,25-54,Actual working hours full-time,42.4
+2016,Outside Capital region,Females,55-74,Actual working hours full-time,41.8
+2017,Total,Total,16-24,Actual working hours full-time,44.3
+2017,Total,Total,25-54,Actual working hours full-time,44.7
+2017,Total,Total,55-74,Actual working hours full-time,44.7
+2017,Total,Males,16-24,Actual working hours full-time,45.8
+2017,Total,Males,25-54,Actual working hours full-time,47.0
+2017,Total,Males,55-74,Actual working hours full-time,46.4
+2017,Total,Females,16-24,Actual working hours full-time,41.7
+2017,Total,Females,25-54,Actual working hours full-time,41.4
+2017,Total,Females,55-74,Actual working hours full-time,41.6
+2017,Capital region,Total,16-24,Actual working hours full-time,44.3
+2017,Capital region,Total,25-54,Actual working hours full-time,43.7
+2017,Capital region,Total,55-74,Actual working hours full-time,43.9
+2017,Capital region,Males,16-24,Actual working hours full-time,45.7
+2017,Capital region,Males,25-54,Actual working hours full-time,45.3
+2017,Capital region,Males,55-74,Actual working hours full-time,45.4
+2017,Capital region,Females,16-24,Actual working hours full-time,42.1
+2017,Capital region,Females,25-54,Actual working hours full-time,41.2
+2017,Capital region,Females,55-74,Actual working hours full-time,41.4
+2017,Outside Capital region,Total,16-24,Actual working hours full-time,44.2
+2017,Outside Capital region,Total,25-54,Actual working hours full-time,46.7
+2017,Outside Capital region,Total,55-74,Actual working hours full-time,46.0
+2017,Outside Capital region,Males,16-24,Actual working hours full-time,46.0
+2017,Outside Capital region,Males,25-54,Actual working hours full-time,50.0
+2017,Outside Capital region,Males,55-74,Actual working hours full-time,47.9
+2017,Outside Capital region,Females,16-24,Actual working hours full-time,41.0
+2017,Outside Capital region,Females,25-54,Actual working hours full-time,41.9
+2017,Outside Capital region,Females,55-74,Actual working hours full-time,42.0
+2018,Total,Total,16-24,Actual working hours full-time,44.1
+2018,Total,Total,25-54,Actual working hours full-time,44.2
+2018,Total,Total,55-74,Actual working hours full-time,44.8
+2018,Total,Males,16-24,Actual working hours full-time,45.9
+2018,Total,Males,25-54,Actual working hours full-time,46.2
+2018,Total,Males,55-74,Actual working hours full-time,46.9
+2018,Total,Females,16-24,Actual working hours full-time,41.1
+2018,Total,Females,25-54,Actual working hours full-time,41.1
+2018,Total,Females,55-74,Actual working hours full-time,41.0
+2018,Capital region,Total,16-24,Actual working hours full-time,44.6
+2018,Capital region,Total,25-54,Actual working hours full-time,43.2
+2018,Capital region,Total,55-74,Actual working hours full-time,43.2
+2018,Capital region,Males,16-24,Actual working hours full-time,46.7
+2018,Capital region,Males,25-54,Actual working hours full-time,44.7
+2018,Capital region,Males,55-74,Actual working hours full-time,44.8
+2018,Capital region,Females,16-24,Actual working hours full-time,41.5
+2018,Capital region,Females,25-54,Actual working hours full-time,40.9
+2018,Capital region,Females,55-74,Actual working hours full-time,40.7
+2018,Outside Capital region,Total,16-24,Actual working hours full-time,43.3
+2018,Outside Capital region,Total,25-54,Actual working hours full-time,46.2
+2018,Outside Capital region,Total,55-74,Actual working hours full-time,47.5
+2018,Outside Capital region,Males,16-24,Actual working hours full-time,44.8
+2018,Outside Capital region,Males,25-54,Actual working hours full-time,48.8
+2018,Outside Capital region,Males,55-74,Actual working hours full-time,49.6
+2018,Outside Capital region,Females,16-24,Actual working hours full-time,40.5
+2018,Outside Capital region,Females,25-54,Actual working hours full-time,41.7
+2018,Outside Capital region,Females,55-74,Actual working hours full-time,41.9
+2019,Total,Total,16-24,Actual working hours full-time,41.5
+2019,Total,Total,25-54,Actual working hours full-time,44.0
+2019,Total,Total,55-74,Actual working hours full-time,44.6
+2019,Total,Males,16-24,Actual working hours full-time,41.8
+2019,Total,Males,25-54,Actual working hours full-time,45.9
+2019,Total,Males,55-74,Actual working hours full-time,46.5
+2019,Total,Females,16-24,Actual working hours full-time,41.2
+2019,Total,Females,25-54,Actual working hours full-time,41.1
+2019,Total,Females,55-74,Actual working hours full-time,40.7
+2019,Capital region,Total,16-24,Actual working hours full-time,40.7
+2019,Capital region,Total,25-54,Actual working hours full-time,42.6
+2019,Capital region,Total,55-74,Actual working hours full-time,43.0
+2019,Capital region,Males,16-24,Actual working hours full-time,40.0
+2019,Capital region,Males,25-54,Actual working hours full-time,44.1
+2019,Capital region,Males,55-74,Actual working hours full-time,45.1
+2019,Capital region,Females,16-24,Actual working hours full-time,41.5
+2019,Capital region,Females,25-54,Actual working hours full-time,40.5
+2019,Capital region,Females,55-74,Actual working hours full-time,39.7
+2019,Outside Capital region,Total,16-24,Actual working hours full-time,42.7
+2019,Outside Capital region,Total,25-54,Actual working hours full-time,46.7
+2019,Outside Capital region,Total,55-74,Actual working hours full-time,47.1
+2019,Outside Capital region,Males,16-24,Actual working hours full-time,43.9
+2019,Outside Capital region,Males,25-54,Actual working hours full-time,49.1
+2019,Outside Capital region,Males,55-74,Actual working hours full-time,48.6
+2019,Outside Capital region,Females,16-24,Actual working hours full-time,40.8
+2019,Outside Capital region,Females,25-54,Actual working hours full-time,42.5
+2019,Outside Capital region,Females,55-74,Actual working hours full-time,43.0
+2003,Total,Total,16-24,Actual working hours part-time,18.3
+2003,Total,Total,25-54,Actual working hours part-time,26.5
+2003,Total,Total,55-74,Actual working hours part-time,24.2
+2003,Total,Males,16-24,Actual working hours part-time,18.6
+2003,Total,Males,25-54,Actual working hours part-time,28.7
+2003,Total,Males,55-74,Actual working hours part-time,22.8
+2003,Total,Females,16-24,Actual working hours part-time,18.1
+2003,Total,Females,25-54,Actual working hours part-time,26.1
+2003,Total,Females,55-74,Actual working hours part-time,24.6
+2003,Capital region,Total,16-24,Actual working hours part-time,18.3
+2003,Capital region,Total,25-54,Actual working hours part-time,26.2
+2003,Capital region,Total,55-74,Actual working hours part-time,23.4
+2003,Capital region,Males,16-24,Actual working hours part-time,18.6
+2003,Capital region,Males,25-54,Actual working hours part-time,27.1
+2003,Capital region,Males,55-74,Actual working hours part-time,23.4
+2003,Capital region,Females,16-24,Actual working hours part-time,18.1
+2003,Capital region,Females,25-54,Actual working hours part-time,26.0
+2003,Capital region,Females,55-74,Actual working hours part-time,23.4
+2003,Outside Capital region,Total,16-24,Actual working hours part-time,18.5
+2003,Outside Capital region,Total,25-54,Actual working hours part-time,26.9
+2003,Outside Capital region,Total,55-74,Actual working hours part-time,25.5
+2003,Outside Capital region,Males,16-24,Actual working hours part-time,18.7
+2003,Outside Capital region,Males,25-54,Actual working hours part-time,32.2
+2003,Outside Capital region,Males,55-74,Actual working hours part-time,21.1
+2003,Outside Capital region,Females,16-24,Actual working hours part-time,18.4
+2003,Outside Capital region,Females,25-54,Actual working hours part-time,26.3
+2003,Outside Capital region,Females,55-74,Actual working hours part-time,26.3
+2004,Total,Total,16-24,Actual working hours part-time,18.7
+2004,Total,Total,25-54,Actual working hours part-time,27.2
+2004,Total,Total,55-74,Actual working hours part-time,23.9
+2004,Total,Males,16-24,Actual working hours part-time,19.1
+2004,Total,Males,25-54,Actual working hours part-time,28.7
+2004,Total,Males,55-74,Actual working hours part-time,23.0
+2004,Total,Females,16-24,Actual working hours part-time,18.4
+2004,Total,Females,25-54,Actual working hours part-time,26.9
+2004,Total,Females,55-74,Actual working hours part-time,24.2
+2004,Capital region,Total,16-24,Actual working hours part-time,18.3
+2004,Capital region,Total,25-54,Actual working hours part-time,26.4
+2004,Capital region,Total,55-74,Actual working hours part-time,23.7
+2004,Capital region,Males,16-24,Actual working hours part-time,19.5
+2004,Capital region,Males,25-54,Actual working hours part-time,24.7
+2004,Capital region,Males,55-74,Actual working hours part-time,22.8
+2004,Capital region,Females,16-24,Actual working hours part-time,17.6
+2004,Capital region,Females,25-54,Actual working hours part-time,26.8
+2004,Capital region,Females,55-74,Actual working hours part-time,24.0
+2004,Outside Capital region,Total,16-24,Actual working hours part-time,19.6
+2004,Outside Capital region,Total,25-54,Actual working hours part-time,28.2
+2004,Outside Capital region,Total,55-74,Actual working hours part-time,24.1
+2004,Outside Capital region,Males,16-24,Actual working hours part-time,18.2
+2004,Outside Capital region,Males,25-54,Actual working hours part-time,37.8
+2004,Outside Capital region,Males,55-74,Actual working hours part-time,23.3
+2004,Outside Capital region,Females,16-24,Actual working hours part-time,20.6
+2004,Outside Capital region,Females,25-54,Actual working hours part-time,26.9
+2004,Outside Capital region,Females,55-74,Actual working hours part-time,24.5
+2005,Total,Total,16-24,Actual working hours part-time,18.4
+2005,Total,Total,25-54,Actual working hours part-time,26.8
+2005,Total,Total,55-74,Actual working hours part-time,25.2
+2005,Total,Males,16-24,Actual working hours part-time,20.2
+2005,Total,Males,25-54,Actual working hours part-time,30.2
+2005,Total,Males,55-74,Actual working hours part-time,24.7
+2005,Total,Females,16-24,Actual working hours part-time,17.5
+2005,Total,Females,25-54,Actual working hours part-time,26.3
+2005,Total,Females,55-74,Actual working hours part-time,25.4
+2005,Capital region,Total,16-24,Actual working hours part-time,18.4
+2005,Capital region,Total,25-54,Actual working hours part-time,26.8
+2005,Capital region,Total,55-74,Actual working hours part-time,25.9
+2005,Capital region,Males,16-24,Actual working hours part-time,19.5
+2005,Capital region,Males,25-54,Actual working hours part-time,27.1
+2005,Capital region,Males,55-74,Actual working hours part-time,24.5
+2005,Capital region,Females,16-24,Actual working hours part-time,17.8
+2005,Capital region,Females,25-54,Actual working hours part-time,26.7
+2005,Capital region,Females,55-74,Actual working hours part-time,26.3
+2005,Outside Capital region,Total,16-24,Actual working hours part-time,18.7
+2005,Outside Capital region,Total,25-54,Actual working hours part-time,26.7
+2005,Outside Capital region,Total,55-74,Actual working hours part-time,24.4
+2005,Outside Capital region,Males,16-24,Actual working hours part-time,22.4
+2005,Outside Capital region,Males,25-54,Actual working hours part-time,36.3
+2005,Outside Capital region,Males,55-74,Actual working hours part-time,24.8
+2005,Outside Capital region,Females,16-24,Actual working hours part-time,16.7
+2005,Outside Capital region,Females,25-54,Actual working hours part-time,25.7
+2005,Outside Capital region,Females,55-74,Actual working hours part-time,24.3
+2006,Total,Total,16-24,Actual working hours part-time,18.4
+2006,Total,Total,25-54,Actual working hours part-time,27.8
+2006,Total,Total,55-74,Actual working hours part-time,26.1
+2006,Total,Males,16-24,Actual working hours part-time,18.3
+2006,Total,Males,25-54,Actual working hours part-time,32.7
+2006,Total,Males,55-74,Actual working hours part-time,26.7
+2006,Total,Females,16-24,Actual working hours part-time,18.5
+2006,Total,Females,25-54,Actual working hours part-time,26.8
+2006,Total,Females,55-74,Actual working hours part-time,25.9
+2006,Capital region,Total,16-24,Actual working hours part-time,18.5
+2006,Capital region,Total,25-54,Actual working hours part-time,27.7
+2006,Capital region,Total,55-74,Actual working hours part-time,26.9
+2006,Capital region,Males,16-24,Actual working hours part-time,19.5
+2006,Capital region,Males,25-54,Actual working hours part-time,31.5
+2006,Capital region,Males,55-74,Actual working hours part-time,27.5
+2006,Capital region,Females,16-24,Actual working hours part-time,17.9
+2006,Capital region,Females,25-54,Actual working hours part-time,26.9
+2006,Capital region,Females,55-74,Actual working hours part-time,26.8
+2006,Outside Capital region,Total,16-24,Actual working hours part-time,18.2
+2006,Outside Capital region,Total,25-54,Actual working hours part-time,28.0
+2006,Outside Capital region,Total,55-74,Actual working hours part-time,25.2
+2006,Outside Capital region,Males,16-24,Actual working hours part-time,15.2
+2006,Outside Capital region,Males,25-54,Actual working hours part-time,34.6
+2006,Outside Capital region,Males,55-74,Actual working hours part-time,26.1
+2006,Outside Capital region,Females,16-24,Actual working hours part-time,19.9
+2006,Outside Capital region,Females,25-54,Actual working hours part-time,26.7
+2006,Outside Capital region,Females,55-74,Actual working hours part-time,24.9
+2007,Total,Total,16-24,Actual working hours part-time,18.7
+2007,Total,Total,25-54,Actual working hours part-time,26.6
+2007,Total,Total,55-74,Actual working hours part-time,25.3
+2007,Total,Males,16-24,Actual working hours part-time,18.0
+2007,Total,Males,25-54,Actual working hours part-time,28.0
+2007,Total,Males,55-74,Actual working hours part-time,24.0
+2007,Total,Females,16-24,Actual working hours part-time,19.1
+2007,Total,Females,25-54,Actual working hours part-time,26.4
+2007,Total,Females,55-74,Actual working hours part-time,25.7
+2007,Capital region,Total,16-24,Actual working hours part-time,18.3
+2007,Capital region,Total,25-54,Actual working hours part-time,26.0
+2007,Capital region,Total,55-74,Actual working hours part-time,25.5
+2007,Capital region,Males,16-24,Actual working hours part-time,17.2
+2007,Capital region,Males,25-54,Actual working hours part-time,27.9
+2007,Capital region,Males,55-74,Actual working hours part-time,23.0
+2007,Capital region,Females,16-24,Actual working hours part-time,19.0
+2007,Capital region,Females,25-54,Actual working hours part-time,25.5
+2007,Capital region,Females,55-74,Actual working hours part-time,26.3
+2007,Outside Capital region,Total,16-24,Actual working hours part-time,19.9
+2007,Outside Capital region,Total,25-54,Actual working hours part-time,27.6
+2007,Outside Capital region,Total,55-74,Actual working hours part-time,25.0
+2007,Outside Capital region,Males,16-24,Actual working hours part-time,20.6
+2007,Outside Capital region,Males,25-54,Actual working hours part-time,28.2
+2007,Outside Capital region,Males,55-74,Actual working hours part-time,25.6
+2007,Outside Capital region,Females,16-24,Actual working hours part-time,19.5
+2007,Outside Capital region,Females,25-54,Actual working hours part-time,27.5
+2007,Outside Capital region,Females,55-74,Actual working hours part-time,24.8
+2008,Total,Total,16-24,Actual working hours part-time,17.4
+2008,Total,Total,25-54,Actual working hours part-time,25.7
+2008,Total,Total,55-74,Actual working hours part-time,24.9
+2008,Total,Males,16-24,Actual working hours part-time,17.1
+2008,Total,Males,25-54,Actual working hours part-time,26.7
+2008,Total,Males,55-74,Actual working hours part-time,22.8
+2008,Total,Females,16-24,Actual working hours part-time,17.6
+2008,Total,Females,25-54,Actual working hours part-time,25.5
+2008,Total,Females,55-74,Actual working hours part-time,25.6
+2008,Capital region,Total,16-24,Actual working hours part-time,17.1
+2008,Capital region,Total,25-54,Actual working hours part-time,25.8
+2008,Capital region,Total,55-74,Actual working hours part-time,24.8
+2008,Capital region,Males,16-24,Actual working hours part-time,16.9
+2008,Capital region,Males,25-54,Actual working hours part-time,27.1
+2008,Capital region,Males,55-74,Actual working hours part-time,23.0
+2008,Capital region,Females,16-24,Actual working hours part-time,17.3
+2008,Capital region,Females,25-54,Actual working hours part-time,25.5
+2008,Capital region,Females,55-74,Actual working hours part-time,25.4
+2008,Outside Capital region,Total,16-24,Actual working hours part-time,18.1
+2008,Outside Capital region,Total,25-54,Actual working hours part-time,25.6
+2008,Outside Capital region,Total,55-74,Actual working hours part-time,25.1
+2008,Outside Capital region,Males,16-24,Actual working hours part-time,17.7
+2008,Outside Capital region,Males,25-54,Actual working hours part-time,25.8
+2008,Outside Capital region,Males,55-74,Actual working hours part-time,22.5
+2008,Outside Capital region,Females,16-24,Actual working hours part-time,18.3
+2008,Outside Capital region,Females,25-54,Actual working hours part-time,25.6
+2008,Outside Capital region,Females,55-74,Actual working hours part-time,25.8
+2009,Total,Total,16-24,Actual working hours part-time,17.1
+2009,Total,Total,25-54,Actual working hours part-time,25.7
+2009,Total,Total,55-74,Actual working hours part-time,24.8
+2009,Total,Males,16-24,Actual working hours part-time,16.4
+2009,Total,Males,25-54,Actual working hours part-time,26.1
+2009,Total,Males,55-74,Actual working hours part-time,25.7
+2009,Total,Females,16-24,Actual working hours part-time,17.6
+2009,Total,Females,25-54,Actual working hours part-time,25.5
+2009,Total,Females,55-74,Actual working hours part-time,24.5
+2009,Capital region,Total,16-24,Actual working hours part-time,17.0
+2009,Capital region,Total,25-54,Actual working hours part-time,24.9
+2009,Capital region,Total,55-74,Actual working hours part-time,24.7
+2009,Capital region,Males,16-24,Actual working hours part-time,16.4
+2009,Capital region,Males,25-54,Actual working hours part-time,24.7
+2009,Capital region,Males,55-74,Actual working hours part-time,25.1
+2009,Capital region,Females,16-24,Actual working hours part-time,17.5
+2009,Capital region,Females,25-54,Actual working hours part-time,24.9
+2009,Capital region,Females,55-74,Actual working hours part-time,24.5
+2009,Outside Capital region,Total,16-24,Actual working hours part-time,17.4
+2009,Outside Capital region,Total,25-54,Actual working hours part-time,26.9
+2009,Outside Capital region,Total,55-74,Actual working hours part-time,25.1
+2009,Outside Capital region,Males,16-24,Actual working hours part-time,16.6
+2009,Outside Capital region,Males,25-54,Actual working hours part-time,30.1
+2009,Outside Capital region,Males,55-74,Actual working hours part-time,26.9
+2009,Outside Capital region,Females,16-24,Actual working hours part-time,17.7
+2009,Outside Capital region,Females,25-54,Actual working hours part-time,26.3
+2009,Outside Capital region,Females,55-74,Actual working hours part-time,24.5
+2010,Total,Total,16-24,Actual working hours part-time,17.7
+2010,Total,Total,25-54,Actual working hours part-time,25.9
+2010,Total,Total,55-74,Actual working hours part-time,25.3
+2010,Total,Males,16-24,Actual working hours part-time,18.0
+2010,Total,Males,25-54,Actual working hours part-time,25.6
+2010,Total,Males,55-74,Actual working hours part-time,23.5
+2010,Total,Females,16-24,Actual working hours part-time,17.5
+2010,Total,Females,25-54,Actual working hours part-time,26.0
+2010,Total,Females,55-74,Actual working hours part-time,26.0
+2010,Capital region,Total,16-24,Actual working hours part-time,17.9
+2010,Capital region,Total,25-54,Actual working hours part-time,25.2
+2010,Capital region,Total,55-74,Actual working hours part-time,25.1
+2010,Capital region,Males,16-24,Actual working hours part-time,18.5
+2010,Capital region,Males,25-54,Actual working hours part-time,23.3
+2010,Capital region,Males,55-74,Actual working hours part-time,23.5
+2010,Capital region,Females,16-24,Actual working hours part-time,17.5
+2010,Capital region,Females,25-54,Actual working hours part-time,25.9
+2010,Capital region,Females,55-74,Actual working hours part-time,25.8
+2010,Outside Capital region,Total,16-24,Actual working hours part-time,17.3
+2010,Outside Capital region,Total,25-54,Actual working hours part-time,27.3
+2010,Outside Capital region,Total,55-74,Actual working hours part-time,25.6
+2010,Outside Capital region,Males,16-24,Actual working hours part-time,16.9
+2010,Outside Capital region,Males,25-54,Actual working hours part-time,32.5
+2010,Outside Capital region,Males,55-74,Actual working hours part-time,23.4
+2010,Outside Capital region,Females,16-24,Actual working hours part-time,17.5
+2010,Outside Capital region,Females,25-54,Actual working hours part-time,26.2
+2010,Outside Capital region,Females,55-74,Actual working hours part-time,26.4
+2011,Total,Total,16-24,Actual working hours part-time,17.9
+2011,Total,Total,25-54,Actual working hours part-time,26.7
+2011,Total,Total,55-74,Actual working hours part-time,25.0
+2011,Total,Males,16-24,Actual working hours part-time,17.2
+2011,Total,Males,25-54,Actual working hours part-time,25.6
+2011,Total,Males,55-74,Actual working hours part-time,23.7
+2011,Total,Females,16-24,Actual working hours part-time,18.4
+2011,Total,Females,25-54,Actual working hours part-time,27.0
+2011,Total,Females,55-74,Actual working hours part-time,25.5
+2011,Capital region,Total,16-24,Actual working hours part-time,17.8
+2011,Capital region,Total,25-54,Actual working hours part-time,26.4
+2011,Capital region,Total,55-74,Actual working hours part-time,23.9
+2011,Capital region,Males,16-24,Actual working hours part-time,17.0
+2011,Capital region,Males,25-54,Actual working hours part-time,24.6
+2011,Capital region,Males,55-74,Actual working hours part-time,21.0
+2011,Capital region,Females,16-24,Actual working hours part-time,18.3
+2011,Capital region,Females,25-54,Actual working hours part-time,27.0
+2011,Capital region,Females,55-74,Actual working hours part-time,25.2
+2011,Outside Capital region,Total,16-24,Actual working hours part-time,18.2
+2011,Outside Capital region,Total,25-54,Actual working hours part-time,27.2
+2011,Outside Capital region,Total,55-74,Actual working hours part-time,27.0
+2011,Outside Capital region,Males,16-24,Actual working hours part-time,17.7
+2011,Outside Capital region,Males,25-54,Actual working hours part-time,28.9
+2011,Outside Capital region,Males,55-74,Actual working hours part-time,29.6
+2011,Outside Capital region,Females,16-24,Actual working hours part-time,18.5
+2011,Outside Capital region,Females,25-54,Actual working hours part-time,26.9
+2011,Outside Capital region,Females,55-74,Actual working hours part-time,26.1
+2012,Total,Total,16-24,Actual working hours part-time,17.3
+2012,Total,Total,25-54,Actual working hours part-time,26.8
+2012,Total,Total,55-74,Actual working hours part-time,23.9
+2012,Total,Males,16-24,Actual working hours part-time,17.1
+2012,Total,Males,25-54,Actual working hours part-time,26.7
+2012,Total,Males,55-74,Actual working hours part-time,23.6
+2012,Total,Females,16-24,Actual working hours part-time,17.5
+2012,Total,Females,25-54,Actual working hours part-time,26.8
+2012,Total,Females,55-74,Actual working hours part-time,24.0
+2012,Capital region,Total,16-24,Actual working hours part-time,17.3
+2012,Capital region,Total,25-54,Actual working hours part-time,26.2
+2012,Capital region,Total,55-74,Actual working hours part-time,22.9
+2012,Capital region,Males,16-24,Actual working hours part-time,16.8
+2012,Capital region,Males,25-54,Actual working hours part-time,25.1
+2012,Capital region,Males,55-74,Actual working hours part-time,23.2
+2012,Capital region,Females,16-24,Actual working hours part-time,17.7
+2012,Capital region,Females,25-54,Actual working hours part-time,26.7
+2012,Capital region,Females,55-74,Actual working hours part-time,22.8
+2012,Outside Capital region,Total,16-24,Actual working hours part-time,17.3
+2012,Outside Capital region,Total,25-54,Actual working hours part-time,27.8
+2012,Outside Capital region,Total,55-74,Actual working hours part-time,25.6
+2012,Outside Capital region,Males,16-24,Actual working hours part-time,18.4
+2012,Outside Capital region,Males,25-54,Actual working hours part-time,31.0
+2012,Outside Capital region,Males,55-74,Actual working hours part-time,24.5
+2012,Outside Capital region,Females,16-24,Actual working hours part-time,16.7
+2012,Outside Capital region,Females,25-54,Actual working hours part-time,27.1
+2012,Outside Capital region,Females,55-74,Actual working hours part-time,26.0
+2013,Total,Total,16-24,Actual working hours part-time,17.8
+2013,Total,Total,25-54,Actual working hours part-time,25.8
+2013,Total,Total,55-74,Actual working hours part-time,24.1
+2013,Total,Males,16-24,Actual working hours part-time,16.6
+2013,Total,Males,25-54,Actual working hours part-time,25.8
+2013,Total,Males,55-74,Actual working hours part-time,23.2
+2013,Total,Females,16-24,Actual working hours part-time,18.6
+2013,Total,Females,25-54,Actual working hours part-time,25.8
+2013,Total,Females,55-74,Actual working hours part-time,24.4
+2013,Capital region,Total,16-24,Actual working hours part-time,17.5
+2013,Capital region,Total,25-54,Actual working hours part-time,25.1
+2013,Capital region,Total,55-74,Actual working hours part-time,24.0
+2013,Capital region,Males,16-24,Actual working hours part-time,16.4
+2013,Capital region,Males,25-54,Actual working hours part-time,24.9
+2013,Capital region,Males,55-74,Actual working hours part-time,21.9
+2013,Capital region,Females,16-24,Actual working hours part-time,18.3
+2013,Capital region,Females,25-54,Actual working hours part-time,25.2
+2013,Capital region,Females,55-74,Actual working hours part-time,24.8
+2013,Outside Capital region,Total,16-24,Actual working hours part-time,18.5
+2013,Outside Capital region,Total,25-54,Actual working hours part-time,26.9
+2013,Outside Capital region,Total,55-74,Actual working hours part-time,24.3
+2013,Outside Capital region,Males,16-24,Actual working hours part-time,17.0
+2013,Outside Capital region,Males,25-54,Actual working hours part-time,28.4
+2013,Outside Capital region,Males,55-74,Actual working hours part-time,25.8
+2013,Outside Capital region,Females,16-24,Actual working hours part-time,19.3
+2013,Outside Capital region,Females,25-54,Actual working hours part-time,26.6
+2013,Outside Capital region,Females,55-74,Actual working hours part-time,23.9
+2014,Total,Total,16-24,Actual working hours part-time,17.5
+2014,Total,Total,25-54,Actual working hours part-time,26.3
+2014,Total,Total,55-74,Actual working hours part-time,24.6
+2014,Total,Males,16-24,Actual working hours part-time,17.8
+2014,Total,Males,25-54,Actual working hours part-time,26.6
+2014,Total,Males,55-74,Actual working hours part-time,23.7
+2014,Total,Females,16-24,Actual working hours part-time,17.3
+2014,Total,Females,25-54,Actual working hours part-time,26.2
+2014,Total,Females,55-74,Actual working hours part-time,25.0
+2014,Capital region,Total,16-24,Actual working hours part-time,17.5
+2014,Capital region,Total,25-54,Actual working hours part-time,25.6
+2014,Capital region,Total,55-74,Actual working hours part-time,24.9
+2014,Capital region,Males,16-24,Actual working hours part-time,17.3
+2014,Capital region,Males,25-54,Actual working hours part-time,25.9
+2014,Capital region,Males,55-74,Actual working hours part-time,23.6
+2014,Capital region,Females,16-24,Actual working hours part-time,17.5
+2014,Capital region,Females,25-54,Actual working hours part-time,25.5
+2014,Capital region,Females,55-74,Actual working hours part-time,25.3
+2014,Outside Capital region,Total,16-24,Actual working hours part-time,17.7
+2014,Outside Capital region,Total,25-54,Actual working hours part-time,27.3
+2014,Outside Capital region,Total,55-74,Actual working hours part-time,24.3
+2014,Outside Capital region,Males,16-24,Actual working hours part-time,19.7
+2014,Outside Capital region,Males,25-54,Actual working hours part-time,28.2
+2014,Outside Capital region,Males,55-74,Actual working hours part-time,23.8
+2014,Outside Capital region,Females,16-24,Actual working hours part-time,16.5
+2014,Outside Capital region,Females,25-54,Actual working hours part-time,27.2
+2014,Outside Capital region,Females,55-74,Actual working hours part-time,24.5
+2015,Total,Total,16-24,Actual working hours part-time,17.2
+2015,Total,Total,25-54,Actual working hours part-time,26.9
+2015,Total,Total,55-74,Actual working hours part-time,25.5
+2015,Total,Males,16-24,Actual working hours part-time,16.9
+2015,Total,Males,25-54,Actual working hours part-time,26.4
+2015,Total,Males,55-74,Actual working hours part-time,24.2
+2015,Total,Females,16-24,Actual working hours part-time,17.4
+2015,Total,Females,25-54,Actual working hours part-time,27.1
+2015,Total,Females,55-74,Actual working hours part-time,26.0
+2015,Capital region,Total,16-24,Actual working hours part-time,16.7
+2015,Capital region,Total,25-54,Actual working hours part-time,26.4
+2015,Capital region,Total,55-74,Actual working hours part-time,25.0
+2015,Capital region,Males,16-24,Actual working hours part-time,16.9
+2015,Capital region,Males,25-54,Actual working hours part-time,25.7
+2015,Capital region,Males,55-74,Actual working hours part-time,23.0
+2015,Capital region,Females,16-24,Actual working hours part-time,16.6
+2015,Capital region,Females,25-54,Actual working hours part-time,26.7
+2015,Capital region,Females,55-74,Actual working hours part-time,25.9
+2015,Outside Capital region,Total,16-24,Actual working hours part-time,18.9
+2015,Outside Capital region,Total,25-54,Actual working hours part-time,27.9
+2015,Outside Capital region,Total,55-74,Actual working hours part-time,26.2
+2015,Outside Capital region,Males,16-24,Actual working hours part-time,17.1
+2015,Outside Capital region,Males,25-54,Actual working hours part-time,28.9
+2015,Outside Capital region,Males,55-74,Actual working hours part-time,26.0
+2015,Outside Capital region,Females,16-24,Actual working hours part-time,20.1
+2015,Outside Capital region,Females,25-54,Actual working hours part-time,27.8
+2015,Outside Capital region,Females,55-74,Actual working hours part-time,26.2
+2016,Total,Total,16-24,Actual working hours part-time,19.1
+2016,Total,Total,25-54,Actual working hours part-time,27.2
+2016,Total,Total,55-74,Actual working hours part-time,24.9
+2016,Total,Males,16-24,Actual working hours part-time,19.6
+2016,Total,Males,25-54,Actual working hours part-time,27.6
+2016,Total,Males,55-74,Actual working hours part-time,23.5
+2016,Total,Females,16-24,Actual working hours part-time,18.8
+2016,Total,Females,25-54,Actual working hours part-time,27.1
+2016,Total,Females,55-74,Actual working hours part-time,25.4
+2016,Capital region,Total,16-24,Actual working hours part-time,18.5
+2016,Capital region,Total,25-54,Actual working hours part-time,26.9
+2016,Capital region,Total,55-74,Actual working hours part-time,25.3
+2016,Capital region,Males,16-24,Actual working hours part-time,19.1
+2016,Capital region,Males,25-54,Actual working hours part-time,26.2
+2016,Capital region,Males,55-74,Actual working hours part-time,24.8
+2016,Capital region,Females,16-24,Actual working hours part-time,18.0
+2016,Capital region,Females,25-54,Actual working hours part-time,27.2
+2016,Capital region,Females,55-74,Actual working hours part-time,25.5
+2016,Outside Capital region,Total,16-24,Actual working hours part-time,21.2
+2016,Outside Capital region,Total,25-54,Actual working hours part-time,27.7
+2016,Outside Capital region,Total,55-74,Actual working hours part-time,24.3
+2016,Outside Capital region,Males,16-24,Actual working hours part-time,21.2
+2016,Outside Capital region,Males,25-54,Actual working hours part-time,31.5
+2016,Outside Capital region,Males,55-74,Actual working hours part-time,21.5
+2016,Outside Capital region,Females,16-24,Actual working hours part-time,21.2
+2016,Outside Capital region,Females,25-54,Actual working hours part-time,27.0
+2016,Outside Capital region,Females,55-74,Actual working hours part-time,25.3
+2017,Total,Total,16-24,Actual working hours part-time,18.9
+2017,Total,Total,25-54,Actual working hours part-time,27.6
+2017,Total,Total,55-74,Actual working hours part-time,24.5
+2017,Total,Males,16-24,Actual working hours part-time,19.4
+2017,Total,Males,25-54,Actual working hours part-time,27.9
+2017,Total,Males,55-74,Actual working hours part-time,24.2
+2017,Total,Females,16-24,Actual working hours part-time,18.5
+2017,Total,Females,25-54,Actual working hours part-time,27.5
+2017,Total,Females,55-74,Actual working hours part-time,24.7
+2017,Capital region,Total,16-24,Actual working hours part-time,18.3
+2017,Capital region,Total,25-54,Actual working hours part-time,25.9
+2017,Capital region,Total,55-74,Actual working hours part-time,24.6
+2017,Capital region,Males,16-24,Actual working hours part-time,18.4
+2017,Capital region,Males,25-54,Actual working hours part-time,26.2
+2017,Capital region,Males,55-74,Actual working hours part-time,23.4
+2017,Capital region,Females,16-24,Actual working hours part-time,18.3
+2017,Capital region,Females,25-54,Actual working hours part-time,25.7
+2017,Capital region,Females,55-74,Actual working hours part-time,25.1
+2017,Outside Capital region,Total,16-24,Actual working hours part-time,20.5
+2017,Outside Capital region,Total,25-54,Actual working hours part-time,30.1
+2017,Outside Capital region,Total,55-74,Actual working hours part-time,24.5
+2017,Outside Capital region,Males,16-24,Actual working hours part-time,22.4
+2017,Outside Capital region,Males,25-54,Actual working hours part-time,33.1
+2017,Outside Capital region,Males,55-74,Actual working hours part-time,25.3
+2017,Outside Capital region,Females,16-24,Actual working hours part-time,19.0
+2017,Outside Capital region,Females,25-54,Actual working hours part-time,29.6
+2017,Outside Capital region,Females,55-74,Actual working hours part-time,24.1
+2018,Total,Total,16-24,Actual working hours part-time,19.3
+2018,Total,Total,25-54,Actual working hours part-time,26.1
+2018,Total,Total,55-74,Actual working hours part-time,25.0
+2018,Total,Males,16-24,Actual working hours part-time,19.6
+2018,Total,Males,25-54,Actual working hours part-time,25.3
+2018,Total,Males,55-74,Actual working hours part-time,23.9
+2018,Total,Females,16-24,Actual working hours part-time,19.0
+2018,Total,Females,25-54,Actual working hours part-time,26.3
+2018,Total,Females,55-74,Actual working hours part-time,25.5
+2018,Capital region,Total,16-24,Actual working hours part-time,19.0
+2018,Capital region,Total,25-54,Actual working hours part-time,25.4
+2018,Capital region,Total,55-74,Actual working hours part-time,25.5
+2018,Capital region,Males,16-24,Actual working hours part-time,19.3
+2018,Capital region,Males,25-54,Actual working hours part-time,26.2
+2018,Capital region,Males,55-74,Actual working hours part-time,23.9
+2018,Capital region,Females,16-24,Actual working hours part-time,18.7
+2018,Capital region,Females,25-54,Actual working hours part-time,25.1
+2018,Capital region,Females,55-74,Actual working hours part-time,26.1
+2018,Outside Capital region,Total,16-24,Actual working hours part-time,20.1
+2018,Outside Capital region,Total,25-54,Actual working hours part-time,27.1
+2018,Outside Capital region,Total,55-74,Actual working hours part-time,24.2
+2018,Outside Capital region,Males,16-24,Actual working hours part-time,20.5
+2018,Outside Capital region,Males,25-54,Actual working hours part-time,22.5
+2018,Outside Capital region,Males,55-74,Actual working hours part-time,23.8
+2018,Outside Capital region,Females,16-24,Actual working hours part-time,19.8
+2018,Outside Capital region,Females,25-54,Actual working hours part-time,28.1
+2018,Outside Capital region,Females,55-74,Actual working hours part-time,24.5
+2019,Total,Total,16-24,Actual working hours part-time,19.4
+2019,Total,Total,25-54,Actual working hours part-time,26.3
+2019,Total,Total,55-74,Actual working hours part-time,25.9
+2019,Total,Males,16-24,Actual working hours part-time,19.2
+2019,Total,Males,25-54,Actual working hours part-time,25.3
+2019,Total,Males,55-74,Actual working hours part-time,24.8
+2019,Total,Females,16-24,Actual working hours part-time,19.5
+2019,Total,Females,25-54,Actual working hours part-time,26.7
+2019,Total,Females,55-74,Actual working hours part-time,26.4
+2019,Capital region,Total,16-24,Actual working hours part-time,18.5
+2019,Capital region,Total,25-54,Actual working hours part-time,25.2
+2019,Capital region,Total,55-74,Actual working hours part-time,25.7
+2019,Capital region,Males,16-24,Actual working hours part-time,18.6
+2019,Capital region,Males,25-54,Actual working hours part-time,24.0
+2019,Capital region,Males,55-74,Actual working hours part-time,24.9
+2019,Capital region,Females,16-24,Actual working hours part-time,18.5
+2019,Capital region,Females,25-54,Actual working hours part-time,25.7
+2019,Capital region,Females,55-74,Actual working hours part-time,26.1
+2019,Outside Capital region,Total,16-24,Actual working hours part-time,21.8
+2019,Outside Capital region,Total,25-54,Actual working hours part-time,28.1
+2019,Outside Capital region,Total,55-74,Actual working hours part-time,26.2
+2019,Outside Capital region,Males,16-24,Actual working hours part-time,21.0
+2019,Outside Capital region,Males,25-54,Actual working hours part-time,28.0
+2019,Outside Capital region,Males,55-74,Actual working hours part-time,24.8
+2019,Outside Capital region,Females,16-24,Actual working hours part-time,22.4
+2019,Outside Capital region,Females,25-54,Actual working hours part-time,28.1
+2019,Outside Capital region,Females,55-74,Actual working hours part-time,26.7
+2003,Total,Total,16-24,Usual working hours,34.6
+2003,Total,Total,25-54,Usual working hours,43.7
+2003,Total,Total,55-74,Usual working hours,40.6
+2003,Total,Males,16-24,Usual working hours,37.8
+2003,Total,Males,25-54,Usual working hours,49.8
+2003,Total,Males,55-74,Usual working hours,46.2
+2003,Total,Females,16-24,Usual working hours,31.2
+2003,Total,Females,25-54,Usual working hours,37.1
+2003,Total,Females,55-74,Usual working hours,33.8
+2003,Capital region,Total,16-24,Usual working hours,33.2
+2003,Capital region,Total,25-54,Usual working hours,43.2
+2003,Capital region,Total,55-74,Usual working hours,39.4
+2003,Capital region,Males,16-24,Usual working hours,35.8
+2003,Capital region,Males,25-54,Usual working hours,48.1
+2003,Capital region,Males,55-74,Usual working hours,44.7
+2003,Capital region,Females,16-24,Usual working hours,30.9
+2003,Capital region,Females,25-54,Usual working hours,37.8
+2003,Capital region,Females,55-74,Usual working hours,33.8
+2003,Outside Capital region,Total,16-24,Usual working hours,37.2
+2003,Outside Capital region,Total,25-54,Usual working hours,44.6
+2003,Outside Capital region,Total,55-74,Usual working hours,42.3
+2003,Outside Capital region,Males,16-24,Usual working hours,41.1
+2003,Outside Capital region,Males,25-54,Usual working hours,52.7
+2003,Outside Capital region,Males,55-74,Usual working hours,48.1
+2003,Outside Capital region,Females,16-24,Usual working hours,32.1
+2003,Outside Capital region,Females,25-54,Usual working hours,35.7
+2003,Outside Capital region,Females,55-74,Usual working hours,33.9
+2004,Total,Total,16-24,Usual working hours,34.5
+2004,Total,Total,25-54,Usual working hours,43.4
+2004,Total,Total,55-74,Usual working hours,40.1
+2004,Total,Males,16-24,Usual working hours,39.1
+2004,Total,Males,25-54,Usual working hours,49.2
+2004,Total,Males,55-74,Usual working hours,45.4
+2004,Total,Females,16-24,Usual working hours,29.9
+2004,Total,Females,25-54,Usual working hours,36.9
+2004,Total,Females,55-74,Usual working hours,33.3
+2004,Capital region,Total,16-24,Usual working hours,33.3
+2004,Capital region,Total,25-54,Usual working hours,42.9
+2004,Capital region,Total,55-74,Usual working hours,39.0
+2004,Capital region,Males,16-24,Usual working hours,38.1
+2004,Capital region,Males,25-54,Usual working hours,47.8
+2004,Capital region,Males,55-74,Usual working hours,44.3
+2004,Capital region,Females,16-24,Usual working hours,29.1
+2004,Capital region,Females,25-54,Usual working hours,37.6
+2004,Capital region,Females,55-74,Usual working hours,33.3
+2004,Outside Capital region,Total,16-24,Usual working hours,37.2
+2004,Outside Capital region,Total,25-54,Usual working hours,44.3
+2004,Outside Capital region,Total,55-74,Usual working hours,41.7
+2004,Outside Capital region,Males,16-24,Usual working hours,41.2
+2004,Outside Capital region,Males,25-54,Usual working hours,51.6
+2004,Outside Capital region,Males,55-74,Usual working hours,46.8
+2004,Outside Capital region,Females,16-24,Usual working hours,32.3
+2004,Outside Capital region,Females,25-54,Usual working hours,35.8
+2004,Outside Capital region,Females,55-74,Usual working hours,33.4
+2005,Total,Total,16-24,Usual working hours,34.0
+2005,Total,Total,25-54,Usual working hours,43.7
+2005,Total,Total,55-74,Usual working hours,40.8
+2005,Total,Males,16-24,Usual working hours,39.7
+2005,Total,Males,25-54,Usual working hours,49.7
+2005,Total,Males,55-74,Usual working hours,46.3
+2005,Total,Females,16-24,Usual working hours,28.4
+2005,Total,Females,25-54,Usual working hours,36.9
+2005,Total,Females,55-74,Usual working hours,33.9
+2005,Capital region,Total,16-24,Usual working hours,32.9
+2005,Capital region,Total,25-54,Usual working hours,42.9
+2005,Capital region,Total,55-74,Usual working hours,40.7
+2005,Capital region,Males,16-24,Usual working hours,38.3
+2005,Capital region,Males,25-54,Usual working hours,48.1
+2005,Capital region,Males,55-74,Usual working hours,45.9
+2005,Capital region,Females,16-24,Usual working hours,28.1
+2005,Capital region,Females,25-54,Usual working hours,37.3
+2005,Capital region,Females,55-74,Usual working hours,34.7
+2005,Outside Capital region,Total,16-24,Usual working hours,36.8
+2005,Outside Capital region,Total,25-54,Usual working hours,45.0
+2005,Outside Capital region,Total,55-74,Usual working hours,40.9
+2005,Outside Capital region,Males,16-24,Usual working hours,42.8
+2005,Outside Capital region,Males,25-54,Usual working hours,52.3
+2005,Outside Capital region,Males,55-74,Usual working hours,46.8
+2005,Outside Capital region,Females,16-24,Usual working hours,29.4
+2005,Outside Capital region,Females,25-54,Usual working hours,36.1
+2005,Outside Capital region,Females,55-74,Usual working hours,32.5
+2006,Total,Total,16-24,Usual working hours,34.5
+2006,Total,Total,25-54,Usual working hours,43.8
+2006,Total,Total,55-74,Usual working hours,41.8
+2006,Total,Males,16-24,Usual working hours,39.6
+2006,Total,Males,25-54,Usual working hours,49.4
+2006,Total,Males,55-74,Usual working hours,47.2
+2006,Total,Females,16-24,Usual working hours,29.3
+2006,Total,Females,25-54,Usual working hours,37.1
+2006,Total,Females,55-74,Usual working hours,34.8
+2006,Capital region,Total,16-24,Usual working hours,33.4
+2006,Capital region,Total,25-54,Usual working hours,43.1
+2006,Capital region,Total,55-74,Usual working hours,41.4
+2006,Capital region,Males,16-24,Usual working hours,38.1
+2006,Capital region,Males,25-54,Usual working hours,47.8
+2006,Capital region,Males,55-74,Usual working hours,46.3
+2006,Capital region,Females,16-24,Usual working hours,29.0
+2006,Capital region,Females,25-54,Usual working hours,37.5
+2006,Capital region,Females,55-74,Usual working hours,35.9
+2006,Outside Capital region,Total,16-24,Usual working hours,37.0
+2006,Outside Capital region,Total,25-54,Usual working hours,45.1
+2006,Outside Capital region,Total,55-74,Usual working hours,42.4
+2006,Outside Capital region,Males,16-24,Usual working hours,42.9
+2006,Outside Capital region,Males,25-54,Usual working hours,52.3
+2006,Outside Capital region,Males,55-74,Usual working hours,48.6
+2006,Outside Capital region,Females,16-24,Usual working hours,30.0
+2006,Outside Capital region,Females,25-54,Usual working hours,36.5
+2006,Outside Capital region,Females,55-74,Usual working hours,32.8
+2007,Total,Total,16-24,Usual working hours,34.5
+2007,Total,Total,25-54,Usual working hours,43.5
+2007,Total,Total,55-74,Usual working hours,41.3
+2007,Total,Males,16-24,Usual working hours,39.5
+2007,Total,Males,25-54,Usual working hours,48.9
+2007,Total,Males,55-74,Usual working hours,46.4
+2007,Total,Females,16-24,Usual working hours,29.2
+2007,Total,Females,25-54,Usual working hours,36.9
+2007,Total,Females,55-74,Usual working hours,35.0
+2007,Capital region,Total,16-24,Usual working hours,33.5
+2007,Capital region,Total,25-54,Usual working hours,43.0
+2007,Capital region,Total,55-74,Usual working hours,40.5
+2007,Capital region,Males,16-24,Usual working hours,37.7
+2007,Capital region,Males,25-54,Usual working hours,47.3
+2007,Capital region,Males,55-74,Usual working hours,45.2
+2007,Capital region,Females,16-24,Usual working hours,29.2
+2007,Capital region,Females,25-54,Usual working hours,37.6
+2007,Capital region,Females,55-74,Usual working hours,35.3
+2007,Outside Capital region,Total,16-24,Usual working hours,36.8
+2007,Outside Capital region,Total,25-54,Usual working hours,44.6
+2007,Outside Capital region,Total,55-74,Usual working hours,42.5
+2007,Outside Capital region,Males,16-24,Usual working hours,43.5
+2007,Outside Capital region,Males,25-54,Usual working hours,52.2
+2007,Outside Capital region,Males,55-74,Usual working hours,48.3
+2007,Outside Capital region,Females,16-24,Usual working hours,29.2
+2007,Outside Capital region,Females,25-54,Usual working hours,35.7
+2007,Outside Capital region,Females,55-74,Usual working hours,34.6
+2008,Total,Total,16-24,Usual working hours,33.8
+2008,Total,Total,25-54,Usual working hours,43.3
+2008,Total,Total,55-74,Usual working hours,40.5
+2008,Total,Males,16-24,Usual working hours,37.6
+2008,Total,Males,25-54,Usual working hours,48.1
+2008,Total,Males,55-74,Usual working hours,45.5
+2008,Total,Females,16-24,Usual working hours,29.8
+2008,Total,Females,25-54,Usual working hours,37.4
+2008,Total,Females,55-74,Usual working hours,34.4
+2008,Capital region,Total,16-24,Usual working hours,32.8
+2008,Capital region,Total,25-54,Usual working hours,42.7
+2008,Capital region,Total,55-74,Usual working hours,40.1
+2008,Capital region,Males,16-24,Usual working hours,36.1
+2008,Capital region,Males,25-54,Usual working hours,46.7
+2008,Capital region,Males,55-74,Usual working hours,44.9
+2008,Capital region,Females,16-24,Usual working hours,29.4
+2008,Capital region,Females,25-54,Usual working hours,37.9
+2008,Capital region,Females,55-74,Usual working hours,34.2
+2008,Outside Capital region,Total,16-24,Usual working hours,35.7
+2008,Outside Capital region,Total,25-54,Usual working hours,44.3
+2008,Outside Capital region,Total,55-74,Usual working hours,41.2
+2008,Outside Capital region,Males,16-24,Usual working hours,41.0
+2008,Outside Capital region,Males,25-54,Usual working hours,50.8
+2008,Outside Capital region,Males,55-74,Usual working hours,46.6
+2008,Outside Capital region,Females,16-24,Usual working hours,30.6
+2008,Outside Capital region,Females,25-54,Usual working hours,36.6
+2008,Outside Capital region,Females,55-74,Usual working hours,34.8
+2009,Total,Total,16-24,Usual working hours,30.2
+2009,Total,Total,25-54,Usual working hours,41.6
+2009,Total,Total,55-74,Usual working hours,39.2
+2009,Total,Males,16-24,Usual working hours,33.9
+2009,Total,Males,25-54,Usual working hours,46.0
+2009,Total,Males,55-74,Usual working hours,43.6
+2009,Total,Females,16-24,Usual working hours,26.9
+2009,Total,Females,25-54,Usual working hours,36.7
+2009,Total,Females,55-74,Usual working hours,33.7
+2009,Capital region,Total,16-24,Usual working hours,28.6
+2009,Capital region,Total,25-54,Usual working hours,40.8
+2009,Capital region,Total,55-74,Usual working hours,38.7
+2009,Capital region,Males,16-24,Usual working hours,31.4
+2009,Capital region,Males,25-54,Usual working hours,44.2
+2009,Capital region,Males,55-74,Usual working hours,42.8
+2009,Capital region,Females,16-24,Usual working hours,26.0
+2009,Capital region,Females,25-54,Usual working hours,37.2
+2009,Capital region,Females,55-74,Usual working hours,33.8
+2009,Outside Capital region,Total,16-24,Usual working hours,33.7
+2009,Outside Capital region,Total,25-54,Usual working hours,43.1
+2009,Outside Capital region,Total,55-74,Usual working hours,40.0
+2009,Outside Capital region,Males,16-24,Usual working hours,39.4
+2009,Outside Capital region,Males,25-54,Usual working hours,49.0
+2009,Outside Capital region,Males,55-74,Usual working hours,45.2
+2009,Outside Capital region,Females,16-24,Usual working hours,28.7
+2009,Outside Capital region,Females,25-54,Usual working hours,35.9
+2009,Outside Capital region,Females,55-74,Usual working hours,33.7
+2010,Total,Total,16-24,Usual working hours,29.7
+2010,Total,Total,25-54,Usual working hours,41.2
+2010,Total,Total,55-74,Usual working hours,39.4
+2010,Total,Males,16-24,Usual working hours,33.6
+2010,Total,Males,25-54,Usual working hours,45.5
+2010,Total,Males,55-74,Usual working hours,43.7
+2010,Total,Females,16-24,Usual working hours,26.0
+2010,Total,Females,25-54,Usual working hours,36.5
+2010,Total,Females,55-74,Usual working hours,34.3
+2010,Capital region,Total,16-24,Usual working hours,27.7
+2010,Capital region,Total,25-54,Usual working hours,40.2
+2010,Capital region,Total,55-74,Usual working hours,38.9
+2010,Capital region,Males,16-24,Usual working hours,30.8
+2010,Capital region,Males,25-54,Usual working hours,43.6
+2010,Capital region,Males,55-74,Usual working hours,42.6
+2010,Capital region,Females,16-24,Usual working hours,25.1
+2010,Capital region,Females,25-54,Usual working hours,36.8
+2010,Capital region,Females,55-74,Usual working hours,34.9
+2010,Outside Capital region,Total,16-24,Usual working hours,33.5
+2010,Outside Capital region,Total,25-54,Usual working hours,42.9
+2010,Outside Capital region,Total,55-74,Usual working hours,40.2
+2010,Outside Capital region,Males,16-24,Usual working hours,38.1
+2010,Outside Capital region,Males,25-54,Usual working hours,48.7
+2010,Outside Capital region,Males,55-74,Usual working hours,45.4
+2010,Outside Capital region,Females,16-24,Usual working hours,28.1
+2010,Outside Capital region,Females,25-54,Usual working hours,35.9
+2010,Outside Capital region,Females,55-74,Usual working hours,33.3
+2011,Total,Total,16-24,Usual working hours,29.6
+2011,Total,Total,25-54,Usual working hours,41.8
+2011,Total,Total,55-74,Usual working hours,40.6
+2011,Total,Males,16-24,Usual working hours,33.1
+2011,Total,Males,25-54,Usual working hours,46.3
+2011,Total,Males,55-74,Usual working hours,45.0
+2011,Total,Females,16-24,Usual working hours,26.4
+2011,Total,Females,25-54,Usual working hours,37.0
+2011,Total,Females,55-74,Usual working hours,35.5
+2011,Capital region,Total,16-24,Usual working hours,28.1
+2011,Capital region,Total,25-54,Usual working hours,40.8
+2011,Capital region,Total,55-74,Usual working hours,39.5
+2011,Capital region,Males,16-24,Usual working hours,31.3
+2011,Capital region,Males,25-54,Usual working hours,44.2
+2011,Capital region,Males,55-74,Usual working hours,43.1
+2011,Capital region,Females,16-24,Usual working hours,25.2
+2011,Capital region,Females,25-54,Usual working hours,37.3
+2011,Capital region,Females,55-74,Usual working hours,35.6
+2011,Outside Capital region,Total,16-24,Usual working hours,32.9
+2011,Outside Capital region,Total,25-54,Usual working hours,43.7
+2011,Outside Capital region,Total,55-74,Usual working hours,42.4
+2011,Outside Capital region,Males,16-24,Usual working hours,37.0
+2011,Outside Capital region,Males,25-54,Usual working hours,49.9
+2011,Outside Capital region,Males,55-74,Usual working hours,47.7
+2011,Outside Capital region,Females,16-24,Usual working hours,29.0
+2011,Outside Capital region,Females,25-54,Usual working hours,36.4
+2011,Outside Capital region,Females,55-74,Usual working hours,35.3
+2012,Total,Total,16-24,Usual working hours,29.2
+2012,Total,Total,25-54,Usual working hours,41.8
+2012,Total,Total,55-74,Usual working hours,40.2
+2012,Total,Males,16-24,Usual working hours,33.1
+2012,Total,Males,25-54,Usual working hours,45.8
+2012,Total,Males,55-74,Usual working hours,44.2
+2012,Total,Females,16-24,Usual working hours,25.3
+2012,Total,Females,25-54,Usual working hours,37.3
+2012,Total,Females,55-74,Usual working hours,35.5
+2012,Capital region,Total,16-24,Usual working hours,27.5
+2012,Capital region,Total,25-54,Usual working hours,40.9
+2012,Capital region,Total,55-74,Usual working hours,38.9
+2012,Capital region,Males,16-24,Usual working hours,30.8
+2012,Capital region,Males,25-54,Usual working hours,44.0
+2012,Capital region,Males,55-74,Usual working hours,42.4
+2012,Capital region,Females,16-24,Usual working hours,24.4
+2012,Capital region,Females,25-54,Usual working hours,37.5
+2012,Capital region,Females,55-74,Usual working hours,35.2
+2012,Outside Capital region,Total,16-24,Usual working hours,33.4
+2012,Outside Capital region,Total,25-54,Usual working hours,43.3
+2012,Outside Capital region,Total,55-74,Usual working hours,42.3
+2012,Outside Capital region,Males,16-24,Usual working hours,39.0
+2012,Outside Capital region,Males,25-54,Usual working hours,49.0
+2012,Outside Capital region,Males,55-74,Usual working hours,46.9
+2012,Outside Capital region,Females,16-24,Usual working hours,27.6
+2012,Outside Capital region,Females,25-54,Usual working hours,37.0
+2012,Outside Capital region,Females,55-74,Usual working hours,36.2
+2013,Total,Total,16-24,Usual working hours,29.6
+2013,Total,Total,25-54,Usual working hours,41.9
+2013,Total,Total,55-74,Usual working hours,40.7
+2013,Total,Males,16-24,Usual working hours,32.8
+2013,Total,Males,25-54,Usual working hours,46.1
+2013,Total,Males,55-74,Usual working hours,45.1
+2013,Total,Females,16-24,Usual working hours,26.6
+2013,Total,Females,25-54,Usual working hours,37.2
+2013,Total,Females,55-74,Usual working hours,35.3
+2013,Capital region,Total,16-24,Usual working hours,28.2
+2013,Capital region,Total,25-54,Usual working hours,41.0
+2013,Capital region,Total,55-74,Usual working hours,39.8
+2013,Capital region,Males,16-24,Usual working hours,31.1
+2013,Capital region,Males,25-54,Usual working hours,44.5
+2013,Capital region,Males,55-74,Usual working hours,43.3
+2013,Capital region,Females,16-24,Usual working hours,25.6
+2013,Capital region,Females,25-54,Usual working hours,37.3
+2013,Capital region,Females,55-74,Usual working hours,35.8
+2013,Outside Capital region,Total,16-24,Usual working hours,32.9
+2013,Outside Capital region,Total,25-54,Usual working hours,43.3
+2013,Outside Capital region,Total,55-74,Usual working hours,42.2
+2013,Outside Capital region,Males,16-24,Usual working hours,36.6
+2013,Outside Capital region,Males,25-54,Usual working hours,49.0
+2013,Outside Capital region,Males,55-74,Usual working hours,47.9
+2013,Outside Capital region,Females,16-24,Usual working hours,29.0
+2013,Outside Capital region,Females,25-54,Usual working hours,36.9
+2013,Outside Capital region,Females,55-74,Usual working hours,34.4
+2014,Total,Total,16-24,Usual working hours,29.8
+2014,Total,Total,25-54,Usual working hours,42.1
+2014,Total,Total,55-74,Usual working hours,40.2
+2014,Total,Males,16-24,Usual working hours,33.2
+2014,Total,Males,25-54,Usual working hours,46.2
+2014,Total,Males,55-74,Usual working hours,44.5
+2014,Total,Females,16-24,Usual working hours,26.6
+2014,Total,Females,25-54,Usual working hours,37.7
+2014,Total,Females,55-74,Usual working hours,35.1
+2014,Capital region,Total,16-24,Usual working hours,27.4
+2014,Capital region,Total,25-54,Usual working hours,41.2
+2014,Capital region,Total,55-74,Usual working hours,40.1
+2014,Capital region,Males,16-24,Usual working hours,30.2
+2014,Capital region,Males,25-54,Usual working hours,44.3
+2014,Capital region,Males,55-74,Usual working hours,44.6
+2014,Capital region,Females,16-24,Usual working hours,24.9
+2014,Capital region,Females,25-54,Usual working hours,37.9
+2014,Capital region,Females,55-74,Usual working hours,35.2
+2014,Outside Capital region,Total,16-24,Usual working hours,34.9
+2014,Outside Capital region,Total,25-54,Usual working hours,43.9
+2014,Outside Capital region,Total,55-74,Usual working hours,40.3
+2014,Outside Capital region,Males,16-24,Usual working hours,38.9
+2014,Outside Capital region,Males,25-54,Usual working hours,49.6
+2014,Outside Capital region,Males,55-74,Usual working hours,44.3
+2014,Outside Capital region,Females,16-24,Usual working hours,30.4
+2014,Outside Capital region,Females,25-54,Usual working hours,37.3
+2014,Outside Capital region,Females,55-74,Usual working hours,34.8
+2015,Total,Total,16-24,Usual working hours,29.3
+2015,Total,Total,25-54,Usual working hours,41.9
+2015,Total,Total,55-74,Usual working hours,40.9
+2015,Total,Males,16-24,Usual working hours,33.1
+2015,Total,Males,25-54,Usual working hours,46.0
+2015,Total,Males,55-74,Usual working hours,45.2
+2015,Total,Females,16-24,Usual working hours,25.7
+2015,Total,Females,25-54,Usual working hours,37.5
+2015,Total,Females,55-74,Usual working hours,35.6
+2015,Capital region,Total,16-24,Usual working hours,26.8
+2015,Capital region,Total,25-54,Usual working hours,41.0
+2015,Capital region,Total,55-74,Usual working hours,40.1
+2015,Capital region,Males,16-24,Usual working hours,29.9
+2015,Capital region,Males,25-54,Usual working hours,44.2
+2015,Capital region,Males,55-74,Usual working hours,44.1
+2015,Capital region,Females,16-24,Usual working hours,24.2
+2015,Capital region,Females,25-54,Usual working hours,37.6
+2015,Capital region,Females,55-74,Usual working hours,35.8
+2015,Outside Capital region,Total,16-24,Usual working hours,35.1
+2015,Outside Capital region,Total,25-54,Usual working hours,43.8
+2015,Outside Capital region,Total,55-74,Usual working hours,42.1
+2015,Outside Capital region,Males,16-24,Usual working hours,39.3
+2015,Outside Capital region,Males,25-54,Usual working hours,49.3
+2015,Outside Capital region,Males,55-74,Usual working hours,46.8
+2015,Outside Capital region,Females,16-24,Usual working hours,30.0
+2015,Outside Capital region,Females,25-54,Usual working hours,37.2
+2015,Outside Capital region,Females,55-74,Usual working hours,35.1
+2016,Total,Total,16-24,Usual working hours,29.7
+2016,Total,Total,25-54,Usual working hours,41.6
+2016,Total,Total,55-74,Usual working hours,40.3
+2016,Total,Males,16-24,Usual working hours,32.8
+2016,Total,Males,25-54,Usual working hours,45.5
+2016,Total,Males,55-74,Usual working hours,44.8
+2016,Total,Females,16-24,Usual working hours,26.3
+2016,Total,Females,25-54,Usual working hours,37.4
+2016,Total,Females,55-74,Usual working hours,34.6
+2016,Capital region,Total,16-24,Usual working hours,27.9
+2016,Capital region,Total,25-54,Usual working hours,41.0
+2016,Capital region,Total,55-74,Usual working hours,39.7
+2016,Capital region,Males,16-24,Usual working hours,30.8
+2016,Capital region,Males,25-54,Usual working hours,43.7
+2016,Capital region,Males,55-74,Usual working hours,43.6
+2016,Capital region,Females,16-24,Usual working hours,24.8
+2016,Capital region,Females,25-54,Usual working hours,37.9
+2016,Capital region,Females,55-74,Usual working hours,34.9
+2016,Outside Capital region,Total,16-24,Usual working hours,34.0
+2016,Outside Capital region,Total,25-54,Usual working hours,42.8
+2016,Outside Capital region,Total,55-74,Usual working hours,41.2
+2016,Outside Capital region,Males,16-24,Usual working hours,37.3
+2016,Outside Capital region,Males,25-54,Usual working hours,48.7
+2016,Outside Capital region,Males,55-74,Usual working hours,46.4
+2016,Outside Capital region,Females,16-24,Usual working hours,30.3
+2016,Outside Capital region,Females,25-54,Usual working hours,36.4
+2016,Outside Capital region,Females,55-74,Usual working hours,34.0
+2017,Total,Total,16-24,Usual working hours,29.2
+2017,Total,Total,25-54,Usual working hours,41.4
+2017,Total,Total,55-74,Usual working hours,40.0
+2017,Total,Males,16-24,Usual working hours,32.6
+2017,Total,Males,25-54,Usual working hours,45.1
+2017,Total,Males,55-74,Usual working hours,43.7
+2017,Total,Females,16-24,Usual working hours,25.4
+2017,Total,Females,25-54,Usual working hours,37.3
+2017,Total,Females,55-74,Usual working hours,35.1
+2017,Capital region,Total,16-24,Usual working hours,27.7
+2017,Capital region,Total,25-54,Usual working hours,40.6
+2017,Capital region,Total,55-74,Usual working hours,39.6
+2017,Capital region,Males,16-24,Usual working hours,30.7
+2017,Capital region,Males,25-54,Usual working hours,43.4
+2017,Capital region,Males,55-74,Usual working hours,42.8
+2017,Capital region,Females,16-24,Usual working hours,24.5
+2017,Capital region,Females,25-54,Usual working hours,37.4
+2017,Capital region,Females,55-74,Usual working hours,35.6
+2017,Outside Capital region,Total,16-24,Usual working hours,32.7
+2017,Outside Capital region,Total,25-54,Usual working hours,42.8
+2017,Outside Capital region,Total,55-74,Usual working hours,40.6
+2017,Outside Capital region,Males,16-24,Usual working hours,37.0
+2017,Outside Capital region,Males,25-54,Usual working hours,48.3
+2017,Outside Capital region,Males,55-74,Usual working hours,45.1
+2017,Outside Capital region,Females,16-24,Usual working hours,27.6
+2017,Outside Capital region,Females,25-54,Usual working hours,37.1
+2017,Outside Capital region,Females,55-74,Usual working hours,34.3
+2018,Total,Total,16-24,Usual working hours,30.0
+2018,Total,Total,25-54,Usual working hours,41.1
+2018,Total,Total,55-74,Usual working hours,40.2
+2018,Total,Males,16-24,Usual working hours,33.4
+2018,Total,Males,25-54,Usual working hours,44.6
+2018,Total,Males,55-74,Usual working hours,44.3
+2018,Total,Females,16-24,Usual working hours,26.4
+2018,Total,Females,25-54,Usual working hours,37.1
+2018,Total,Females,55-74,Usual working hours,35.0
+2018,Capital region,Total,16-24,Usual working hours,28.3
+2018,Capital region,Total,25-54,Usual working hours,40.5
+2018,Capital region,Total,55-74,Usual working hours,40.0
+2018,Capital region,Males,16-24,Usual working hours,31.5
+2018,Capital region,Males,25-54,Usual working hours,43.1
+2018,Capital region,Males,55-74,Usual working hours,43.7
+2018,Capital region,Females,16-24,Usual working hours,25.0
+2018,Capital region,Females,25-54,Usual working hours,37.5
+2018,Capital region,Females,55-74,Usual working hours,35.8
+2018,Outside Capital region,Total,16-24,Usual working hours,33.5
+2018,Outside Capital region,Total,25-54,Usual working hours,42.3
+2018,Outside Capital region,Total,55-74,Usual working hours,40.6
+2018,Outside Capital region,Males,16-24,Usual working hours,36.9
+2018,Outside Capital region,Males,25-54,Usual working hours,47.4
+2018,Outside Capital region,Males,55-74,Usual working hours,45.1
+2018,Outside Capital region,Females,16-24,Usual working hours,29.4
+2018,Outside Capital region,Females,25-54,Usual working hours,36.2
+2018,Outside Capital region,Females,55-74,Usual working hours,33.5
+2019,Total,Total,16-24,Usual working hours,29.1
+2019,Total,Total,25-54,Usual working hours,41.2
+2019,Total,Total,55-74,Usual working hours,40.1
+2019,Total,Males,16-24,Usual working hours,32.3
+2019,Total,Males,25-54,Usual working hours,44.5
+2019,Total,Males,55-74,Usual working hours,44.1
+2019,Total,Females,16-24,Usual working hours,26.0
+2019,Total,Females,25-54,Usual working hours,37.3
+2019,Total,Females,55-74,Usual working hours,34.9
+2019,Capital region,Total,16-24,Usual working hours,26.9
+2019,Capital region,Total,25-54,Usual working hours,40.4
+2019,Capital region,Total,55-74,Usual working hours,39.5
+2019,Capital region,Males,16-24,Usual working hours,29.5
+2019,Capital region,Males,25-54,Usual working hours,42.8
+2019,Capital region,Males,55-74,Usual working hours,42.6
+2019,Capital region,Females,16-24,Usual working hours,24.5
+2019,Capital region,Females,25-54,Usual working hours,37.6
+2019,Capital region,Females,55-74,Usual working hours,35.7
+2019,Outside Capital region,Total,16-24,Usual working hours,33.2
+2019,Outside Capital region,Total,25-54,Usual working hours,42.7
+2019,Outside Capital region,Total,55-74,Usual working hours,41.2
+2019,Outside Capital region,Males,16-24,Usual working hours,37.1
+2019,Outside Capital region,Males,25-54,Usual working hours,47.4
+2019,Outside Capital region,Males,55-74,Usual working hours,46.4
+2019,Outside Capital region,Females,16-24,Usual working hours,29.1
+2019,Outside Capital region,Females,25-54,Usual working hours,36.9
+2019,Outside Capital region,Females,55-74,Usual working hours,33.5
